@@ -15,8 +15,9 @@ rewrites a tag, or abandons a package.
 1. New releases of `flarum-extension` packages are discovered through the
    Packagist metadata API.
 2. If the tagged version declares an OSI-approved license, its source is
-   forked and tagged as `archive/vX.Y.Z`. Otherwise only metadata is
-   recorded and **no code is copied**.
+   copied as tags into a standalone repository (see
+   [POLICY.md section 6](POLICY.md#6-read-only-not-a-distribution-channel)).
+   Otherwise only metadata is recorded and **no code is copied**.
 3. Every version is recorded in the manifest in this repository.
 4. Archived tags are protected: they are never modified or deleted by the
    archive (the only exception is a takedown, see [POLICY.md](POLICY.md)).
@@ -42,7 +43,7 @@ responsible for it.
 | `POLICY.md` | Scope, license gate, immutability, takedown and exclusion rules |
 | `DISCLAIMER.md` | Disclaimers and limitation of liability |
 | `EXCLUSIONS.md` | Packages excluded from archiving |
-| `packages/{vendor}__{package}.json` | Append-only manifest, one file per package |
+| `packages/{vendor}-{package}.json` | Append-only manifest, one file per package |
 
 ## Manifest format
 
@@ -54,8 +55,9 @@ responsible for it.
     {
       "version": "1.2.0",
       "tag": "archive/v1.2.0",
-      "commit": "0123456789abcdef0123456789abcdef01234567",
-      "released": "2026-01-15",
+      "upstream_commit": "0123456789abcdef0123456789abcdef01234567",
+      "archive_commit": "abcdef0123456789abcdef0123456789abcdef01",
+      "released": "2026-01-15T12:00:00+00:00",
       "archived": "2026-10-03",
       "license": "MIT",
       "source": "archived",

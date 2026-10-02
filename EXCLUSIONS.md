@@ -16,9 +16,13 @@ already archived are only removed under the grounds in POLICY.md section 9.
 
 ## List
 
+Vendor-level patterns (`vendor/*`) are supported next to exact package names.
+
 | Package | Added | Reason category |
 |---|---|---|
-| _none yet_ | | |
+| `flarum/*` | 2026-10-02 | maintained by an organized group |
+| `fof/*` | 2026-10-02 | maintained by an organized group |
+| `0.1.x-dev/*` | 2026-10-02 | invalid vendor name (mirror) |
 
 Reason categories: `owner request`, `copyright`, `license`, `harmful content`,
-`personal data`.
+`personal data`, `maintained by an organized group`, `invalid vendor name (mirror)`.

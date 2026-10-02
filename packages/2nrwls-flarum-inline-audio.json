@@ -1,0 +1,94 @@
+{
+    "package": "2nrwls/flarum-inline-audio",
+    "upstream": "https://github.com/2nrwls/flarum-inline-audio",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "2657eb121995741ee2d2beed87f1375b1f547927",
+            "archive_commit": "6a6a91e77ee718a3fe2b7985a1f283fa53278381",
+            "released": "2021-05-15T13:49:21+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "ce8947908daea1be3b14849970ee3c9896a4c0fc",
+            "archive_commit": "2db425e7e339116ea34e45495a6dd0517ff74a2b",
+            "released": "2021-05-15T15:45:49+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "99571d59ba381a4cbad710be7b195b1fa0d74301",
+            "archive_commit": "5e23382709cff1d40dbf055d0dd0b0f0da5d16b8",
+            "released": "2021-05-16T01:09:43+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "c87cc190a414b26059ab6599d4788975295d2cf1",
+            "archive_commit": "3c8c1d3dc50241f17165dec158ddff4d81da76a8",
+            "released": "2021-05-16T12:34:01+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "a07766060efda437f4bf1d5085105a57b6409abc",
+            "archive_commit": "78fd284429b372a272d04f8663925f37c54c1436",
+            "released": "2021-06-05T07:01:13+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1",
+            "tag": "archive/v2.1",
+            "upstream_commit": "baf353d9af3b14863b4f723330825f1df7cde910",
+            "archive_commit": "a5344c02a05fed3a0e544a25d93b3a9390da8c4d",
+            "released": "2021-10-17T04:16:47+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2",
+            "tag": "archive/v2.2",
+            "upstream_commit": "5d5159c229a8154fe5c9538ab908b6938e00f5cd",
+            "archive_commit": "ce96f283403e53fe1fd5bbda33d1c32a16e4e3db",
+            "released": "2021-10-17T04:18:23+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "73073335dea6a95e7b00c9f0769727b83ee2cbe3",
+            "archive_commit": "26741a863b31fc2686d7c95a310c96cf3e746ce4",
+            "released": "2021-09-18T20:03:30+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "package": "1kuxyz/1ku-flarum-pipetables",
+    "upstream": "https://github.com/1kuxyz/1ku-flarum-pipetables",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "77df22737f2db3b0970cfcdbf15e904d10ccefaf",
+            "archive_commit": "10c765631291472dca4dbce0a88e55922b12bbae",
+            "released": "2018-02-28T23:38:04+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "5e90839168b4d3ff30f4931bbd3b517b33ba0f22",
+            "archive_commit": "1283fb0d99d4366f851ea36a04dab96bce1e18f9",
+            "released": "2018-02-28T23:41:07+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "855e9ce6baeb09529a596b8ba453cb07b06c8c55",
+            "archive_commit": "eed942f271bee8e9b19520d3a0cccbada386960a",
+            "released": "2018-02-28T23:43:36+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "cf1f906689f8f7f0f775bebc7dba691c0d6321d3",
+            "archive_commit": "6000c2b03f2bbf54a681ac955c11d06441de465c",
+            "released": "2018-03-01T00:05:22+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "ecb0295fa96b3c7d129c7bcce51d46707c5f2b3b",
+            "archive_commit": "f8ea3a54ee19048093fc4afc3bf64a79422dbc09",
+            "released": "2018-03-01T02:02:51+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.7",
+            "tag": "archive/v1.0.7",
+            "upstream_commit": "348d9770ae5e507122892e964a70fe4e0b25d16b",
+            "archive_commit": "d2d4ca866dde20e4dd2ac4e70f05e07354b78fc0",
+            "released": "2018-03-02T00:19:47+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.8",
+            "tag": "archive/v1.0.8",
+            "upstream_commit": "53bf7eb22525e9869a2bd3791433491001e86991",
+            "archive_commit": "e7a635bf8750c35061174267d9babdc1247aa146",
+            "released": "2018-03-05T19:45:15+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "793d378bfbcff62382fe0511cdac17c3e6dd5380",
+            "archive_commit": "e69917d2b9c37c0d79b8765e1863f2841d56b333",
+            "released": "2019-03-16T16:37:45+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

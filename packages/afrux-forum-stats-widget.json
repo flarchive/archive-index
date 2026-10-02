@@ -1,0 +1,28 @@
+{
+    "package": "afrux/forum-stats-widget",
+    "upstream": "https://github.com/afrux/forum-stats-widget",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "dcb026bd3795eba99d92ce44384a5d4d1cf63e41",
+            "archive_commit": "4f228d4c305c7042697e5a6473961be36ab50084",
+            "released": "2021-08-02T16:24:45+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "8574a05d020a2885b80e17dd1ba8c16ef30d9924",
+            "archive_commit": "b13944b5d32eba32d0566e61970973261b0accbd",
+            "released": "2022-03-03T19:52:34+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

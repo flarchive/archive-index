@@ -1,0 +1,39 @@
+{
+    "package": "3130585774/flarum-feedback",
+    "upstream": "https://github.com/3130585774/flarum-feedback",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "22aa3012b274fcfe5627bd80b74815bf9626456a",
+            "archive_commit": "0b840b6e122d69fc6a2701d816a76885fae9035e",
+            "released": "2025-07-09T03:40:23+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8bfe8828dec3584a4488750064b75d716e9f65b4",
+            "archive_commit": "6186ff2250925d4655eff1d3acce2cc3eb5fd159",
+            "released": "2025-07-09T03:43:47+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "915a03ed5ad122d924e116e644a97e3923cc1c64",
+            "archive_commit": "78b7cad0f5b09ee9a54219a8b7428f17738b48ab",
+            "released": "2025-07-09T06:20:15+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

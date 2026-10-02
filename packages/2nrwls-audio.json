@@ -1,0 +1,204 @@
+{
+    "package": "2nrwls/audio",
+    "upstream": "https://github.com/2nrwls/audio",
+    "versions": [
+        {
+            "version": "1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "cb1d6f08331ff62f9969df6ae5ade622fcb7ea30",
+            "archive_commit": "0dc5a4ae004034d691922026769f555cd0c9bb14",
+            "released": "2019-11-18T03:37:32+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3",
+            "tag": "archive/v1.3",
+            "upstream_commit": "3ba4d93e7d79bf25b7c194727db23ab4b074eb59",
+            "archive_commit": "87be45e6fdcc88d8eae2bee8bcca9dfde750f3b4",
+            "released": "2019-11-19T16:41:58+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.4",
+            "tag": "archive/v1.4",
+            "upstream_commit": "2070d7004c3b59454709767a9b620017bb242b58",
+            "archive_commit": "f1e3d0d1360c4f32bdb0a2d3c949795da6f8a000",
+            "released": "2019-11-20T17:44:02+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.4.1",
+            "tag": "archive/v1.4.1",
+            "upstream_commit": "ac94d1983b77d66ce5cb6c3c97f23ecb48c5b69b",
+            "archive_commit": "17929afb6ac63cda4c3a914d4e0421ea58a0d548",
+            "released": "2019-11-20T17:51:24+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.5",
+            "tag": "archive/v1.5",
+            "upstream_commit": "478ee101b1389e9980f34db5fa47e00b6b029748",
+            "archive_commit": "c6d0737f07469293439d9f76fc0daabdc5e4e68f",
+            "released": "2019-11-21T00:48:27+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.6",
+            "tag": "archive/v1.6",
+            "upstream_commit": "54f8aca6ec9d88e722443875f96ccbbe42539640",
+            "archive_commit": "7cab162f46570eb0b0b7d7f27f3231fdbcee1fe5",
+            "released": "2019-11-21T16:52:34+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.7",
+            "tag": "archive/v1.7",
+            "upstream_commit": "9745a88a44d98b4bf274b6bb086268ffba43ac48",
+            "archive_commit": "48f457fadc19c57d1feea8f6a82b01d85e0076bb",
+            "released": "2019-11-22T11:19:56+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.8",
+            "tag": "archive/v1.8",
+            "upstream_commit": "1a9eb1ca9524475cc2dcc981e38e6664616ea4ab",
+            "archive_commit": "d1851250b3feb6897fdec0d430f33c728ab42ccc",
+            "released": "2020-01-12T02:24:55+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.9",
+            "tag": "archive/v1.9",
+            "upstream_commit": "44e5d916de5d403f603f71cc0d5ddea036f03edd",
+            "archive_commit": "8a9a5a36f0d9adce405c3b1ca468f107a1bdc0f4",
+            "released": "2020-10-23T23:51:55+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "57b91473e0b3c373bc0010676d5189e95ad1a73e",
+            "archive_commit": "fe58b8bd2556d5516fbdb352d4fa0cec795d4b70",
+            "released": "2020-12-21T14:33:26+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "646abe43dd426d509cfea0a7408aaef6756e1971",
+            "archive_commit": "2d9fefea74237259e02700866e0cafe39b6f60fc",
+            "released": "2020-12-21T15:47:20+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "8db0e4cb344e91151678d7aea9b06bc9ecbc6fbd",
+            "archive_commit": "a22799ff1a38c88dab8d6177bcf50e4c0d179d0b",
+            "released": "2020-12-21T16:02:24+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.3",
+            "tag": "archive/v2.0.3",
+            "upstream_commit": "2f75f6ad2248cbdbb4a99e374421f89771915557",
+            "archive_commit": "036fc22ecd5243d8f801b878769262b5c85cb30a",
+            "released": "2021-01-22T00:30:21+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.4",
+            "tag": "archive/v2.0.4",
+            "upstream_commit": "d5f6b313a30d2dfe8acc707e83e10538cd8265d3",
+            "archive_commit": "74d8508604911abf449e1ea60ba9dadacbff9f81",
+            "released": "2021-03-16T00:04:52+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1",
+            "tag": "archive/v2.1",
+            "upstream_commit": "25b5bfa09d25c07e44673d1fa0e8980e04b19914",
+            "archive_commit": "129b0c24b3a0846d42021e21d0c43490fead1bbb",
+            "released": "2021-05-16T01:19:49+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "54ac81b5f70d1fc124fcd03edf34005d7810235f",
+            "archive_commit": "a70a4e9b3a91a7c25471b380fcc22c3468e35f9e",
+            "released": "2021-09-18T19:16:19+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "9f85d1ca99eaf46b5063463c1f9d332dad2730fb",
+            "archive_commit": "b8d412cfbf28b25715847ebcbb827fa30f110b5e",
+            "released": "2021-09-18T19:21:21+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v3.0",
+            "tag": "archive/v3.0",
+            "upstream_commit": "9f85d1ca99eaf46b5063463c1f9d332dad2730fb",
+            "archive_commit": "9c7f1eea367104eb8c757e28e0b49cc84f0bb409",
+            "released": "2021-09-18T19:21:21+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

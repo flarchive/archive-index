@@ -1,0 +1,39 @@
+{
+    "package": "ahmic/flarum-lang-bosnian",
+    "upstream": "https://github.com/ahmic/flarum-lang-bosnian",
+    "versions": [
+        {
+            "version": "v0.8.1",
+            "tag": "archive/v0.8.1",
+            "upstream_commit": "1581bc8ee86f3598340b44288ff1d5dd4ca01815",
+            "archive_commit": "7a1fa2e7edd51ee72283b80b680178658e5ea7a4",
+            "released": "2019-04-07T19:04:08+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.8.2",
+            "tag": "archive/v0.8.2",
+            "upstream_commit": "40338acc78968d125f65967d2568ff8a5889b9da",
+            "archive_commit": "f9f7fa522c892b65f8b69a7044edbfa0f2b0b985",
+            "released": "2019-04-18T18:45:48+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.8.3",
+            "tag": "archive/v0.8.3",
+            "upstream_commit": "05387768e31e7f565bb35adddde4088301993a44",
+            "archive_commit": "deb04fb688bf1b7b1a4264dbaba725093eb9fee7",
+            "released": "2019-05-04T18:27:12+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

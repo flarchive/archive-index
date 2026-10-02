@@ -53,11 +53,14 @@ declared in the `composer.json` of the tagged commit:
 
 | License status of the tagged version | What the Archive does |
 |---|---|
-| A license identifier (SPDX) that is OSI-approved | Source is forked/copied and tagged; manifest entry recorded |
+| A license identifier (SPDX) that is OSI-approved | Source is copied as tags into a standalone repository; manifest entry recorded |
 | No license, `proprietary`, unreadable, or non-OSI | **Metadata only** (package, version, commit SHA, date, declared license). **No source code is copied.** |
 
 Additional rules:
 
+- Common spelling variants (e.g. "Apache License 2.0", "GPLv3") are normalized
+  to their SPDX identifiers, with unversioned or ambiguous values like "GPL"
+  treated as unreadable (metadata-only).
 - If a package later adds or changes its license, only versions whose own
   tagged `composer.json` declares a qualifying license are archived with
   source. Versions already archived are not re-evaluated retroactively, except
@@ -65,6 +68,7 @@ Additional rules:
 - The Archive does not verify that the declared license is accurate and does
   not provide legal advice. A wrongly declared license is handled through
   section 9.
+- For how qualifying versions are copied, see [section 6](#6-read-only-not-a-distribution-channel).
 
 ## 5. Immutability
 
@@ -80,9 +84,11 @@ Additional rules:
 
 ## 6. Read-only; not a distribution channel
 
-- The Archive does not modify code, does not add commits of its own to
-  archived repositories, does not publish releases, and does **not register
-  anything on Packagist or any other package index**.
+- The Archive does not modify code; every archived version is a single orphan
+  commit whose tree is identical to the upstream tagged commit; upstream history
+  and untagged commits are not copied; the only other content written by the
+  Archive is the README on `main`. The Archive does not publish releases, and
+  does **not register anything on Packagist or any other package index**.
 - Issues, pull requests, and discussions are disabled on archived
   repositories. Archived code is not supported or maintained.
 - The Archive does not use, run, sell, or provide any archived extension.
@@ -112,6 +118,12 @@ Authors and rights holders may ask that their package be excluded.
   already permitted copying, unless one of the grounds in section 9 applies
   (legal claim, malicious content, personal data, or a license that did not
   permit archiving).
+- **Scope exclusions:** packages maintained by organized groups with their own
+  release and preservation infrastructure are not archived. Currently:
+  official Flarum packages (`flarum/*`) and FriendsOfFlarum packages (`fof/*`).
+  Other vendors, including `flarum-lang/*`, are unaffected.
+- **Invalid vendor names (mirrors):** packages under pseudo-vendor names or
+  unofficial mirrors (such as `0.1.x-dev/*`) are not archived.
 - Exclusions apply to code copies. The Archive may keep minimal factual
   metadata (package name, version numbers, dates) in the manifest.
 

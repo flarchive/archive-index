@@ -1,0 +1,28 @@
+{
+    "package": "7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork",
+    "upstream": "https://github.com/7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork",
+    "versions": [
+        {
+            "version": "v1.0.0-beta.2",
+            "tag": "archive/v1.0.0-beta.2",
+            "upstream_commit": "802b727b01b7682c21595fb27f66baa87643ef27",
+            "archive_commit": "4dee48f99e7119af9e3236935749e30c8dfd92cb",
+            "released": "2015-12-17T21:48:44+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0-beta.4",
+            "tag": "archive/v1.0.0-beta.4",
+            "upstream_commit": "4cdaa5526e38c270209b070b8d8d71330e1b88bb",
+            "archive_commit": "e648f140744d977bb4f31080b11734cf09431a33",
+            "released": "2016-03-31T16:35:34+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

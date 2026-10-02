@@ -1,0 +1,28 @@
+{
+    "package": "acarlsson/flarum-ext-swedish",
+    "upstream": "https://github.com/acarlsson/flarum-ext-swedish",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.5.0",
+            "tag": "archive/v0.1.0-beta.5.0",
+            "upstream_commit": "681f8af21361ae08d6237a5f0ce0bb05be8868d8",
+            "archive_commit": "62f39805e5ba652d0c2c9c82288a9031ef883765",
+            "released": "2016-05-26T16:04:41+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.5",
+            "tag": "archive/v0.1.0-beta.5.5",
+            "upstream_commit": "681f8af21361ae08d6237a5f0ce0bb05be8868d8",
+            "archive_commit": "0c688ed08264146ed4c986d9b2d4f99511ad9226",
+            "released": "2016-05-26T16:04:41+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

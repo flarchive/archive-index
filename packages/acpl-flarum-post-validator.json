@@ -1,0 +1,28 @@
+{
+    "package": "acpl/flarum-post-validator",
+    "upstream": "https://github.com/android-com-pl/flarum-post-validator",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "0001c9b4651455ccbf7624d232b8336b30db9ff4",
+            "archive_commit": "bb710cc53f7f05fbbf56da55c64accb1c4900075",
+            "released": "2022-02-03T10:21:45+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "11ec8585a76cc6f2d87aeab55dc9204c3eb5f98f",
+            "archive_commit": "dc14605ec6cbdd5634189f1db03e34955dbf2e62",
+            "released": "2022-02-03T10:33:10+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

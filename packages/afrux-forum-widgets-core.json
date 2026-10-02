@@ -1,0 +1,94 @@
+{
+    "package": "afrux/forum-widgets-core",
+    "upstream": "https://github.com/afrux/forum-widgets-core",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "1935b7d29b31e82f9338edc2917c4ca39b2eef99",
+            "archive_commit": "acfa1362a3d98a08a550dd1931f529072beef82e",
+            "released": "2021-08-02T16:12:42+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "a110e16a033009f98d24bdc31cacaec8f959057a",
+            "archive_commit": "68886105d8b47eef5afb792535d9114e33b0785f",
+            "released": "2021-08-02T17:02:12+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "39f3eba52d2ecc6169bd65a867a20b9c7e411ea2",
+            "archive_commit": "eb1946aca93b38a8e66817543d059f46f7453b6c",
+            "released": "2021-08-02T17:22:57+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "9628c4f0dbbbd4c42469e3e456e517ef0c4d8980",
+            "archive_commit": "c6b54f85cbda67343024b5a524c04e00d1f452cd",
+            "released": "2021-08-03T08:22:43+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "885633bdcfbc19c71cdf743fcc02a8cf377920a5",
+            "archive_commit": "7bea2a4eb37897c0a2c7662320120193ed481371",
+            "released": "2021-08-17T10:18:40+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "cc634316de47f9dbdc349523e4cf4ec1ba3ead8f",
+            "archive_commit": "9172efc0b125d45e907f5bf2ccdac15a98ee0988",
+            "released": "2021-08-18T09:01:21+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.6",
+            "tag": "archive/v0.1.6",
+            "upstream_commit": "32b35918e0e11d4be6bba049379d9d16af1092d0",
+            "archive_commit": "f5a061409bb0c6dbcfba946e4f3eebed69df7740",
+            "released": "2021-10-21T17:44:18+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.7",
+            "tag": "archive/v0.1.7",
+            "upstream_commit": "32305870b2bf74dd70e4b8908db9ea07efbb52a3",
+            "archive_commit": "51ce1d8bb6a70a689ee7323f1dbf8cf292ccf1d4",
+            "released": "2022-03-03T19:50:55+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

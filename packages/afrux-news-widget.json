@@ -1,0 +1,28 @@
+{
+    "package": "afrux/news-widget",
+    "upstream": "https://github.com/afrux/news-widget",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ce79743e0df7579490dea663ac7106310ef3eab0",
+            "archive_commit": "8b3b68caf5c21f3c924151f1ef10b07cff9b9508",
+            "released": "2021-08-02T16:28:46+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "f1e813322ed624dd8edb2f437b9ce441ba314a55",
+            "archive_commit": "415e703b45e29818d1c16c67b065d86ddeacdd0d",
+            "released": "2021-12-11T19:18:08+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

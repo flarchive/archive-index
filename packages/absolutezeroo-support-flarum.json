@@ -1,0 +1,17 @@
+{
+    "package": "absolutezeroo/support-flarum",
+    "upstream": "https://github.com/absolutezeroo/flarum-support",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "6387e59516cb81e2959bc4d9658093d8e2c14588",
+            "archive_commit": null,
+            "released": "2019-09-21T12:40:48+00:00",
+            "archived": null,
+            "license": "MIT",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

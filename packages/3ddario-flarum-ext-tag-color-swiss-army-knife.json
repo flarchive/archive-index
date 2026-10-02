@@ -1,0 +1,39 @@
+{
+    "package": "3ddario/flarum-ext-tag-color-swiss-army-knife",
+    "upstream": "https://github.com/3DDario/flarum-ext-tag-color-swiss-army-knife",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0617a9fa1067866e25e4a9c2ac26bfe749cc02b0",
+            "archive_commit": "0bf71997abed029191c2b869d31bb73cf949702e",
+            "released": "2022-08-07T13:08:23+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "cade2d77f2ca28a6b8851b5d05f386651e792bad",
+            "archive_commit": "66b7d973d3847ab671708fa83d994980c5a57041",
+            "released": "2022-08-07T14:36:37+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "b209d01eed5982feaf701e429500e67f3f650de6",
+            "archive_commit": "820c16f4ee644fd9471c39f5209af73fc0fd0831",
+            "released": "2022-08-14T20:21:37+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

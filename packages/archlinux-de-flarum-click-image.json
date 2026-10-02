@@ -1,0 +1,50 @@
+{
+    "package": "archlinux-de/flarum-click-image",
+    "upstream": "https://github.com/archlinux-de/flarum-click-image",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "bd2170d21cc2fc42320684903a9ccdd0ddc2b9e3",
+            "archive_commit": "3555b427f4b6435f40478f2030e07410d1bd2f13",
+            "released": "2022-02-12T17:38:02+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "7e355cc9fd95f2655d1051dfe72c976fe45d348b",
+            "archive_commit": "6d1f0ce310819cb97d9cbb9ec3e65ba54fbf2045",
+            "released": "2023-05-19T17:11:56+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "b4eaeae845e3a819bc95ec52a66e1b74862c8417",
+            "archive_commit": "267a122cddd7b2b9ffe89b306c7022cd459a1fc6",
+            "released": "2023-05-28T09:47:41+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "3932d79c0001de45bf2d7c235bf7fb74c8b96f7f",
+            "archive_commit": "a7770e50f6250c5aef3e346a4e10bbf09f6c62a8",
+            "released": "2024-12-01T08:06:00+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

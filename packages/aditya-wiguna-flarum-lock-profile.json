@@ -1,0 +1,17 @@
+{
+    "package": "aditya-wiguna/flarum-lock-profile",
+    "upstream": "https://github.com/aditya-wiguna/flarum-lock-profile",
+    "versions": [
+        {
+            "version": "1",
+            "tag": "archive/v1",
+            "upstream_commit": "ef45fd0653e314576d7345af143af655a9ad7150",
+            "archive_commit": "83ba315474e55067998d142f21c144fc73bca978",
+            "released": "2025-11-11T10:09:28+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

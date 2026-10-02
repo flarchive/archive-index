@@ -1,0 +1,182 @@
+{
+    "package": "7h3ev1l/flarum-ext-bulgarian",
+    "upstream": "https://github.com/7h3ev1l/flarum-ext-bulgarian",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": "archive/v0.1.0-beta.3",
+            "upstream_commit": "e9d300b8ec1a8e8e86f90988c3bebf09d317ba14",
+            "archive_commit": "c7eaea91dde2ebf71f12c5f89e26ba0b17068be2",
+            "released": "2015-10-28T20:53:51+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": "archive/v0.1.0-beta.4",
+            "upstream_commit": "16c85426cce57da7245773d29c63952bc21152a7",
+            "archive_commit": "37c7ee6e81c38eeac5086b64812e21f459600969",
+            "released": "2015-11-04T22:52:09+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "archive/v0.1.0-beta.5",
+            "upstream_commit": "13d85f852b37632024a845dad60c3e6360df094b",
+            "archive_commit": "c94b8e7c0a147374d381c9dfb3ee9fbd6318d036",
+            "released": "2016-03-29T08:15:31+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.1",
+            "tag": "archive/v0.1.0-beta.5.0.0.1",
+            "upstream_commit": "41b9a87a776e7111be51cfb91d82b219b77dced2",
+            "archive_commit": "142279655fec4db6bf718b2c4ca45f9091809c36",
+            "released": "2016-03-31T14:47:31+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.10",
+            "tag": "archive/v0.1.0-beta.5.0.0.10",
+            "upstream_commit": "4af975cccd59a6636faabf0a27df3cda19d9f88c",
+            "archive_commit": "92ee6473d9b724d964b7f850f2347b6b0bba1773",
+            "released": "2016-05-18T18:24:24+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.11",
+            "tag": "archive/v0.1.0-beta.5.0.0.11",
+            "upstream_commit": "8b9eca28c7c1ba376fd4bf03a0a2d61a5e0d28b6",
+            "archive_commit": "645d4f5f54bee99ba05711f85b9fff0158a513c0",
+            "released": "2016-05-18T19:11:00+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.12",
+            "tag": "archive/v0.1.0-beta.5.0.0.12",
+            "upstream_commit": "c2eb7f390a0a1ca829ce81c215eba293231331b8",
+            "archive_commit": "5872b9cc17aba6766a0d6aa083e76f73eef427a2",
+            "released": "2016-06-01T19:10:48+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.13",
+            "tag": "archive/v0.1.0-beta.5.0.0.13",
+            "upstream_commit": "c2eb7f390a0a1ca829ce81c215eba293231331b8",
+            "archive_commit": "33268dfa6cf7755211f1a87896b662e893d2c497",
+            "released": "2016-06-01T19:10:48+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.2",
+            "tag": "archive/v0.1.0-beta.5.0.0.2",
+            "upstream_commit": "c49321d1a031be5050fe869667739a21233af9ea",
+            "archive_commit": "4834c3f51d8868c9d439e18c6de71b7c77cde8aa",
+            "released": "2016-03-31T14:51:50+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.3",
+            "tag": "archive/v0.1.0-beta.5.0.0.3",
+            "upstream_commit": "67851ff0f7ad4ba43b3e1003db6d0406164fec02",
+            "archive_commit": "ab7f62f865cd79d5e6eb18dbda13b95660f56be1",
+            "released": "2016-03-31T14:56:32+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.4",
+            "tag": "archive/v0.1.0-beta.5.0.0.4",
+            "upstream_commit": "6461fe27247de3d225348d267bdad7a1310e91e8",
+            "archive_commit": "310b989851163a38340dd55d35748ec6caf4d1f2",
+            "released": "2016-05-14T13:02:24+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.5",
+            "tag": "archive/v0.1.0-beta.5.0.0.5",
+            "upstream_commit": "98c35ada8621d577b8c121ce9d458700842b23aa",
+            "archive_commit": "f8e2c758985ef14a276fe61e9fc32ec622f2a6c2",
+            "released": "2016-05-14T18:00:29+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.6",
+            "tag": "archive/v0.1.0-beta.5.0.0.6",
+            "upstream_commit": "a50fbf8f50db5b1ee63becb6341ff682324113a8",
+            "archive_commit": "91b8771dae6e5c3f7a8b599d9051333b989b018d",
+            "released": "2016-05-15T10:18:16+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.7",
+            "tag": "archive/v0.1.0-beta.5.0.0.7",
+            "upstream_commit": "c6d250d5e70c6a1e7119499105131899142dce86",
+            "archive_commit": "6b96373234f31930a913392a51f3e156e7ff6e81",
+            "released": "2016-05-15T10:35:37+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.8",
+            "tag": "archive/v0.1.0-beta.5.0.0.8",
+            "upstream_commit": "85094d9c07a603e2cf6a4e05eb724d001d098c58",
+            "archive_commit": "79747a01f6a35ba04228a737162073baca399f9f",
+            "released": "2016-05-15T11:41:32+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.0.0.9",
+            "tag": "archive/v0.1.0-beta.5.0.0.9",
+            "upstream_commit": "44171b6f298c23e9fd5ce7552a63b6f853c741a3",
+            "archive_commit": "fc286f09092c283cabb60507812249a1683347ab",
+            "released": "2016-05-15T11:45:51+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

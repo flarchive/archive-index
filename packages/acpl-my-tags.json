@@ -1,0 +1,138 @@
+{
+    "package": "acpl/my-tags",
+    "upstream": "https://github.com/android-com-pl/my-tags",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c51355d0a63df8f2db5b564cebc6c202bb4b069d",
+            "archive_commit": "ac7ddc427a4a6ab3f4f97a4142132e2c1d934744",
+            "released": "2021-07-05T05:07:29+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8e3f3ac4b75108ec44b5122779c012ad80deade2",
+            "archive_commit": "42ea5292a2aa2236ff424a76f8561165602579dd",
+            "released": "2021-07-05T05:31:12+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "9a74da8496245014a6ee5959597730b537a74cd3",
+            "archive_commit": "8fbc0b8e155c0c3244061e50a31a3d8fe31716eb",
+            "released": "2021-07-11T06:33:28+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "0c0c3333774a33037b4409634123f30a2f6e2bf9",
+            "archive_commit": "5969cf79615ed0dd552a586fe0c2905e06f62f9c",
+            "released": "2021-08-19T23:39:30+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "0e2e0dc6941b0578617ac5ba2412ff6220ecddc6",
+            "archive_commit": "d8a5afab12cfa616145c940975a29142c32529c5",
+            "released": "2022-01-20T16:41:21+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "0be1faa098b15020288d375c1490f5657e4301e3",
+            "archive_commit": "7bd909d8ee60861503500452c2275692b8d9e9bc",
+            "released": "2022-09-23T21:55:34+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.2",
+            "tag": "archive/v1.2.2",
+            "upstream_commit": "001e6fa72895cbb6e574942df445d1dedd35f7f3",
+            "archive_commit": "2ee17d1385339ee26f7f45a967348f7fc0f2d2e1",
+            "released": "2023-10-20T09:14:06+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "cdbaca3bfce1700f070d052d9671b0025b899d43",
+            "archive_commit": "571aac4da72e8f5128683e5347b7e4b368e21023",
+            "released": "2024-02-05T00:27:32+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "6dd7799e57647c041589b34574796e9d145f08f1",
+            "archive_commit": "76524a3bb31c3978279b59cb746e1c8b2a211c25",
+            "released": "2024-07-01T23:32:41+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "afb58e5e8d1b73b5ba2c6d031aea85c71d3231ff",
+            "archive_commit": "6c5cf5cc38480b80a71a268d56a8a0ed2244958e",
+            "released": "2025-11-08T15:31:11+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "archive/v2.0.0-beta.2",
+            "upstream_commit": "a11ee673c045f2357d184801f739bcb6944189c8",
+            "archive_commit": "1a696a9f1d277ad881f8fe368009cbe817d7bfe2",
+            "released": "2025-11-12T22:43:59+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.3",
+            "tag": "archive/v2.0.0-beta.3",
+            "upstream_commit": "911775a6d3bb51749a6a3030e799588b296c26c8",
+            "archive_commit": "55e32d3e4e40a8fb93374b7974d38c3e259efe85",
+            "released": "2026-03-09T00:41:06+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

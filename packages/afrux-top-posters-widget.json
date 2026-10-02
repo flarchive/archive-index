@@ -1,0 +1,72 @@
+{
+    "package": "afrux/top-posters-widget",
+    "upstream": "https://github.com/afrux/top-posters-widget",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "cc4e82f3a693ca2b56cceee95e17250b875e0adf",
+            "archive_commit": "601d3960459a39b3229b63462d8bb018d767d4e2",
+            "released": "2021-08-02T16:27:08+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "0453ab53cdf54e904f810bebd5398cafc8bb44be",
+            "archive_commit": "a68efefb79cddff35ad46579e5295ef8677702ee",
+            "released": "2021-08-02T17:13:06+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "ec16b595686660b3620d3a44e4f7c51a140931d2",
+            "archive_commit": "46fe597fefb32f63fb2c566c4d35cba59b1565f5",
+            "released": "2021-08-17T12:27:54+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "4b271d1169b3768cbce5a53dc4a969b1af7d80d8",
+            "archive_commit": "6c3d0d058a34cd8ddfd2e7ec2daf575fdd828572",
+            "released": "2021-08-23T15:56:50+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "0018f63557faad68aaedf9b52368ee2702cf13ca",
+            "archive_commit": "d99e50fd1140f390c5d718a656e0636ea145e389",
+            "released": "2022-03-03T19:52:08+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "b5adea5b72d1849ccbbcb1c695a5f8fb4fb9f283",
+            "archive_commit": "20bbc3f5eee37164f7d13a17e93925c6087c390a",
+            "released": "2025-06-29T16:28:28+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
