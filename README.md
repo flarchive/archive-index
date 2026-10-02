@@ -1,4 +1,5 @@
-# Extension Archive for Flarum
+# Flarchive
+### Extension Archive for Flarum
 
 A permanent, read-only archive of released versions of community extensions
 for Flarum, so that they are not lost when an author deletes a repository,
