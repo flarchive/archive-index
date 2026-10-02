@@ -1,0 +1,18 @@
+{
+    "package": "annonny/flarum-dice",
+    "upstream": "https://github.com/mizhiyugan529/flarum-dice",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "fc67707f200b05a10a5d8033335aa2d0ab904747",
+            "archive_commit": "96c589a886d7b648962ef5c2cb237b1e37c76873",
+            "released": "2022-09-12T04:32:23+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0"
+        }
+    ]
+}

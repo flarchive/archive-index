@@ -1,0 +1,162 @@
+{
+    "package": "anto0102/mailguard",
+    "upstream": "https://github.com/anto0102/MailGuard",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "21031720da3cbc6f36d25c907f1e90ad4bd9c916",
+            "archive_commit": "2c681be09a79d1ce9233e1acb07e078bf8bc8d81",
+            "released": "2026-05-02T05:30:52+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8e82ba12b2a40e55b315f700cb090415baac04b0",
+            "archive_commit": "cfa8dc2633081907d2a51cb01c56b57c1e1cca9d",
+            "released": "2026-05-02T05:49:48+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "a7d50d5800ed7ba0eff44e15cba13f8e75dbf8bb",
+            "archive_commit": "d5dbeaeec40d6ba581a7e2219566b32df54b4f46",
+            "released": "2026-05-02T05:54:26+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "f4743ee4056322eed86965686d09effe922f3bab",
+            "archive_commit": "eaaa009eeb0deabd2805124d3d041ef5a500c9f0",
+            "released": "2026-05-02T06:00:44+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "460a45facbe88af97a650cdb8581d41af888ed43",
+            "archive_commit": "e39f6e221797a78d05be2bf0d8d7cb96963bab65",
+            "released": "2026-05-02T06:18:02+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "451e51cae6bbd8d37e8f721c841a18ba81adfaa8",
+            "archive_commit": "d5988b682c0240d8976e25039fdb11e5e47deff9",
+            "released": "2026-05-02T06:34:28+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "86020388181206974e1e892eed3c93be023f09db",
+            "archive_commit": "b4520302337636462286a69c7d09942152f32697",
+            "released": "2026-05-02T06:35:12+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "a0c68eb5f8e41779c1038bcfba8d03b7d193c124",
+            "archive_commit": "a537f7dc04f121a4ea04c315ec3b8c0cc75cbf31",
+            "released": "2026-05-02T10:55:37+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v2.0.3",
+            "tag": "archive/v2.0.3",
+            "upstream_commit": "2324ecd7295cf00dea33dc1f47013abbced7e3b6",
+            "archive_commit": "7371067e9b59ab1274aecf9c37d2e5b6752036f6",
+            "released": "2026-05-02T10:58:34+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v2.0.4",
+            "tag": "archive/v2.0.4",
+            "upstream_commit": "46585ba623dd4b5e2e9896635dd34e317821efdb",
+            "archive_commit": "ceda8cf52281e6bb5d37ed42cee5019bcd0a2e93",
+            "released": "2026-05-02T19:20:17+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v2.0.5",
+            "tag": "archive/v2.0.5",
+            "upstream_commit": "b131c96bda6f392c7e5d56907219d5736a5c3a97",
+            "archive_commit": "453d06edaafa0f1f1e936efd7d633ff7eca75a62",
+            "released": "2026-05-02T19:35:13+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v2.0.6",
+            "tag": "archive/v2.0.6",
+            "upstream_commit": "c66cc9a23daf895d5a0f8c1628d05d896e741e27",
+            "archive_commit": "f4519cd7d12c3a9188cf1a792c20fd5124c5905a",
+            "released": "2026-05-02T20:07:36+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        },
+        {
+            "version": "v2.0.7",
+            "tag": "archive/v2.0.7",
+            "upstream_commit": "9c2bef9f3d729080c9327813c582d22dfe2d6065",
+            "archive_commit": "4501ccf04400b542fc307d8e6db4d17fb151300d",
+            "released": "2026-05-02T20:20:52+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^2.0"
+        }
+    ]
+}

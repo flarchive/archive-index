@@ -1,0 +1,30 @@
+{
+    "package": "andreybrigunet/flarum-share-social",
+    "upstream": "https://github.com/AndreyBrigunet/flarum-share-social",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "cb4948fc5279a4920736cf28bef15f4f31ce90e0",
+            "archive_commit": "4dae3b183c656f629c41c44500e20625059e507f",
+            "released": "2023-01-10T20:08:47+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.2.0"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "35c7ca5a520fe0d7c3adccb622c88697d3b59f68",
+            "archive_commit": "66946bae66f49ced05aceb367186cd8d02dffd72",
+            "released": "2023-01-10T20:54:38+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.2.0"
+        }
+    ]
+}

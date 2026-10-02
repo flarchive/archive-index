@@ -1,0 +1,18 @@
+{
+    "package": "andre-pullinen/ads",
+    "upstream": "https://github.com/andre-pullinen/ads",
+    "versions": [
+        {
+            "version": "0.2.8",
+            "tag": "archive/v0.2.8",
+            "upstream_commit": "f092e109a917e9797a5597e9f28fa17f6c740dca",
+            "archive_commit": "a29a325ce141f983fa872826f3f6405b91be668d",
+            "released": "2020-12-15T17:30:21+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.14"
+        }
+    ]
+}

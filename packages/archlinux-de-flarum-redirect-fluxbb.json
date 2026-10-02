@@ -1,0 +1,114 @@
+{
+    "package": "archlinux-de/flarum-redirect-fluxbb",
+    "upstream": "https://github.com/archlinux-de/flarum-redirect-fluxbb",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8409e568ce79fc7f4e9c2477d5ac803eca5b85ef",
+            "archive_commit": "b8c9ddff85e71bbd09a1727cbbecc7a2b04bde81",
+            "released": "2021-04-17T06:59:36+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "53bbc51f130a4d4228c36e1c8fdc6b6a86538d57",
+            "archive_commit": "d4cd144b81a76baf2389f211e22c691dc5bbd7cf",
+            "released": "2021-05-02T06:37:05+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "f8059e4018647fa898adecd4d4164b778c196db8",
+            "archive_commit": "d9c2d64e0e449753e33c2273242ab36a0c259c85",
+            "released": "2021-05-29T05:19:36+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "df68cd0b19fff5374c6b3480befa92cb36dc3eb7",
+            "archive_commit": "c661a29a3116f18bfaff0e85fd6726d149b0726b",
+            "released": "2021-08-14T11:15:34+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "98a880373674e7cbf935ce46bf811c73aa656df8",
+            "archive_commit": "d11dfd84646929de0afb0b5d499b8ff5b4b6980e",
+            "released": "2021-08-21T07:14:09+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "326f81c27a22e3018ce94e7a2023697275defc60",
+            "archive_commit": "172b79fc029c448949401f11209682a34c95bfa8",
+            "released": "2021-08-21T18:33:32+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "bd3e7ee61988bdc0741b0e7fa46a0f2fe1790502",
+            "archive_commit": "6ca543e97f376bd1472075863b6848c5ac036ca0",
+            "released": "2021-08-21T21:41:23+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "75ebdacf1ca5db2ea2ad2e9b208b3effe6cdf602",
+            "archive_commit": "59a9334b4bd055e36090f55ec266badf4f04b788",
+            "released": "2021-08-29T08:46:11+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.5.0",
+            "tag": "archive/v1.5.0",
+            "upstream_commit": "648242c7f636d0f5b3e5c70cea137518a3f41adf",
+            "archive_commit": "b93050736e5dcb34d645d7ee4f0e4a49a4657c40",
+            "released": "2024-12-01T09:09:31+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        }
+    ]
+}

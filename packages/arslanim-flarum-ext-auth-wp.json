@@ -1,0 +1,18 @@
+{
+    "package": "arslanim/flarum-ext-auth-wp",
+    "upstream": "https://github.com/arslanim/flarum-ext-auth-wp",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "e108e533970d17116691fac19454e3a73ffde41d",
+            "archive_commit": "05fb370b191d2e2b24bd45bec409d25f7d8b6332",
+            "released": "2016-10-08T23:03:15+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.5"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "package": "akmaljp/drivemu",
+    "upstream": "https://github.com/akmaljp/drivemu10",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b073c0e2b7d2062ae8a97ebd076d2d7f51786589",
+            "archive_commit": "9939fcbebc77ef32b2b573322fba0a3ce2264367",
+            "released": "2019-10-12T07:02:59+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0"
+        }
+    ]
+}

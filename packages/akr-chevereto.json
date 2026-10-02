@@ -1,0 +1,66 @@
+{
+    "package": "akr/chevereto",
+    "upstream": "https://github.com/AKR-Developers/flarum-chevereto",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "bca78fa668c833629fbb93621e9accd675c0fce2",
+            "archive_commit": "f78f7c8d81bb497b11dbe2a7686df79d6e44b0c8",
+            "released": "2020-04-01T11:57:59+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.8"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "04b5427fdba55e66a7767fc29227a10468a522d2",
+            "archive_commit": "4ef052b977c639a1db413bdbf55d79db1f35e53f",
+            "released": "2020-04-04T17:27:05+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.8"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "2dd2e9e55fd7baa30a19febeefd59085f59f594a",
+            "archive_commit": "2a999469890589491af2f7c8d952b7e7df75c1cc",
+            "released": "2020-05-06T06:42:57+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.8"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "40e6a04660e1063723ffd73952f33fede9785da7",
+            "archive_commit": "d28a04926a80f888af15c527658925e5838fa887",
+            "released": "2021-05-30T18:44:06+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b9564bdb14e0b67a9ea6b1f8db2125c188bdd408",
+            "archive_commit": "eae450ef531a8245f07bd5b784fe5c8ecd5010af",
+            "released": "2021-05-30T19:22:57+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        }
+    ]
+}

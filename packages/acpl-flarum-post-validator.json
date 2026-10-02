@@ -11,7 +11,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.0.0"
         },
         {
             "version": "0.0.2",
@@ -22,7 +23,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.0.0"
         }
     ]
 }

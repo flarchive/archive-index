@@ -11,7 +11,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^0.1.0-beta.16"
         },
         {
             "version": "1.0.1",
@@ -22,7 +23,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^0.1.0-beta.16"
         },
         {
             "version": "1.0.2",
@@ -33,7 +35,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^0.1.0-beta.16 || ^1.0"
         },
         {
             "version": "1.2",
@@ -44,7 +47,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^0.1.0-beta.16 || ^1.0"
         },
         {
             "version": "1.2.1",
@@ -55,7 +59,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^0.1.0-beta.16 || ^1.0"
         },
         {
             "version": "2.1",
@@ -66,7 +71,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^0.1.0-beta.16 || ^1.0"
         },
         {
             "version": "2.2",
@@ -77,7 +83,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^0.1.0-beta.16 || ^1.0"
         },
         {
             "version": "v2.0",
@@ -88,7 +95,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^0.1.0-beta.16 || ^1.0"
         }
     ]
 }

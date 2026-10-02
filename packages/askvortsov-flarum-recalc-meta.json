@@ -1,0 +1,18 @@
+{
+    "package": "askvortsov/flarum-recalc-meta",
+    "upstream": "https://github.com/askvortsov1/flarum-recalc-meta",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "1767fec3b110e5d7574d89b21e40a629191de5e2",
+            "archive_commit": "382c3429855ee13fe24f59da14819465dfb4fcf6",
+            "released": "2020-10-25T19:21:12+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.8"
+        }
+    ]
+}

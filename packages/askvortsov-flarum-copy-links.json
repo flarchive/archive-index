@@ -1,0 +1,30 @@
+{
+    "package": "askvortsov/flarum-copy-links",
+    "upstream": "https://github.com/askvortsov1/flarum-copy-links",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d14815691d9415192e5ebd22ae2aaa7a74c3f042",
+            "archive_commit": "e0a1d53a717e41cf5127a1b1b094e6874c7b1264",
+            "released": "2020-05-21T05:26:35+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.8"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "2c03dfaed1568efc97753a9ddaad5424e002b527",
+            "archive_commit": "0b8b91081e9feafd0470e024f7f60171cba9061d",
+            "released": "2020-05-26T03:13:14+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.8"
+        }
+    ]
+}

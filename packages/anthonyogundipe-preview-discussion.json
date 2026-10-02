@@ -1,0 +1,30 @@
+{
+    "package": "anthonyogundipe/preview-discussion",
+    "upstream": "https://github.com/dhtml/flarum-ext-preview-discussion",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "eb5f56a3906586bc2fd5604100819d54ad735169",
+            "archive_commit": "7301f790b4557b3c09da4cfbb97de974bd690096",
+            "released": "2024-06-03T20:13:00+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.2.0"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "fe3dd13b40bd8a2ef5415a53794d296d29704072",
+            "archive_commit": "7d60ef71cecaf35a1fae8af0ae08986da9bb8dde",
+            "released": "2024-06-03T21:25:58+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.2.0"
+        }
+    ]
+}

@@ -11,7 +11,8 @@
             "archived": "2026-10-02",
             "license": "GPL-3.0-or-later",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.0.0"
         },
         {
             "version": "1.1.0",
@@ -22,7 +23,8 @@
             "archived": "2026-10-02",
             "license": "GPL-3.0-or-later",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.0.0"
         },
         {
             "version": "1.1.1",
@@ -33,7 +35,8 @@
             "archived": "2026-10-02",
             "license": "GPL-3.0-or-later",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.0.0"
         },
         {
             "version": "1.1.2",
@@ -44,7 +47,8 @@
             "archived": "2026-10-02",
             "license": "GPL-3.0-or-later",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.0.0"
         }
     ]
 }

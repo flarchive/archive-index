@@ -1,0 +1,102 @@
+{
+    "package": "archlinux-de/flarum-theme-archlinux",
+    "upstream": "https://github.com/archlinux-de/flarum-theme-archlinux",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "aedecc1ade36c040d07f7965f33397e6d24bb0d7",
+            "archive_commit": "5b22637635f099789e78684a3979df510938f1b3",
+            "released": "2021-04-17T07:02:20+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "6a4b3aac426620988daaeb038cb2109f1294f41c",
+            "archive_commit": "b81f7bef7b59141a2feb98f52026cba9b5500258",
+            "released": "2021-05-01T15:34:31+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "8aa21d85564a32be467d85d7e01de2c852c2b96c",
+            "archive_commit": "f8f75796af92b48b7326f26716d7b0d4520cdb27",
+            "released": "2021-05-28T19:26:29+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "3843eddb567e7d2aac09f495a1ea2e5732676aa6",
+            "archive_commit": "a3cba1af38ae583ee4c03779f7017e2f511814f7",
+            "released": "2021-08-14T16:35:02+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "cef71272ca3273991a833c91c9d862a26e0745c3",
+            "archive_commit": "ca4fb352e64cf1596ae3a52a4874bff744efeaac",
+            "released": "2021-08-29T10:38:38+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "01eb342a7fde89dd65ae27b9ce382f5ea54f36c0",
+            "archive_commit": "56f10c0817482d5fe69a477a3aaf2fb5f61e2fa7",
+            "released": "2024-12-01T09:31:00+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "3e23023caef11e758548a63913a909f4a5bac7e2",
+            "archive_commit": "7eb2f9d9249429777ebe5c38b4ada938377aed64",
+            "released": "2024-12-01T10:01:39+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "08c1f2f1d2ab68308896a80b0134995499d2f75b",
+            "archive_commit": "ff1354a0a282b242a0c5a4686564988ddb3f999b",
+            "released": "2026-09-05T07:46:51+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        }
+    ]
+}

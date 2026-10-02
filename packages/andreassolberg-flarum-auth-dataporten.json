@@ -1,0 +1,18 @@
+{
+    "package": "andreassolberg/flarum-auth-dataporten",
+    "upstream": "https://github.com/andreassolberg/flarum-auth-dataporten",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "e632be3f78a206eefdd0ea466fc2b2a56f459158",
+            "archive_commit": "fbf1cbe431e2a2c3af83469e02846cf50340327e",
+            "released": "2016-01-13T10:17:49+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.3"
+        }
+    ]
+}

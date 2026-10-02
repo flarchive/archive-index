@@ -1,0 +1,30 @@
+{
+    "package": "arthurydalgo/traditional-rank-icons",
+    "upstream": "https://github.com/ArthurYdalgo/traditional-rank-icons",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "495a6aacd240c8262300263f553d9dc9e23622d7",
+            "archive_commit": "cb84cd1aa05d462a360ddde14fc8c8abf0c7b75a",
+            "released": "2018-11-22T14:01:29+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta-8"
+        },
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "5a95f1b9c110cb7013941abd89cb0a3bed5b0217",
+            "archive_commit": "d72c026a1c0737edf16cbd3100bddbbc55fad5d6",
+            "released": "2022-07-19T17:05:40+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.2"
+        }
+    ]
+}

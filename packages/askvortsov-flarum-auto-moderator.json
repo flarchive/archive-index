@@ -1,0 +1,54 @@
+{
+    "package": "askvortsov/flarum-auto-moderator",
+    "upstream": "https://github.com/askvortsov1/flarum-auto-moderator",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6d3e2dc3b7ccd40ae7ae20cceb70b6c70bd39650",
+            "archive_commit": "0d844dc84bb77c976734d589d14f842d5548e7d3",
+            "released": "2021-05-20T04:20:53+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "f18bfa1461f8cc0c81def7faff970f3cd801eb7c",
+            "archive_commit": "0a4e54d35697e3a533b5eba83dc2477938c3fb48",
+            "released": "2021-05-20T04:58:51+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "516b9aa3bc83b8ec8dab82cb8e0eb19cdde05cc8",
+            "archive_commit": "4c6d1cc40029f648c05ca9f04f01ba9a2c2aab9b",
+            "released": "2021-09-22T19:39:04+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "be8389ff9870d48bb8ef0c737173882f5085a75e",
+            "archive_commit": "2b991d8c57aff3aee83eea748bdbafd264258c4b",
+            "released": "2023-09-05T10:59:11+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "package": "askvortsov/flarum-markdown-tables",
+    "upstream": "https://github.com/askvortsov1/flarum-markdown-tables",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6144622a120dff17fd4e4229a8cda7cfdd0d34ab",
+            "archive_commit": "5d871e72bc2500d39b81b4b74ba4452f55c733c9",
+            "released": "2021-03-16T00:50:22+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.15"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "6144622a120dff17fd4e4229a8cda7cfdd0d34ab",
+            "archive_commit": "374d99277646c094691105227b9f4c6ea304dd10",
+            "released": "2021-03-16T00:50:22+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0-beta.15"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "97757006c62d4388bd5872f7c3fbf20afa3ba5be",
+            "archive_commit": "30a020a7f6033ca281a707406ab5ab5e8bef5238",
+            "released": "2021-05-17T05:22:34+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "a999b444e79a777b73bf7e06132606d3e4b2d84e",
+            "archive_commit": "b4ad25ab98c1c7081243f7d98ae6a5be73fd5831",
+            "released": "2021-05-18T17:56:34+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "59545b2bee39165c1f3e7e05328fc467d5d74d6d",
+            "archive_commit": "70f0d50479f2ce0ce37c2d3709fb883f7cfede59",
+            "released": "2021-05-18T18:06:29+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        }
+    ]
+}

@@ -11,7 +11,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1"
         },
         {
             "version": "1.0.1",
@@ -22,7 +23,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.0.2",
@@ -33,7 +35,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.0.3",
@@ -44,7 +47,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.0.4",
@@ -55,7 +59,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.0.5",
@@ -66,7 +71,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.0.6",
@@ -77,7 +83,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.0.7",
@@ -88,7 +95,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.0.8",
@@ -99,7 +107,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.0.9",
@@ -110,7 +119,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.0",
@@ -121,7 +131,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.1",
@@ -132,7 +143,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.2",
@@ -143,7 +155,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.3",
@@ -154,7 +167,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.4",
@@ -165,7 +179,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.5",
@@ -176,7 +191,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.6",
@@ -187,7 +203,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.7",
@@ -198,7 +215,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.8",
@@ -209,7 +227,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.1.9",
@@ -220,7 +239,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.2.0",
@@ -231,7 +251,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.2.1",
@@ -242,7 +263,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.2.2",
@@ -253,7 +275,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.2.3",
@@ -264,7 +287,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.2.4",
@@ -275,7 +299,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.2.5",
@@ -286,7 +311,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.2.6",
@@ -297,7 +323,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         },
         {
             "version": "1.2.7",
@@ -308,7 +335,8 @@
             "archived": "2026-10-02",
             "license": "MIT",
             "source": "archived",
-            "status": "ok"
+            "status": "ok",
+            "flarum": "^1.2.0"
         }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "package": "artuu/flarum-imager",
+    "upstream": "https://github.com/Artuuuu/flarum-imager",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ea5c10198f7e2cf8958ffe754b6e33fd73d468cf",
+            "archive_commit": "9f5fdd16832f2ec9388e72f0396b877d552ba1e5",
+            "released": "2020-06-14T18:38:58+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14"
+        }
+    ]
+}

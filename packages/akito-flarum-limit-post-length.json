@@ -1,0 +1,18 @@
+{
+    "package": "akito/flarum-limit-post-length",
+    "upstream": "https://github.com/theAkito/flarum-limit-post-length",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d21ab9b9d33f2c13f858f0e64fb167a3f63d7d62",
+            "archive_commit": "8552b88d850b7d8bf6331ea3a30b63ebb48af0aa",
+            "released": "2023-04-04T03:34:51+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0+",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=1.0"
+        }
+    ]
+}

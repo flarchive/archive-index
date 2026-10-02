@@ -1,0 +1,138 @@
+{
+    "package": "archlinux-de/flarum-redirect-ll",
+    "upstream": "https://github.com/archlinux-de/flarum-redirect-ll",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d63d771ab2bc2f0e290c5e3d20432ce701dd97ef",
+            "archive_commit": "87f0a9992e01bb166cc29a2ee178ead818b9e60d",
+            "released": "2021-04-17T06:55:05+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0f93c8fb635ec314d8fdfc3160c6adddb028a448",
+            "archive_commit": "1d6cd95a7970de565b374e6a43a1cf77fe13c9ea",
+            "released": "2021-04-18T09:35:18+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "f5b88f0f2a74d564c1b3c19782fd99fbebcae5c1",
+            "archive_commit": "19823c4b151e1c029c8a48f9852c7307df68bd2c",
+            "released": "2021-05-02T05:48:05+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "62adbec3183acc5bd81fff4c7ec081b1f3280d39",
+            "archive_commit": "11c6a8b296a86554ab9b2122d7524a88f4f6f230",
+            "released": "2021-05-02T06:41:30+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "e3623058d709987e482509a70c0dd1f55ca80f40",
+            "archive_commit": "0b137145f81c1abd8f63b5d1e0b7b7c59efe1152",
+            "released": "2021-05-29T05:20:15+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "8a255e9da25e1b913c09bfc3116db4ca61a38080",
+            "archive_commit": "eafb0943e286f7b8cc8809badf438a1571c3d43f",
+            "released": "2021-08-21T07:40:44+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "32ea66fa8f9c86524f38dc6d1cea1a041cd4f4ce",
+            "archive_commit": "b32d90573f55b5cb71bc2b3683500eff9d0ba263",
+            "released": "2021-08-21T23:37:40+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "fc2423675dd515a9339912866d52cabfe5d5f617",
+            "archive_commit": "1978d373ab98b90a32b4acde3f76a9c372fef15a",
+            "released": "2021-08-23T16:27:36+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "9afbefc44d4b7b889dd349e76d8d6dc432c18c51",
+            "archive_commit": "49ea75361c760f6397b1d7cafbd1023f3fbac2d2",
+            "released": "2021-08-29T08:53:47+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "f081e3c17dc25b98e1bf7ea7d60c117d258ae0db",
+            "archive_commit": "73c8db6bdd8b7cd198398d7af9c85687b9754a1c",
+            "released": "2021-09-02T11:24:26+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "fd4a643970445dae37060c80d0ea29d9afc12239",
+            "archive_commit": "2acefe7e33c237c1ca5338a0c01d51fe3cc68a06",
+            "released": "2024-12-01T09:19:41+00:00",
+            "archived": "2026-10-02",
+            "license": "GPL-3.0-or-later",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^1.0.0"
+        }
+    ]
+}

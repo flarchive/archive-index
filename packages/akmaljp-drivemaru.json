@@ -1,0 +1,66 @@
+{
+    "package": "akmaljp/drivemaru",
+    "upstream": "https://github.com/akmaljp/drivemaru",
+    "versions": [
+        {
+            "version": "1.6.0",
+            "tag": "archive/v1.6.0",
+            "upstream_commit": "f60e0753ea513fdc001a5efc4d7df568a3c79d66",
+            "archive_commit": "7b3cb2fc622259eece0c837db34a44d79145fc00",
+            "released": "2019-01-24T10:40:05+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0"
+        },
+        {
+            "version": "1.7.0",
+            "tag": "archive/v1.7.0",
+            "upstream_commit": "e34e3c20855ed871b558fd4b81a1998f0b6baeab",
+            "archive_commit": "0dc478c799676d5f973fc617763145263c7d35fc",
+            "released": "2019-01-24T11:45:08+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0"
+        },
+        {
+            "version": "1.8.0",
+            "tag": "archive/v1.8.0",
+            "upstream_commit": "738174a3c54d09b93386102729ea9b112e04b20c",
+            "archive_commit": "057d374ddd9eb458a2a811316fff2a765b8fdb07",
+            "released": "2019-01-24T11:55:58+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0"
+        },
+        {
+            "version": "1.8.1",
+            "tag": "archive/v1.8.1",
+            "upstream_commit": "b84eade35366c2d0effdff402d3cd0b5ef9fe598",
+            "archive_commit": "79b6e2c70cd08f300548c6443f306bb0e4f6d6e0",
+            "released": "2019-01-24T12:12:14+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "03253ec9834d5c3ef5004fda5e9f7592c5abacce",
+            "archive_commit": "808dcafe85194b1aa1bd816e8c7f22d9baabc359",
+            "released": "2019-01-25T01:23:04+00:00",
+            "archived": "2026-10-02",
+            "license": "MIT",
+            "source": "archived",
+            "status": "ok",
+            "flarum": "^0.1.0"
+        }
+    ]
+}
