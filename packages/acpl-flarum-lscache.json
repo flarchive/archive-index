@@ -1,6 +1,7 @@
 {
     "package": "acpl/flarum-lscache",
     "upstream": "https://github.com/android-com-pl/flarum-lscache",
+    "packagistUrl": "https://packagist.org/packages/acpl/flarum-lscache",
     "versions": [
         {
             "version": "0.0.1",

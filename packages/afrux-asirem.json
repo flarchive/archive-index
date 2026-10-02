@@ -1,6 +1,7 @@
 {
     "package": "afrux/asirem",
     "upstream": "https://github.com/afrux/asirem",
+    "packagistUrl": "https://packagist.org/packages/afrux/asirem",
     "versions": [
         {
             "version": "v0.1.0",
