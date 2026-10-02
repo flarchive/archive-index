@@ -10,8 +10,8 @@
             "released": "2017-02-27T17:02:33+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.6"
         },
         {
@@ -22,8 +22,8 @@
             "released": "2017-11-25T18:49:08+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.6"
         },
         {
@@ -34,8 +34,8 @@
             "released": "2018-12-15T12:43:33+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.8"
         },
         {
@@ -46,8 +46,8 @@
             "released": "2018-12-15T12:54:02+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.8"
         },
         {
@@ -58,8 +58,8 @@
             "released": "2019-01-18T13:51:10+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.8"
         },
         {
@@ -70,8 +70,8 @@
             "released": "2017-01-20T15:55:48+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.6"
         },
         {
@@ -82,8 +82,8 @@
             "released": "2020-12-23T18:23:14+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.14"
         },
         {
@@ -94,8 +94,8 @@
             "released": "2017-01-21T14:02:43+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.6"
         },
         {
@@ -106,8 +106,8 @@
             "released": "2017-01-22T12:12:24+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.6"
         },
         {
@@ -118,8 +118,8 @@
             "released": "2019-03-30T10:37:23+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.8"
         },
         {
@@ -130,8 +130,8 @@
             "released": "2019-12-12T11:56:35+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.8"
         },
         {
@@ -142,8 +142,8 @@
             "released": "2020-10-31T15:09:45+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15"
         },
         {
@@ -154,8 +154,8 @@
             "released": "2020-12-06T12:25:19+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15"
         },
         {
@@ -266,5 +266,6 @@
             "status": "ok",
             "flarum": "^2.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/antoinefr/flarum-ext-money"
 }

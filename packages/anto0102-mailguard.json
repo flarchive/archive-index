@@ -158,5 +158,6 @@
             "status": "ok",
             "flarum": "^2.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/anto0102/mailguard"
 }

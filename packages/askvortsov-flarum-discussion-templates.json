@@ -194,5 +194,6 @@
             "status": "ok",
             "flarum": "^1.0.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-discussion-templates"
 }

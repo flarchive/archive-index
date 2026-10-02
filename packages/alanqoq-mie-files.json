@@ -134,5 +134,6 @@
             "status": "ok",
             "flarum": "^2.0@beta"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/alanqoq/mie-files"
 }

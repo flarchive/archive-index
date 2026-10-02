@@ -98,5 +98,6 @@
             "status": "ok",
             "flarum": "^0.1.0-beta.16 || ^1.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/2nrwls/flarum-inline-audio"
 }

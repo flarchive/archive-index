@@ -38,5 +38,6 @@
             "status": "ok",
             "flarum": "^1.3.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/3ddario/flarum-ext-tag-color-swiss-army-knife"
 }

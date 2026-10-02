@@ -134,5 +134,6 @@
             "status": "ok",
             "flarum": "^1."
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/arthurydalgo/ads"
 }

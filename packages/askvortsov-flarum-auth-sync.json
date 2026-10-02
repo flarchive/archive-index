@@ -158,5 +158,6 @@
             "status": "ok",
             "flarum": "^0.1.0-beta.15"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-auth-sync"
 }

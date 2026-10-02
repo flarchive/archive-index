@@ -26,5 +26,6 @@
             "status": "ok",
             "flarum": "^1.0.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/afrux/news-widget"
 }

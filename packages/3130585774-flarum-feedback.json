@@ -38,5 +38,6 @@
             "status": "ok",
             "flarum": "^2.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/3130585774/flarum-feedback"
 }

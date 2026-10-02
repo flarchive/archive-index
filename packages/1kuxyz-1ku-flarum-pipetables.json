@@ -98,5 +98,6 @@
             "status": "ok",
             "flarum": "^0.1.0-beta.8"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/1kuxyz/1ku-flarum-pipetables"
 }

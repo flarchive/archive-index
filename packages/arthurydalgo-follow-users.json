@@ -146,5 +146,6 @@
             "status": "ok",
             "flarum": "^0.1.0-beta.10"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/arthurydalgo/follow-users"
 }

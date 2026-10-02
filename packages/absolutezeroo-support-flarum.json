@@ -11,7 +11,9 @@
             "archived": null,
             "license": "MIT",
             "source": "archived",
-            "status": "unavailable"
+            "status": "unavailable",
+            "flarum": null
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/absolutezeroo/support-flarum"
 }

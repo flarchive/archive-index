@@ -470,5 +470,6 @@
             "status": "ok",
             "flarum": "^1.2.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-categories"
 }

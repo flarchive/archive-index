@@ -194,5 +194,6 @@
             "status": "ok",
             "flarum": "^0.1.0-beta.4"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/7h3ev1l/flarum-ext-bulgarian"
 }

@@ -62,5 +62,6 @@
             "status": "ok",
             "flarum": "^0.1.0-beta.7"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/balkanje/flarum-ext-bosnian1"
 }

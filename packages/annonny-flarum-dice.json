@@ -14,5 +14,6 @@
             "status": "ok",
             "flarum": "^1.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/annonny/flarum-dice"
 }

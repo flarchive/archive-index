@@ -10,8 +10,8 @@
             "released": "2019-07-13T11:12:12+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.6"
         },
         {
@@ -22,8 +22,8 @@
             "released": "2019-07-13T12:25:09+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.6"
         },
         {
@@ -34,8 +34,8 @@
             "released": "2017-02-24T12:20:26+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.6"
         },
         {
@@ -46,8 +46,8 @@
             "released": "2017-02-24T15:24:33+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.6"
         },
         {
@@ -86,5 +86,6 @@
             "status": "ok",
             "flarum": "^0.1.0-beta.6 || ^1.0 || ^2.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/antoinefr/flarum-ext-bbcode-fa"
 }

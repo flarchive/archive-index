@@ -38,5 +38,6 @@
             "status": "ok",
             "flarum": "^1.8"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/acpl/flarum-db-dumper"
 }

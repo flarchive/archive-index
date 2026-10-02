@@ -218,5 +218,6 @@
             "status": "ok",
             "flarum": "^1.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/ahrasis/flarum-ext-malaysian"
 }

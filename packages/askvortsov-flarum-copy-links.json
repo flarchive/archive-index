@@ -26,5 +26,6 @@
             "status": "ok",
             "flarum": "^0.1.0-beta.8"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-copy-links"
 }

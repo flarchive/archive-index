@@ -10,8 +10,8 @@
             "released": "2018-02-24T14:50:16+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.7"
         },
         {
@@ -22,8 +22,8 @@
             "released": "2018-04-22T10:42:39+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.7"
         },
         {
@@ -34,8 +34,8 @@
             "released": "2019-07-13T10:55:46+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.8"
         },
         {
@@ -46,8 +46,8 @@
             "released": "2018-01-10T17:06:59+00:00",
             "archived": null,
             "license": null,
-            "source": "metadata-only",
-            "status": "ok",
+            "source": "archived",
+            "status": "unavailable",
             "flarum": "^0.1.0-beta.7"
         },
         {
@@ -86,5 +86,6 @@
             "status": "ok",
             "flarum": "^1.0.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/antoinefr/flarum-ext-online"
 }

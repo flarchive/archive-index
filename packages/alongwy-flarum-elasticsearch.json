@@ -14,5 +14,6 @@
             "status": "ok",
             "flarum": "^0.1.0-beta.12"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/alongwy/flarum-elasticsearch"
 }

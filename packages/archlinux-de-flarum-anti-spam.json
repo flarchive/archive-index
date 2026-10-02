@@ -158,5 +158,6 @@
             "status": "ok",
             "flarum": "^1.7"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-anti-spam"
 }

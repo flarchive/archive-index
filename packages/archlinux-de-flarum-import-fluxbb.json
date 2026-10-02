@@ -98,5 +98,6 @@
             "status": "ok",
             "flarum": "^1.0.0"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-import-fluxbb"
 }

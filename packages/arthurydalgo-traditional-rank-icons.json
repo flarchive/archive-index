@@ -26,5 +26,6 @@
             "status": "ok",
             "flarum": "^1.2"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/arthurydalgo/traditional-rank-icons"
 }

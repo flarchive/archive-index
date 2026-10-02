@@ -86,5 +86,6 @@
             "status": "ok",
             "flarum": "^v2.0.0-beta.8"
         }
-    ]
+    ],
+    "packagistUrl": "https://packagist.org/packages/acpl/flarum-db-snapshots"
 }
