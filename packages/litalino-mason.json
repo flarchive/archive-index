@@ -1,0 +1,43 @@
+{
+    "package": "litalino/mason",
+    "upstream": "https://github.com/Litalino/mason",
+    "packagistUrl": "https://packagist.org/packages/litalino/mason",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "986c37d4b44d7463001fad341d782d6942b82871",
+            "archive_commit": "b61d88640b94c12812677cc349795f0968c355be",
+            "released": "2023-11-28T17:55:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "575ad60f62b3447c008d3fc653a18c345d7f6186",
+            "archive_commit": "c5a6cd2c3215a7a361ba9cdb6a0f7ee6e63c62ba",
+            "released": "2023-11-28T18:16:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "ea3b76b22ddafdd33392221bdd35fe9eccce011a",
+            "archive_commit": "003e07218c7cd704b2cc6272177ed3154e108b71",
+            "released": "2023-11-29T11:25:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

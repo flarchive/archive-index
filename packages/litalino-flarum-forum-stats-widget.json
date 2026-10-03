@@ -1,0 +1,19 @@
+{
+    "package": "litalino/flarum-forum-stats-widget",
+    "upstream": "https://github.com/Litalino/flarum-forum-stats-widget",
+    "packagistUrl": "https://packagist.org/packages/litalino/flarum-forum-stats-widget",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "59fce058b23b2eb4c1376d6d8b82707b068deac6",
+            "archive_commit": "6f269ecab9c292ac8268c9755b1a23ea0bf6dd1c",
+            "released": "2023-12-11T10:02:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

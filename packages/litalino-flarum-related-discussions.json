@@ -1,0 +1,31 @@
+{
+    "package": "litalino/flarum-related-discussions",
+    "upstream": "https://github.com/Litalino/flarum-related-discussions",
+    "packagistUrl": "https://packagist.org/packages/litalino/flarum-related-discussions",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f64998fd29227c9ea96055f7ae4a5e2a0ec2f612",
+            "archive_commit": "029891484a0aa5b6ff30cc1794d1108f0db691ee",
+            "released": "2024-01-13T00:35:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "01afad2de026e71dad36a2c3ab9de5e01ffb2927",
+            "archive_commit": "5bead3dbf78e6388fb7c148db5947ec395c3724c",
+            "released": "2024-07-04T07:59:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

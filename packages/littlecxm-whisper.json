@@ -1,0 +1,79 @@
+{
+    "package": "littlecxm/whisper",
+    "upstream": "https://github.com/littlecxm/whisper",
+    "packagistUrl": "https://packagist.org/packages/littlecxm/whisper",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "8bc84aad6b60586a9006510c78d7460edf7f8968",
+            "archive_commit": "23f4d7380ca82ec64eeb380bbd3ac56da7851b88",
+            "released": "2021-07-21T21:23:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e5dbaba840623034fa773406b9d57eea17e5f950",
+            "archive_commit": "04f9ad3e3b182c738606ca39176263c552c2f054",
+            "released": "2021-07-22T13:20:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "28c226825c9d79fb20d583a3ebd109fb4d0efaae",
+            "archive_commit": "0890f98859bd5f80f5a051d245eb6fc2fb25849f",
+            "released": "2021-07-22T22:50:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "af7dbb919c458d4c3a25c0335216b2f496789dac",
+            "archive_commit": "6b45140daf9068b70d6feb4badf5f72966bc3f07",
+            "released": "2021-07-27T16:47:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "7396c7ecc8766e3ed4f64569d53fd13c06716b67",
+            "archive_commit": "c412dc8e2eb50600c558489d746113661288e6dc",
+            "released": "2021-12-07T23:56:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "7cb953fef9ddde6ff64b7039b67d5192bf276064",
+            "archive_commit": "65154cd2e87bc87359d4b512766e3ffbd8d56ff8",
+            "released": "2022-01-28T06:06:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "litalino/flarum-ext-guestengagement",
+    "upstream": "https://github.com/Litalino/flarum-ext-guestengagement",
+    "packagistUrl": "https://packagist.org/packages/litalino/flarum-ext-guestengagement",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9c1de7a21af86a341b1d9c54fc7914e11c9bb51e",
+            "archive_commit": "dda0dc8cd1d50d052245ceed2e2985dc35a7dff1",
+            "released": "2023-12-11T10:29:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "5db5e10c95cf741a0bf8ce3a21aa752c1eb9af6a",
+            "archive_commit": "cb82843fb8f8ff6fe132adaf5aed5df71f346b5f",
+            "released": "2024-01-04T05:31:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

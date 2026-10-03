@@ -1,0 +1,31 @@
+{
+    "package": "litalino/flarum-auto-post-count-badge",
+    "upstream": "https://github.com/Litalino/flarum-auto-post-count-badge",
+    "packagistUrl": "https://packagist.org/packages/litalino/flarum-auto-post-count-badge",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "bbab3eaf9161e9c56441b45a2a334436fa936a24",
+            "archive_commit": "0fb1d7f478a07f5687fc5fbe681c4ba34a12f3ce",
+            "released": "2023-12-26T17:09:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "af4d9d8163b7b3668cafc113aba917c8148235fe",
+            "archive_commit": "c250d7e1f7e4aee6069ba28115a102bb356ccf25",
+            "released": "2024-07-04T07:58:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

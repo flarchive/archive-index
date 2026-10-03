@@ -1,0 +1,43 @@
+{
+    "package": "liplum/flarum-trends-widget",
+    "upstream": "https://github.com/liplum/flarum-trends-widget",
+    "packagistUrl": "https://packagist.org/packages/liplum/flarum-trends-widget",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0ccbac4fc39b2d35090225299f40748c7db7c9ea",
+            "archive_commit": "be9a674dd955fdc7dc373750ec4ac9a7573a686c",
+            "released": "2025-03-16T10:55:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "99154ebd570fb8301c1d21d718151231471a8362",
+            "archive_commit": "192feccd302a83cfeb2492074d334c267fbd07fc",
+            "released": "2025-03-17T18:32:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "ce4a39e37390cfe76df7816a6c0fb299759f4b04",
+            "archive_commit": "bbb8bc3cbc6cd9606f478286a991a9a549b7c9f0",
+            "released": "2025-03-17T19:14:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

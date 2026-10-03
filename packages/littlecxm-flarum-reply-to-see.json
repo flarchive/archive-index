@@ -1,0 +1,43 @@
+{
+    "package": "littlecxm/flarum-reply-to-see",
+    "upstream": "https://github.com/littlecxm/flarum-reply-to-see",
+    "packagistUrl": "https://packagist.org/packages/littlecxm/flarum-reply-to-see",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "cd4bf51f182fad6210d3ec86fe5fc74ec1b56e36",
+            "archive_commit": "2f8ec45b107770746556e6d1f199606e12ec8c10",
+            "released": "2022-01-25T10:27:28+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "1eb5c58f87954eed0228f48d837056109f1740e2",
+            "archive_commit": "1ba421441e4d669b9bc7bd86721b08f496efdd75",
+            "released": "2022-01-26T05:20:19+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "cd8eed45196857b99a80d3be07fd02070c6449a0",
+            "archive_commit": "34a5676ff615dbc08dcbde0c3a4d80ae9230af05",
+            "released": "2022-01-26T05:29:52+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "litalino/flarum-ext-news-feed",
+    "upstream": "https://github.com/Litalino/flarum-ext-news-feed",
+    "packagistUrl": "https://packagist.org/packages/litalino/flarum-ext-news-feed",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "dbfbe51fc2d01feab8aa5468c8146433056cf7d1",
+            "archive_commit": "2f03f56c3f313c833d65a525ac0cc5a4e905999c",
+            "released": "2023-12-15T10:32:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

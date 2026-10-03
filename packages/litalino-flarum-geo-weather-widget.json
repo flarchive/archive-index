@@ -1,0 +1,31 @@
+{
+    "package": "litalino/flarum-geo-weather-widget",
+    "upstream": "https://github.com/Litalino/flarum-geo-weather-widget",
+    "packagistUrl": "https://packagist.org/packages/litalino/flarum-geo-weather-widget",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0f1cc03fc838ba4e169de0612003ef4603830e78",
+            "archive_commit": "6c59889b6a3cc158623c48eeae33ae6bd836284a",
+            "released": "2023-11-18T06:10:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "f6ef2d48fcaf3d5615be68a842caff1f5e5c83d6",
+            "archive_commit": "2736ae7b107692fec816de8e97eee215abb8de34",
+            "released": "2023-11-18T07:50:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "litalino/flarum-blog-article-series",
+    "upstream": "https://github.com/Litalino/flarum-blog-article-series",
+    "packagistUrl": "https://packagist.org/packages/litalino/flarum-blog-article-series",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "586c595ddfa7763885b65b00569d07fca3acf96f",
+            "archive_commit": "b410a74b1c118759550f8eae991249de6f033025",
+            "released": "2023-12-12T06:53:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "038f6101e15d5b6ed822a22754e41311e6c12543",
+            "archive_commit": "1203b727634d82840fcc3046e3fe3a7faf54e794",
+            "released": "2023-12-12T09:37:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

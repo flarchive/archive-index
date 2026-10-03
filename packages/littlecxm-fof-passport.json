@@ -1,0 +1,103 @@
+{
+    "package": "littlecxm/fof-passport",
+    "upstream": "https://github.com/littlecxm/fof-passport",
+    "packagistUrl": "https://packagist.org/packages/littlecxm/fof-passport",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "6a1bfd14f8fec95510a2af32f1fe8f1626db22de",
+            "archive_commit": "df483c8ae08171988139e4cca2f707e54814e8f3",
+            "released": "2017-03-17T22:33:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0-beta",
+            "tag": "archive/v0.2.0-beta",
+            "upstream_commit": "ac3b4ea88e9ebfa52810d3a280d9f2b18e8c6466",
+            "archive_commit": "9ebb8c6cc121b7879726997d26401eafdeb5c4c9",
+            "released": "2018-11-05T21:41:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "e9235d315431010fe6ad679f555f664c81661afa",
+            "archive_commit": "825b3e689e11661b34efb8f76535241a88761558",
+            "released": "2020-03-23T02:25:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "archive/v0.4.0",
+            "upstream_commit": "3dd242c6655ab73fa485c4b43c73e10a1a4803fe",
+            "archive_commit": "86e36c21a26f6fbebf94db6264bdb4facdb5d51b",
+            "released": "2020-11-07T19:05:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "archive/v0.5.0",
+            "upstream_commit": "1584285c7c77256dee7c025af1df8f50a33a0960",
+            "archive_commit": "0a6e4e3848b7ab15884e51f94d98d1477df1303e",
+            "released": "2020-12-16T10:14:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.5.1",
+            "tag": "archive/v0.5.1",
+            "upstream_commit": "62667e2ad7bea0ef790530e68e85f0be3b9db71c",
+            "archive_commit": "edc6261f31aad09038dcff59db71a41a1cec4e97",
+            "released": "2021-02-24T13:08:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.6.0",
+            "tag": "archive/v0.6.0",
+            "upstream_commit": "29a809ce08a167a2d1d674c128ef3fde5052c6b3",
+            "archive_commit": "7247c2824f15c7ffd913e04617cad06abc6a845a",
+            "released": "2021-04-05T01:22:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d8712f5c32f6f5b932a310c0885af6db47ba4e15",
+            "archive_commit": "279d8213803c85eb2f6cd14d9df5ba5794467f9a",
+            "released": "2021-06-03T15:19:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "litalino/flarum-title-content-length",
+    "upstream": "https://github.com/Litalino/flarum-title-content-length",
+    "packagistUrl": "https://packagist.org/packages/litalino/flarum-title-content-length",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "df91b7edad62d257c38aae2d4427990fe6c4a4ab",
+            "archive_commit": "34ce868bb1433214f3ce541e83b0e8d250109a4c",
+            "released": "2023-12-02T09:09:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

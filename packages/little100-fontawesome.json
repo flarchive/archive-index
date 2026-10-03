@@ -1,0 +1,19 @@
+{
+    "package": "little100/fontawesome",
+    "upstream": "https://github.com/Little100/flarum-ext-fontawesome",
+    "packagistUrl": "https://packagist.org/packages/little100/fontawesome",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b3c0cedc047fc0b0975aaabead48ba748e0fa816",
+            "archive_commit": "a2257cb025d9e6d2470a4d75ec44bdfbba2dcea5",
+            "released": "2026-04-18T22:41:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

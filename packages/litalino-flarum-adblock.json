@@ -1,0 +1,55 @@
+{
+    "package": "litalino/flarum-adblock",
+    "upstream": "https://github.com/Litalino/flarum-adblock",
+    "packagistUrl": "https://packagist.org/packages/litalino/flarum-adblock",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4d430db781c3d79aa2df4750a31053e837cf4eb7",
+            "archive_commit": "2fc4d960fcf6394466475c20f05102dbf019fe2c",
+            "released": "2023-12-07T04:47:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "6efa4ba0bd32e59f91c8d42243a063873e9389fe",
+            "archive_commit": "7e1753f879f18ac260aafcb391356e52252f528b",
+            "released": "2023-12-07T07:41:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "424311e090d4aaea448107bf2f4444fa0750a77b",
+            "archive_commit": "fe81c80f8b20de95a0b6cd2d18aabfd729fb403b",
+            "released": "2023-12-09T05:08:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "a307e57ec073374cceb1f23f315fccb7f9419688",
+            "archive_commit": "58c479ef8af4d000f2b495fec7f7bd51f8ebd612",
+            "released": "2023-12-09T05:41:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
