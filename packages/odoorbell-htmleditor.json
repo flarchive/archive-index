@@ -1,0 +1,19 @@
+{
+    "package": "odoorbell/htmleditor",
+    "upstream": "https://github.com/odoorbell/htmleditor",
+    "packagistUrl": "https://packagist.org/packages/odoorbell/htmleditor",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "3864bf50253d250e4f673ba48f544a6715bb1dc5",
+            "archive_commit": "d539ff84150a83319b4bc65cef78b34b3d5f4138",
+            "released": "2025-03-04T12:02:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "oe800/flarum-ext-bbcode-pastebin",
+    "upstream": "https://github.com/0E800/flarum-ext-bbcode-pastebin",
+    "packagistUrl": "https://packagist.org/packages/oe800/flarum-ext-bbcode-pastebin",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "896c9c918cb9d75600576edea3e87ce02f2280ce",
+            "archive_commit": "d848e6c74c5e7929d72d812ff05957379e01f70d",
+            "released": "2017-04-03T20:39:15+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "896c9c918cb9d75600576edea3e87ce02f2280ce",
+            "archive_commit": "8cd1bba654231d0a9fff5b87a67782d163113b15",
+            "released": "2017-04-03T20:39:15+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "62fe1fe5bd5d0ea35e89946be24422f24ad2d63b",
+            "archive_commit": "60fcb39635449e1045f1125901b8332581e80de2",
+            "released": "2017-04-04T19:34:55+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

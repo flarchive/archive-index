@@ -1,0 +1,31 @@
+{
+    "package": "oe800/flarum-ext-bbcode-bars",
+    "upstream": "https://github.com/0E800/flarum-ext-bbcode-bars",
+    "packagistUrl": "https://packagist.org/packages/oe800/flarum-ext-bbcode-bars",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "40f9ea83fa3b4dd1c2c226759c585d884cedcaa5",
+            "archive_commit": "447ecbe11179c0aa5e021425ca223d176facb0f1",
+            "released": "2017-04-12T19:24:22+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "ba28db627a8ffebf0ce7949fc6c5c62c9c6aacd5",
+            "archive_commit": "e339271f445c193c3cc7cbb9d3be00284faced92",
+            "released": "2017-04-14T06:32:20+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "oe800/flarum-ext-bbcode-tables",
+    "upstream": "https://github.com/0E800/flarum-ext-bbcode-tables",
+    "packagistUrl": "https://packagist.org/packages/oe800/flarum-ext-bbcode-tables",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7461cd043dc1d7eb30e253a389f6af3a05026924",
+            "archive_commit": "1baeda9404dc1c633efb337542f9532cef4a71cd",
+            "released": "2018-01-23T21:38:44+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "olleksi/flarum-swipe",
+    "upstream": "https://github.com/olleksi/flarum-swipe",
+    "packagistUrl": "https://packagist.org/packages/olleksi/flarum-swipe",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "1ce77955b28057216ec785a72552a5edfe5d6b97",
+            "archive_commit": "c83c062a8f523abef96d8ef8b84c6a6e7f59552c",
+            "released": "2025-11-11T18:37:30+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "16c77d509232914611cbc532d3265e27a3e8fbfe",
+            "archive_commit": "0262758384cd3764cc44b7859b8da22a42ecac33",
+            "released": "2025-11-12T21:39:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "a179f06abfed2f9ce8ccf6060928c00abeab984c",
+            "archive_commit": "e2067238f32efe2b2d26579f6f397891a55eac5b",
+            "released": "2025-11-14T16:48:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "9898854d2b42a95f36398544735e306adc6793d8",
+            "archive_commit": "68fb799a40eb87293d69b0842ad6df21b206b9c0",
+            "released": "2025-11-16T01:25:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "o92/flarum-ext-myanmar",
+    "upstream": "https://github.com/o92/flarum-ext-myanmar",
+    "packagistUrl": "https://packagist.org/packages/o92/flarum-ext-myanmar",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.0",
+            "tag": "archive/v0.1.0-beta.0",
+            "upstream_commit": "b6bb3f6b38b97282080acf032d78337fa7b39ee4",
+            "archive_commit": "9ef6feb508ee8cf89679829f7b41953a1973dee7",
+            "released": "2018-07-03T19:11:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1-beta.0",
+            "tag": "archive/v0.1.1-beta.0",
+            "upstream_commit": "27c4a6e7714cf4f5de23bdac393244bd93708602",
+            "archive_commit": "bb14696acdd3a42a6cad516baa44759765bc52e1",
+            "released": "2018-07-04T10:46:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "b6bb3f6b38b97282080acf032d78337fa7b39ee4",
+            "archive_commit": "341880395511e6a73a0ead0ebc46a52e87899a14",
+            "released": "2018-07-03T19:11:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "olleksi/uk-slug",
+    "upstream": "https://github.com/olleksi/uk-slug",
+    "packagistUrl": "https://packagist.org/packages/olleksi/uk-slug",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "60eda4450d43f054b0a7b48069bb59d5b7df48e5",
+            "archive_commit": "93627e4d00794d6e1a1b20c66f23a607eab38133",
+            "released": "2026-04-10T17:18:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "8212698a7f7a66bf469867b151c8391393b70033",
+            "archive_commit": "3df5462cad63ff02395e770c579763039df10767",
+            "released": "2026-04-10T17:56:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "7f9d047017ce415d0817a12ece008ca5073ab1cd",
+            "archive_commit": "a72a1221c25ae7f3539809c6c1045c45c33c2e45",
+            "released": "2026-04-12T13:59:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

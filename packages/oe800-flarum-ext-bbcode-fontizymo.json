@@ -1,0 +1,67 @@
+{
+    "package": "oe800/flarum-ext-bbcode-fontizymo",
+    "upstream": "https://github.com/0E800/flarum-ext-bbcode-fontizymo",
+    "packagistUrl": "https://packagist.org/packages/oe800/flarum-ext-bbcode-fontizymo",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c3710da21938820b24f9385686a3eee2a6f0d97b",
+            "archive_commit": "d15dc19e288809d2a2e8ac1b0ea3e9988b316ea4",
+            "released": "2017-05-19T20:45:08+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "c3710da21938820b24f9385686a3eee2a6f0d97b",
+            "archive_commit": "060cfc2786f7ee3b81fc35395f6f508706ba2364",
+            "released": "2017-05-19T20:45:08+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "24cf80cfb94d32a7d09f1ab433bb963cbdecc894",
+            "archive_commit": "d6678bc9867a077947876d550c765557154e6aa9",
+            "released": "2017-05-19T22:38:45+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "07e71164eeb5328ba5f4f45907df3c0e53099026",
+            "archive_commit": "8f633623e02bf6211191667644d70482e4194d32",
+            "released": "2017-05-19T22:44:42+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "6428c4cfef7c96bff105544e4493bdf0ee4aaff0",
+            "archive_commit": "d7408776e6358dbe489a07c1d824bab8db5732ae",
+            "released": "2017-05-19T22:46:13+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

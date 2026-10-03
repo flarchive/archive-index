@@ -1,0 +1,43 @@
+{
+    "package": "olleksi/flarum-subtags",
+    "upstream": "https://github.com/olleksi/flarum-subtags-display",
+    "packagistUrl": "https://packagist.org/packages/olleksi/flarum-subtags",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "1a2b498b572b28e7e655d8a10370e0cf6d3dc7b7",
+            "archive_commit": "da608d29b73edcb41518bfdc871a24872f335455",
+            "released": "2025-11-03T16:51:57+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "c7accbe6d896b62b497232ee26212dace08cd401",
+            "archive_commit": "3796feec0a97da8bc432bb896f4aaa0fe81022b8",
+            "released": "2025-11-04T01:46:31+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "6aec4318e850ecf04e07f5786d9defc1837b0b6c",
+            "archive_commit": "e87c063c3d732b61d82c35f1e47e978b24af9912",
+            "released": "2025-11-08T00:57:42+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

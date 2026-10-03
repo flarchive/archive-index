@@ -1,0 +1,19 @@
+{
+    "package": "nyu8/flarum-oauth2-server",
+    "upstream": "https://github.com/nyu8/flarum-oauth2-server",
+    "packagistUrl": "https://packagist.org/packages/nyu8/flarum-oauth2-server",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9412677a66dbbca7f237523b400409cde56fe9a3",
+            "archive_commit": "c57650516c068c81cef2c4f1a6cb065fc42f5516",
+            "released": "2021-06-09T05:34:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

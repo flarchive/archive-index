@@ -1,0 +1,19 @@
+{
+    "package": "odoorbell/fa6repair",
+    "upstream": "https://github.com/odoorbell/fa6repair",
+    "packagistUrl": "https://packagist.org/packages/odoorbell/fa6repair",
+    "versions": [
+        {
+            "version": "v1",
+            "tag": "archive/v1",
+            "upstream_commit": "a6faa4726de34876c76f6d97f8aaaa6900f01f9b",
+            "archive_commit": "c4799a6b0bc5e2348a268995bec1c0d5144bf204",
+            "released": "2025-02-23T15:49:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

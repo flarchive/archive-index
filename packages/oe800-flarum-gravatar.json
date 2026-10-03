@@ -1,0 +1,31 @@
+{
+    "package": "oe800/flarum-gravatar",
+    "upstream": "https://github.com/0E800/flarum-gravatar",
+    "packagistUrl": "https://packagist.org/packages/oe800/flarum-gravatar",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "989bd1dc91c0e825c2e27beedd1184bd8737a911",
+            "archive_commit": "23e6457b5d680bcde7bf6c97cdc158f2c8d3e8c8",
+            "released": "2016-02-11T19:40:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "a8dfff8c1153659d8585c1b8cbd69532bc9cd6cd",
+            "archive_commit": "c1c89a4f91d0e0b49fcadd7ca60d012ba6788b38",
+            "released": "2017-04-19T22:48:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
