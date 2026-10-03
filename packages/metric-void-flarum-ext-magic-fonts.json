@@ -1,0 +1,55 @@
+{
+    "package": "metric-void/flarum-ext-magic-fonts",
+    "upstream": "https://github.com/Metric-Void/flarum-ext-magic-fonts",
+    "packagistUrl": "https://packagist.org/packages/metric-void/flarum-ext-magic-fonts",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9789a077b1578d1ebde865f661626fb5e0169d5f",
+            "archive_commit": "fd9cdb1d9c26625c869601efc8b3467800682e2e",
+            "released": "2020-05-23T23:16:21+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "d51df80ada8b78528307807c4abcae7b49202732",
+            "archive_commit": "9936856c11a4e6df65907fd24a6d68e22e6a9e1d",
+            "released": "2020-05-23T23:53:24+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "f61e3f53f25ba56ea4ef733b9a5c0c33ccc274d2",
+            "archive_commit": "eb24776aa84f9b690040b7de6dba827b0bf98d06",
+            "released": "2020-05-24T08:06:27+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "8742b444eeb38c216576dee9a54331b1b2babae6",
+            "archive_commit": "66e4981361c1fdee9bd9a38ed2b17ec0395dd400",
+            "released": "2020-05-25T03:49:48+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

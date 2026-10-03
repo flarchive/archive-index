@@ -1,0 +1,19 @@
+{
+    "package": "metastore/flarum-ext-russian",
+    "upstream": "https://github.com/factory-04/flarum-l10n-forum",
+    "packagistUrl": "https://packagist.org/packages/metastore/flarum-ext-russian",
+    "versions": [
+        {
+            "version": "0.1.0-beta.8-1",
+            "tag": null,
+            "upstream_commit": "64c032103cfa367bdd2d0f805cce2fa892fff8b9",
+            "archive_commit": null,
+            "released": "2018-12-13T21:05:26+00:00",
+            "archived": null,
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

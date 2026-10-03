@@ -1,0 +1,31 @@
+{
+    "package": "matpompili/flarum-latex",
+    "upstream": "https://github.com/matpompili/flarum-latex",
+    "packagistUrl": "https://packagist.org/packages/matpompili/flarum-latex",
+    "versions": [
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "7516ef0e48f19e9d44eba78f5e9dbde5b26f3ad3",
+            "archive_commit": "f75d6da2013c0f0fb7bb36c8a06d89c247d0374d",
+            "released": "2015-12-05T12:21:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3832e068cf08dc14701ef93a3259cef15a277170",
+            "archive_commit": "7d099d881e8d2781d9b42e458fe8076ce5a14ee8",
+            "released": "2015-12-05T18:51:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

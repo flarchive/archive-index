@@ -1,0 +1,19 @@
+{
+    "package": "matpompili/flarum-favicon",
+    "upstream": "https://github.com/matpompili/flarum-favicon",
+    "packagistUrl": "https://packagist.org/packages/matpompili/flarum-favicon",
+    "versions": [
+        {
+            "version": "v1.0.0-beta.2",
+            "tag": "archive/v1.0.0-beta.2",
+            "upstream_commit": "802b727b01b7682c21595fb27f66baa87643ef27",
+            "archive_commit": "121d5015ab34f1c863f2df64dad92a1ef9e4dfd4",
+            "released": "2015-12-17T21:48:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

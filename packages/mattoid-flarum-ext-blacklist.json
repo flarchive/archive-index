@@ -1,0 +1,55 @@
+{
+    "package": "mattoid/flarum-ext-blacklist",
+    "upstream": "https://github.com/Mattoids/flarum-ext-blacklist",
+    "packagistUrl": "https://packagist.org/packages/mattoid/flarum-ext-blacklist",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "5287a7c3e1e29846005235df68084274b85e2243",
+            "archive_commit": "ac7cd697262ae9e26e2c0db276fc001ecbde3a0b",
+            "released": "2025-03-15T16:12:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT-Modern-Variant",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.1.1",
+            "tag": "archive/v0.0.1.1",
+            "upstream_commit": "6cbe1f1d4d1acbab5c23215bf1a024f253de81c9",
+            "archive_commit": "2605f0e83f8637c012d3c3a4384bf50901c16ebc",
+            "released": "2025-03-15T16:26:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT-Modern-Variant",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "829efa2543cd7f34ae68489db2cdbc99c237e841",
+            "archive_commit": "45ae586365e99cb62d15f6553ec8682cfd012364",
+            "released": "2025-03-15T16:29:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT-Modern-Variant",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2.1",
+            "tag": "archive/v0.0.2.1",
+            "upstream_commit": "484077cfef5f1548f9a88b4dc66815c17855e890",
+            "archive_commit": "ce02de38c3836fb1378ada6188cfc7c41e94fc55",
+            "released": "2025-03-15T16:40:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT-Modern-Variant",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "mattoid/flarum-ext-operate-log",
+    "upstream": "https://github.com/Mattoids/flarum-ext-operate-log",
+    "packagistUrl": "https://packagist.org/packages/mattoid/flarum-ext-operate-log",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "7e3de045f43f9dac795c2e7c82f279c2abc88843",
+            "archive_commit": "c195ab4eec15bcb6f67c61982e12bfa5abd57830",
+            "released": "2023-12-12T15:06:28+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "adc694d8529f9dcba99e53cb8d9517b5f2ca0186",
+            "archive_commit": "35a379f21aa253744e8709c2be990c52c720b204",
+            "released": "2023-12-13T08:27:28+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "eb05ee1f8a6a9933b01fed88a8a346d518b108f6",
+            "archive_commit": "ae0678ac1c10a9d08be783e1a7b7040a9c67afa7",
+            "released": "2023-12-14T02:19:28+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

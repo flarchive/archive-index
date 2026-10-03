@@ -1,0 +1,139 @@
+{
+    "package": "mattoid/flarum-ext-money-history-auto",
+    "upstream": "https://github.com/Mattoids/flarum-ext-money-history-auto",
+    "packagistUrl": "https://packagist.org/packages/mattoid/flarum-ext-money-history-auto",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b403889663dc8f4ef7e94ec965d444a3abdaa4c7",
+            "archive_commit": "5f72a05c30aabb67c97838adb73afd3a31869c5c",
+            "released": "2023-12-12T15:06:28+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "aed07c83556173b1c5a6d68fc37d2995aadbccb7",
+            "archive_commit": "6469578b4e5973b221a232f833bd1cab79af7913",
+            "released": "2023-12-14T02:21:04+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "831b2b33d51638daf5b93073d8e87415c7bd60e0",
+            "archive_commit": "06e114ffbe3a21f08e4417055d5a0671be6b98a0",
+            "released": "2023-12-18T06:02:05+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "b9c524ccf9a3de4fb7abc203f7e0a9564847a762",
+            "archive_commit": "2ac940d0bbc12e709769bef293f4b5e0ec544a9c",
+            "released": "2023-12-18T10:10:28+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "830d7057f901eb7e85e10246a03116d937bd9ec4",
+            "archive_commit": "afb408dbdce32492c1db21807a80c5388f2b0eb5",
+            "released": "2024-02-19T04:41:03+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "68d18f3481d940ee5df44b89799db7e867511613",
+            "archive_commit": "7a833ab453c058af9a7a3ba6b61a1e608d6c637f",
+            "released": "2024-03-05T08:20:33+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.7",
+            "tag": "archive/v1.0.7",
+            "upstream_commit": "21de9818c52d70e136a93080dce3a2a86447a6d0",
+            "archive_commit": "f8e660d44b9327d7089a901d6f28c0a50e7a3dc2",
+            "released": "2025-01-16T09:37:58+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.10.0",
+            "tag": "archive/v1.10.0",
+            "upstream_commit": "cef54021be9b575dbec6729653dc45cefda9ef17",
+            "archive_commit": "5ffadd1b897ec8a37d172fed4d781b77ce5b18ed",
+            "released": "2025-06-22T04:34:17+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.10.1",
+            "tag": "archive/v1.10.1",
+            "upstream_commit": "6fbdb1ae03e35c8fe33f4681e90da93f066ca7f1",
+            "archive_commit": "f20be7265ad5497daa67f86f1dcc541fd0f3f3b1",
+            "released": "2025-06-23T12:27:23+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.10.2",
+            "tag": "archive/v1.10.2",
+            "upstream_commit": "d7e373ac37a817504ad43259636c7b1fd2bd1af3",
+            "archive_commit": "19cf08acd923f18565f1b55ea565dd2cc48c3627",
+            "released": "2025-06-23T12:43:07+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.10.3",
+            "tag": "archive/v1.10.3",
+            "upstream_commit": "9308a116e74d17679b596e2312c08aac57f38321",
+            "archive_commit": "24a59530cdc0f6d08412a2a023e5aaa38383b2cf",
+            "released": "2026-03-06T05:23:19+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

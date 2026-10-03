@@ -1,0 +1,43 @@
+{
+    "package": "mbl/news-section",
+    "upstream": "https://github.com/MikeLundahl/news-section",
+    "packagistUrl": "https://packagist.org/packages/mbl/news-section",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "3dd0fbb1d9569953d796b733a27ca363138b83c6",
+            "archive_commit": "25859d13e074dc68fb88f7426b3ec1af529009ae",
+            "released": "2023-09-30T20:00:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "3bec1a0c4814b70746264f91bb69ca8b1c52eb39",
+            "archive_commit": "4eb2316b149b31690c73a1a37d0b5f91aaae7a93",
+            "released": "2023-09-30T20:59:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "60e6beaac5091437cd7a8d6c30be5d8cff4d1c92",
+            "archive_commit": "6e895071881255f6a08d573562de81683d804f1f",
+            "released": "2023-11-11T23:30:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "markokaartinen/flarum-ext-finnish",
+    "upstream": "https://github.com/MarkoKaartinen/flarum-ext-finnish",
+    "packagistUrl": "https://packagist.org/packages/markokaartinen/flarum-ext-finnish",
+    "versions": [
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "742640989c464375bfc3ca7a96d25afe2cbf4b43",
+            "archive_commit": "3bbf078bad7c1583a66078178f1a22ecf0be4f7c",
+            "released": "2016-04-18T15:56:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "8aa762578da4b7cc7d47f5cbee7ca0c7227c5dcc",
+            "archive_commit": "af1d401230575d85366e05a1db6fe1e9b1d40858",
+            "released": "2016-06-23T06:12:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

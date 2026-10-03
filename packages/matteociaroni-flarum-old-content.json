@@ -1,0 +1,19 @@
+{
+    "package": "matteociaroni/flarum-old-content",
+    "upstream": "https://github.com/matteociaroni/flarum-old-content",
+    "packagistUrl": "https://packagist.org/packages/matteociaroni/flarum-old-content",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "5548d96e3bf5acdc5aa5b93f32416949d7a5afb7",
+            "archive_commit": "1cb2ed176e0aa33bf87c48eecaf3641081352ba8",
+            "released": "2023-07-11T18:14:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

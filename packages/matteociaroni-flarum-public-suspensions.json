@@ -1,0 +1,19 @@
+{
+    "package": "matteociaroni/flarum-public-suspensions",
+    "upstream": "https://github.com/matteociaroni/flarum-public-suspensions",
+    "packagistUrl": "https://packagist.org/packages/matteociaroni/flarum-public-suspensions",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ae846c3e64330d0fa1cf5ce95dcfda11117d57e0",
+            "archive_commit": "98047648174e90a544ff200cdc673600ba373614",
+            "released": "2023-02-01T11:55:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
