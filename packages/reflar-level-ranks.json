@@ -1,0 +1,79 @@
+{
+    "package": "reflar/level-ranks",
+    "upstream": "https://github.com/ReFlar/level-ranks",
+    "packagistUrl": "https://packagist.org/packages/reflar/level-ranks",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "725df7086401b74040e0a1139df290002dad4fea",
+            "archive_commit": "a4f9eddba9d237f5de0d40fd759e1c719ddd382f",
+            "released": "2018-08-11T21:40:58+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "bc8411646ae9eff84048613a8570bcaae5e2f376",
+            "archive_commit": "a38f67d35b0e1dea3e7b928351a3b1bc413291ee",
+            "released": "2018-12-02T05:59:58+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "93b59c29d7c1673d8fec4aa8dd843b215f1e6f78",
+            "archive_commit": "ad5728bbe8ad8c5088acc0f4a456bdbb60e52cb7",
+            "released": "2018-12-03T23:33:30+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "8408255e801ef85e02f443e26a0073fb793a1e00",
+            "archive_commit": "d9656768f8871014369e83871f4e331a54880388",
+            "released": "2018-12-04T22:46:13+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.2",
+            "tag": "archive/v1.2.2",
+            "upstream_commit": "f10c88aa9a099c0344f65678d91775746092ce1d",
+            "archive_commit": "9b0dda02d64d70c88065d25a65a3c49fd4f2a03b",
+            "released": "2020-05-06T15:56:06+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.3",
+            "tag": "archive/v1.2.3",
+            "upstream_commit": "8dd2e8bc07ff679110691301a17e04e1de67176e",
+            "archive_commit": "3faea4012cf8af52eb434b6dbed95911c1d50a74",
+            "released": "2020-06-06T21:32:04+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

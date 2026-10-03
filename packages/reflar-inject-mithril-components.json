@@ -1,0 +1,31 @@
+{
+    "package": "reflar/inject-mithril-components",
+    "upstream": "https://github.com/ReFlar/inject-mithril-components",
+    "packagistUrl": "https://packagist.org/packages/reflar/inject-mithril-components",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7ce5cbed50fafb7490cc4481f2fd18d33011c859",
+            "archive_commit": "c737905b7a39b2185d577990a16da6aa4409a2cf",
+            "released": "2019-02-17T21:59:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e4177d0cdae3bab27a29d8a5afa394d902ade679",
+            "archive_commit": "b655dcc25e5168e62ce541ec92c0da016a9ac23e",
+            "released": "2019-02-19T22:08:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

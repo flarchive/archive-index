@@ -1,0 +1,19 @@
+{
+    "package": "reflar/traditional-rank-icons",
+    "upstream": "https://github.com/ReFlar/traditional-rank-icons",
+    "packagistUrl": "https://packagist.org/packages/reflar/traditional-rank-icons",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "495a6aacd240c8262300263f553d9dc9e23622d7",
+            "archive_commit": "a28ed9ff98fe7471c815df92f9530acbfd84564d",
+            "released": "2018-11-22T14:01:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

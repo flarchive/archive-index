@@ -1,0 +1,19 @@
+{
+    "package": "rehiy/flarum-reply-to-see",
+    "upstream": "https://github.com/rehiy/flarum-reply-to-see",
+    "packagistUrl": "https://packagist.org/packages/rehiy/flarum-reply-to-see",
+    "versions": [
+        {
+            "version": "v1.8.0",
+            "tag": "archive/v1.8.0",
+            "upstream_commit": "50c639203e54d48d0f53bb0de1a235b46d905fb9",
+            "archive_commit": "8cd42c0a20794e4ea128c769945d264bbccce91e",
+            "released": "2023-08-19T14:04:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

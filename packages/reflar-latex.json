@@ -1,0 +1,19 @@
+{
+    "package": "reflar/latex",
+    "upstream": "https://github.com/ReFlar/latex",
+    "packagistUrl": "https://packagist.org/packages/reflar/latex",
+    "versions": [
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "a01bbe372c695f9a0cabfe869bd5273b0f98db3e",
+            "archive_commit": "e6829358edcc1f6579773e6e703250a5f9f295bc",
+            "released": "2018-09-15T21:26:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

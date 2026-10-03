@@ -1,0 +1,43 @@
+{
+    "package": "reflar/uncache",
+    "upstream": "https://github.com/ReFlar/UnCache",
+    "packagistUrl": "https://packagist.org/packages/reflar/uncache",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "6e80c99f8d71d7687f78de2841536e0877457733",
+            "archive_commit": "8493c9a681c6fd2e443298ec3dad69567325ecd5",
+            "released": "2018-05-23T17:01:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.2",
+            "tag": "archive/v0.1.0-beta.2",
+            "upstream_commit": "74adcb8ab27411919eabd78348f88f8fcc274908",
+            "archive_commit": "610ddd5233867aeccc361a76b789345d0440bf00",
+            "released": "2018-05-23T21:38:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.3",
+            "tag": "archive/v0.1.0-beta.3",
+            "upstream_commit": "ab716bbc68adb336f0eb55929a81144444864170",
+            "archive_commit": "2efec32261a92fb4a980672e0104aeb062cee709",
+            "released": "2018-08-22T20:05:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
