@@ -1,0 +1,103 @@
+{
+    "package": "muhammadbaiquni/passport",
+    "upstream": "https://github.com/muhammadbaiquni/passport",
+    "packagistUrl": "https://packagist.org/packages/muhammadbaiquni/passport",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "97becc277ebf4c7ff765837f3cdf6039e047eb29",
+            "archive_commit": "e8cff669887aec904ea4e48dea45f6cc703aea42",
+            "released": "2021-04-22T15:02:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "6a1bfd14f8fec95510a2af32f1fe8f1626db22de",
+            "archive_commit": "1351ed124ba2d5143e0cfacefd31b695f404dab6",
+            "released": "2017-03-17T22:33:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0-beta",
+            "tag": "archive/v0.2.0-beta",
+            "upstream_commit": "ac3b4ea88e9ebfa52810d3a280d9f2b18e8c6466",
+            "archive_commit": "6a3828a33c75cf9b06f05c8ec1a27beb9614f0a1",
+            "released": "2018-11-05T21:41:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "e9235d315431010fe6ad679f555f664c81661afa",
+            "archive_commit": "11f32ec1589ca371658eb1c6fe593078e911d62e",
+            "released": "2020-03-23T02:25:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "archive/v0.4.0",
+            "upstream_commit": "3dd242c6655ab73fa485c4b43c73e10a1a4803fe",
+            "archive_commit": "d19eb991ebb9d5bde0f341c7203be0b3b834841b",
+            "released": "2020-11-07T19:05:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "archive/v0.5.0",
+            "upstream_commit": "1584285c7c77256dee7c025af1df8f50a33a0960",
+            "archive_commit": "3cc831f866e69c3eb5efcca1641a68bdc7021a30",
+            "released": "2020-12-16T10:14:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.5.1",
+            "tag": "archive/v0.5.1",
+            "upstream_commit": "62667e2ad7bea0ef790530e68e85f0be3b9db71c",
+            "archive_commit": "c9a283e78eb3101b60f5580416d7e2a72226e058",
+            "released": "2021-02-24T13:08:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.6.0",
+            "tag": "archive/v0.6.0",
+            "upstream_commit": "29a809ce08a167a2d1d674c128ef3fde5052c6b3",
+            "archive_commit": "69e0fc09412086aa5d7558b890aa35ad232e5cd8",
+            "released": "2021-04-05T01:22:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

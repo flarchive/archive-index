@@ -1,0 +1,103 @@
+{
+    "package": "mskian/pwa",
+    "upstream": "https://github.com/mskian/pwa",
+    "packagistUrl": "https://packagist.org/packages/mskian/pwa",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "6fb1923132a25e92679532a002beb7a2ca3b0d2b",
+            "archive_commit": "6f02931d2c8b7390f9cc40c91139bd9421486eac",
+            "released": "2019-10-06T14:12:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "6fb1923132a25e92679532a002beb7a2ca3b0d2b",
+            "archive_commit": "cadb1f799b157b938c55653fa0f113f92e73a742",
+            "released": "2019-10-06T14:12:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "0c83df54f9e8623de6cbc6b914a0e317c688b77e",
+            "archive_commit": "ec241fdd2a2fe910df133d3df575983e3f8fb136",
+            "released": "2019-10-08T16:53:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "4a98a69937f5640329514847b59d6b694f2e2efc",
+            "archive_commit": "b97fa97974c151176c8eb5f27116b0e9622118a5",
+            "released": "2019-10-10T17:28:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.5",
+            "tag": "archive/v0.0.5",
+            "upstream_commit": "b62a3535a779780ece3b4cc546b427e784a2e167",
+            "archive_commit": "33cd52d47e66048a27a2c7c737980e86eb61d3e4",
+            "released": "2019-11-06T05:13:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.6",
+            "tag": "archive/v0.0.6",
+            "upstream_commit": "ab0f0e1495427d88f87c89960ad44c88b0211533",
+            "archive_commit": "49286e9592d5e7c48bbf6404205db1d99cf79705",
+            "released": "2020-03-05T04:21:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.7",
+            "tag": "archive/v0.0.7",
+            "upstream_commit": "f95a01ec56912f4310507f87ff471def361f34c2",
+            "archive_commit": "99f88005d7da4f4de4efdab2230431b13b7a6d90",
+            "released": "2020-05-15T12:05:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.8",
+            "tag": "archive/v0.0.8",
+            "upstream_commit": "e506e660c96a30d06e23ae4147cb0413894964d2",
+            "archive_commit": "ba04b0000967ba34b9126ade91cce40c5e25395c",
+            "released": "2020-11-04T04:32:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

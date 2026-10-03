@@ -1,0 +1,43 @@
+{
+    "package": "nearata/flarum-ext-embed-twitch",
+    "upstream": "https://github.com/Nearata/flarum-ext-embed-twitch",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-embed-twitch",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "816cd9f04bea7d42a0091de313e0de3e23c6eaf5",
+            "archive_commit": "02a56c9cdd9e3ebee61ead6be49b957810fd8f5a",
+            "released": "2021-03-21T18:34:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "b9249441b91de8aefdbfaa0df2545c9e9027033b",
+            "archive_commit": "cc8a2bb54a80e5ed66285f76a0ec7e84a557c42e",
+            "released": "2021-06-27T15:44:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "54563355c702dfbb1f640a1b70530b53135a7f21",
+            "archive_commit": "150562dbff758673d53ee41d97bf12b6bd814dce",
+            "released": "2022-08-27T20:33:04+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

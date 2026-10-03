@@ -1,0 +1,31 @@
+{
+    "package": "nearata/flarum-ext-cloudflare",
+    "upstream": "https://github.com/Nearata/flarum-ext-cloudflare",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-cloudflare",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a5d57caaa865422201c0462e86594187d3e9eb4c",
+            "archive_commit": "a380c78f8aaf630740fe511c1c88815a282daef6",
+            "released": "2023-03-19T14:05:04+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "5e4ad5e050c6c2aea1fe77534c431b34449544ac",
+            "archive_commit": "db0ba9b2ee97eb8d1f238b90269677652d5da06c",
+            "released": "2023-05-31T16:19:30+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

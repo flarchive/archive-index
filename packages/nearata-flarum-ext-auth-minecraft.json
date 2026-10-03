@@ -1,0 +1,55 @@
+{
+    "package": "nearata/flarum-ext-auth-minecraft",
+    "upstream": "https://github.com/Nearata/flarum-ext-auth-minecraft",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-auth-minecraft",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d2c2257c196694504ec5f9ded8c8205e2838272c",
+            "archive_commit": "8a3931ca86503057a294520985870f50d1209fc5",
+            "released": "2021-05-16T20:52:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "481d98c81ae1287a1b24c0969c480437a7a65286",
+            "archive_commit": "0701b90012794b67bfc367d919b1dc978d47f150",
+            "released": "2021-06-20T18:35:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v3.0.0",
+            "tag": "archive/v3.0.0",
+            "upstream_commit": "faa8848bbfee5b951088cf52230bc09a20e61825",
+            "archive_commit": "a65b162978f03996e357cf4fd20fb053cee3f722",
+            "released": "2022-09-13T09:41:41+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v3.0.1",
+            "tag": "archive/v3.0.1",
+            "upstream_commit": "8df4e0cfdef746c30563d03a382227ebecda71b3",
+            "archive_commit": "822e3c438d30eac2f231a7d78fc26fd6c514a9bb",
+            "released": "2022-09-13T14:18:19+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

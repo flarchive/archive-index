@@ -1,0 +1,19 @@
+{
+    "package": "nearata/flarum-ext-encrypt-mail",
+    "upstream": "https://github.com/Nearata/flarum-ext-encrypt-mail",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-encrypt-mail",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1391dbb67e6ea2821eaeae06a31d814321ea0e17",
+            "archive_commit": "9612bf9b33fc0a15f39dfa4694f5be4b9a97d5d2",
+            "released": "2023-02-04T17:18:24+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

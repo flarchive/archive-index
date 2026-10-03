@@ -1,0 +1,55 @@
+{
+    "package": "mshuo/reply-to-see",
+    "upstream": "https://github.com/MShuoo/reply-to-see",
+    "packagistUrl": "https://packagist.org/packages/mshuo/reply-to-see",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "958f51caffcdc86911e86e3bb7af4cae60cda0ae",
+            "archive_commit": "05466b8c4510fb857a8a74d26776f124057c4427",
+            "released": "2025-09-17T09:07:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0c9151c76b86c1ce7ccb0907ec8fe303d1071f79",
+            "archive_commit": "8c1c868c31f5bdf41ad312855b40ad3f2ef93383",
+            "released": "2025-09-18T03:10:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "11d72446ae5731e8ef3476898eff653a95c31ca8",
+            "archive_commit": "79e0f4e633e8bcc4597af949c48c70937916c765",
+            "released": "2025-09-18T07:22:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "397471882ebe9c53273bab6dd260350708592d9b",
+            "archive_commit": "d1ce5680e943958dbf6db8688607d5bf7d299e6c",
+            "released": "2025-09-19T09:04:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

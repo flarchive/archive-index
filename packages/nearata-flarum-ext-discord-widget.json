@@ -1,0 +1,31 @@
+{
+    "package": "nearata/flarum-ext-discord-widget",
+    "upstream": "https://github.com/Nearata/flarum-ext-discord-widget",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-discord-widget",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "40ce3403b1c3a8b56888845808e628c3cfe7b088",
+            "archive_commit": "b10716580a27dcf91dd39f0373e4a8357c6b6b0e",
+            "released": "2022-12-28T19:38:56+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "2453ce48b3c76537b80b5a11281104083e36f8e7",
+            "archive_commit": "4e5a21390334c4cbb052e83bead3b0ccaf22eb14",
+            "released": "2023-01-22T10:31:46+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

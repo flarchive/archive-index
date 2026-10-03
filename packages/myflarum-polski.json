@@ -1,0 +1,31 @@
+{
+    "package": "myflarum/polski",
+    "upstream": "https://github.com/MyFlarum/myflarumpl",
+    "packagistUrl": "https://packagist.org/packages/myflarum/polski",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "7d0c54ba83628531cc01bf9c235c173472cf41ad",
+            "archive_commit": null,
+            "released": "2018-03-07T12:22:19+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7.1",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "7d0c54ba83628531cc01bf9c235c173472cf41ad",
+            "archive_commit": null,
+            "released": "2018-03-07T12:22:19+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7.1",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

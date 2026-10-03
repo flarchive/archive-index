@@ -1,0 +1,19 @@
+{
+    "package": "nearata/flarum-ext-gif-avatars",
+    "upstream": "https://github.com/Nearata/flarum-ext-gif-avatars",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-gif-avatars",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "060ca28afc4159b1206f1c05448984ab5be7647e",
+            "archive_commit": "8fa6ec418cf1d3f3449543e2dba712ad0763efe1",
+            "released": "2023-06-27T16:03:31+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
