@@ -1,0 +1,19 @@
+{
+    "package": "sledov/flarum-ext-quill",
+    "upstream": "https://github.com/esledov/flarum-ext-quill",
+    "packagistUrl": "https://packagist.org/packages/sledov/flarum-ext-quill",
+    "versions": [
+        {
+            "version": "0.1.0-beta.2",
+            "tag": "archive/v0.1.0-beta.2",
+            "upstream_commit": "30484af6c4982d27a54f30595158885e465c47bd",
+            "archive_commit": "ef027d55720a7715dc7566e7dab2d345bea855a0",
+            "released": "2017-09-09T04:26:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

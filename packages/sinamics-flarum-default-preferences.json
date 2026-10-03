@@ -1,0 +1,31 @@
+{
+    "package": "sinamics/flarum-default-preferences",
+    "upstream": "https://github.com/Sinamics/flarum-default-preferences",
+    "packagistUrl": "https://packagist.org/packages/sinamics/flarum-default-preferences",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "bc8a34ec8ba3447f941c4fe81ba26ec31c299092",
+            "archive_commit": null,
+            "released": "2019-10-20T18:47:39+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta.5",
+            "tag": null,
+            "upstream_commit": "bc8a34ec8ba3447f941c4fe81ba26ec31c299092",
+            "archive_commit": null,
+            "released": "2019-10-20T18:47:39+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

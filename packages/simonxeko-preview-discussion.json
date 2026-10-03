@@ -1,0 +1,19 @@
+{
+    "package": "simonxeko/preview-discussion",
+    "upstream": "https://github.com/simonxeko/flarum-ext-preview-discussion",
+    "packagistUrl": "https://packagist.org/packages/simonxeko/preview-discussion",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "8cf1eab5366d909e88d832d9e691308de1e46978",
+            "archive_commit": "df1ad4f54c9455d553e4eb50af9fc6695456a0df",
+            "released": "2020-01-27T13:22:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

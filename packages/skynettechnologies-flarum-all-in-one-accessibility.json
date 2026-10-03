@@ -1,0 +1,67 @@
+{
+    "package": "skynettechnologies/flarum-all-in-one-accessibility",
+    "upstream": "https://github.com/skynettechnologies/flarum-all-in-one-accessibility",
+    "packagistUrl": "https://packagist.org/packages/skynettechnologies/flarum-all-in-one-accessibility",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "763b3d4d6b27bc4a312e231d730b9ab7bba1daf5",
+            "archive_commit": "75ad05fe12152d8d692dabf0e73b4d692989169d",
+            "released": "2025-03-10T13:34:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "6767b80851ec7bba5d05ed357255283b00db3b7d",
+            "archive_commit": "e1724fc52f709907cb56bffa5caabe12c7745656",
+            "released": "2025-10-29T12:15:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "a9dd16b55b14b2f0c7a6129ae504387bd2b655b9",
+            "archive_commit": "406d8c7ecede6040a2748e63dc7e91bbb1b9db7e",
+            "released": "2026-03-24T12:21:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "516b02d33335270e66a8cb79036e2675167e1c73",
+            "archive_commit": "08a3be058f1d485eb46a2d5d05cb6975bd51ec6e",
+            "released": "2026-05-07T13:44:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "b8abb827f48e899e33cceddfa04bb5b3b8ea5bfe",
+            "archive_commit": "bcfadd9a41bbf05bca4596c1691cef76d709a578",
+            "released": "2026-08-06T05:24:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

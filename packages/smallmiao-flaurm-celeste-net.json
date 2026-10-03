@@ -1,0 +1,19 @@
+{
+    "package": "smallmiao/flaurm-celeste-net",
+    "upstream": "https://github.com/CelesteNyaServer/flaurm-celeste-net",
+    "packagistUrl": "https://packagist.org/packages/smallmiao/flaurm-celeste-net",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c335fa8b06444a0ab97f796820eaad35995182f8",
+            "archive_commit": "71d41722f07d4a06373e82677f6ddd005d957945",
+            "released": "2023-12-02T11:47:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

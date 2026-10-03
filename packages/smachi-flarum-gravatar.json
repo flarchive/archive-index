@@ -1,0 +1,19 @@
+{
+    "package": "smachi/flarum-gravatar",
+    "upstream": "https://github.com/smachi/flarum-gravatar",
+    "packagistUrl": "https://packagist.org/packages/smachi/flarum-gravatar",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "989bd1dc91c0e825c2e27beedd1184bd8737a911",
+            "archive_commit": "85308b9556ee797bd709bc084119a027009c80be",
+            "released": "2016-02-11T19:40:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

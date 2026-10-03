@@ -1,0 +1,67 @@
+{
+    "package": "sinamics/flarum-ext-tags",
+    "upstream": "https://github.com/Sinamics/flarum-ext-tags",
+    "packagistUrl": "https://packagist.org/packages/sinamics/flarum-ext-tags",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": null,
+            "upstream_commit": "d485009dee4d3f8ca8750ff474de2f8d36aff5e2",
+            "archive_commit": null,
+            "released": "2015-11-02T23:34:05+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": null,
+            "upstream_commit": "b79d8c6dd5d407e13b73afca89f8b8364aa11d7d",
+            "archive_commit": null,
+            "released": "2015-11-05T06:06:16+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": null,
+            "upstream_commit": "cc9f4721430036d021414bbf1e45203e59a5d4a7",
+            "archive_commit": null,
+            "released": "2016-03-29T08:20:22+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.6",
+            "tag": null,
+            "upstream_commit": "85ae39d1b79643a6b350e1ee67928d494c31a474",
+            "archive_commit": null,
+            "released": "2016-10-19T10:41:56+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": null,
+            "upstream_commit": "5f126049eead78d4a25eec0edfbe5f969465b253",
+            "archive_commit": null,
+            "released": "2016-11-07T11:52:19+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

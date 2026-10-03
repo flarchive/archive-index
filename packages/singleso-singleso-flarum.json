@@ -1,0 +1,55 @@
+{
+    "package": "singleso/singleso-flarum",
+    "upstream": "https://github.com/SingleSO/singleso-flarum",
+    "packagistUrl": "https://packagist.org/packages/singleso/singleso-flarum",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5465c3c537004c8e7011c0f47c95f31ec287d5dd",
+            "archive_commit": "4ea161ad38d080bacee9dc491e23724c69f9c0f9",
+            "released": "2016-07-28T01:31:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MPL-2.0",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0e285db46d78ef5c093388f05f68e15493391459",
+            "archive_commit": "e7f7bf6dc5b08fef1c0b87ff01be31af8cabbb7c",
+            "released": "2016-07-29T02:46:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MPL-2.0",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "c7f86496926a690dd76cf96093d9dda9bc901434",
+            "archive_commit": "b93eb32127d016ece73c0ae63ce35ef230675b51",
+            "released": "2016-07-29T04:34:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MPL-2.0",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "37a49f3e1608aecb7b184fcbfff1f04a9544c947",
+            "archive_commit": "a914c546769c5ff2105f2ed65d9ec7c43604d93e",
+            "released": "2016-07-29T04:51:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MPL-2.0",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

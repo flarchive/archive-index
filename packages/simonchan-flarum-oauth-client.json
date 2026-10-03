@@ -1,0 +1,31 @@
+{
+    "package": "simonchan/flarum-oauth-client",
+    "upstream": "https://github.com/Simonchan93729/flarum-oauth-client",
+    "packagistUrl": "https://packagist.org/packages/simonchan/flarum-oauth-client",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e858d5c76829bfe5f5a462781414d26631c39f22",
+            "archive_commit": "2f3084b665d40637c02001cd89a4f9d0056b4947",
+            "released": "2020-06-17T07:03:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "ce7966fa232509b55667abf6ef561fd2b7adc9b5",
+            "archive_commit": "e604a58c3753323dcd493b0886425037ab66b6e6",
+            "released": "2021-01-09T16:15:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

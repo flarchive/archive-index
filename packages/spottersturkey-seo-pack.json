@@ -1,0 +1,19 @@
+{
+    "package": "spottersturkey/seo-pack",
+    "upstream": "https://github.com/framiodev/spottersturkey-seo-pack",
+    "packagistUrl": "https://packagist.org/packages/spottersturkey/seo-pack",
+    "versions": [
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "92d31009361f6d50ea1a7c22b747962511342be5",
+            "archive_commit": "c5d4ff5cfc34db10a740afcac97340ecfa94dd06",
+            "released": "2026-05-23T10:13:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0 || ^2.0.0-beta.1 || ^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

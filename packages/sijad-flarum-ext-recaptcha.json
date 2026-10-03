@@ -1,0 +1,31 @@
+{
+    "package": "sijad/flarum-ext-recaptcha",
+    "upstream": "https://github.com/sijad/flarum-ext-recaptcha",
+    "packagistUrl": "https://packagist.org/packages/sijad/flarum-ext-recaptcha",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "b90a57855cac5e3d7e0ad51ad300404bccaf7a76",
+            "archive_commit": "1f62d169daba7f1cb0cba3b79384b48ab4958839",
+            "released": "2016-09-06T11:10:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "df7bc6c96132434c8a9426e5eafe35d0302cd125",
+            "archive_commit": "f880e3a0a59a657aabba8eeb803b08823a1f0796",
+            "released": "2016-11-17T09:53:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

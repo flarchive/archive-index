@@ -1,0 +1,31 @@
+{
+    "package": "sijad/flarum-spoiler",
+    "upstream": "https://github.com/sijad/flarum-ext-spoiler",
+    "packagistUrl": "https://packagist.org/packages/sijad/flarum-spoiler",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "da27ce34d813e06aea512cde3fa7396518fd8517",
+            "archive_commit": "6b7abf06f490398a526513380971fe3e5011c80f",
+            "released": "2016-01-29T19:00:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "4b0e3ecd8f3d03358c62a66b03c128c8a2d4cebd",
+            "archive_commit": "cd674a83314afb89e0b4818eb58826fe2cf28328",
+            "released": "2016-02-25T13:28:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

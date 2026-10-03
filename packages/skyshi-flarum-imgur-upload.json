@@ -1,0 +1,31 @@
+{
+    "package": "skyshi/flarum-imgur-upload",
+    "upstream": "https://github.com/SkyShi-wvb/imgur-upload",
+    "packagistUrl": "https://packagist.org/packages/skyshi/flarum-imgur-upload",
+    "versions": [
+        {
+            "version": "v0.0.1-beta",
+            "tag": "archive/v0.0.1-beta",
+            "upstream_commit": "11ab66c04ce3db7d99dcd84ec9d7ca0d1c3bbfd3",
+            "archive_commit": "0f44950e96509bd6c5c50f01878f91f39be3fb5d",
+            "released": "2021-05-22T06:53:32+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": ">=0.1.0-beta.16 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2-beta",
+            "tag": "archive/v0.0.2-beta",
+            "upstream_commit": "18b5c2f53091d6737c74b4dbf89ec3d2692b4b78",
+            "archive_commit": "6e5a50c4013de6cca11bb12956725cc2d460337a",
+            "released": "2021-05-22T07:01:37+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": ">=0.1.0-beta.16 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

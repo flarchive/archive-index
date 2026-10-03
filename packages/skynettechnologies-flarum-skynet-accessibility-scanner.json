@@ -1,0 +1,19 @@
+{
+    "package": "skynettechnologies/flarum-skynet-accessibility-scanner",
+    "upstream": "https://github.com/skynettechnologies/flarum-skynet-accessibility-scanner",
+    "packagistUrl": "https://packagist.org/packages/skynettechnologies/flarum-skynet-accessibility-scanner",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "690516addf4a82f26084f3853916f88db858f928",
+            "archive_commit": "b937dda6a954c19f741bda9a1eba23dffb3ddffb",
+            "released": "2026-03-24T13:29:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
