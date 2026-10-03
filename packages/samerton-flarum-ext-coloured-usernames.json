@@ -1,0 +1,67 @@
+{
+    "package": "samerton/flarum-ext-coloured-usernames",
+    "upstream": "https://github.com/samerton/flarum-ext-coloured-usernames",
+    "packagistUrl": "https://packagist.org/packages/samerton/flarum-ext-coloured-usernames",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7d6195987a425ab2769b078afd8405cdff148c50",
+            "archive_commit": "d920e5b047d50f52d30b467fcdc3167ffe23393c",
+            "released": "2019-12-30T15:23:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "08a746231ffc6fe6eb5369bd80bc9bc0291e825b",
+            "archive_commit": "a38577bbd865f9b95222a9b3c8caeccf0298bb54",
+            "released": "2021-04-07T19:43:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "fdce0368659e0fcead088dd5425f7f3a69a40d51",
+            "archive_commit": "0e6a924801fbe6b60ca4d29a18ccb72b9bd3cb9d",
+            "released": "2021-04-07T20:36:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.6",
+            "tag": "archive/v0.2.6",
+            "upstream_commit": "14aa491bf832b3844c573284499d3b12d381dbda",
+            "archive_commit": "a80dfb131c81a4984374ef0b072d162fd54e9453",
+            "released": "2021-04-09T23:03:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.7",
+            "tag": "archive/v0.2.7",
+            "upstream_commit": "d98d1abc9095196016cd1cc66bc8f356c83d1140",
+            "archive_commit": "b54a38523cab84305b079d0dd526e0b60a6e4100",
+            "released": "2021-06-23T19:00:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

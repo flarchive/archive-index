@@ -1,0 +1,55 @@
+{
+    "package": "s9e/flarum-ext-mediaembed",
+    "upstream": "https://github.com/s9e/flarum-ext-mediaembed",
+    "packagistUrl": "https://packagist.org/packages/s9e/flarum-ext-mediaembed",
+    "versions": [
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "55c37273d3576d072247c39def2fbe00a3239ea9",
+            "archive_commit": "63292eadd24c536439f08529ea889e967bebbbc9",
+            "released": "2015-11-04T22:04:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "archive/v0.3.1",
+            "upstream_commit": "cf617a1cf30fce3413e7a8d9470fd8d74c6a6685",
+            "archive_commit": "15b81849be539b8b8b4d9b9ed385b16e221723d6",
+            "released": "2015-11-04T23:41:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.2",
+            "tag": "archive/v0.3.2",
+            "upstream_commit": "7041c45cfe368eb083250bae7cd3d5d9587ea711",
+            "archive_commit": "acc6dbaa15d3d88a6679129651bb6e7a170e70f9",
+            "released": "2015-12-04T17:40:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "fc7b7812552ff3e1e141f1780cf089080a2510cf",
+            "archive_commit": "62ea9252b4ed37cd5f7a754aea89bc11d9307e47",
+            "released": "2017-12-27T12:21:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

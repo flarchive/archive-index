@@ -1,0 +1,55 @@
+{
+    "package": "samerton/flarum-me",
+    "upstream": "https://github.com/samerton/flarum-me",
+    "packagistUrl": "https://packagist.org/packages/samerton/flarum-me",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "134d1b0252a86a874e1e208bcbb17ab90f95bfd5",
+            "archive_commit": "90855616fd60947a6a42a8cdd852154c44482824",
+            "released": "2020-12-06T18:57:51+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "a3f52692111d20799164e2f537badb3342923652",
+            "archive_commit": "95a9368e1696890496d84aa0d20ce313155a79f4",
+            "released": "2020-12-26T13:35:24+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "642b75adb0523ead7eea4ce24f45f6e8ff5e1d11",
+            "archive_commit": "a4f772dac31e7922e9df7881f4ac5fc5cc560573",
+            "released": "2021-04-09T21:17:49+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.16 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "c305273762308a931d3be763b327298c21612bb8",
+            "archive_commit": "18a635bf7b461a25c26f885702a1a267cba48522",
+            "released": "2021-06-23T19:44:41+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

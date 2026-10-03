@@ -1,0 +1,67 @@
+{
+    "package": "sakurayun/flarum-ext-skypemoji",
+    "upstream": "https://github.com/sakurayun/flarum-ext-skypemoji",
+    "packagistUrl": "https://packagist.org/packages/sakurayun/flarum-ext-skypemoji",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "1b64f95ad728c1d8db5cd3d7212ccf45b6af118d",
+            "archive_commit": "51ff54cc80882a07c2217f7981b848d507156c15",
+            "released": "2021-06-26T15:44:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "9453971299d3ccbb782de3f676775cb176261343",
+            "archive_commit": "bae8a43e48735c21622bad0adee4ef3c0137febd",
+            "released": "2021-06-26T16:01:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "9453971299d3ccbb782de3f676775cb176261343",
+            "archive_commit": "fba8daf197bf2941689e95356f874dd9237d8f35",
+            "released": "2021-06-26T16:01:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "b8c0a0dc137cc9f39914cc2108e07c5835ff73b3",
+            "archive_commit": "6ad3eaa57eedcf07f1e259eddd66694d8b338f03",
+            "released": "2021-06-26T16:14:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "cad7334a6e3b3de230a9044135ae07bb065fdc48",
+            "archive_commit": "f3dbb353cd2abafb5c4c1dc9fa8da0af85547a20",
+            "released": "2021-06-26T17:34:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "selmanozturk/flarum-ext-mobile-search",
+    "upstream": "https://github.com/selmanozturk/flarum-ext-mobile-search",
+    "packagistUrl": "https://packagist.org/packages/selmanozturk/flarum-ext-mobile-search",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "f8b7730ed6bc8982d53f372a56a6eb6894223a74",
+            "archive_commit": "e766ea9f70b9b75d60536713419361cb520b0f85",
+            "released": "2026-06-28T18:15:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

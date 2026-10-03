@@ -1,0 +1,19 @@
+{
+    "package": "santiagobiali/flarum-ext-pt-br",
+    "upstream": "https://github.com/santiagobiali/flarum-ext-pt-br",
+    "packagistUrl": "https://packagist.org/packages/santiagobiali/flarum-ext-pt-br",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6b2d8f7a315ed4d38d31672270e536528b150485",
+            "archive_commit": "dc58c1b690646670511347ade496e650a6d9e3b3",
+            "released": "2016-04-02T15:05:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

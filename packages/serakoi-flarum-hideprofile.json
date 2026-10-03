@@ -1,0 +1,79 @@
+{
+    "package": "serakoi/flarum-hideprofile",
+    "upstream": "https://github.com/Serakoi/flarum-hideprofile",
+    "packagistUrl": "https://packagist.org/packages/serakoi/flarum-hideprofile",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "5b72a736c7b3b2c5cb031f3ef9cc12028f403232",
+            "archive_commit": "92552d5981d455f76552d4b4f4b5e77febf1bbdd",
+            "released": "2021-06-03T18:20:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "915db745f8e842c840f371fad829083980dcde59",
+            "archive_commit": "eb55e878028d238f7351c7ba0882ae74c9d77621",
+            "released": "2021-06-05T11:33:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "035111f5796175acaec21665d1b778a0f29c98c2",
+            "archive_commit": "0ce5f346315b190f0a9251b1bbea6131c8c87522",
+            "released": "2021-06-05T11:46:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "035111f5796175acaec21665d1b778a0f29c98c2",
+            "archive_commit": "24f7d7f6d928336453ee44b16632477298cc4561",
+            "released": "2021-06-05T11:46:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.5",
+            "tag": "archive/v0.0.5",
+            "upstream_commit": "3fbfe00955f4f0d9e2f88ce7f8be96d5e1fad8eb",
+            "archive_commit": "1c8032a44612938ef39ae043821323bee068ad7f",
+            "released": "2021-06-05T11:59:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.6",
+            "tag": "archive/v0.0.6",
+            "upstream_commit": "872f434e335e641457d94c46fa918bd1a61711b3",
+            "archive_commit": "9f212fe58875eb8053a536883630693978430fcf",
+            "released": "2021-06-05T12:03:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

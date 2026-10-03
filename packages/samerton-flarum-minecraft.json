@@ -1,0 +1,79 @@
+{
+    "package": "samerton/flarum-minecraft",
+    "upstream": "https://github.com/samerton/flarum-minecraft",
+    "packagistUrl": "https://packagist.org/packages/samerton/flarum-minecraft",
+    "versions": [
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "18528e862d1b1e1ed8bb3eca8ec4e18d2632f589",
+            "archive_commit": "e6c6fb3987eb4b90ac4775fd1163f052d58e5c5c",
+            "released": "2021-06-23T19:14:41+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "abb93caa264cc5fce5052dc54eb4707ed94692e7",
+            "archive_commit": "a5e197b5adaa6441254a560450da822e45e518e0",
+            "released": "2021-01-02T15:23:09+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "de6e837404144d45cb30dfd3f5e9b814baca4932",
+            "archive_commit": "5d6efd2a741f26ee88a653c60221c1431845d031",
+            "released": "2021-01-02T15:56:53+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "b777134a0e43b09a73615dd7cb5196ec4bad8991",
+            "archive_commit": "e2046fc8cfd0603de8f4e9c7e8dc565b816e3fdd",
+            "released": "2021-01-03T12:50:47+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "a993b496c2e088ba28513f0fb267a6b3efc06631",
+            "archive_commit": "2fac272e4227139df04c9828eb5fb0ade78357a8",
+            "released": "2021-04-09T21:12:21+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.16 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "99726f8d9f87ef0986ad132cf6886d2238f0ba33",
+            "archive_commit": "c3648d77ffb56a8cc0481a14ff17d99194e29a70",
+            "released": "2021-07-27T16:44:40+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

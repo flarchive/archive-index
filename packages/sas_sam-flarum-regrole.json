@@ -1,0 +1,31 @@
+{
+    "package": "sas_sam/flarum-regrole",
+    "upstream": "https://github.com/SasSam/flarum-regrole",
+    "packagistUrl": "https://packagist.org/packages/sas_sam/flarum-regrole",
+    "versions": [
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "e32cd8ae29cad5427b179bdcefed658be4d1c1f7",
+            "archive_commit": "a82b94370f5bfa694aef55c336bf91ef11a65d5a",
+            "released": "2024-03-13T18:48:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "20cae5bbebb55c317a85585667326d9de9b92e6c",
+            "archive_commit": "fafbe292caef9f9b1d8b9f22334b85f62b5bd1dc",
+            "released": "2024-03-14T09:55:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

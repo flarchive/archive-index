@@ -1,0 +1,31 @@
+{
+    "package": "s9e/flarum-ext-autovideo",
+    "upstream": "https://github.com/s9e/flarum-ext-autovideo",
+    "packagistUrl": "https://packagist.org/packages/s9e/flarum-ext-autovideo",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "73b05accb37e7b6cba3c0f46c4bb0a7c5ecea147",
+            "archive_commit": "49de9d6f0a5b0ab199dc5598df86418b3997153b",
+            "released": "2016-09-19T17:48:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "70c114665ac4655ef6366215052a3f22348096da",
+            "archive_commit": "9519d1de1d443f6552ed5c6027177924df9fb335",
+            "released": "2017-12-27T12:21:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

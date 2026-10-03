@@ -1,0 +1,19 @@
+{
+    "package": "sdlyu/flarum-ext-anonymous",
+    "upstream": "https://github.com/SDLyu/flarum-ext-anonymous",
+    "packagistUrl": "https://packagist.org/packages/sdlyu/flarum-ext-anonymous",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7612e9f28d7241a77d7fcab3063ecd8c2beb25f0",
+            "archive_commit": "e18ff24a18243375f50f623791dc7b8096805ba5",
+            "released": "2017-02-18T09:03:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

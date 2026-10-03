@@ -1,0 +1,43 @@
+{
+    "package": "santiagobiali/flarum-ext-logo",
+    "upstream": "https://github.com/santiagobiali/flarum-ext-logo",
+    "packagistUrl": "https://packagist.org/packages/santiagobiali/flarum-ext-logo",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "06509a91300809975dd4c757f362cbec4e2684af",
+            "archive_commit": "a35e065694d5b77330e5d2906fe7f2737589c611",
+            "released": "2016-01-16T21:23:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "6024e1977b6c8c65ccc5a8f11a84968e649d09f6",
+            "archive_commit": "f6ccd058879ecbcbfcc13c6a3baf874c930eb5a1",
+            "released": "2016-01-17T18:06:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "0ebdb1ede732e7eb382aab33ba8296042a9b6ec3",
+            "archive_commit": "57425e31bcb86e3cc56717548bd40899875cb727",
+            "released": "2016-04-02T00:05:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

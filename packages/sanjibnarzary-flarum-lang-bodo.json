@@ -1,0 +1,55 @@
+{
+    "package": "sanjibnarzary/flarum-lang-bodo",
+    "upstream": "https://github.com/sanjibnarzary/flarum-lang-bodo",
+    "packagistUrl": "https://packagist.org/packages/sanjibnarzary/flarum-lang-bodo",
+    "versions": [
+        {
+            "version": "v0.2.8-beta1",
+            "tag": "archive/v0.2.8-beta1",
+            "upstream_commit": "2401fb24adfbdbd4c551e2b53c62cce4c0b06284",
+            "archive_commit": "ea384f9666998e82645db68bbd96078ac5e87212",
+            "released": "2019-11-22T10:42:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.8.beta.2",
+            "tag": "archive/v0.2.8.beta.2",
+            "upstream_commit": "3ace763ad56c5e52a6ea90e1dbfd245e1398274a",
+            "archive_commit": "e3e8807d756432f4f5198bf1a11720935251dffe",
+            "released": "2019-11-22T12:33:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.8.beta.3",
+            "tag": "archive/v0.2.8.beta.3",
+            "upstream_commit": "1fbea52897a62248f5be1d317e74671a0b9866ed",
+            "archive_commit": "872055b190a66b4e22d9303541bd226f93de232e",
+            "released": "2019-11-22T12:41:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.8.beta.4",
+            "tag": "archive/v0.2.8.beta.4",
+            "upstream_commit": "f4b81aa7c5efe166e6dc79946fc7e637f170119c",
+            "archive_commit": "a1d0b29f3ca099166f1eb835efb3b4b5ec90a2c0",
+            "released": "2019-11-22T12:46:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
