@@ -1,0 +1,67 @@
+{
+    "package": "forumaker/yandex-oauth",
+    "upstream": "https://github.com/forumaker/Yandex-Oauth",
+    "packagistUrl": "https://packagist.org/packages/forumaker/yandex-oauth",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "2aca52d667954ee908c24b627aad287e19db5ae3",
+            "archive_commit": "02fcd8a632b49c3d4f56f397b0de4b85a5e8ec6f",
+            "released": "2026-03-27T13:07:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "f6817da418a00bf735930d8abe8f9299ff8c208d",
+            "archive_commit": "a2201c5b138e5765155a4eabdd0b3a15b6e1eec9",
+            "released": "2026-03-28T00:11:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "d1287b6d27f3f8bdbbcc98275a4f991aac3f5e81",
+            "archive_commit": "9e164378c45c3c4bb2939934c4fdf5b425d58dab",
+            "released": "2026-04-26T11:25:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.2",
+            "tag": "archive/v2.2.2",
+            "upstream_commit": "8d77c7f25f3c92cd2d786ecbb13d46ae3dc5508b",
+            "archive_commit": "ba0f97aa8a75e977ee7595824dc67abcd9830cd9",
+            "released": "2026-07-07T12:04:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.3.0",
+            "tag": "archive/v2.3.0",
+            "upstream_commit": "b2d6d18ba7a1bac2e4e77977fee90d3ca2abe29b",
+            "archive_commit": "b7d173feb9ac07f62f821f87d57578d1fe33e6ca",
+            "released": "2026-08-19T16:21:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

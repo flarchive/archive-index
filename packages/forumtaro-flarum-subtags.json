@@ -1,0 +1,103 @@
+{
+    "package": "forumtaro/flarum-subtags",
+    "upstream": "https://github.com/forumtaro/flarum-subtag",
+    "packagistUrl": "https://packagist.org/packages/forumtaro/flarum-subtags",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "d6403de7b16562e84e908d903cf5fc2fcf0713ee",
+            "archive_commit": "4f4a8d09e330af1a776a8c7e0c779701fa3d7f7b",
+            "released": "2026-05-01T17:31:48+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "f492de3ffff5ac3a2f1b81dd3d4ddc57345bf644",
+            "archive_commit": "d89c421bacf71354b9b6a3f391e832e25ea3d7fb",
+            "released": "2026-05-01T18:12:32+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "ee728215f56c46a6a4692e488b6b9a93de1698a5",
+            "archive_commit": "3750ad73543bae5f26ee96f89f05ef264deb033e",
+            "released": "2026-05-01T18:26:19+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "9f61a8749c0e2f7014cfb8f61d522bed3f3f7b77",
+            "archive_commit": "3ecc875dc1620eb2a4f18b541c8074dff2d90ec7",
+            "released": "2026-05-01T19:11:44+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.5",
+            "tag": "archive/v0.0.5",
+            "upstream_commit": "7da4c301e8b1c85842ee7fa89ed90cbde5315750",
+            "archive_commit": "5da01e879d98cf9ac8d6745abd8e1bc5bf2d89ac",
+            "released": "2026-05-02T16:43:22+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.6",
+            "tag": "archive/v0.0.6",
+            "upstream_commit": "aa135bee9718efd131a97f54030997229f4f408c",
+            "archive_commit": "271a6ab3fe523a47eb64cc437041eaf5be1efde3",
+            "released": "2026-05-02T22:03:13+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.7",
+            "tag": "archive/v0.0.7",
+            "upstream_commit": "c3dabaff0bc44c85011cbebbb71c1796eefa45cd",
+            "archive_commit": "aa2bba57513623b41d94e0c4946a9d36f2a2c855",
+            "released": "2026-05-06T13:50:10+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.8",
+            "tag": "archive/v0.0.8",
+            "upstream_commit": "5476f45fb380c7ec7e3e936269a84d442e4c5bc4",
+            "archive_commit": "1b7043dcb23d07639fbade132108ab8b7a211d43",
+            "released": "2026-05-06T14:38:13+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

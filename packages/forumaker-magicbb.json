@@ -1,0 +1,163 @@
+{
+    "package": "forumaker/magicbb",
+    "upstream": "https://github.com/forumaker/magicbb",
+    "packagistUrl": "https://packagist.org/packages/forumaker/magicbb",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ac09c29bf47c3a07e2470d51e4c24594aa351a40",
+            "archive_commit": "565cdefe5f1351241ce78a7042db1900ff58e1a0",
+            "released": "2026-01-01T11:41:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "3f738ee28a9399116396e1c68d0b3cd8cb211c3f",
+            "archive_commit": "5ea1e71ea4a3148aaaea82c7c4ac98c396c0485e",
+            "released": "2026-05-18T10:36:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.4.4",
+            "tag": "archive/v1.4.4",
+            "upstream_commit": "8d963bea6ce5fad31884584e6e7af72ec1215442",
+            "archive_commit": "38c5a56ff334e9cfb891274e9f9c2c305aca2196",
+            "released": "2026-05-18T15:08:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c91b77983198d78077457f59578e3898bb7156f8",
+            "archive_commit": "9f3dbfcdf4bea0bf26da6dc9d6b365d7cbb1791f",
+            "released": "2026-01-01T11:40:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "b191e481e5351c416b146f170ec3545137f9447c",
+            "archive_commit": "b524845729dab6e9917e8899f7342b7dc91e7607",
+            "released": "2026-04-25T10:11:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.2",
+            "tag": "archive/v2.2.2",
+            "upstream_commit": "0a656eb7c57e13008602e9070238e615ac50acb8",
+            "archive_commit": "a813d72053014826315f88ec2470c2a54b61f003",
+            "released": "2026-04-25T10:29:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.3.0",
+            "tag": "archive/v2.3.0",
+            "upstream_commit": "11495e46b5d589eb0855af63e58b53e1713f4605",
+            "archive_commit": "59905c6340b54525c43b1ae830c59e62709ec60c",
+            "released": "2026-05-04T16:30:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.4.0",
+            "tag": "archive/v2.4.0",
+            "upstream_commit": "c34d84cf3949e0545287b32d11dc30c5250e241a",
+            "archive_commit": "30e408a1009c0f38c78872bb2fdec6314dfff0df",
+            "released": "2026-05-18T10:37:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.4.4",
+            "tag": "archive/v2.4.4",
+            "upstream_commit": "dd31295c383cf6e61d248bffa3e259fe9362d505",
+            "archive_commit": "3b456d221e3aa0723c8713eaad1accf4fc0d73d0",
+            "released": "2026-05-18T15:08:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.4.5",
+            "tag": "archive/v2.4.5",
+            "upstream_commit": "87168119bda3ba6ea2dcf3e59e0e68e696d3c2ec",
+            "archive_commit": "b3d4025459ae76afb5e255a5cb82aff4d81e7ec3",
+            "released": "2026-07-10T11:07:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.4.6",
+            "tag": "archive/v2.4.6",
+            "upstream_commit": "0f4fb21a826580b23c3273d7b33cff7a58de4ab7",
+            "archive_commit": "218529cf3b363b5503cc84a2d87caa5581233270",
+            "released": "2026-07-11T12:04:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.5.0",
+            "tag": "archive/v2.5.0",
+            "upstream_commit": "9671b4473a83b16e392e3f9dc24c418ad9d6936c",
+            "archive_commit": "d1fb8190b0d2b9d7f4e5d65ad17afff2f414d5eb",
+            "released": "2026-07-11T13:58:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.5.1",
+            "tag": "archive/v2.5.1",
+            "upstream_commit": "bd5148ae948752f7bd646c6fa4b1cc048d063aad",
+            "archive_commit": "6c20ba4833e80413bca310c81804a23ffe80a00f",
+            "released": "2026-07-24T18:32:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

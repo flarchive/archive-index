@@ -1,0 +1,43 @@
+{
+    "package": "forumaker/steam-oauth",
+    "upstream": "https://github.com/forumaker/Steam-Oauth",
+    "packagistUrl": "https://packagist.org/packages/forumaker/steam-oauth",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "0733224c7f3e2b85bc2e60a74ea414fb551ba5b6",
+            "archive_commit": "a653ea1a10420469a3c7a3374f09839e62f12408",
+            "released": "2026-05-23T11:00:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "089a3bd0ed7f14c71734d6704200d6976f938937",
+            "archive_commit": "2e9b4f158328920dd6c3dea79cce9cd90c6fa2e1",
+            "released": "2026-05-27T16:34:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.1",
+            "tag": "archive/v2.1.1",
+            "upstream_commit": "ec228aafb88a07d127311830012c4842f1aa0334",
+            "archive_commit": "6f55e050ea0173b7943750897bc66b6ecab8a7f2",
+            "released": "2026-05-27T16:48:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "package": "forumaker/bento",
+    "upstream": "https://github.com/forumaker/Bento",
+    "packagistUrl": "https://packagist.org/packages/forumaker/bento",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "d1c0f093218515180782ffb7bf7792b9b48692c5",
+            "archive_commit": "fd50805a7410a8b79e8b9119a818707b707984ad",
+            "released": "2026-05-31T19:49:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "a750cc30e8c5a03038d3f8f8279d30b344856031",
+            "archive_commit": "c6b952ab7b6fb48b844353ca77bfdd6ff09c596c",
+            "released": "2026-05-31T20:03:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "3b0db080babe7b4a967ee0cfc95e1a5024b3039e",
+            "archive_commit": "bf5e097a9a63a8378d9dc07620b2b5785afba718",
+            "released": "2026-05-31T20:40:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.2",
+            "tag": "archive/v2.2.2",
+            "upstream_commit": "a98aa733d7553da23bd68dd43aa415ee7a7fe4f3",
+            "archive_commit": "6f9e1021333d18b1698bd7f5ece241e458729f7a",
+            "released": "2026-05-31T21:04:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.3.0",
+            "tag": "archive/v2.3.0",
+            "upstream_commit": "88570994bcf483bf00e406fd0b4070eaf77e11ae",
+            "archive_commit": "830e197902ddcaeafc7fdc651e053c7d86102f16",
+            "released": "2026-05-31T21:09:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.4.0",
+            "tag": "archive/v2.4.0",
+            "upstream_commit": "4aae3ebef6c292f3ee935d73e59a33bc93497bb3",
+            "archive_commit": "a318008d8b6ad71d081dbcc7d171e7ca4513a6be",
+            "released": "2026-06-02T09:49:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.5.5",
+            "tag": "archive/v2.5.5",
+            "upstream_commit": "3c98f975b917a23d7ab86b58aa526ad177795f18",
+            "archive_commit": "ddd4611ec284fec837173d60da97ec2c8b70db35",
+            "released": "2026-06-11T00:36:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "package": "forumaker/yandex-smartcaptcha",
+    "upstream": "https://github.com/forumaker/Yandex-SmartCaptcha",
+    "packagistUrl": "https://packagist.org/packages/forumaker/yandex-smartcaptcha",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "85580c1eb41f10d10fd1036e7aaa37452e537d48",
+            "archive_commit": "609175e2ab0938503a5bffa89dc50a046e27771a",
+            "released": "2026-04-26T12:45:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "983f8aefd89ce6e0b425b715f5f31e7cec995070",
+            "archive_commit": "3d410b2072ab2cbaea287dfb5bf75f416f88606c",
+            "released": "2026-05-30T11:37:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "e05a8ba4f0447d1445dc537f39c6f8eb0ebe1ae0",
+            "archive_commit": "5a996224386e08d188ce81b005f46f74112ca7bf",
+            "released": "2026-05-30T11:45:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.2",
+            "tag": "archive/v2.2.2",
+            "upstream_commit": "c0f6c6f295cd65f058a7eb8536c333c60e51f86f",
+            "archive_commit": "b4e3bd8e7c8208f362747a60d4653841671c80aa",
+            "released": "2026-06-02T09:02:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.3.0",
+            "tag": "archive/v2.3.0",
+            "upstream_commit": "0c7305a92c8d2f3d0aa193897962240530398514",
+            "archive_commit": "247c54cd1a331e4dceba7aaed7a7ac387c99c781",
+            "released": "2026-07-11T12:37:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.3.3",
+            "tag": "archive/v2.3.3",
+            "upstream_commit": "bc34830b7c8c7b1513708524e151745c146158a3",
+            "archive_commit": "d9980df1336875d9de43d20ca4e8accc966cb637",
+            "released": "2026-07-11T12:45:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

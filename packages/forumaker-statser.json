@@ -1,0 +1,55 @@
+{
+    "package": "forumaker/statser",
+    "upstream": "https://github.com/forumaker/Statser",
+    "packagistUrl": "https://packagist.org/packages/forumaker/statser",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c3becca341fc44458796a629cff63a10aed6d2b0",
+            "archive_commit": "2f1e87636e1b5f0b541172a8bedf5afdb0453171",
+            "released": "2026-06-10T10:35:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "23db5f9bc3286d0fa62ddc3456e624c01606bd2c",
+            "archive_commit": "84d008a2031428c74965a7be45faa6a7130217c5",
+            "released": "2026-06-11T02:38:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "def531ebe04ce742573eb2039a567d2edddd9d41",
+            "archive_commit": "78c0130b678606003f8050156a97ea073f1b4416",
+            "released": "2026-07-08T18:54:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.2",
+            "tag": "archive/v2.2.2",
+            "upstream_commit": "57f9ee59cf5a0b06a27082f0940857a016a7a542",
+            "archive_commit": "d201e558d1c3104a002530560301b3634ac34439",
+            "released": "2026-07-08T19:40:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

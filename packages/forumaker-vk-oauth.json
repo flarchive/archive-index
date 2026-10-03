@@ -1,0 +1,19 @@
+{
+    "package": "forumaker/vk-oauth",
+    "upstream": "https://github.com/forumaker/VK-Oauth",
+    "packagistUrl": "https://packagist.org/packages/forumaker/vk-oauth",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "bdce659a8654f4b90bca1db576e56549957708e2",
+            "archive_commit": "6d6d2c4cb39876823fc33a10ab7891e3ccb3d165",
+            "released": "2026-08-21T21:57:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

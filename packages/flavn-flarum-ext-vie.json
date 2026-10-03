@@ -1,0 +1,19 @@
+{
+    "package": "flavn/flarum-ext-vie",
+    "upstream": "https://github.com/flavn/flarum-ext-vie",
+    "packagistUrl": "https://packagist.org/packages/flavn/flarum-ext-vie",
+    "versions": [
+        {
+            "version": "v0.1.11",
+            "tag": "archive/v0.1.11",
+            "upstream_commit": "f764ee59d70289c7d787a3cbe1d7a79811dea758",
+            "archive_commit": "b03b93b032c59e43f0ded1c75e9760bf324fbdf3",
+            "released": "2020-02-19T06:02:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "forumtaro/bbcodes",
+    "upstream": "https://github.com/forumtaro/Flarum-bbcobe",
+    "packagistUrl": "https://packagist.org/packages/forumtaro/bbcodes",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "cf7e0e498a31e3fd8a29871c01632fabad932a82",
+            "archive_commit": "f326202fb55dbe8a536ca4bc07772dd77dd0315d",
+            "released": "2026-04-30T07:19:45+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "af8f0c4b06b507b36d88f0c8b859cb34e421bbb1",
+            "archive_commit": "b930c40523bae8181149d284b02b3b840d33d073",
+            "released": "2026-04-30T07:23:26+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "5413415ef04db5365a08c8cdc79432e78aa4d13c",
+            "archive_commit": "19edbad52fdaceb1d9ddae22e42ecc47279e87d4",
+            "released": "2026-04-30T18:51:21+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "37f7b85af55f306c10d0750f2a2f131eb1b596eb",
+            "archive_commit": "1c3861ee780933a0a2bc5fbd1ab61e4f5ea2ccf5",
+            "released": "2026-05-03T18:12:17+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
