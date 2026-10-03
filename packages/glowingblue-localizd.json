@@ -1,0 +1,43 @@
+{
+    "package": "glowingblue/localizd",
+    "upstream": "https://github.com/glowingblue/flarum-ext-localizd",
+    "packagistUrl": "https://packagist.org/packages/glowingblue/localizd",
+    "versions": [
+        {
+            "version": "1.11.3",
+            "tag": "archive/v1.11.3",
+            "upstream_commit": "e301ec40bc25a2fda623de4de2de8e59f93dd036",
+            "archive_commit": "5b8101970712a35121ec656fd3d9aa04c7bcd853",
+            "released": "2026-07-13T13:19:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.11.4",
+            "tag": "archive/v1.11.4",
+            "upstream_commit": "b4140034c5e0974600497ca123cbd7441a10c0e3",
+            "archive_commit": "26eb547b6bc219d5b3334fdf69bbf61701eb80b1",
+            "released": "2026-07-30T13:48:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.11.5",
+            "tag": "archive/v1.11.5",
+            "upstream_commit": "2f18d8f6e79c3ee51bda6a2e061ffab4294ccdbb",
+            "archive_commit": "4fd7c55140ac327c644b848aa99b917b1f4897ec",
+            "released": "2026-08-03T09:23:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

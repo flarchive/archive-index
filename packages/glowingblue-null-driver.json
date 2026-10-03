@@ -1,0 +1,19 @@
+{
+    "package": "glowingblue/null-driver",
+    "upstream": "https://github.com/glowingblue/flarum-ext-null-driver",
+    "packagistUrl": "https://packagist.org/packages/glowingblue/null-driver",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "43a34d55942236b80e5c516c96fafc6b1c8f04ef",
+            "archive_commit": "83c6f502ceb9c82f1d6b57c2af8aef5c1d44c195",
+            "released": "2024-11-15T06:24:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

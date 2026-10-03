@@ -1,0 +1,31 @@
+{
+    "package": "gradba/flarum-media-embed",
+    "upstream": "https://github.com/gradba/flarum-media-embed",
+    "packagistUrl": "https://packagist.org/packages/gradba/flarum-media-embed",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "853eaa13baf4dbb1a3b4f81b73671adc63ca08fa",
+            "archive_commit": "c15b424636231e64cf37f250da34cd5d1be8f186",
+            "released": "2026-07-24T16:33:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0d2fce35271ed826d38c065eba5cc3b99694277e",
+            "archive_commit": "f4b6c92e5892e41826ce0de9c5dbe3d833150407",
+            "released": "2026-07-24T16:47:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

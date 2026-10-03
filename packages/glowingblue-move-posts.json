@@ -1,0 +1,43 @@
+{
+    "package": "glowingblue/move-posts",
+    "upstream": "https://github.com/glowingblue/flarum-ext-move-posts",
+    "packagistUrl": "https://packagist.org/packages/glowingblue/move-posts",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "eb4a668fb897cf38727204c5609af41b4d9e219f",
+            "archive_commit": "591ea131b1ce45af74257667350e6f419b10c67a",
+            "released": "2025-05-01T05:32:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "c25b78a127560012a3c49b76727095d67c02139c",
+            "archive_commit": "ef96fc466a786e2d2e45f3761e98ab9e346d938c",
+            "released": "2025-05-01T06:12:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "7aa027d64ab432c0920efef4509d3a2ed3e0166c",
+            "archive_commit": "ab58fe6b856c29477980eb7a31a087f248cab9eb",
+            "released": "2025-05-06T14:42:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

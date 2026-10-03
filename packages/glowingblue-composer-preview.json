@@ -1,0 +1,43 @@
+{
+    "package": "glowingblue/composer-preview",
+    "upstream": "https://github.com/glowingblue/flarum-ext-composer-preview",
+    "packagistUrl": "https://packagist.org/packages/glowingblue/composer-preview",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "8cf1eab5366d909e88d832d9e691308de1e46978",
+            "archive_commit": "621543f8565066ca25424228288f0f2b4ca239f7",
+            "released": "2020-01-27T13:22:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "cd1b642aba6bcea85372d118a3e0ac15a2666c95",
+            "archive_commit": "fdb9d7554179a79efbd36ef2734737f0e521b46c",
+            "released": "2021-02-09T10:00:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "41b00ba2000482e6e9626e5d92f3ff955979b664",
+            "archive_commit": "0a3e51ad152c18496cf8b766c1d786ef0de15a66",
+            "released": "2021-04-06T08:22:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

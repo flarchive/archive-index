@@ -1,0 +1,19 @@
+{
+    "package": "glutio/domainsso",
+    "upstream": "https://github.com/glutio/flarum.domainsso",
+    "packagistUrl": "https://packagist.org/packages/glutio/domainsso",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "56996f5ef20fc69ab05c9b79cc39abe0848cbf18",
+            "archive_commit": "85b89c15934b28e3d2faa4cfd485f20e58a82fae",
+            "released": "2024-03-24T16:22:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

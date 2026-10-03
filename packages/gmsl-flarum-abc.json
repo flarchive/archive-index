@@ -1,0 +1,79 @@
+{
+    "package": "gmsl/flarum-abc",
+    "upstream": "https://github.com/gmsl/flarum-abc",
+    "packagistUrl": "https://packagist.org/packages/gmsl/flarum-abc",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "3127bfd3084a95b0fd30ad3729983848fc7f084d",
+            "archive_commit": "892047d68ad71723787eaaaa2f158b2a29acb6a9",
+            "released": "2024-02-20T20:09:41+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "68ab50273e17e1e684b886684c3caa676e0750fd",
+            "archive_commit": "5ebecce8c974f76275a4ce9c616f51b6f6b5c5d3",
+            "released": "2024-02-20T20:17:36+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "963e9e6a9f84e88152bcea91295ddaad16799864",
+            "archive_commit": "8b68055722108d7eb6e9a70378578c164f9de1d7",
+            "released": "2024-02-20T21:05:16+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.4",
+            "tag": "archive/v0.4",
+            "upstream_commit": "a0239da7225c8d8b21d4bb1264350ffb1641cba2",
+            "archive_commit": "2519144b2e07fe1cd4bf8b60e28f18284f161474",
+            "released": "2024-02-20T21:35:25+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.5",
+            "tag": "archive/v0.5",
+            "upstream_commit": "d077bdcf468b77fc993050a30b2f00e9d119c403",
+            "archive_commit": "3cb462835d4568b4fa7ab738d1b129a94626cc86",
+            "released": "2024-02-20T22:08:51+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.6",
+            "tag": "archive/v0.6",
+            "upstream_commit": "686305d9c2fba53a47e63d9293d088f358ee76c8",
+            "archive_commit": "1cc6e221be29886b953c096204161027f752a050",
+            "released": "2024-02-22T15:49:32+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

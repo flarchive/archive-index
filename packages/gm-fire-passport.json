@@ -1,0 +1,31 @@
+{
+    "package": "gm-fire/passport",
+    "upstream": "https://github.com/gm-fire/passport",
+    "packagistUrl": "https://packagist.org/packages/gm-fire/passport",
+    "versions": [
+        {
+            "version": "v1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "6be13c713abed905079460b7659ffef31b5199c8",
+            "archive_commit": "764fd4e350022db16cf0f4f557d32c4d2b68bea3",
+            "released": "2024-04-25T11:50:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.3",
+            "tag": "archive/v1.1.3",
+            "upstream_commit": "3e95d15a41d63b45c39d947190b4c63412aa6ba9",
+            "archive_commit": "6d751f5bab9931bcbda485901145fc67fda023f7",
+            "released": "2025-04-16T07:52:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

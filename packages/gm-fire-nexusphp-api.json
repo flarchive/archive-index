@@ -1,0 +1,43 @@
+{
+    "package": "gm-fire/nexusphp-api",
+    "upstream": "https://github.com/gm-fire/nexusphp-api",
+    "packagistUrl": "https://packagist.org/packages/gm-fire/nexusphp-api",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "02c74d63b19745735363c543bf9eb8cf1b450006",
+            "archive_commit": "473704e4f0ac0498d4cfa25811734219a634b69a",
+            "released": "2024-05-07T04:45:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "ff4e3088dbf544f9c5ef4b917642e53e10ef40b8",
+            "archive_commit": "1d0f797709b9e712d6902321219fddaba11f55ba",
+            "released": "2024-05-15T07:14:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "92b3de0f300692257e871c76816a7d94658eeeb7",
+            "archive_commit": "143e7f24ddeaf35e9d63956f41a14105539af689",
+            "released": "2025-04-30T07:38:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "gitzaai/mobile-ui-tab-2",
+    "upstream": "https://github.com/gitzaai/mobile-ui-tab-2",
+    "packagistUrl": "https://packagist.org/packages/gitzaai/mobile-ui-tab-2",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "e173d7e454550c0eee27f6d3968f37205246d8f3",
+            "archive_commit": "5edf56edbe40e5ef250a16b154995f1845b17771",
+            "released": "2022-12-19T09:36:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

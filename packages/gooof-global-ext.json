@@ -1,0 +1,55 @@
+{
+    "package": "gooof/global-ext",
+    "upstream": "https://github.com/gooof/global-ext",
+    "packagistUrl": "https://packagist.org/packages/gooof/global-ext",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "284578cb2a3e3b0b1d89d75d05785efe27635b78",
+            "archive_commit": "25e3f0fc25bb2a6c9e9e01af62f86ca890ef4888",
+            "released": "2018-09-23T18:53:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.7.1",
+            "tag": "archive/v0.7.1",
+            "upstream_commit": "284578cb2a3e3b0b1d89d75d05785efe27635b78",
+            "archive_commit": "fe8c09ddfd1b90837fd306fef97436e7dc383d4b",
+            "released": "2018-09-23T18:53:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7.1",
+            "tag": "archive/v0.1.0-beta.7.1",
+            "upstream_commit": "284578cb2a3e3b0b1d89d75d05785efe27635b78",
+            "archive_commit": "65371a6c22c16e11663e244ba9157d5e2de97392",
+            "released": "2018-09-23T18:53:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "284578cb2a3e3b0b1d89d75d05785efe27635b78",
+            "archive_commit": "8480b3245f15006ae41858d1988b91e376257cb7",
+            "released": "2018-09-23T18:53:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

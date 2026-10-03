@@ -1,0 +1,43 @@
+{
+    "package": "gradba/flarum-pagination",
+    "upstream": "https://github.com/gradba/flarum-pagination",
+    "packagistUrl": "https://packagist.org/packages/gradba/flarum-pagination",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c1eb54fcb8ebda1e98c2ef6e2f5c19592206749f",
+            "archive_commit": "1a17d73d4956eea4d9bd91b32db1c01a853f88e8",
+            "released": "2026-07-24T14:05:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "160bada3a6afbf60731b9f1ca54ebae19ed97df1",
+            "archive_commit": "8464c7e181c4b29743fbb3931ed05b9cab3522e8",
+            "released": "2026-07-24T15:59:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "77df3c8e0b631f8e89a41b67a8ecd1e25278b367",
+            "archive_commit": "85fdc420275c47ed8523fcf29d99b812b5810f11",
+            "released": "2026-07-24T16:59:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

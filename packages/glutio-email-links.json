@@ -1,0 +1,19 @@
+{
+    "package": "glutio/email-links",
+    "upstream": "https://github.com/glutio/flarum.email-links",
+    "packagistUrl": "https://packagist.org/packages/glutio/email-links",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "77639ee66bfed31a6adcb14332637ede3478b6ae",
+            "archive_commit": "c0d1a7199fd014a162e69763510fde6c27a895f3",
+            "released": "2024-03-27T07:57:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

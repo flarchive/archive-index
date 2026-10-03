@@ -1,0 +1,19 @@
+{
+    "package": "gm-fire/nicknames",
+    "upstream": "https://github.com/gm-fire/nicknames",
+    "packagistUrl": "https://packagist.org/packages/gm-fire/nicknames",
+    "versions": [
+        {
+            "version": "v1.8.1",
+            "tag": "archive/v1.8.1",
+            "upstream_commit": "df0ff67eb2600e3f358b5d7a03f87528cb98963f",
+            "archive_commit": "dbaaf18255275cca0181562540c1fee4878e7d31",
+            "released": "2025-04-16T09:31:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

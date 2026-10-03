@@ -1,0 +1,31 @@
+{
+    "package": "glowingblue/save-sorting-preferences",
+    "upstream": "https://github.com/glowingblue/flarum-ext-save-sorting-preferences",
+    "packagistUrl": "https://packagist.org/packages/glowingblue/save-sorting-preferences",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "3175ec29d1b78f1078ef5ecca90b128b7856735f",
+            "archive_commit": "1db2b45a2a1a8f93f79e8104e8b4dd264641d562",
+            "released": "2026-01-27T09:13:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "318b14710935b1de4b9ec907b9d9fe2ae789685e",
+            "archive_commit": "274bff2d30de0a9099561aa5b9d4a9d9268ef01b",
+            "released": "2026-01-27T09:44:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
