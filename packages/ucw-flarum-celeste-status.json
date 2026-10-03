@@ -1,0 +1,43 @@
+{
+    "package": "ucw/flarum-celeste-status",
+    "upstream": "https://github.com/wuxianucw/flarum-celeste-status",
+    "packagistUrl": "https://packagist.org/packages/ucw/flarum-celeste-status",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "e6e110f4c6ed2fd042036ed4a70c0f75e95acba4",
+            "archive_commit": "e4a9fc8f4d67d38b0b67eb053dd9fc3acc9c36f0",
+            "released": "2023-02-28T15:27:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "41cc53b020580898c7bee6659fc27ac01c28719a",
+            "archive_commit": "8720c730573f55c77a8ef464c3ccb29c005a92d4",
+            "released": "2023-03-01T03:38:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "49425755144cb34ac2be6e034293e1a4725a456f",
+            "archive_commit": "fb3ac643bfad3173c540c29231b69b143296957d",
+            "released": "2023-03-01T07:44:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

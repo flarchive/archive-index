@@ -1,0 +1,31 @@
+{
+    "package": "umhelper/oauth-clerk",
+    "upstream": "https://github.com/UMHelper/flarum-ext-oauth-clerk",
+    "packagistUrl": "https://packagist.org/packages/umhelper/oauth-clerk",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "cd60d9717c418230f3533483534ceacff400a6ac",
+            "archive_commit": "c41d4cc638f31a6905ef1a384cdc01b112cbcea5",
+            "released": "2023-11-28T12:32:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0a8a3ca4b5de1c504b0c693237b83b44863859bf",
+            "archive_commit": "d52d299a9d540a778f3830b1aeeb9ba1bfedcb06",
+            "released": "2023-11-28T12:44:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

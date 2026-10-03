@@ -1,0 +1,31 @@
+{
+    "package": "tryhackx/flarum-thumb-sliders",
+    "upstream": "https://github.com/TryHackX/flarum-thumb-sliders",
+    "packagistUrl": "https://packagist.org/packages/tryhackx/flarum-thumb-sliders",
+    "versions": [
+        {
+            "version": "1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "b3117fa7d926e628325a22656bdbc3cba694f3be",
+            "archive_commit": "51a045459daff80ef961c4a2b6a1a4d753bb921e",
+            "released": "2026-04-23T21:18:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.6",
+            "tag": "archive/v2.1.6",
+            "upstream_commit": "a0f07830b78c650d8c0db750906f30806abe9426",
+            "archive_commit": "c29ecad4c67188bc225a8f465a24db836da4a93a",
+            "released": "2026-06-13T12:04:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "unraveloop/fof-upload-imagex-template",
+    "upstream": "https://github.com/unraveloop/fof-upload-imagex-template",
+    "packagistUrl": "https://packagist.org/packages/unraveloop/fof-upload-imagex-template",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f9889c5fbac68d1644e7164d965da688fb9d84d2",
+            "archive_commit": "a7cc00e742a556c5674447f7c062045f52563354",
+            "released": "2026-03-12T12:07:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "c90d0f017da23bb26dffe0fc5ece20047a4b70d3",
+            "archive_commit": "cfb685863e80c6aee2182a1f5696ba156ece61fa",
+            "released": "2026-03-12T12:22:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

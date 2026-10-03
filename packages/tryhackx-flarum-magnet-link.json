@@ -1,0 +1,31 @@
+{
+    "package": "tryhackx/flarum-magnet-link",
+    "upstream": "https://github.com/TryHackX/flarum-magnet-link",
+    "packagistUrl": "https://packagist.org/packages/tryhackx/flarum-magnet-link",
+    "versions": [
+        {
+            "version": "1.0.8",
+            "tag": "archive/v1.0.8",
+            "upstream_commit": "17612cdbdaeadd233e7168c2030d6f358f247141",
+            "archive_commit": "5f1c3d1eb50a74679c2b08977cc0e6fd4b72d8de",
+            "released": "2026-04-23T21:49:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.9.1",
+            "tag": "archive/v2.9.1",
+            "upstream_commit": "4bbc5bd191bd4d019f788e90047986641b4089af",
+            "archive_commit": "bf56ab3a949c9f82d539089f2f46ef5cbc3ec09c",
+            "released": "2026-06-20T18:51:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

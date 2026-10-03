@@ -1,0 +1,43 @@
+{
+    "package": "tryhackx/flarum-advanced-pages",
+    "upstream": "https://github.com/TryHackX/flarum-advanced-pages",
+    "packagistUrl": "https://packagist.org/packages/tryhackx/flarum-advanced-pages",
+    "versions": [
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "77cf9e5b892dafc109abe5b05d6c801ece7b6ec6",
+            "archive_commit": "d5ee9145df18ff14cd5bdf2175ac05d83e472cdf",
+            "released": "2026-04-12T22:22:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "ac8a6725c2e4e50441c13ad0b98d4921c3826a92",
+            "archive_commit": "34a5bf2a5c6a8cafe9efdbd9f4a1eab1b059469e",
+            "released": "2026-06-21T22:45:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.3.1",
+            "tag": "archive/v2.3.1",
+            "upstream_commit": "a607a858eade828da9aec6fd096e3875f2e4436b",
+            "archive_commit": "26f433dff8c4be9ce83257ef51f8737ebe7bbecd",
+            "released": "2026-07-06T12:06:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

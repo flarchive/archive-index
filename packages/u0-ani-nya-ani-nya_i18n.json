@@ -1,0 +1,67 @@
+{
+    "package": "u0-ani-nya/ani-nya_i18n",
+    "upstream": "https://github.com/u0-ani-nya/ani-nya_i18n",
+    "packagistUrl": "https://packagist.org/packages/u0-ani-nya/ani-nya_i18n",
+    "versions": [
+        {
+            "version": "1.1.0-beta",
+            "tag": "archive/v1.1.0-beta",
+            "upstream_commit": "98bfe42193a3ec84acce297e937dfa1edcec12da",
+            "archive_commit": "f6d272c05bf5e6c1c8340b520448a50fc295f9e7",
+            "released": "2026-07-21T06:10:14+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.2-beta",
+            "tag": "archive/v1.3.2-beta",
+            "upstream_commit": "73e77053d44f378b958b1d916bfbcd8e46d19ecd",
+            "archive_commit": "c4fd039bf6d0111f27ba19cfc925c53b24e5b3b2",
+            "released": "2026-07-22T03:57:02+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.3-beta",
+            "tag": "archive/v1.3.3-beta",
+            "upstream_commit": "2e66e2c5ed71b3ab3ab91495c586cc3d7e751f59",
+            "archive_commit": "23682cb023d5c2c91f79255d84075fcae5e31a1c",
+            "released": "2026-07-22T15:59:51+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.4-beta",
+            "tag": "archive/v1.3.4-beta",
+            "upstream_commit": "da2f983f2603d42fdcc772d09ad73eb4b0b1ee80",
+            "archive_commit": "a7e2da8f4bbf39fa08df683e468a0d6be6795d35",
+            "released": "2026-07-22T16:21:26+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.5-beta",
+            "tag": "archive/v1.3.5-beta",
+            "upstream_commit": "a3545761c78c384bfe87212fd7324791693508c7",
+            "archive_commit": "30053c422433211255a535a3bf25f8e2631da139",
+            "released": "2026-07-22T17:20:02+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

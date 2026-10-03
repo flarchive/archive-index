@@ -1,0 +1,43 @@
+{
+    "package": "tryhackx/flarum-cover-studio",
+    "upstream": "https://github.com/TryHackX/flarum-cover-studio",
+    "packagistUrl": "https://packagist.org/packages/tryhackx/flarum-cover-studio",
+    "versions": [
+        {
+            "version": "v2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "4cde3934d052f4a1331d18bbb3942fca53a4f175",
+            "archive_commit": "d0525e05563ccec7aba2081af12d2b7d19c90fb3",
+            "released": "2026-07-03T21:17:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "ceb7b3013a05093bdb9f52ebd4e3e2d71d962244",
+            "archive_commit": "df6a59f760bd10fa1a7edf4e52314fe6048e2419",
+            "released": "2026-07-04T12:45:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.2.1",
+            "tag": "archive/v2.2.1",
+            "upstream_commit": "808378d8190af2da400c5d04adf61cf064dffa40",
+            "archive_commit": "9be7a257cb242f99e4308387d216bbf7035ae2ff",
+            "released": "2026-07-04T18:38:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

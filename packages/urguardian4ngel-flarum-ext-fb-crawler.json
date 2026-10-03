@@ -1,0 +1,19 @@
+{
+    "package": "urguardian4ngel/flarum-ext-fb-crawler",
+    "upstream": "https://github.com/UrGuardian4ngel/flarum-ext-fb-crawler",
+    "packagistUrl": "https://packagist.org/packages/urguardian4ngel/flarum-ext-fb-crawler",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "archive/v0.1.0-beta.5",
+            "upstream_commit": "b81b1f67a086cb64bbb63da24d33e8fdd2c57160",
+            "archive_commit": "8724c2921c7915235fb5be8f0543130b39dbe5a2",
+            "released": "2016-09-25T12:11:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

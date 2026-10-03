@@ -1,0 +1,43 @@
+{
+    "package": "unkorneglosk/flarum-age-check",
+    "upstream": "https://github.com/Unkorneglosk/flarum-age-check",
+    "packagistUrl": "https://packagist.org/packages/unkorneglosk/flarum-age-check",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "5c56d9e8d55772739b981606af7699ec8ae81e89",
+            "archive_commit": "9749b92ce9b0b0a6cafa0ce84dfbfa7b998bc53b",
+            "released": "2021-12-02T15:43:51+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "4c94b722ac3d42052bc01c9bda163b74b6a07757",
+            "archive_commit": "6a5b3e8279d5e4fe5c34ab840f3094d43cb72120",
+            "released": "2021-12-02T18:08:18+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "7c390df2bdd9b935fb09481d8eab83b95f41597f",
+            "archive_commit": "c04796d2033f9b156dcab6f2d0ce10dec73ddff3",
+            "released": "2021-12-08T19:40:21+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

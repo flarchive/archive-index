@@ -1,0 +1,31 @@
+{
+    "package": "tryhackx/flarum-topic-rating",
+    "upstream": "https://github.com/TryHackX/flarum-topic-rating",
+    "packagistUrl": "https://packagist.org/packages/tryhackx/flarum-topic-rating",
+    "versions": [
+        {
+            "version": "1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "42b8e26c04fea356992aadbd27de0b8a5bb80a97",
+            "archive_commit": "67deff31aafd9c501fedc6b28d8c36a77845d6f4",
+            "released": "2026-04-23T21:31:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.4.11",
+            "tag": "archive/v2.4.11",
+            "upstream_commit": "9a2516fb250fed9b23dbc5402b7a6598571af79f",
+            "archive_commit": "b24ec5cc06ae5872b6f79368c12b4ec2f59881e5",
+            "released": "2026-06-15T15:09:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
