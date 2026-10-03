@@ -1,0 +1,19 @@
+{
+    "package": "svennd/belnotemail",
+    "upstream": "https://github.com/svennd/belnotemail",
+    "packagistUrl": "https://packagist.org/packages/svennd/belnotemail",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "741ee0cbdb15e6d1f2e29030c2494f1d9046c677",
+            "archive_commit": "78c2ec0d6e2db41872479006c9b8a8fc6ee4cb2d",
+            "released": "2021-01-31T10:54:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

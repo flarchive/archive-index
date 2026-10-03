@@ -1,0 +1,79 @@
+{
+    "package": "studosi/mail-filter",
+    "upstream": "https://github.com/studosi-flarum/mail-filter",
+    "packagistUrl": "https://packagist.org/packages/studosi/mail-filter",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "b5939ba253f1faad168da5204b306bbd15328620",
+            "archive_commit": "232d10b0c535661a29d1a7f8bcbf522c0c787eb1",
+            "released": "2020-03-16T17:51:31+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "0a00a4935eec5942596f778094985cd6a08a9d32",
+            "archive_commit": "f947a91af76086842264c67363a1c7a08b306815",
+            "released": "2020-03-19T00:08:11+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "2a1889f915ad69fb73a45db3817fe416c518cb6a",
+            "archive_commit": "d48e5cf6763461c1c78e10ad7b4f9697ef89b4ce",
+            "released": "2020-03-16T18:35:23+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "3123c725302a6035b2315838def3d88f6069cc66",
+            "archive_commit": "b9a79f164904234ee283b8bd959087052c2f79e1",
+            "released": "2020-03-16T19:18:41+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "2ecbbf0dc4781a4a08720dc52e3546c137a79c05",
+            "archive_commit": "9af5e8edebcaebacf3a7b2f5da7ce0821ddb8c86",
+            "released": "2020-03-16T19:52:38+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "0a00a4935eec5942596f778094985cd6a08a9d32",
+            "archive_commit": "1155a53f6ad1f3d91aaa51ae795ae8bd2e05a097",
+            "released": "2020-03-19T00:08:11+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

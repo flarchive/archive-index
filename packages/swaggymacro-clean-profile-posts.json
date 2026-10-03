@@ -1,0 +1,67 @@
+{
+    "package": "swaggymacro/clean-profile-posts",
+    "upstream": "https://github.com/SwaggyMacro/clean-profile-posts",
+    "packagistUrl": "https://packagist.org/packages/swaggymacro/clean-profile-posts",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "2801b15d46541d93313d51214baebfee76387ced",
+            "archive_commit": "f7c2cc46f2fdd642e790da865d6c71a7527c923c",
+            "released": "2018-09-14T22:04:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "d0815ca0096dbd89275987d445c9d3d378e25a3f",
+            "archive_commit": "8c6cb870023f64fb7192276026fd965bb1833aa4",
+            "released": "2018-09-17T22:18:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "ee2bf513e2175fa722c01e8ce5a7341d0dfc2ac7",
+            "archive_commit": "004794d274f0eb708eb1a8720e35d6cf464623e0",
+            "released": "2018-12-27T03:08:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "b5732a09e244d2aaf2776a06070c7c74adff2877",
+            "archive_commit": "1578b24f39da406e27e4eed94a22fc8d97f5fd3e",
+            "released": "2018-12-27T03:22:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "4630216f3083ed04248b660a3de62c8b223b8ddb",
+            "archive_commit": "3c6c5ad40c486594a0090f0177501bb97cc082dc",
+            "released": "2022-04-03T16:30:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

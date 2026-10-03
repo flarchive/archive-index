@@ -1,0 +1,55 @@
+{
+    "package": "swader/lang-croatian",
+    "upstream": "https://github.com/Swader/lang-croatian",
+    "packagistUrl": "https://packagist.org/packages/swader/lang-croatian",
+    "versions": [
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "c8a2efad2093522e8e65ffeecd94262102213d03",
+            "archive_commit": "eee67bd7261faae657aaec64007ab347324e2eb0",
+            "released": "2020-11-19T17:19:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "d3d38d86d8a618db7a638f6b38d72f5f599cca58",
+            "archive_commit": "0a69b31f533e83a692bda9cad74b18ffa678e819",
+            "released": "2020-06-04T09:43:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "4f5d56b3922728a1f77127cd6813673ccb1e3986",
+            "archive_commit": "51e1c1b51d2f34a32e6503eba6f28bc0c1d3a5f3",
+            "released": "2020-11-20T21:19:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3",
+            "tag": "archive/v1.3",
+            "upstream_commit": "ad8cf11555c448300b71e455b0f12dcb6afd4ebe",
+            "archive_commit": "11d8fde3567279b93a289f2fe94112ea40a53e3a",
+            "released": "2020-12-04T13:56:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

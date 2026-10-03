@@ -1,0 +1,31 @@
+{
+    "package": "stezkoy/flarum-telegram-audit",
+    "upstream": "https://github.com/Stezkoy/flarum-telegram-audit",
+    "packagistUrl": "https://packagist.org/packages/stezkoy/flarum-telegram-audit",
+    "versions": [
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "7044083a2a9d851c6c51564f42a8474fd29389c9",
+            "archive_commit": "3e6426b477d7697d06aecfb75fdb473d154bc849",
+            "released": "2026-08-25T08:51:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "31c3f9a91675e8fc65bc3b81ba7715bd0d0c38cc",
+            "archive_commit": "6d802e4ef0fca25ec86c8348cf87344c9b212e14",
+            "released": "2026-08-25T10:49:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "sycho/flarum-action-log",
+    "upstream": "https://github.com/SychO9/flarum-action-log",
+    "packagistUrl": "https://packagist.org/packages/sycho/flarum-action-log",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d917d7e9f7be26fdd2bdcb66bd04e371a2ce944e",
+            "archive_commit": "cc4d8eb669c0568bff14b1623810c646e9d628b0",
+            "released": "2020-11-29T18:37:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "f33f0cb3be57573c449e8499cbad288709a648b8",
+            "archive_commit": "467eb007cd55ff23e3f425a0daaa27b17190a0be",
+            "released": "2020-12-12T11:36:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "074d67844400b3a4702ed20d064466d6d0636f9a",
+            "archive_commit": "8d0638278dd85c8f5fffe64eb9c8ad7c951cd4c4",
+            "released": "2020-12-12T12:18:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "b2e8dc8228ea2f54947e039b9d8f18bd967629a8",
+            "archive_commit": "01cb040bc90f9b0d3c3d24dcad4a762acbf4f3b7",
+            "released": "2020-12-22T11:33:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "stezkoy/noui-tele-audit",
+    "upstream": "https://github.com/Stezkoy/noui-tele-audit",
+    "packagistUrl": "https://packagist.org/packages/stezkoy/noui-tele-audit",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8c5ca6799c9d824ec8843c6f953299e47873ec0e",
+            "archive_commit": "ea137a1aa19dde80be73cadf99718fed4c7a1fd0",
+            "released": "2026-06-30T11:56:40+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

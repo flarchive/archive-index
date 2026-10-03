@@ -1,0 +1,103 @@
+{
+    "package": "studosi/flarum-lang-croatian",
+    "upstream": "https://github.com/studosi-flarum/flarum-lang-croatian",
+    "packagistUrl": "https://packagist.org/packages/studosi/flarum-lang-croatian",
+    "versions": [
+        {
+            "version": "1.0.4b",
+            "tag": "archive/v1.0.4b",
+            "upstream_commit": "b8b4c59d834f4e896d161613e9db5993760f8d25",
+            "archive_commit": "5d78a2d821ca3f27e60dca418c4d28da1ed50378",
+            "released": "2021-10-05T00:55:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4-p4",
+            "tag": "archive/v1.0.4-p4",
+            "upstream_commit": "aef6ff9cf8ccdfc44dc6b30a763dca45c0f23318",
+            "archive_commit": "c861f391c900265cf3bbe7d9a987450a648bafa7",
+            "released": "2021-10-06T01:02:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4-p5",
+            "tag": "archive/v1.0.4-p5",
+            "upstream_commit": "b5a2d75c94b894d7a203d10bf0b395871b6d0d93",
+            "archive_commit": "567d99b2f1a3e3f4aca0ca5d4e2c77d86d092400",
+            "released": "2021-10-06T01:09:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4-p6",
+            "tag": "archive/v1.0.4-p6",
+            "upstream_commit": "d8dfd26d1bed2b7c236cd165e77525c4f026292a",
+            "archive_commit": "1ffd42cb7b010ae31782fa1aa1ff227f9412b5c2",
+            "released": "2021-10-06T01:24:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4-p7",
+            "tag": "archive/v1.0.4-p7",
+            "upstream_commit": "79df1b432d728a5965f7f3b29bb463a7de6767e0",
+            "archive_commit": "75b43957b3c2fa62e599cc95f055d3126bae1589",
+            "released": "2021-10-06T01:29:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4-p8",
+            "tag": "archive/v1.0.4-p8",
+            "upstream_commit": "08ebc291855731ee3688892c6056ad721a15cd4a",
+            "archive_commit": "d0fe895d115c4bc69da3814c3b5c5d170ee761a2",
+            "released": "2021-10-06T22:28:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4-p9",
+            "tag": "archive/v1.0.4-p9",
+            "upstream_commit": "8e3323e2b321eb29801b0e14e00ecea2d6a46227",
+            "archive_commit": "15186bbb5374430a448528a28503cf00e5f831d3",
+            "released": "2021-10-07T21:53:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4a",
+            "tag": "archive/v1.0.4a",
+            "upstream_commit": "39d2f2b40458d7f392b81f556831310f8b27dd5d",
+            "archive_commit": "5fa7f55a20ec513116033da9cc9a9e95eff2282e",
+            "released": "2021-10-05T00:28:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

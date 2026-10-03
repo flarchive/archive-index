@@ -1,0 +1,55 @@
+{
+    "package": "swader/web3address",
+    "upstream": "https://github.com/Swader/flarum-web3address",
+    "packagistUrl": "https://packagist.org/packages/swader/web3address",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "3462e69f86a9af97bace0e3bc39fae8238d51d50",
+            "archive_commit": "c8404d56cdd7c7375d160266b1ebcf93a9f1de92",
+            "released": "2020-12-01T09:44:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "8f9722e32e037683261ba2e991928fc76e39f74b",
+            "archive_commit": "115e6540107df1a66fcdd5ea1b68f0f89b4c4f3c",
+            "released": "2020-12-02T18:07:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "302b134e03d9c04fcd4cf1eba4891b991eb43f9f",
+            "archive_commit": "82414946697c7d2f10664dfbb13983fce56e3808",
+            "released": "2020-12-07T11:15:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "06ac1c6313771d974f131372f3d62c212afff8f1",
+            "archive_commit": "c64130d901064ae4b2b71ddbb1118c43af2b0837",
+            "released": "2020-12-07T12:12:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

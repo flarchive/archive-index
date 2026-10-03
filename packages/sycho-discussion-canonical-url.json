@@ -1,0 +1,31 @@
+{
+    "package": "sycho/discussion-canonical-url",
+    "upstream": "https://github.com/SychO9/flarum-discussion-canonical-url",
+    "packagistUrl": "https://packagist.org/packages/sycho/discussion-canonical-url",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "5bd261008cce84238e5cf9a718851c1c7338318c",
+            "archive_commit": "626011aaa60872dfee580a56dbb7162158e1f874",
+            "released": "2022-02-18T12:13:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "558c78c5713dec206cdb9e719697eb4f87f12164",
+            "archive_commit": "b331b42526381e1eb79fc3cd72dfc46e04fc4db4",
+            "released": "2021-08-25T15:12:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

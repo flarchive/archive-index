@@ -1,0 +1,127 @@
+{
+    "package": "stezkoy/noui-tele-notify",
+    "upstream": "https://github.com/Stezkoy/noui-tele-notify",
+    "packagistUrl": "https://packagist.org/packages/stezkoy/noui-tele-notify",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2e78fc9334ed99a1ba6e71128fd97a3bc9fadf15",
+            "archive_commit": "c1cdd98cae3d0b650ee19fb746333052a7b17bf4",
+            "released": "2026-06-29T16:04:38+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "5db1f74dc74489bee0e1cbc06f47f5063ef750bf",
+            "archive_commit": "5799be4c6a982ad29685f5f645d93a1d490c091d",
+            "released": "2026-06-30T12:05:23+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "4ed27492d6ae6569f737cdd4043ada0990538cc6",
+            "archive_commit": "40111cedc7552f98af41d946237548a035ed3859",
+            "released": "2026-06-30T12:59:06+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "5df69c926f36c07f8e60b736631b73a7849e7f6a",
+            "archive_commit": "cb2d33085135a353f7d482f75e082e47b3827dcc",
+            "released": "2026-08-19T15:46:29+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "d0c9620f513218c2fab543dc1618429dbbb1cc95",
+            "archive_commit": "ebda85a59f57d76daf2f034ca77c34192bcb9089",
+            "released": "2026-08-19T15:57:00+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "c66f60831ab0151f209d84335cafeb7850c14bb2",
+            "archive_commit": "3e0ca426bb906f72b4b23bec628ea59379b83a81",
+            "released": "2026-08-19T17:22:03+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "70a280bdd5b359b0e082eb19ab4d733517eda64c",
+            "archive_commit": "371679816ef6205d95732c2b08355a9761fd3739",
+            "released": "2026-08-19T17:33:47+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.7",
+            "tag": "archive/v1.0.7",
+            "upstream_commit": "9cf401877ea30b0ef9640a18a240ab85876f6af0",
+            "archive_commit": "411e3567532b267ff703757bfff01587b86bf8c3",
+            "released": "2026-08-19T17:39:04+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.8",
+            "tag": "archive/v1.0.8",
+            "upstream_commit": "3e0d588261b73b3a36d98180b4973741f0618451",
+            "archive_commit": "473f2232512f47b91320364e94ccd3f80fa3a336",
+            "released": "2026-08-19T17:43:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.9",
+            "tag": "archive/v1.0.9",
+            "upstream_commit": "26ce5bdd3d9297d18b997405839c22baa6359e6b",
+            "archive_commit": "1028d1946848e61e558fc8c15d01f6de42227ec0",
+            "released": "2026-08-21T21:46:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
