@@ -1,0 +1,19 @@
+{
+    "package": "comocozy/flarum-ext-auth-naver",
+    "upstream": "https://github.com/Comocozy/flarum-ext-auth-naver",
+    "packagistUrl": "https://packagist.org/packages/comocozy/flarum-ext-auth-naver",
+    "versions": [
+        {
+            "version": "0.1.0-beta.6",
+            "tag": "archive/v0.1.0-beta.6",
+            "upstream_commit": "625c45bf3e1b644ab1cde417e3948e5e37604648",
+            "archive_commit": "3c92878fe5e7b4aa8a18c6f5f38e993727a29b6f",
+            "released": "2017-06-09T08:48:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

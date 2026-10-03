@@ -1,0 +1,31 @@
+{
+    "package": "cneicy/chinese-simplified",
+    "upstream": "https://github.com/cneicy/chinese-simplified",
+    "packagistUrl": "https://packagist.org/packages/cneicy/chinese-simplified",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c2ef3f73009f50b86f376cbf3c62dc830adbad39",
+            "archive_commit": "14f31e1cb6e769c528c3fdc8852c4391138af97c",
+            "released": "2024-06-06T11:12:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "adc79c7c819c478fcadbfa3a92106f2390b6ed6f",
+            "archive_commit": "6b46a569e666682e1937a1db909e27e20d8b4450",
+            "released": "2024-07-29T03:29:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

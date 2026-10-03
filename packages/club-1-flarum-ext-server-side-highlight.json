@@ -1,0 +1,139 @@
+{
+    "package": "club-1/flarum-ext-server-side-highlight",
+    "upstream": "https://github.com/club-1/flarum-ext-server-side-highlight",
+    "packagistUrl": "https://packagist.org/packages/club-1/flarum-ext-server-side-highlight",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "9e046cd933014d95abdd5d9242433eef5db14f4e",
+            "archive_commit": "ebf5f1826a47f6e67ff5c087bd6946e1ddf6858e",
+            "released": "2023-04-25T13:48:38+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "042180fd589bfe0697120ebb5c364aee035a9b40",
+            "archive_commit": "65ac7eac1e415669899b3ac07836f49ab7b52e9a",
+            "released": "2023-04-25T14:28:20+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "80441c1392af03dd29a057d7dd6fa9fef2f2b299",
+            "archive_commit": "876e4b4928ad5d3e0e21e6d0499aad6df94bf452",
+            "released": "2023-04-25T18:35:41+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "c18b78879a15b8af69712caacb08ebfddf5ac72d",
+            "archive_commit": "f2b2ec07caf7c00fd3e1aea5b631ba179de771e7",
+            "released": "2023-04-27T09:25:57+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.3",
+            "tag": "archive/v0.2.3",
+            "upstream_commit": "ef5f6d5a9659a4ed937b6d9377dfbd1d2b15384c",
+            "archive_commit": "d1db33275d139f74c99b1978d0d3e98c633608d5",
+            "released": "2023-04-27T14:02:53+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f8737e8ff7a50d4657679e54dbedac8f8bbfd91e",
+            "archive_commit": "7d9ca3415f140fe187259c44e899dd244731f036",
+            "released": "2023-04-28T17:34:48+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "df94e9b44e2bdcd82a82fc2e598b9be9717239d6",
+            "archive_commit": "47efd5daec12790170504a626c5082ec08783f72",
+            "released": "2023-05-17T17:37:38+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "fdf864052ab339847df228c5274836bd672966c6",
+            "archive_commit": "9653200c99aecd071a53f5b4670a5b3ffa708166",
+            "released": "2023-05-27T18:22:50+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "3f30c92e41326510271852cd78eeb18993d3c2bc",
+            "archive_commit": "e29f2621d0f35ee9bd84fba1e657d9a48ab1831c",
+            "released": "2023-05-27T20:35:07+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "e9d7446eae42294588db71f604a57f481cd9f2e1",
+            "archive_commit": "bc8b15523dd1f701e631bd26627f984bdb3f6da8",
+            "released": "2023-06-03T07:07:02+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "e0f2b7d35fb34a7093306501db78df4aa2670377",
+            "archive_commit": "7668d861c260f2c989ecbfdbd00ff4e591297ded",
+            "released": "2023-06-09T11:16:14+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "club-1/flarum-ext-french-typography",
+    "upstream": "https://github.com/club-1/flarum-ext-french-typography",
+    "packagistUrl": "https://packagist.org/packages/club-1/flarum-ext-french-typography",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "bfe71fd84587ec82f1711417ad642af8242a3ace",
+            "archive_commit": "95cdc0d6e6638794e2261eb29f2af2a9b267e0dd",
+            "released": "2023-02-22T19:09:50+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "c5ac54386a82499b95c550fc56f74f3083ecfb60",
+            "archive_commit": "80803500ac8964170ea9de79788a8f9a6a916cbc",
+            "released": "2023-02-26T15:25:30+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

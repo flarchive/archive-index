@@ -1,0 +1,31 @@
+{
+    "package": "constructions-incongrues/flarum-lite-youtube",
+    "upstream": "https://github.com/constructions-incongrues/flarum-lite-youtube",
+    "packagistUrl": "https://packagist.org/packages/constructions-incongrues/flarum-lite-youtube",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "22f63f71c828eeafb375a29a1b77a60365f84774",
+            "archive_commit": "7e4e8e43889c150f2cc278123806cfc827dfac39",
+            "released": "2025-10-24T23:16:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "313f1ed807a557541e2ff2a70f5deabcc2888397",
+            "archive_commit": "ddc83169432287f8d4f79858151c703f850fda04",
+            "released": "2025-10-24T23:21:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "cobbz/flarum-ext-money-transfer",
+    "upstream": "https://github.com/Cobb-Zhang/flarum-ext-money-transfer",
+    "packagistUrl": "https://packagist.org/packages/cobbz/flarum-ext-money-transfer",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "42459f2517cd76ed900a8583e5c4c421d8612aa7",
+            "archive_commit": "06ccc66d4f1cc28b706e27f3af111061e023ce73",
+            "released": "2024-05-31T09:19:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

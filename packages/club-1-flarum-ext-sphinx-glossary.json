@@ -1,0 +1,91 @@
+{
+    "package": "club-1/flarum-ext-sphinx-glossary",
+    "upstream": "https://github.com/club-1/flarum-ext-sphinx-glossary",
+    "packagistUrl": "https://packagist.org/packages/club-1/flarum-ext-sphinx-glossary",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f90c2ddf533b3c5567961d1d078e6c24ad27e512",
+            "archive_commit": "9a333dd7af9bfa7619cd3002743f8afdaaa1163d",
+            "released": "2023-04-17T21:13:14+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "d2add76f3bba625bd36458f19ec8da4dab5d2ecd",
+            "archive_commit": "a48314e0b25afd2cc69b71ccb35f0310690d4e6d",
+            "released": "2023-04-18T17:24:08+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "377b76a6080e9c58d9754bf1e0dff18e569f4fd6",
+            "archive_commit": "308b50129f2830fc5cb1d4a4be15ce479d37cca9",
+            "released": "2023-04-19T16:36:41+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "021130da785189155fd09dc9b541d98545724671",
+            "archive_commit": "0b3a0d00138d870558f93e66372dc3600f11f987",
+            "released": "2023-05-03T09:52:11+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "73b7308d92aaa30b138e8ca51414e50fa975d13b",
+            "archive_commit": "4af2586a6bb0d6157bca9539a06b598381a6962c",
+            "released": "2023-07-22T16:06:11+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "28b5ff12143fc9a826b39d36739cfd27d75ce75c",
+            "archive_commit": "44fab95d75ca5642a1145499069fec9c68e1b4d0",
+            "released": "2026-01-09T16:06:19+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "466f822edc1a880ce4a651b9904947ae166d9f3d",
+            "archive_commit": "527c0ff27b732a77978c72945f5dc67e3ecba6e7",
+            "released": "2026-01-09T16:08:51+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

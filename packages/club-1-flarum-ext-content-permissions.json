@@ -1,0 +1,31 @@
+{
+    "package": "club-1/flarum-ext-content-permissions",
+    "upstream": "https://github.com/club-1/flarum-ext-content-permissions",
+    "packagistUrl": "https://packagist.org/packages/club-1/flarum-ext-content-permissions",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c449817d9ebaf88647eb4038b9c1adac64ad7804",
+            "archive_commit": "df59f2f8cf6b87020c095a172b3b52907537ea26",
+            "released": "2025-06-07T20:03:38+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.6.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "5e7f8e2d7c8c071e9d16b24f8a4ac6d327cd4ca9",
+            "archive_commit": "96276c4de3db0f5a784b63112dd5d7560e18df85",
+            "released": "2025-06-09T17:25:55+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.6.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "cleverloginname/flarum-ext-autoimage-autovideo",
+    "upstream": "https://github.com/CleverLoginName/flarum-ext-autoimage-autovideo",
+    "packagistUrl": "https://packagist.org/packages/cleverloginname/flarum-ext-autoimage-autovideo",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "36f8fddb546360fb8382ede2fcb39ae136ce8b05",
+            "archive_commit": "36cf5ea804b6dc69d8d83d132dee037a8ea540eb",
+            "released": "2019-01-03T08:39:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

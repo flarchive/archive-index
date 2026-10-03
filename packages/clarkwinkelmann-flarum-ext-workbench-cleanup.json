@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-workbench-cleanup",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-workbench-cleanup",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-workbench-cleanup",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b76b846bb86dfa42fad80e0fcb149f790a2cb5d6",
+            "archive_commit": "7ede7b997746e0a3848846acbc365bd391c334e9",
+            "released": "2023-09-25T21:31:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "732263c5b72475645e2c7dec1749c987dff4388e",
+            "archive_commit": "3e3ea6685e2fa8956fbbd28f9f59767516abf606",
+            "released": "2024-11-05T19:03:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

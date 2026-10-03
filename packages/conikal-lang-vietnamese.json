@@ -1,0 +1,67 @@
+{
+    "package": "conikal/lang-vietnamese",
+    "upstream": "https://github.com/conikal/lang-vietnamese",
+    "packagistUrl": "https://packagist.org/packages/conikal/lang-vietnamese",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "e9b149b768979291461feab4729ba9b5895a80c5",
+            "archive_commit": "31f18bfce82b46c6153f685cbeeeb76fc3d28323",
+            "released": "2019-01-08T09:25:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "a54071d437f0b5313abdfb7ffc0ebc603178b516",
+            "archive_commit": "1b966cf371827a80be2b2dce3e4efb2e7769ccbb",
+            "released": "2019-01-08T09:44:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "147c7a387236572b57eb2dd337207e4415e59d88",
+            "archive_commit": "8509fc913c1929af65fc8018b3dfbe3a286bccc9",
+            "released": "2019-01-08T10:33:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "7a092e9899d4189931e497d31e3dbe662c033ee2",
+            "archive_commit": "46132fadeaf6bedb6c5f6fc3448f38e97eeb59e1",
+            "released": "2019-01-08T10:47:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.02",
+            "tag": "archive/v0.02",
+            "upstream_commit": "a54071d437f0b5313abdfb7ffc0ebc603178b516",
+            "archive_commit": "af995ffc283e63cfc98b763b6dfc8f3c20a45651",
+            "released": "2019-01-08T09:44:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

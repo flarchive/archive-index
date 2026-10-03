@@ -1,0 +1,43 @@
+{
+    "package": "club-1/flarum-ext-chore-commands",
+    "upstream": "https://github.com/club-1/flarum-ext-chore-commands",
+    "packagistUrl": "https://packagist.org/packages/club-1/flarum-ext-chore-commands",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "273209657dddcce50480854bfd52f2cce1938bf3",
+            "archive_commit": "cb95959dda627c23672ded3a53ce5d16956daf96",
+            "released": "2023-04-26T17:05:35+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "6b7d8ebb93e6898829e64672730b8d52a18e50b3",
+            "archive_commit": "17befbecb1b1eb33168f31142103e67bf63d29e4",
+            "released": "2023-04-27T16:14:03+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "94be946f33ddfcb03772939d461761fc1159abf1",
+            "archive_commit": "4609014330779fc38368dfc281ab7e798f9c00f7",
+            "released": "2023-05-03T18:42:25+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

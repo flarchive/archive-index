@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-vote-with-money",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-vote-with-money",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-vote-with-money",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8d1af55b3b8e660ee81c0fd0c4e4c5c23307e50c",
+            "archive_commit": "d9d7b06d30b4f977e4270a826a2b4ae206c834e6",
+            "released": "2022-11-21T16:04:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

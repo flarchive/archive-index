@@ -1,0 +1,19 @@
+{
+    "package": "comocozy/flarum-ext-korean",
+    "upstream": "https://github.com/Comocozy/flarum-ext-korean",
+    "packagistUrl": "https://packagist.org/packages/comocozy/flarum-ext-korean",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "cd164219a77b306f2f00740984637edbd0477d4c",
+            "archive_commit": "83019c09932ee3bff8bca2d39435383042becaee",
+            "released": "2017-05-29T05:36:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

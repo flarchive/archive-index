@@ -1,0 +1,19 @@
+{
+    "package": "cpluscc/oauth-misskey",
+    "upstream": "https://github.com/cpluscc/oauth-misskey",
+    "packagistUrl": "https://packagist.org/packages/cpluscc/oauth-misskey",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "2c8bd07ee7243d5842525d89b325a0bd766c7fbc",
+            "archive_commit": "558e59202cd743bdae599a20d81877ff173affef",
+            "released": "2023-07-27T13:18:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

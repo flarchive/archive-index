@@ -1,0 +1,31 @@
+{
+    "package": "cobbz/money-board-widget",
+    "upstream": "https://github.com/Cobb-Zhang/money-board-widget",
+    "packagistUrl": "https://packagist.org/packages/cobbz/money-board-widget",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "e20af970ccb06e24cc23c16ca7a78e6b4d173d36",
+            "archive_commit": "e5a656df4e4d29d35ed5dfe879c83f7ff4c64379",
+            "released": "2024-06-26T06:30:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e69530c2d2b189ca199525aa0bac29311624d7eb",
+            "archive_commit": "5a837e9ac271a0e693d8231ec2067f7cc8fe4911",
+            "released": "2024-06-26T08:57:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
