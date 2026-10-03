@@ -1,0 +1,79 @@
+{
+    "package": "nearata/flarum-ext-remove-pane",
+    "upstream": "https://github.com/Nearata/flarum-ext-remove-pane",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-remove-pane",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "94268e5386745e15bc3c4a23ab65912c0db2f98d",
+            "archive_commit": "59e87e5bf075d8b9619b875dcae4038f17a891a7",
+            "released": "2020-08-12T23:01:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "759c48b037d5d6fe62fc9b9842025e110a85bd40",
+            "archive_commit": "e68c87fbc33a6b46e687186d82a0f249a87b16b4",
+            "released": "2020-10-24T16:00:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "690489755ff385b870a51570dfbfcb4e112b562c",
+            "archive_commit": "311e30ad358b7b48c1229c576eec03bd6dbd4a1b",
+            "released": "2021-03-16T21:12:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "bd4cca7c38b0d40c4617e4cdf0ba5f58e1159b4c",
+            "archive_commit": "242351b258e5ca5047f12ebd450b0b013c87fae8",
+            "released": "2021-06-27T21:09:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "42c40d33ec10d91b1c7e2586f2e54168fb7670d6",
+            "archive_commit": "fb60660065db4b3a3aa4a9011f1a00011c6f8a8f",
+            "released": "2022-08-27T15:08:07+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "1d0aa7c231b3b5797393e224260f70b6b083da2c",
+            "archive_commit": "5f79bb0810e8fa71778b3d51260b7b64fa1c785b",
+            "released": "2023-06-20T18:19:26+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

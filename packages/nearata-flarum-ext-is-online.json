@@ -1,0 +1,43 @@
+{
+    "package": "nearata/flarum-ext-is-online",
+    "upstream": "https://github.com/Nearata/flarum-ext-is-online",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-is-online",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3edbca5dd2cbfa5d108daff3a54b70b1671b6a53",
+            "archive_commit": "1e9e469e348f40cd4d12c324dc3a763d59ac033c",
+            "released": "2020-08-08T15:23:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "47ff6b76124abee42d1a28ddfc5a9fb05cc8faa0",
+            "archive_commit": "411793bfb52a98286f1b1d8bb75c482f027139c3",
+            "released": "2020-08-08T16:59:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c3e3dade2dad4d6cab26b434dcac8789484b52bb",
+            "archive_commit": "b4c5d3571f9d7a7cfc8dc8723d941e01e310bbbc",
+            "released": "2020-08-10T23:40:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

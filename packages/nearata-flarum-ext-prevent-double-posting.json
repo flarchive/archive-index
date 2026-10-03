@@ -1,0 +1,31 @@
+{
+    "package": "nearata/flarum-ext-prevent-double-posting",
+    "upstream": "https://github.com/Nearata/flarum-ext-prevent-double-posting",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-prevent-double-posting",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "41031acca05c325b8e21b52ff1ba45a15978f4ea",
+            "archive_commit": "f0137217ef0227dcd094890e28d0be948d114651",
+            "released": "2023-03-22T19:45:39+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "e336eba26531bcf0c3a9a264d8168dcb1fc83321",
+            "archive_commit": "6da76137f4d945358c11a3ff92d5629341d45f52",
+            "released": "2023-04-16T14:49:44+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

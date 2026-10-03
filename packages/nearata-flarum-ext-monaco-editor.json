@@ -1,0 +1,19 @@
+{
+    "package": "nearata/flarum-ext-monaco-editor",
+    "upstream": "https://github.com/Nearata/flarum-ext-monaco-editor",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-monaco-editor",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9f402db7959f56bb7211c146c663fa7cc2c33329",
+            "archive_commit": "88fdbf55fd2f7784af2db5be838c27e6e7d4b826",
+            "released": "2023-01-31T19:52:35+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

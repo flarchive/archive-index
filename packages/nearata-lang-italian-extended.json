@@ -1,0 +1,43 @@
+{
+    "package": "nearata/lang-italian-extended",
+    "upstream": "https://github.com/Nearata/lang-italian-extended",
+    "packagistUrl": "https://packagist.org/packages/nearata/lang-italian-extended",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "14341f514cfd9e80be436cc16435f4c76368985b",
+            "archive_commit": "89e6b74dff63c7779f141f7ea37085f2bce2f5b4",
+            "released": "2020-02-15T16:20:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "6404698682f345089315c4add4f3a95c729be351",
+            "archive_commit": "6012b381d1a77b0c5bed8a80ebfe3b397edc5de8",
+            "released": "2020-02-17T18:22:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "4957ffd894e5a42a922e780fffd16113ab60378a",
+            "archive_commit": "ce3305eb93cf4ddd22695cf723f5392ca5f90e0e",
+            "released": "2020-02-20T10:47:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

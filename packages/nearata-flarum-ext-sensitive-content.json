@@ -1,0 +1,43 @@
+{
+    "package": "nearata/flarum-ext-sensitive-content",
+    "upstream": "https://github.com/Nearata/flarum-ext-sensitive-content",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-sensitive-content",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8b6fdb4836f0dfc054b6b4cc68086833a9826e9e",
+            "archive_commit": "52f39914431102758748b37d6a7543b61cb9f9cb",
+            "released": "2023-04-04T16:48:49+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "a4acad5c1ee14a24eb76676e12608b6b094e0ee7",
+            "archive_commit": "4baa1e0e536dddd5aae02c63574992fdccfdbec4",
+            "released": "2023-04-05T11:10:21+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "59f40ca8b5ae1eec5e4903e5713adccfe607a76c",
+            "archive_commit": "f1ed90080f5c61dc87fa2b9ae5410ba1784c257f",
+            "released": "2023-06-01T09:55:47+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

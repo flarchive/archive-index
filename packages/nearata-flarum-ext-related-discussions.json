@@ -1,0 +1,91 @@
+{
+    "package": "nearata/flarum-ext-related-discussions",
+    "upstream": "https://github.com/Nearata/flarum-ext-related-discussions",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-related-discussions",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5e78113f7e9703fb137b9dc309a71da629dd1179",
+            "archive_commit": "783fc2ae87c3f3c8e4d2b69780de28216c35eaec",
+            "released": "2023-01-10T20:00:43+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "7c0804f597ffd78551593153ece09163ed1d19cc",
+            "archive_commit": "343cf83ca72a2e78cf0582ff57f417c290db25de",
+            "released": "2023-01-17T16:43:54+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "7d964d24ec6c706c5220d903939a6e9da242e16b",
+            "archive_commit": "753cddf7b7a520cdea1ce24923761d878a6b348a",
+            "released": "2023-01-29T13:45:36+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "3e88a227f11133084f47678f4d1f4452733b7b76",
+            "archive_commit": "66cee366c7ab6bea6d8f6e9ba17ca33758fb75d2",
+            "released": "2023-01-29T18:19:11+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "2f322a88d20a2156aa2c94cad5212a392d4bd8ca",
+            "archive_commit": "318c94765dba3e7c51369bd406a1c341ecd239c0",
+            "released": "2023-01-30T20:09:05+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "9db817e4941fce09022b2fe63d57b4b35cf89b3b",
+            "archive_commit": "fc7335506950045bdd481cac8c896f9aff6c5a11",
+            "released": "2023-03-09T17:30:22+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "7dd56912ba37b09192afb3e49f3f71f50b6c4f2a",
+            "archive_commit": "a32909d53c0251f8d33e04983d6456cca484071f",
+            "released": "2023-05-23T19:31:54+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

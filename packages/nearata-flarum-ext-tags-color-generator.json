@@ -1,0 +1,115 @@
+{
+    "package": "nearata/flarum-ext-tags-color-generator",
+    "upstream": "https://github.com/Nearata/flarum-ext-tags-color-generator",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-tags-color-generator",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "7b13eda601731e7500327269a0c6e85c1b69fe47",
+            "archive_commit": "28d4f4b0b453d7a7681ffd1c2ff1befe5727e2b5",
+            "released": "2020-08-06T16:33:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "d2debcc66a1a97b8c8bd96f0949fbcde07550eb6",
+            "archive_commit": "688aef46debac629766cb98b03327667c3631e89",
+            "released": "2020-08-06T22:40:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "10c20739222e6428ee3b5989186792dc66011e17",
+            "archive_commit": "83c1102f18b168d947467757b7629f1c4de99f80",
+            "released": "2020-10-24T19:51:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "3fa2393a08dcf04d264e31431e410ebc24dc5c0c",
+            "archive_commit": "e873f3fafa16c4357c891b2c0371382246d29e8b",
+            "released": "2021-03-14T22:05:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "171fa01991e2b0e948230ccfcd0eb268bd57a976",
+            "archive_commit": "007bce328157c99793349329cf246d525cb6e4be",
+            "released": "2021-03-16T20:38:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "b76dfd920053b1e6cac83fd2ba209ffca4adf043",
+            "archive_commit": "07def38041c8a53f0fd4d991c0ab6b8ec1c0170b",
+            "released": "2021-06-27T20:59:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "f8da306cb8f9526e178f501d6b3ea32a8d1fe77b",
+            "archive_commit": "304e5484dc07fa3075b07fa4620ef80f94a23f92",
+            "released": "2022-08-04T14:49:53+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "d4e42cf358daf49eff3a3afb559876a5cbac2d61",
+            "archive_commit": "d77a6745cc8be812a80ff2ed197fa6f17fd51de0",
+            "released": "2022-08-13T15:12:12+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.3.0",
+            "tag": "archive/v2.3.0",
+            "upstream_commit": "91a5f01b5f6914ddb6d0fbc8eecf30b5b3cfb46c",
+            "archive_commit": "f58a7ae22d5d5c26f98239780b4e60d6338e470a",
+            "released": "2023-06-22T16:51:38+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "nearata/flarum-ext-maintenance-mode",
+    "upstream": "https://github.com/Nearata/flarum-ext-maintenance-mode",
+    "packagistUrl": "https://packagist.org/packages/nearata/flarum-ext-maintenance-mode",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a2968a5f484cfa76dccff123b04d460d4fe491b9",
+            "archive_commit": "8d2b055b8a92df55b81da7b3e65e2fb3edefb715",
+            "released": "2023-04-29T10:25:36+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
