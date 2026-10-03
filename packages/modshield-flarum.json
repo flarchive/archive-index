@@ -1,0 +1,55 @@
+{
+    "package": "modshield/flarum",
+    "upstream": "https://github.com/mehdi-zaidi/ModShield-Flarum",
+    "packagistUrl": "https://packagist.org/packages/modshield/flarum",
+    "versions": [
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "0780ea4853dcf421e8c888ea4207bef9c2555cd2",
+            "archive_commit": "4b29d0ec6f6cc33f5807a84adef4ff328519da86",
+            "released": "2026-08-04T19:17:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "8badb38c419132034d6ec6424744c898a7801871",
+            "archive_commit": "7395e03b1f8fbc4a1effcf96da9a924ac8cf93d7",
+            "released": "2026-08-04T20:28:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "4172546d8f1152204dcf7fcbd22a6aafc53859a8",
+            "archive_commit": "bba7e13793abb1d3da69ee28250421935adbae5b",
+            "released": "2026-08-04T20:29:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "462f42ea058d3340e9f8f52df15e1f2ee8de9139",
+            "archive_commit": "a448fd90cc60ef169440c61d127617bf8c891e54",
+            "released": "2026-08-06T23:42:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

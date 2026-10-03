@@ -1,0 +1,79 @@
+{
+    "package": "mondayti/flarum-force-login",
+    "upstream": "https://github.com/mondayti/flarum-force-login",
+    "packagistUrl": "https://packagist.org/packages/mondayti/flarum-force-login",
+    "versions": [
+        {
+            "version": "1.0.1-stable",
+            "tag": "archive/v1.0.1-stable",
+            "upstream_commit": "2a8ce09385547c49a55172d5ef62075cfda6e66d",
+            "archive_commit": "44794436ef0682a451d5c4067383d56124c0e0da",
+            "released": "2021-04-06T23:07:53+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.13 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2-stable",
+            "tag": "archive/v1.0.2-stable",
+            "upstream_commit": "39ee8fb98b7327a414b64ca4c7d0b59f135cda01",
+            "archive_commit": "2b4e09551496eff1d4ff5c12b863fabc0af987a6",
+            "released": "2021-04-06T23:16:28+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3-stable",
+            "tag": "archive/v1.0.3-stable",
+            "upstream_commit": "5e62f4608998124b8e9776d0c88258e8e70a9c0f",
+            "archive_commit": "63123e5e6526397efc079e9cf32ef5b839db6b38",
+            "released": "2021-04-07T00:30:30+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.4-stable",
+            "tag": "archive/v1.0.4-stable",
+            "upstream_commit": "8eec4d1e326349604b56a3cc5d49c19b0be6cb34",
+            "archive_commit": "4afa3c7ada51bc0a0f40cc0dc12b7c8c056b4847",
+            "released": "2021-04-07T19:53:37+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.5-stable",
+            "tag": "archive/v1.0.5-stable",
+            "upstream_commit": "a7a51a94052d43c59d5a1fa728f185560ed43c3d",
+            "archive_commit": "739a6d6c7369fad66c81e776419d2d269469b956",
+            "released": "2021-04-09T18:50:22+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.6-stable",
+            "tag": "archive/v1.0.6-stable",
+            "upstream_commit": "c3de665f5c8c10fa272b2c625fd6920a14a74b88",
+            "archive_commit": "5f01d49696f26b1c1cf74228276677bea872f1ec",
+            "released": "2021-04-09T19:34:31+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

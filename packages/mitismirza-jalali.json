@@ -1,0 +1,19 @@
+{
+    "package": "mitismirza/jalali",
+    "upstream": "https://github.com/mitismirza/flarum-jalali",
+    "packagistUrl": "https://packagist.org/packages/mitismirza/jalali",
+    "versions": [
+        {
+            "version": "v1",
+            "tag": "archive/v1",
+            "upstream_commit": "7b40233d8a5e109c01b1639e7c71acc5e3e47974",
+            "archive_commit": "08ff41485609527508e062a644b816b725375e88",
+            "released": "2019-08-27T07:28:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

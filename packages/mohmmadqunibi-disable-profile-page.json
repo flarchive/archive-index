@@ -1,0 +1,43 @@
+{
+    "package": "mohmmadqunibi/disable-profile-page",
+    "upstream": "https://github.com/MohmmadQunibi/disable-profile-page",
+    "packagistUrl": "https://packagist.org/packages/mohmmadqunibi/disable-profile-page",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6dd70a299e70fd5e4ebd1b6c63409e980966db9a",
+            "archive_commit": "06cbc925a6636bdbc8ccc1553f56a005a07ad1a4",
+            "released": "2024-06-11T19:48:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "99d18d6786fef2d6405acb0009437c6b87e0ce9e",
+            "archive_commit": "f3c6b197ff195e2175c1aa73bf4e9ac248954e71",
+            "released": "2024-06-12T10:44:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "9a7e8976c3d29c4adf9199093446dc988ae6f611",
+            "archive_commit": "053c74906ce6b751e8aec88533e3b28c5e7522a0",
+            "released": "2026-03-25T22:05:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^v2.0.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

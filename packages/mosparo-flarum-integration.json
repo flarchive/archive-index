@@ -1,0 +1,31 @@
+{
+    "package": "mosparo/flarum-integration",
+    "upstream": "https://github.com/mosparo/flarum-integration",
+    "packagistUrl": "https://packagist.org/packages/mosparo/flarum-integration",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d07db5135f0f06f4235fcc9e8d255709608b95a0",
+            "archive_commit": "66f79a5cbdf84443fa54511145bdbcd1612ac45d",
+            "released": "2026-06-26T08:33:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "ca824b1e1291d2d4231c97890c1accec3b486664",
+            "archive_commit": "6e48102787964366475a2b7c1ffab2381f8c4179",
+            "released": "2026-09-03T17:30:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

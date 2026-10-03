@@ -1,0 +1,79 @@
+{
+    "package": "moerio/mixture",
+    "upstream": "https://github.com/moerio/Mixture",
+    "packagistUrl": "https://packagist.org/packages/moerio/mixture",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "9da098fdcf0f452fbca5cab188fd8be4ba805bb2",
+            "archive_commit": null,
+            "released": "2021-07-21T05:00:09+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "3.0.0",
+            "tag": null,
+            "upstream_commit": "0539ae62e249eb94b8660be0323e6685058c3f08",
+            "archive_commit": null,
+            "released": "2021-07-27T12:46:55+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "4.0.0",
+            "tag": null,
+            "upstream_commit": "dfffe606a65f31cae6144966ddf9c58943859d2a",
+            "archive_commit": null,
+            "released": "2021-08-11T16:05:32+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "5.0.0",
+            "tag": null,
+            "upstream_commit": "cd78ed4ea200119544b5458cc28063b583db4022",
+            "archive_commit": null,
+            "released": "2022-08-16T13:12:55+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "6.0.0",
+            "tag": null,
+            "upstream_commit": "650c4918704e5635aa3ed66a42b875d54fff00ba",
+            "archive_commit": null,
+            "released": "2022-08-16T13:37:09+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "7.0.0",
+            "tag": null,
+            "upstream_commit": "ee7ee035fff7f58ab6e441c1b0d3b92c65b5f855",
+            "archive_commit": null,
+            "released": "2022-08-18T12:00:20+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

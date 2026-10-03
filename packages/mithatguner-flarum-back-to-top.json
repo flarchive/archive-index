@@ -1,0 +1,31 @@
+{
+    "package": "mithatguner/flarum-back-to-top",
+    "upstream": "https://github.com/MithatGuner/Flarum-Back-To-Top",
+    "packagistUrl": "https://packagist.org/packages/mithatguner/flarum-back-to-top",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "1b9bfb1e8b8bac6239f91282ff3c76242c866424",
+            "archive_commit": "d5c45794a49ae3da32796070fbd4603346ad44b3",
+            "released": "2020-03-31T03:10:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "f9a8f85feac231e278f7c2ba3825f065f0273496",
+            "archive_commit": "41fd3d4383aefd469bf294610640da67a2d7eca8",
+            "released": "2020-03-31T03:21:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

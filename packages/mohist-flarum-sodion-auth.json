@@ -1,0 +1,31 @@
+{
+    "package": "mohist/flarum-sodion-auth",
+    "upstream": "https://github.com/Mohist-Community/SodionAuthFlarum",
+    "packagistUrl": "https://packagist.org/packages/mohist/flarum-sodion-auth",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "3ab960a075ba571fd28c13cbb992a9cde4f6267f",
+            "archive_commit": "205469496662145407adafcd141e3efc24479569",
+            "released": "2020-10-10T16:29:20+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "ec64c7391ec4b247c6d6d1a95293bab0f7c74091",
+            "archive_commit": "c4cd2eaed3671162688d9049bf3c2bd22abc25a2",
+            "released": "2021-05-03T16:02:14+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

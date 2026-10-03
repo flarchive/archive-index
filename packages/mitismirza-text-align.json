@@ -1,0 +1,19 @@
+{
+    "package": "mitismirza/text-align",
+    "upstream": "https://github.com/MmKargar/text-align",
+    "packagistUrl": "https://packagist.org/packages/mitismirza/text-align",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "b09e742d247c0fd940baf425353a87e60cf5db19",
+            "archive_commit": "56f4795be0197d7796cd1ad1a844e6da411fcca1",
+            "released": "2019-08-27T07:57:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

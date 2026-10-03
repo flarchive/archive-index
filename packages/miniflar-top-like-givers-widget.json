@@ -1,0 +1,19 @@
+{
+    "package": "miniflar/top-like-givers-widget",
+    "upstream": "https://github.com/miniflar/top-like-givers-widget",
+    "packagistUrl": "https://packagist.org/packages/miniflar/top-like-givers-widget",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f17f072fa500a5856710803138d573663858a2f5",
+            "archive_commit": "7da78d3384e86ea6bbb3b71d1155c723ce4fc580",
+            "released": "2021-08-14T00:32:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

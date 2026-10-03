@@ -1,0 +1,19 @@
+{
+    "package": "mrcorncob/flarum-vietnamese-language-pack",
+    "upstream": "https://github.com/MrCorncob/flarum-vietnamese-language-pack",
+    "packagistUrl": "https://packagist.org/packages/mrcorncob/flarum-vietnamese-language-pack",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "60063e841440f4a5c1ee463d73c62633e78370fe",
+            "archive_commit": "3f4c8eb3f640bcdfd89ea2a9ebaf6ffd143004b0",
+            "released": "2020-12-07T10:26:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
