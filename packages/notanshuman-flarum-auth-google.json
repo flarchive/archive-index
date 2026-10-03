@@ -1,0 +1,67 @@
+{
+    "package": "notanshuman/flarum-auth-google",
+    "upstream": "https://github.com/MysteriousAcadia/flarum-auth-google",
+    "packagistUrl": "https://packagist.org/packages/notanshuman/flarum-auth-google",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "a688589eefd0c0f32cdef9b104994198b3de5443",
+            "archive_commit": "c0b66d9e0fbab0adc6897a440ba22e58a0a5382f",
+            "released": "2019-03-23T19:40:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8",
+            "tag": "archive/v0.1.0-beta.8",
+            "upstream_commit": "bf89fa27327448cf39b98878cbcaeba9c0b5344f",
+            "archive_commit": "06fefd642c48468a0cd5af7436ab65618b19f6e0",
+            "released": "2018-12-30T13:41:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.0.1",
+            "tag": "archive/v0.1.0-beta.8.0.1",
+            "upstream_commit": "0ed8e4e452b87cef6783622a05af6bb81c6ec522",
+            "archive_commit": "af5bee02e0d9b9fa60880408c6cf5f8263285fed",
+            "released": "2018-12-30T14:33:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.0.2",
+            "tag": "archive/v0.1.0-beta.8.0.2",
+            "upstream_commit": "f32c75ea2be5140119909f30f9a25f25c7456fb1",
+            "archive_commit": "e0097b916aee9be73c80ddf3424466f9ce0928c5",
+            "released": "2018-12-30T22:13:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.0.3",
+            "tag": "archive/v0.1.0-beta.8.0.3",
+            "upstream_commit": "a688589eefd0c0f32cdef9b104994198b3de5443",
+            "archive_commit": "6151e1fa171d54e73440a99ed2df96a45fbe3727",
+            "released": "2019-03-23T19:40:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "nodeloc/flarum-ext-split-view",
+    "upstream": "https://github.com/nodeloc/flarum-ext-split-view",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-ext-split-view",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2b73aa23fe64514e03862c89db1cb90aa256b337",
+            "archive_commit": "cb066256f45196610603d2d537d780f9a8a1b231",
+            "released": "2024-05-16T01:28:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

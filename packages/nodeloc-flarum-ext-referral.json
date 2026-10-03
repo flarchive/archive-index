@@ -1,0 +1,79 @@
+{
+    "package": "nodeloc/flarum-ext-referral",
+    "upstream": "https://github.com/nodeloc/flarum-ext-referral",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-ext-referral",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": null,
+            "upstream_commit": "733d0823355fd40ef712a05bb4de9f124f0ba710",
+            "archive_commit": null,
+            "released": "2024-02-04T13:28:14+00:00",
+            "archived": null,
+            "license": "GPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.0.2",
+            "tag": null,
+            "upstream_commit": "35e5af980c457819bb3181bdacd8b42d575b72c5",
+            "archive_commit": null,
+            "released": "2025-02-19T16:53:07+00:00",
+            "archived": null,
+            "license": "GPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.0.3",
+            "tag": null,
+            "upstream_commit": "41f952a2c28bc5f0d995029f6824b01c31d24cf0",
+            "archive_commit": null,
+            "released": "2025-02-19T17:25:30+00:00",
+            "archived": null,
+            "license": "GPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.0.4",
+            "tag": null,
+            "upstream_commit": "8e693fa399c48ca9712d34c4f7bcddc23dbd9993",
+            "archive_commit": null,
+            "released": "2025-02-20T02:02:08+00:00",
+            "archived": null,
+            "license": "GPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.0.5",
+            "tag": null,
+            "upstream_commit": "11f33aad155d214775bd9dff21ef6d3e6124305b",
+            "archive_commit": null,
+            "released": "2025-02-20T02:47:43+00:00",
+            "archived": null,
+            "license": "GPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.0.6",
+            "tag": null,
+            "upstream_commit": "a7f48f4565d3ec094246656384a464c25237c59e",
+            "archive_commit": null,
+            "released": "2025-02-20T08:03:55+00:00",
+            "archived": null,
+            "license": "GPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

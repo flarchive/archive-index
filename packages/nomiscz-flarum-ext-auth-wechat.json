@@ -1,0 +1,67 @@
+{
+    "package": "nomiscz/flarum-ext-auth-wechat",
+    "upstream": "https://github.com/NomisCZ/flarum-ext-auth-wechat",
+    "packagistUrl": "https://packagist.org/packages/nomiscz/flarum-ext-auth-wechat",
+    "versions": [
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "eb347bc17b1c5047c4a5165c21f176e1e4b0db86",
+            "archive_commit": "6cbe8be7e5b087753202b4bb05067616982cf839",
+            "released": "2020-02-25T14:15:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "007d0e852fb9999896f538af3d112f036b9fee0d",
+            "archive_commit": "e025a18aec124f326f39277c589ebc658033fd3a",
+            "released": "2020-02-28T18:37:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "4df5c6b0b4952b6f34596b2b597638914a085155",
+            "archive_commit": "19e0af4d5dbc4406570c5d7a2c9b04dc10a080ea",
+            "released": "2020-04-16T19:36:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "7bec0642cbf0aea7bc03cdb90c72d29ab4d3a47a",
+            "archive_commit": "3c8fab16494e394d34d14235e50e7d30fbc12ee3",
+            "released": "2021-06-27T13:12:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "731cbf880e951b81ca185f146130ca6e2b2ee9b8",
+            "archive_commit": "5c5fb6c20568be1359cff1d273cd4b9f6c035490",
+            "released": "2023-07-15T16:08:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "nodeloc/oauth-telegram",
+    "upstream": "https://github.com/nodeloc/flarum-ext-oauth-telegram",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/oauth-telegram",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "ea945c054192c2e49aebe46713f6b18fdf953acc",
+            "archive_commit": "e7de00617f5ebcc219889ce8aa669d3cae5e8128",
+            "released": "2024-01-24T16:02:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

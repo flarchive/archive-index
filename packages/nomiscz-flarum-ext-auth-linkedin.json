@@ -1,0 +1,43 @@
+{
+    "package": "nomiscz/flarum-ext-auth-linkedin",
+    "upstream": "https://github.com/NomisCZ/flarum-ext-auth-linkedin",
+    "packagistUrl": "https://packagist.org/packages/nomiscz/flarum-ext-auth-linkedin",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.8.0",
+            "tag": "archive/v0.1.0-beta.8.0",
+            "upstream_commit": "e391c3a4ec6797b013acec16986adcdb03d576ac",
+            "archive_commit": "b0d1a04a7c6fed7e49bada878d3f1bcc84de14cf",
+            "released": "2019-06-03T19:56:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "ce3301f3363474108a8bbe38df25ba800e8412b3",
+            "archive_commit": "6e54c2165feecf94f643e22e0f26aa941b865479",
+            "released": "2019-12-27T17:48:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "cec83ef33aee45d9ccf0910c13fc3934cc0aca52",
+            "archive_commit": "e39a125c4858d01ac126e94931a96beddcb9049f",
+            "released": "2020-02-22T23:13:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

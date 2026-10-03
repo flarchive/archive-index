@@ -1,0 +1,67 @@
+{
+    "package": "noriods/auto-more",
+    "upstream": "https://github.com/noriods/automore",
+    "packagistUrl": "https://packagist.org/packages/noriods/auto-more",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f6514e821fc87f93285e05bbd96ff35c892c626d",
+            "archive_commit": "0ce4edffe18d41cbf85da1dcf4f6085a59fadfca",
+            "released": "2018-05-10T13:43:29+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "6815ab62b8b90c7e3a11e44bf406b84a41a0a17f",
+            "archive_commit": "93f7e457b975f37c33f039e31bd402491f06658a",
+            "released": "2018-05-10T14:50:39+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "8b83ba57fe31190bca01e1f0c5acd794537622b8",
+            "archive_commit": "cd503a6b823127228a0a91f433c22a82dce707ee",
+            "released": "2019-01-10T08:56:33+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^0.1.0-beta-8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "archive/v0.3.1",
+            "upstream_commit": "f39ba4cf54d9162aae76e36b097e6c93e53c6589",
+            "archive_commit": "b4f78f1f34d050e62ce412444dfc9f5d5e21f16d",
+            "released": "2021-02-22T15:03:18+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^0.1.0-beta-15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9dabe64b84a358b198209631dad8b5fe29f1fc45",
+            "archive_commit": "44b587bb594ce31810626a98c1f8ddaf9b29c9ec",
+            "released": "2021-06-03T08:43:20+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

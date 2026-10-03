@@ -1,0 +1,55 @@
+{
+    "package": "nodeloc/flarum-ext-leaderboard",
+    "upstream": "https://github.com/nodeloc/flarum-ext-leaderboard",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-ext-leaderboard",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "88d6b39bed8b89e9d642c96e0218c782a6b50f50",
+            "archive_commit": "433212c80e924af80af9ffc323ac10d31e1e105b",
+            "released": "2024-08-24T17:41:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "98d959426df15248d5d5c3115143cfacaded5ff5",
+            "archive_commit": "70d9ea0e37081e8ac4a635e45abbce7b68bdd260",
+            "released": "2024-09-14T14:44:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "fda43668b91339ad143792374b8d03831546db9b",
+            "archive_commit": "a884d38a538c85258c31ed9cea4e55280be46478",
+            "released": "2024-09-15T08:44:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4",
+            "tag": "archive/v0.4",
+            "upstream_commit": "a658181e81d827f2c783fe68058f085c2ef1a7c7",
+            "archive_commit": "a93fbbdeb115329138e35012063889a13a0a26fe",
+            "released": "2024-10-01T17:16:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

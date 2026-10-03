@@ -1,0 +1,19 @@
+{
+    "package": "nrucel/flarum-turkish",
+    "upstream": "https://github.com/nrucel/flarum-turkish",
+    "packagistUrl": "https://packagist.org/packages/nrucel/flarum-turkish",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "87579a87c022b5e102fea64cf63012c341be62d3",
+            "archive_commit": "1346be6ed58eaefbedecbdc683e79c136998c2b1",
+            "released": "2018-12-22T12:21:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

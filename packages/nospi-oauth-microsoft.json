@@ -1,0 +1,55 @@
+{
+    "package": "nospi/oauth-microsoft",
+    "upstream": "https://github.com/nospi/flarum-ext-oauth-microsoft",
+    "packagistUrl": "https://packagist.org/packages/nospi/oauth-microsoft",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "9f4937c0531ad53f124d2e16a3a030d8f63a6aac",
+            "archive_commit": "5e3c9b6905e1fe47aa88278f1292bd2b73035bd7",
+            "released": "2023-11-30T14:52:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "dbe66c6db1114176192192087c211b5d67a38e7e",
+            "archive_commit": "eaaa9a5c7a777bee525d1e157342c1148a6370cf",
+            "released": "2023-12-04T00:36:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "9ffd90af6824cb6ddfebecd7a43702b56cdd0294",
+            "archive_commit": "087a00334d5c3d296002059dd9af9e16d5c1aed9",
+            "released": "2023-12-05T13:00:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "e257d7ada6fd6da30f8cd89383403e2a4447ffab",
+            "archive_commit": "6ff226782cac7bdc8bbe50688ca761fa099a26e1",
+            "released": "2023-12-05T13:30:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

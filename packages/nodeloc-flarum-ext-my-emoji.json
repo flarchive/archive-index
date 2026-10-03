@@ -1,0 +1,127 @@
+{
+    "package": "nodeloc/flarum-ext-my-emoji",
+    "upstream": "https://github.com/nodeloc/flarum-ext-my-emoji",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-ext-my-emoji",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "c92a30463046edd50e0000736f1ce40b21a13064",
+            "archive_commit": null,
+            "released": "2024-01-26T22:29:44+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "cdb025ed9901845b3cb69e32d1664d7d12f127da",
+            "archive_commit": null,
+            "released": "2024-04-04T02:19:12+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.2",
+            "tag": null,
+            "upstream_commit": "5e0d2f9954169dd5174eff578b031c3d3ad1eaf9",
+            "archive_commit": null,
+            "released": "2024-08-29T17:32:22+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1.0",
+            "tag": null,
+            "upstream_commit": "ebe1b321420a3c9b68b640e9ed841e419f946587",
+            "archive_commit": null,
+            "released": "2025-03-22T18:16:06+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1.1",
+            "tag": null,
+            "upstream_commit": "5bbcfa4847f2dc7aee6e7ce0ffc5b404f8cf57c3",
+            "archive_commit": null,
+            "released": "2025-03-22T18:39:05+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1.2",
+            "tag": null,
+            "upstream_commit": "ff57a666d1833001c8ce5cdb287a55ddd15198d2",
+            "archive_commit": null,
+            "released": "2025-03-22T18:45:37+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1.3",
+            "tag": null,
+            "upstream_commit": "7cd4acf3468604ffbb348b90539958e1596f9b60",
+            "archive_commit": null,
+            "released": "2025-03-22T18:48:51+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1.4",
+            "tag": null,
+            "upstream_commit": "8dbc251419b06abc7542ed1bde21f30804d6ecff",
+            "archive_commit": null,
+            "released": "2025-03-22T18:52:38+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1.5",
+            "tag": null,
+            "upstream_commit": "c7ea4b110d58e0a343cf283f5a5f425c6f9890ba",
+            "archive_commit": null,
+            "released": "2025-03-23T03:02:10+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1.6",
+            "tag": null,
+            "upstream_commit": "cc2c3233dfbf94d19485194862db649b8854f915",
+            "archive_commit": null,
+            "released": "2025-03-23T04:43:50+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

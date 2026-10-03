@@ -1,0 +1,19 @@
+{
+    "package": "nodeloc/flarum-ext-signature",
+    "upstream": "https://github.com/nodeloc/flarum-ext-signature",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-ext-signature",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2a03bd3a60e083553e05946b2dab5b774ba17e85",
+            "archive_commit": "0bb3353ee3c75d120a4ec41da68df9e5710202f7",
+            "released": "2024-09-27T15:41:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

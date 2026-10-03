@@ -1,0 +1,43 @@
+{
+    "package": "nvhug/flarum-ext-make-login-url",
+    "upstream": "https://github.com/nvhug/flarum-ext-make-login-url",
+    "packagistUrl": "https://packagist.org/packages/nvhug/flarum-ext-make-login-url",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": null,
+            "upstream_commit": "21cd5586afa0d374d39f16c50a1efa4175132a2a",
+            "archive_commit": null,
+            "released": "2016-11-25T06:45:26+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.1",
+            "tag": null,
+            "upstream_commit": "5f93a1678493f23c699bea198317c283bf971ada",
+            "archive_commit": null,
+            "released": "2016-11-25T07:58:35+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.2",
+            "tag": null,
+            "upstream_commit": "dc95d2ac7819b4ca4e4f24ab2f89e008b7b146a1",
+            "archive_commit": null,
+            "released": "2016-11-25T08:05:08+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

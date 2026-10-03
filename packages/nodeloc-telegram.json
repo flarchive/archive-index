@@ -1,0 +1,67 @@
+{
+    "package": "nodeloc/telegram",
+    "upstream": "https://github.com/nodeloc/telegram",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/telegram",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "36cc6c027334db916314976f753ab726897c378e",
+            "archive_commit": "368db67917260c468265b3deb612d99bdf622ac7",
+            "released": "2024-01-20T19:46:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "4822a36a2ecc0d7e3b965163687feb607f0fceed",
+            "archive_commit": "20305b54d13d750f10548da9f0c676e1e0546d37",
+            "released": "2024-01-21T13:45:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "ec29f46d1e397a9217d0863d3b7754b04336a389",
+            "archive_commit": "9bc46240f1d54622288068afecc950ad765ae004",
+            "released": "2024-01-27T18:53:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "584d662e482ef714ddc8ddef3ac404dcc00691af",
+            "archive_commit": "f5556c3bc1f587d000ab2895ee817c013e03bc48",
+            "released": "2024-01-28T11:37:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "b2e140e283f73cc8a5e77bd32fc4f41c97c1f6eb",
+            "archive_commit": "388f75f99fd65adbc9b4afcc12466949472a2d2d",
+            "released": "2024-01-28T19:53:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
