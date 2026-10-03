@@ -1,0 +1,55 @@
+{
+    "package": "shebaoting/flarum-repost",
+    "upstream": "https://github.com/shebaoting/flarum-repost",
+    "packagistUrl": "https://packagist.org/packages/shebaoting/flarum-repost",
+    "versions": [
+        {
+            "version": "0.4.0",
+            "tag": "archive/v0.4.0",
+            "upstream_commit": "5b589d045b5aac54e561556383dca478911cd32b",
+            "archive_commit": "1c4adedeee0188a54b2cf7951ecbce1c50b95219",
+            "released": "2024-08-30T16:09:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "881677321f9cc7c1a149fef36ba9cfe264f39e23",
+            "archive_commit": "b911c61dd84eb1b2bd622182426fab5ad0a4aa4d",
+            "released": "2026-06-26T05:13:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "3b2f382c75f7a13ffe18eeccb71d33a166b427ac",
+            "archive_commit": "b633812700e7cd71adbbb33579886304cf7dc887",
+            "released": "2026-06-26T05:21:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "3283846a20b7da5c873f8d7ae3f499988a50e324",
+            "archive_commit": "6e0086e2042cd0085e83fd3dcabce33ab3a82f23",
+            "released": "2026-06-26T05:53:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

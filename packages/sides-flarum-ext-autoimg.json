@@ -1,0 +1,31 @@
+{
+    "package": "sides/flarum-ext-autoimg",
+    "upstream": "https://github.com/sides/flarum-ext-autoimg",
+    "packagistUrl": "https://packagist.org/packages/sides/flarum-ext-autoimg",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": null,
+            "upstream_commit": "cee38c649be17d8283eaf2ee8f376f0e9db23a21",
+            "archive_commit": null,
+            "released": "2016-06-09T22:15:11+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta.2",
+            "tag": null,
+            "upstream_commit": "a14d0fac7f6d325273eafa00eb9406a474ff7976",
+            "archive_commit": null,
+            "released": "2016-06-09T23:39:58+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

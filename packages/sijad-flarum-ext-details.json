@@ -1,0 +1,43 @@
+{
+    "package": "sijad/flarum-ext-details",
+    "upstream": "https://github.com/sijad/flarum-ext-details",
+    "packagistUrl": "https://packagist.org/packages/sijad/flarum-ext-details",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d167711008045e66bdbd1a2f173374a834d512f9",
+            "archive_commit": "a118de29ea7c7a289685cd2844c1addce3bc6f13",
+            "released": "2016-06-15T13:34:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e655e833878dbd32d68830873ed3f451b7558093",
+            "archive_commit": "188df77ccd3e7547a8033549209e5e21588c9b7e",
+            "released": "2016-06-22T12:39:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "9efd34bd8291a3b77a055a88bf0896444601caa6",
+            "archive_commit": "62031b1416740ac7197e34603295f79c7d86c9a9",
+            "released": "2016-07-01T07:08:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

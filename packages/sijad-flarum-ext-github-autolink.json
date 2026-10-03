@@ -1,0 +1,19 @@
+{
+    "package": "sijad/flarum-ext-github-autolink",
+    "upstream": "https://github.com/sijad/flarum-ext-github-autolink",
+    "packagistUrl": "https://packagist.org/packages/sijad/flarum-ext-github-autolink",
+    "versions": [
+        {
+            "version": "0.1.1-beta.1",
+            "tag": "archive/v0.1.1-beta.1",
+            "upstream_commit": "56df7ddd3e35993580f099987a165c3256eb794e",
+            "archive_commit": "fe60ea653247953f2c3ce9e6344e6dab91cc87c8",
+            "released": "2016-04-22T08:36:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

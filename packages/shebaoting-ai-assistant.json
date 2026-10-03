@@ -1,0 +1,43 @@
+{
+    "package": "shebaoting/ai-assistant",
+    "upstream": "https://github.com/shebaoting/ai-assistant",
+    "packagistUrl": "https://packagist.org/packages/shebaoting/ai-assistant",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6147e8e2357a4a05b36508afc18bf6a046542645",
+            "archive_commit": "f16a746987eb9cf29045f22a5da9047bd0f33245",
+            "released": "2024-09-20T08:07:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "5f58e106f5f46522c0ae4b235fc12cfd5cf5ca57",
+            "archive_commit": "5bf2e7e09ade691fa6bd529506a7df46e085e206",
+            "released": "2025-05-09T08:32:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.4.0",
+            "tag": "archive/v0.4.0",
+            "upstream_commit": "daf8a6ba04fbb7511ebf35cca6a7423338e9e957",
+            "archive_commit": "977c9a4da03ba4ef04610542ad7169486d344df0",
+            "released": "2025-05-09T08:39:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

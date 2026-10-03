@@ -1,0 +1,31 @@
+{
+    "package": "sijad/flarum-ext-google-analytics",
+    "upstream": "https://github.com/sijad/flarum-ext-google-analytics",
+    "packagistUrl": "https://packagist.org/packages/sijad/flarum-ext-google-analytics",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "de36377d6c5c4ae05424599f0ff14ed86d6f6e39",
+            "archive_commit": "6b8c7e17a647fe1a548028df87d83cfd2a92f2c1",
+            "released": "2016-06-17T11:29:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "b9386f260ba71dbff6127a1be42727cf26f4f13e",
+            "archive_commit": "d8a0c99a741b40389471b34501d34a039959372e",
+            "released": "2016-06-23T16:54:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

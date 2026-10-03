@@ -1,0 +1,55 @@
+{
+    "package": "shriker/flarum-pronouns",
+    "upstream": "https://github.com/shriker/flarum-pronouns",
+    "packagistUrl": "https://packagist.org/packages/shriker/flarum-pronouns",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7caa86b5d0bbdb2aa3dd18924781c377887c1a46",
+            "archive_commit": "7b2112d9c7ba5661f20a9de662eb83811837a505",
+            "released": "2019-08-28T02:04:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "5d6d164307dcc2652ee4995546d04915a3dfacbd",
+            "archive_commit": "844027f9675dd95f98156b5d33ad8bac229838ae",
+            "released": "2019-12-13T03:11:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "a0b364a8deaac2c005cb60fad0fb402979485a9c",
+            "archive_commit": "9a1242fbe63709227e89158d030e296827b95ac4",
+            "released": "2020-10-01T23:47:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "7b0e4c01a0b6b6486a76e71a91cf099665f79124",
+            "archive_commit": "bf6f71689dc1dc962bb09059fab96329e6308074",
+            "released": "2021-03-30T17:15:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

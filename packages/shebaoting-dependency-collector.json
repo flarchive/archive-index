@@ -1,0 +1,103 @@
+{
+    "package": "shebaoting/dependency-collector",
+    "upstream": "https://github.com/shebaoting/dependency-collector",
+    "packagistUrl": "https://packagist.org/packages/shebaoting/dependency-collector",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "99378f78aec8a45422c50c6065c146ea50dc46ae",
+            "archive_commit": "cb6e31f138db02c73fccb252305794be112d5b06",
+            "released": "2025-05-09T09:16:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "515154c14c00b4c7cf03b4ce769bac6e375a63b3",
+            "archive_commit": "41d395d3a6e2000c478582bcc4ae10719c59113e",
+            "released": "2025-05-09T09:47:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "472d65f9b3d9249ba2e1156a726b73a717e990e6",
+            "archive_commit": "45362d63890b3c48b97cbb65f65e1872127c9be5",
+            "released": "2025-05-09T16:10:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.2",
+            "tag": "archive/v1.2.2",
+            "upstream_commit": "0fa2a2a3e7063c5790ddef8356786d23d78813d8",
+            "archive_commit": "ef73ad697f4ce14b29b2340f69cad8cb92c5e666",
+            "released": "2025-05-09T16:47:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.3",
+            "tag": "archive/v1.2.3",
+            "upstream_commit": "22040517b32fbf4868add154e7709b458c33ac0c",
+            "archive_commit": "a6ed7f3121206b75f4a9c38b065e481d7e8175ff",
+            "released": "2025-05-09T16:56:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "dd12688d46fc68907f169029273ed827292d76d9",
+            "archive_commit": "d440a975bf5a6b21f2f3dcb174d6a2f4ffd93e08",
+            "released": "2026-06-26T05:12:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "b914cb50b7c72af1c875d16f5e2d6a0bdac26a19",
+            "archive_commit": "4c27f6358831249fe24f22e00dcc0ab15968e52e",
+            "released": "2026-06-26T05:21:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "7a6e851e6757d9ccd214875ae96de5b17a79d64d",
+            "archive_commit": "5b1477a1f77d809b6f806fed66206a1e05e51e84",
+            "released": "2026-06-26T05:53:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
