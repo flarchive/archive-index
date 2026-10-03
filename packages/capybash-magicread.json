@@ -1,0 +1,79 @@
+{
+    "package": "capybash/magicread",
+    "upstream": "https://github.com/capybash/magicread",
+    "packagistUrl": "https://packagist.org/packages/capybash/magicread",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e42dd7aff07d5858968c50cb3295efc519e7be52",
+            "archive_commit": "893b6851dcccb0168e4172827b1377a12ff6c2bb",
+            "released": "2025-10-12T01:30:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "fa96ebd69bb65f73e9cb5ccc3880822753618547",
+            "archive_commit": "2157d9462c613f35aaf324ef0ca0fa99e3353f11",
+            "released": "2025-10-12T02:13:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "944eb5ea9be4b3654bcf0b8e7ffcec1372413d6b",
+            "archive_commit": "e88d17c4146b95cd5ab14a553bf1142c2d325794",
+            "released": "2025-10-17T18:42:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v3.0.0",
+            "tag": "archive/v3.0.0",
+            "upstream_commit": "2fa9d8eb2ae48149f0962d35252914ad30fcd382",
+            "archive_commit": "661b9c9a04dd824e8fc7c7064c8e9db3edee2aad",
+            "released": "2025-10-17T19:31:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v4.0.0",
+            "tag": "archive/v4.0.0",
+            "upstream_commit": "25209a80134f625db5c5b584393f4c77b73c51b6",
+            "archive_commit": "370910bbb033b72f9adc098bf5ef4a304691cae5",
+            "released": "2025-10-22T15:22:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v4.1.0",
+            "tag": "archive/v4.1.0",
+            "upstream_commit": "d8786b35794cf86c3e9a8ac2dcc8c30e39b9c1f3",
+            "archive_commit": "46a9bac8598700a5fcf92dc516ab621a14ff9827",
+            "released": "2025-10-22T15:29:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

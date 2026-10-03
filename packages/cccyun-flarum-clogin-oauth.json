@@ -1,0 +1,43 @@
+{
+    "package": "cccyun/flarum-clogin-oauth",
+    "upstream": "https://github.com/netcccyun/flarum-clogin-oauth",
+    "packagistUrl": "https://packagist.org/packages/cccyun/flarum-clogin-oauth",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "7b6d7c254455f57c591eb7ef3c824116810424a5",
+            "archive_commit": "6720ea9f4cd7c9ee27418b785ad020cbff086b47",
+            "released": "2022-04-17T06:42:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "ba522089f86fa89042e4ab31b096b30db97f4861",
+            "archive_commit": "bf26a555d8c6250d655e47a6e69e9a51887cd971",
+            "released": "2022-04-17T07:11:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "bc5cdef6ffc91b05c156f6af7454b54699d3390c",
+            "archive_commit": "dbdd3c2b69fb3ff826be3361a4e6c2fb19831c51",
+            "released": "2022-05-27T06:39:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

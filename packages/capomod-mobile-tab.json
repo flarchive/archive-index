@@ -1,0 +1,31 @@
+{
+    "package": "capomod/mobile-tab",
+    "upstream": "https://github.com/zhujia18/CapoModMobileTab",
+    "packagistUrl": "https://packagist.org/packages/capomod/mobile-tab",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "0764f12f7c74b8c8e5ff1afd4d3bf38c22fdf5ce",
+            "archive_commit": "b044ce1574d2c3669e4f5701d30bfb1fa3128289",
+            "released": "2022-11-26T19:36:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "dfd78ef5f2fc82d4bb0d857a7aeddd9c62d299f8",
+            "archive_commit": "f8ad13f3963d24b1120bcd4d66a0493d63689f7a",
+            "released": "2022-11-27T09:35:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

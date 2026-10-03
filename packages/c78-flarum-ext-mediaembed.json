@@ -1,0 +1,19 @@
+{
+    "package": "c78/flarum-ext-mediaembed",
+    "upstream": "https://github.com/c78/flarum-ext-mediaembed",
+    "packagistUrl": "https://packagist.org/packages/c78/flarum-ext-mediaembed",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "b143a87d2164b21007e36b67c867e636b9c8ddc1",
+            "archive_commit": null,
+            "released": "2016-08-23T07:26:56+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

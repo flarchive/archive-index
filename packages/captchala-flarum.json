@@ -1,0 +1,43 @@
+{
+    "package": "captchala/flarum",
+    "upstream": "https://github.com/Captcha-La/captchala-flarum",
+    "packagistUrl": "https://packagist.org/packages/captchala/flarum",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "cc6ec9611d926f4cebb1f02fac9db14113cb64e9",
+            "archive_commit": "aa61d8253ee118c2b07006268eb063093cb99502",
+            "released": "2026-05-08T18:13:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "ace7230248087a486e8455bea4fa175402779dca",
+            "archive_commit": "8de78a74212c5e1f5fd7d2f479aa9809b1a071ef",
+            "released": "2026-06-20T09:46:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "0a42ab577db2d0de5283eae041f843a6dfdce9ba",
+            "archive_commit": "76c985a4952334c6aa83d6ebd31bb3b520967318",
+            "released": "2026-06-20T19:09:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

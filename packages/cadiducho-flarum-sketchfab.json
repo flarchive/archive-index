@@ -1,0 +1,19 @@
+{
+    "package": "cadiducho/flarum-sketchfab",
+    "upstream": "https://github.com/Cadiducho/flarum-sketchfab",
+    "packagistUrl": "https://packagist.org/packages/cadiducho/flarum-sketchfab",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "53d908afb8b5424b4e3460e7fb0440dccc9cea73",
+            "archive_commit": "fe9cc6ebf9199c3094d62e4760f7b3c155e3e9a5",
+            "released": "2022-01-21T14:02:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

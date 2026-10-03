@@ -1,0 +1,19 @@
+{
+    "package": "cc2562/gravatar",
+    "upstream": "https://github.com/cc2562/gravatar",
+    "packagistUrl": "https://packagist.org/packages/cc2562/gravatar",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "1a371380c719de3079f78709f1a5896b5fc330ea",
+            "archive_commit": "35d76d00654e33e903f0eeb88cf68685e0dd9be4",
+            "released": "2024-11-20T09:54:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "capomod/image-processing",
+    "upstream": "https://github.com/zhujia18/CapoModImageProcessing",
+    "packagistUrl": "https://packagist.org/packages/capomod/image-processing",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "fb1a8f8892613919e7d98598ffe24156525b5d40",
+            "archive_commit": "d7a9cdbe1744debb8204746452b7085f1983ae58",
+            "released": "2025-10-07T11:13:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

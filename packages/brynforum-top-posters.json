@@ -1,0 +1,67 @@
+{
+    "package": "brynforum/top-posters",
+    "upstream": "https://github.com/BrynForum/flarum-ext-top-posters",
+    "packagistUrl": "https://packagist.org/packages/brynforum/top-posters",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d2d1100f6ba75af3f84b4ddf775f59ce0355e441",
+            "archive_commit": "052feb27e2535a41d37cee97a4cd1d5009340a72",
+            "released": "2026-05-16T12:33:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "2c29455ac28f274b79014769734b1abf543cbc1d",
+            "archive_commit": "909e20beb71651be0b954299b9b6ac2fa971f564",
+            "released": "2026-05-29T16:28:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "06aba78cec44d3b683f4c0500a71547625a71d61",
+            "archive_commit": "2226960fd9d64e736cfe014b961936952ada9063",
+            "released": "2026-06-01T09:43:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "339b7172e16af115f5e017de834bb813c370c43f",
+            "archive_commit": "f2727491c1806ff9f5e3f801f2570fd1f3040865",
+            "released": "2026-06-01T09:57:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "8b32fb57850eaa124d13c12ee4615be4269f2d50",
+            "archive_commit": "0b7ebd85e263927a4a3d56cd75ae07febe7dd1a8",
+            "released": "2026-07-24T14:02:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

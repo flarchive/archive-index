@@ -1,0 +1,19 @@
+{
+    "package": "brynforum/api-cache",
+    "upstream": "https://github.com/BrynForum/flarum-ext-api-cache",
+    "packagistUrl": "https://packagist.org/packages/brynforum/api-cache",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "649d2e57d3c0831dc5b7188d04344fd2bc994288",
+            "archive_commit": "c2bd369210a4f04e2f69079fe20aba60f4c78f94",
+            "released": "2026-05-16T12:31:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "package": "cagatayldzz/lang-turkish",
+    "upstream": "https://github.com/cagatayldzz/lang-turkish",
+    "packagistUrl": "https://packagist.org/packages/cagatayldzz/lang-turkish",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.10",
+            "tag": "archive/v0.1.0-beta.10",
+            "upstream_commit": "bfcda82cc813dc1e3c31a2f81f56a95fe4719be7",
+            "archive_commit": "1e79903fe37fe19b71776a1493aa75385ca7db0a",
+            "released": "2019-09-20T09:25:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.11",
+            "tag": "archive/v0.1.0-beta.11",
+            "upstream_commit": "4eb6babe42daf3f4ec899cfa762a7ccf9e8dbc66",
+            "archive_commit": "8aa21c0548bec49ab3689580a73852261cb44304",
+            "released": "2019-12-24T13:08:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.12",
+            "tag": "archive/v0.1.0-beta.12",
+            "upstream_commit": "c85b3d55e736d11c9c99c99ed034ca5d33249052",
+            "archive_commit": "20313a9f19c80bae464203965607fc2eceb1def8",
+            "released": "2020-03-15T07:50:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.13",
+            "tag": "archive/v0.1.0-beta.13",
+            "upstream_commit": "4304c8fc3f398b725e3f0af52718694a46c73c4a",
+            "archive_commit": "9277266e1b003f46774fd9d32e31e5ede9df6e13",
+            "released": "2020-05-04T21:19:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.14",
+            "tag": "archive/v0.1.0-beta.14",
+            "upstream_commit": "f42b959c17c01c809244f98fa119ab704e01849f",
+            "archive_commit": "8d516f24335209b86f2a01b8d9d82ffc721e0330",
+            "released": "2020-10-21T09:47:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8",
+            "tag": "archive/v0.1.0-beta.8",
+            "upstream_commit": "d071e4455bbdf961f1ec38c2e94f5ce0a62359d5",
+            "archive_commit": "c0793ed8bd98b27f11c276d0d9245b9bc45e21a6",
+            "released": "2018-12-16T10:47:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.1",
+            "tag": "archive/v0.1.0-beta.8.1",
+            "upstream_commit": "c7b794bc19056ffe10766450eeaf1c2b111913fc",
+            "archive_commit": "a2f6534a85402dae71b37c133fd9bb1dcf58295f",
+            "released": "2018-12-16T18:48:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.9",
+            "tag": "archive/v0.1.0-beta.9",
+            "upstream_commit": "b4dc688bf283047c16cae5f0c1a7d7a236971e3e",
+            "archive_commit": "c41f29b30ea3e51852eeaf6cc0bda779289db006",
+            "released": "2019-06-27T07:04:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

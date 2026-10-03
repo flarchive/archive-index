@@ -1,0 +1,79 @@
+{
+    "package": "cadiducho/bbcode",
+    "upstream": "https://github.com/EdorasMinecraft/BBcode",
+    "packagistUrl": "https://packagist.org/packages/cadiducho/bbcode",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "562458e0323e3d173abc4f8ec190a3f712fc4b9e",
+            "archive_commit": "1906da62996ac32ab464a9e2789c66ba8ff456ff",
+            "released": "2021-01-08T19:26:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0a1df799e6e172f1f6d95f4f601835a2e028d48a",
+            "archive_commit": "4007af92de330ee92b8e72f1d474267f8161f70a",
+            "released": "2021-01-24T12:29:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "3562dce0ab58e8d9c909eb265c99301ce328cc49",
+            "archive_commit": "6494dd410a414a20d459b7e55e136d98df40249f",
+            "released": "2021-03-24T15:52:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "ec05728c307f6b3f644d25dffcff1294f2e25b49",
+            "archive_commit": "d7a2ff9dc8be578a45785388fc7d4f9b8909003e",
+            "released": "2021-06-16T00:10:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "b5c10f6694eff6bb681e52a21158c9fcbbdc2c79",
+            "archive_commit": "e7ab46cbe1ebeb53f8eb196786826c20a8bf7d53",
+            "released": "2022-01-21T12:56:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "fc61bbd698abcafe1f2c17e34148cab172063567",
+            "archive_commit": "39117365bdb3a53656169701543991d454e6790c",
+            "released": "2025-03-08T12:08:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^v1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

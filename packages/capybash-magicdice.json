@@ -1,0 +1,31 @@
+{
+    "package": "capybash/magicdice",
+    "upstream": "https://github.com/capybash/magicdice",
+    "packagistUrl": "https://packagist.org/packages/capybash/magicdice",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "d660fc12bd2064fb78a13ff6040c3761fb90db8b",
+            "archive_commit": "c393f8ac6363a83e47c4bc20f394789463a3923b",
+            "released": "2025-11-22T23:01:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "64108816d92eddb21e0cd851de01ab60de02add7",
+            "archive_commit": "0afd9987cb322da8bffe03a7a2bf737ab0929ee4",
+            "released": "2025-11-22T22:29:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "capomod/quicklinks",
+    "upstream": "https://github.com/zhujia18/CapoModQuickLinks",
+    "packagistUrl": "https://packagist.org/packages/capomod/quicklinks",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "30889970659295dcaca668b9d01edd864e0e2ad1",
+            "archive_commit": "453f104ca87c75627856ce8fbd62e7dc77f03666",
+            "released": "2022-11-19T12:41:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "47efe8f78b91394516f1406088296a0a3f17dba1",
+            "archive_commit": "8be76ccedd6e94353ab20a7938c5aa38535faac4",
+            "released": "2022-11-26T19:26:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
