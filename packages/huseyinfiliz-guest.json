@@ -1,0 +1,31 @@
+{
+    "package": "huseyinfiliz/guest",
+    "upstream": "https://github.com/huseyinfiliz/guest",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/guest",
+    "versions": [
+        {
+            "version": "v2",
+            "tag": "archive/v2",
+            "upstream_commit": "f92225a546d700f4b8a5ff0ea959ecf6c6d65363",
+            "archive_commit": "a1795cee1e46c9c6ef843dc3f594fa1449340187",
+            "released": "2025-08-26T13:45:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.1",
+            "tag": "archive/v2.1",
+            "upstream_commit": "f6edf0ff30a7d1cb62506376ec7f90c1267ff794",
+            "archive_commit": "ba6f5b6a29fd27ccd16316dc3f3adf93437004a4",
+            "released": "2025-08-26T13:50:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

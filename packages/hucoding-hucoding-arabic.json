@@ -1,0 +1,19 @@
+{
+    "package": "hucoding/hucoding-arabic",
+    "upstream": "https://github.com/Hucoding-yc/arabic",
+    "packagistUrl": "https://packagist.org/packages/hucoding/hucoding-arabic",
+    "versions": [
+        {
+            "version": "v1",
+            "tag": "archive/v1",
+            "upstream_commit": "2da9ca90b7cd5971eab786ecacf2bfc8f05a631d",
+            "archive_commit": "6a58ccaec17d4edeeac207b41a79edb85cd6ec62",
+            "released": "2021-04-04T02:09:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

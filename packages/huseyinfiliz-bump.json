@@ -1,0 +1,55 @@
+{
+    "package": "huseyinfiliz/bump",
+    "upstream": "https://github.com/huseyinfiliz/bump",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/bump",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "faf3154edaaf3aef4186ee6d77da6e26243ba74a",
+            "archive_commit": "a94d3c6cb4ec19a58a4d6ebec24a39e67f32a1f2",
+            "released": "2025-10-23T11:15:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "10893afc3f2df5941e05d8f23904ba3b3d9e0bad",
+            "archive_commit": "59daeb579a748ac2a973f7f2c6b3189ef9f974e8",
+            "released": "2025-10-27T11:18:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "d8595987a71946099d223db61a9609d2a1bc3562",
+            "archive_commit": "78df5e982256e38542789fc69ef09cf2d866d233",
+            "released": "2025-11-03T08:27:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.5",
+            "tag": "archive/v1.5",
+            "upstream_commit": "d8595987a71946099d223db61a9609d2a1bc3562",
+            "archive_commit": "7157a1bb12dce1f54a30d6a17b17bad0982c2f93",
+            "released": "2025-11-03T08:27:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

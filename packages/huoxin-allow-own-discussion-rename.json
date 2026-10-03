@@ -1,0 +1,19 @@
+{
+    "package": "huoxin/allow-own-discussion-rename",
+    "upstream": "https://github.com/huoxin233/flarum-ext-allow-own-discussion-rename",
+    "packagistUrl": "https://packagist.org/packages/huoxin/allow-own-discussion-rename",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "359ced2f531b22aa0fbfda123f4de4e3a1627215",
+            "archive_commit": "5d0695feccd96b6530081a22a1f5046c8163f65c",
+            "released": "2025-09-30T11:34:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

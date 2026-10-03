@@ -1,0 +1,43 @@
+{
+    "package": "huseyinfiliz/flarum-member",
+    "upstream": "https://github.com/huseyinfiliz/flarum-member",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/flarum-member",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "f5dae63cbf4272feb34df1ffe7bf36840a82dad9",
+            "archive_commit": "ebdb5212ade6493790ee61ab31d6027d190a9a70",
+            "released": "2024-12-05T12:28:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "d14e405489996d41215d9c3c236c40e0ff6de95e",
+            "archive_commit": "1a2c9d3791e275db4e2134330af0015d2bc77e95",
+            "released": "2024-12-06T08:02:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1-alpha",
+            "tag": "archive/v1.1-alpha",
+            "upstream_commit": "d14e405489996d41215d9c3c236c40e0ff6de95e",
+            "archive_commit": "b8ac8158f958edfabdb0295ef2ef5c716b0e425f",
+            "released": "2024-12-06T08:02:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

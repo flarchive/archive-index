@@ -1,0 +1,55 @@
+{
+    "package": "huseyinfiliz/language-detection",
+    "upstream": "https://github.com/huseyinfiliz/language-detection",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/language-detection",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ef3512c949fda5d8ffd06272bb7a7d149833d1f5",
+            "archive_commit": "0d344cee575767b2add8afdd69d8bbaecf31f56f",
+            "released": "2026-08-31T10:21:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "5455ee186db5d9b67a0d5ab8c2edb5f8155e3cf0",
+            "archive_commit": "6ab49a02dc36f875c8ce433e2d56c511431b794c",
+            "released": "2026-09-02T07:38:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "195090b5f82b12d02869d1fec31065b5ba922096",
+            "archive_commit": "6b8a6c714628aa58d5736de6d551bac108ac39df",
+            "released": "2026-09-14T16:42:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "587857006920900ae97fbe086e1a52921a757a50",
+            "archive_commit": "625a8cf890e677f232d361dcc8cdeb95170d01dd",
+            "released": "2026-09-14T16:36:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

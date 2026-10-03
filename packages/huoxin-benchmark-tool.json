@@ -1,0 +1,67 @@
+{
+    "package": "huoxin/benchmark-tool",
+    "upstream": "https://github.com/huoxin233/flarum-ext-benchmark-tool",
+    "packagistUrl": "https://packagist.org/packages/huoxin/benchmark-tool",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d76d0867b5f7847db1236855182e56640d479291",
+            "archive_commit": "97552838861720ac0dd4b57cfb058d774e73a6d6",
+            "released": "2026-07-12T08:29:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "dd4a9e9e420abcbd93f63cd7e1407bbcaf19ae77",
+            "archive_commit": "959db660d466181a13d78c9a982bc11eb638f49f",
+            "released": "2026-07-12T09:13:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "6d044442719d3b8e2cba6ff7be97013d9689a0ea",
+            "archive_commit": "8f6cbe7e131d2db56ef05ce29d0cce11976293e0",
+            "released": "2026-07-14T14:57:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "8e37738d0cecfaf20ea2e67152c2cf3e5940842f",
+            "archive_commit": "86f36766a135660d3929e7a7a746c7346caf2d6a",
+            "released": "2026-07-12T09:57:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "29df3b6935b55788641e3b7abea8ced7c98ea412",
+            "archive_commit": "e221a63857de57aafb5b6f27207cb2291fdae21c",
+            "released": "2026-07-14T14:57:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

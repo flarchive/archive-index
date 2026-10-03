@@ -1,0 +1,55 @@
+{
+    "package": "huseyinfiliz/leaderboard",
+    "upstream": "https://github.com/huseyinfiliz/leaderboard",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/leaderboard",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "18d5788d47ca572e1d62a7f73c5abcc002ee7ad8",
+            "archive_commit": "e93d4c104250fa5a39353f7616d6f09ef3c2d95a",
+            "released": "2026-03-02T08:57:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "33968bda25edeb55abb3f658417dd5a0e719da96",
+            "archive_commit": "3ea4d1f3f14030378894911ff072f2e407625d5b",
+            "released": "2026-08-31T09:46:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "e749f25a6e872535043e2c686c44989014399120",
+            "archive_commit": "b1cf9c670a901187370caf8db0b6d2f3161d2abb",
+            "released": "2026-03-11T12:44:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "7bfc1487e1d39823c0650c9d7f2b3b03cece4166",
+            "archive_commit": "cec599061aa59586f56ee2055ccc671e8f329c8c",
+            "released": "2026-10-01T08:42:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

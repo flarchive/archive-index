@@ -1,0 +1,67 @@
+{
+    "package": "huseyinfiliz/awards",
+    "upstream": "https://github.com/huseyinfiliz/awards",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/awards",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "6d9a32351f917a82d64958217abecda440963d6a",
+            "archive_commit": "15ad50b33953a8fcf88c96f2e036bda3ed513488",
+            "released": "2026-01-19T08:31:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "2b3da7690299eedbc334653a04104bc174163651",
+            "archive_commit": "a6f7c79bc13ba1f0901f0707f94fd7277f301001",
+            "released": "2026-01-20T06:44:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "5261c9fc6b12655f01596fe05a51f2eb695b73c9",
+            "archive_commit": "939292eaefebd3353b37d3656c94a4d9b0dc02c2",
+            "released": "2026-10-01T13:45:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "18ff437b21bad54162b19cd62b971c3c7cffcffa",
+            "archive_commit": "e3fc5209818f2748432db6e0096c48aa2088a79a",
+            "released": "2026-03-10T13:02:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "archive/v2.0.0-beta.2",
+            "upstream_commit": "635e030ada9bff193da2eef6caf554d8db6e1907",
+            "archive_commit": "bcb5c658d7b6f5bba1d7544fe4ee38ce2c3ca41c",
+            "released": "2026-03-13T11:05:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

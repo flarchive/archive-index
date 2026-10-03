@@ -1,0 +1,31 @@
+{
+    "package": "huoxin/relative-url",
+    "upstream": "https://github.com/huoxin233/flarum-ext-relative-url",
+    "packagistUrl": "https://packagist.org/packages/huoxin/relative-url",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8f3da8a02f02175bad68819bcc43f920fe7226d7",
+            "archive_commit": "231961c5059f9bc44de5980b7eb33bcf12d5b305",
+            "released": "2025-12-19T15:03:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "9d21286bbca19017285cdd97b466013685fa1354",
+            "archive_commit": "e69d0d5dfce3c04cac6137bace1ce27545d893a1",
+            "released": "2026-01-08T15:05:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

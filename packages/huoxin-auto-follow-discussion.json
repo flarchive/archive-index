@@ -1,0 +1,55 @@
+{
+    "package": "huoxin/auto-follow-discussion",
+    "upstream": "https://github.com/huoxin233/flarum-ext-auto-follow-discussion",
+    "packagistUrl": "https://packagist.org/packages/huoxin/auto-follow-discussion",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "44d75aeadcaaca6d6096dad9f41328a0dfbc694d",
+            "archive_commit": "e81a12e5967cb180005729480742b14ca659fe75",
+            "released": "2024-06-10T17:18:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "de044890b0d0328bae39407e518e8e1bdca5bab5",
+            "archive_commit": "66ef26e9f5772110729cb7b4f15eacf9bbe93c96",
+            "released": "2024-06-15T15:54:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "eed7a1ea519f872f91b9fc26ae8677e77727f09c",
+            "archive_commit": "877bfab1b3a4d4e238d686aede9774be1b3a7762",
+            "released": "2026-07-19T17:08:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "f5b0248d97f23fc504d35d57674ce7405b922798",
+            "archive_commit": "9419e4af1d5039b4a19e6fcd0ba7b75a6b0ba085",
+            "released": "2026-07-19T17:08:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

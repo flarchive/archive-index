@@ -1,0 +1,19 @@
+{
+    "package": "huoxin/user-handles",
+    "upstream": "https://github.com/huoxin233/flarum-ext-user-handles",
+    "packagistUrl": "https://packagist.org/packages/huoxin/user-handles",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "35aed08106f95e2f16b5d5ac7d7e2783cdbb0f1a",
+            "archive_commit": "49cb8a4c9b12495ab654d19945aba0d70a3d0c7c",
+            "released": "2026-09-28T09:53:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

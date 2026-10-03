@@ -1,0 +1,67 @@
+{
+    "package": "huseyinfiliz/discussion-ban",
+    "upstream": "https://github.com/huseyinfiliz/discussion-ban",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/discussion-ban",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5d7f85e36a6ab7054c2d7c1dd1357d6d182e75bd",
+            "archive_commit": "cfbe655734c2934c15afb8eb29fc5ec1677b7441",
+            "released": "2026-09-08T13:09:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "c758b404f150b5f12cf248f0dc758dab75d79868",
+            "archive_commit": "01de7c3aad2a3dcf5989208b3bfa95bd29a0af36",
+            "released": "2026-09-08T13:33:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "f357833b17cae8ea958ca02e0499d7cf9931ce5e",
+            "archive_commit": "7fbc16531b63844d22879b824506764611b8ba3b",
+            "released": "2026-09-10T08:58:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "34d0ffc982a8cacbea5c30c242ccd9611e347106",
+            "archive_commit": "8cf846b265e6264a0d94cb0e0ae320d1cec4e4f7",
+            "released": "2026-09-10T13:02:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "57f3774931c7f42d005daa63cdeb163575f77e55",
+            "archive_commit": "c62982042a6467151438db8d93cfb705e1279e75",
+            "released": "2026-09-08T13:26:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
