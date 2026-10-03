@@ -1,0 +1,55 @@
+{
+    "package": "hamcq/pangujs",
+    "upstream": "https://github.com/HamCQ/flarum-ext-pangujs",
+    "packagistUrl": "https://packagist.org/packages/hamcq/pangujs",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c0459ce10657f3a11a58ddc7bf22f567d42f91af",
+            "archive_commit": "8c788c0381749b3dc3b7358538bc38768c7d8caa",
+            "released": "2023-10-27T09:08:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "798e35c23692ec681f6f6bd94896d94fe77c820d",
+            "archive_commit": "685c01e02db85b0991c9ec367d73f90d28b0a2ac",
+            "released": "2023-10-27T09:20:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "df03a4fcde7cf064dfec56cd90705485a39874e2",
+            "archive_commit": "025df36789b2822811774c5c71aae61fe6b72f8f",
+            "released": "2023-10-27T09:26:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "c5af344e8ca86578ec940b3bf07bf8d069461694",
+            "archive_commit": "021037ae4c40c2cad42a398e7724826072ee6778",
+            "released": "2023-10-27T09:28:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

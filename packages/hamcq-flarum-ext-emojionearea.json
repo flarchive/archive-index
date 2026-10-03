@@ -1,0 +1,43 @@
+{
+    "package": "hamcq/flarum-ext-emojionearea",
+    "upstream": "https://github.com/HamCQ/flarum-ext-emojionearea",
+    "packagistUrl": "https://packagist.org/packages/hamcq/flarum-ext-emojionearea",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "40f5db7854dc1df2f7ce55ce040ecd85bb0df35f",
+            "archive_commit": "0fa8da9e5032381e70bf0fe8572d5faec43200b2",
+            "released": "2022-08-15T08:23:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "7d19b9f9c8a70be46d509fee0adba741df784d1b",
+            "archive_commit": "bc696d1830a7cd353eb81157a772f68fb68ce551",
+            "released": "2022-08-15T09:12:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "a830750c54bf5629efa430ed8105a1183ea8fe8d",
+            "archive_commit": "bad90b7e75c0d6248e9c31c54b1d616abe52fe43",
+            "released": "2023-09-11T02:13:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

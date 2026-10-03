@@ -1,0 +1,115 @@
+{
+    "package": "hamcq/flarum-ext-auth-phone",
+    "upstream": "https://github.com/HamCQ/flarum-ext-auth-phone",
+    "packagistUrl": "https://packagist.org/packages/hamcq/flarum-ext-auth-phone",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e7fb0208dcda7836a3303712a29bc3e9806c85ca",
+            "archive_commit": "6ea4fd0865c99f9363dc1d9d4ad70864052c9bf5",
+            "released": "2022-12-01T09:46:27+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "f9e239213dd34766420cf4955c25f744613e282f",
+            "archive_commit": "3240895f33f2f0a26a5e8f7d94514027f4d51640",
+            "released": "2022-12-01T15:19:42+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "6349ce409f8efc4ca103bd2d41c90cab57e4787b",
+            "archive_commit": "84a3f1cde743f079ea8f7dd9cfb81f2df1ce670d",
+            "released": "2023-01-29T06:54:53+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "4466c7f5b748d7776d48de16e65b4ee2615fbb2e",
+            "archive_commit": "d044c0c688b8991c7dadec8443ba204c8c9cc8dc",
+            "released": "2023-08-16T08:42:45+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "f63616e45c0257741117db28d604b944ace8d404",
+            "archive_commit": "b558580faa6e7527639b1685a9421bf0401b1938",
+            "released": "2023-11-02T07:47:44+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "a181558265bbcdee1d0e28faec5f2d0ea430c553",
+            "archive_commit": "9909ff3a8565e11098cdfc1f14eedfdd698ffa99",
+            "released": "2023-11-02T08:34:31+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.7",
+            "tag": "archive/v1.0.7",
+            "upstream_commit": "d238215af4a400f4b66f0e840b2b7dfa3cd0a23f",
+            "archive_commit": "f38095c42b916e84ce1909e679cb8010cfe7d1ed",
+            "released": "2023-11-03T02:08:11+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.8",
+            "tag": "archive/v1.0.8",
+            "upstream_commit": "65c9d0d640994ee7ba858316aa525a7f00f07987",
+            "archive_commit": "12e37063ef1e11b39c21e58f0381e4364214329b",
+            "released": "2023-11-03T02:13:20+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.9",
+            "tag": "archive/v1.0.9",
+            "upstream_commit": "8d6c8e241ed0d5e49e8b1e58639b67dff4f7df47",
+            "archive_commit": "3aacf90d95c0a2b925afedf3bac1eac9efca3e38",
+            "released": "2023-11-20T05:54:38+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

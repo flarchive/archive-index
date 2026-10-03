@@ -1,0 +1,31 @@
+{
+    "package": "hamcq/flaurm-ext-ip",
+    "upstream": "https://github.com/HamCQ/flarum-ext-ip-addr",
+    "packagistUrl": "https://packagist.org/packages/hamcq/flaurm-ext-ip",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "50b2d5bb985b91f3844410c5dfb48ae10f287e1a",
+            "archive_commit": "58a58c58e1b11454bd48fa1b6c880965627170df",
+            "released": "2023-03-27T07:07:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "82ddfaf9e991774a206f65ade6f08b8a7974a56e",
+            "archive_commit": "eeec78bd318c7c1013c8cb05c22a51b33e31b1b4",
+            "released": "2023-10-28T07:02:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

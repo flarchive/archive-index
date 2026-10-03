@@ -1,0 +1,31 @@
+{
+    "package": "halimjr/lang-bangla",
+    "upstream": "https://github.com/halimjr/lang-bangla",
+    "packagistUrl": "https://packagist.org/packages/halimjr/lang-bangla",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "78653776fe15939db886bd76a100f21a17fe0ec3",
+            "archive_commit": "8566ad4122a9eade39118c5031c08c7821ab0f22",
+            "released": "2022-07-28T02:42:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "f45dbdbc55198e9849ac5b2d6df6342fc9ec1063",
+            "archive_commit": "5f962e5fbe1bb6e3707264ed1e3d73d51bd01571",
+            "released": "2022-07-28T05:39:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

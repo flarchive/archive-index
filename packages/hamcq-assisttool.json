@@ -1,0 +1,31 @@
+{
+    "package": "hamcq/assisttool",
+    "upstream": "https://github.com/HamCQ/flarum-ext-assist-tool",
+    "packagistUrl": "https://packagist.org/packages/hamcq/assisttool",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4845740c8deb90d395f3d9e438bed993f00c7234",
+            "archive_commit": "9f6d2a3c8a1af4d9ebca634c9a78f7898b8aff71",
+            "released": "2023-11-10T03:35:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8dba9d42a54f8cdee57abe81a0e0169a36ebbe7b",
+            "archive_commit": "95c537289db6f413fe4aa4c121f588fa6a5c1af7",
+            "released": "2023-11-10T04:46:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

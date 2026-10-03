@@ -1,0 +1,55 @@
+{
+    "package": "hamcq/flarum-oauth-center",
+    "upstream": "https://github.com/HamCQ/flarum-oauth-center",
+    "packagistUrl": "https://packagist.org/packages/hamcq/flarum-oauth-center",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b6673c2558db617889bafb1b2b55113f0d0241aa",
+            "archive_commit": "eb7d0e56e05c3efa1a9799fbb31ac59ea4ce7aa3",
+            "released": "2024-08-14T05:10:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "e0641172518dadc4102d6d77cd4ec0a6f46b4379",
+            "archive_commit": "6935314800cc704e391d72cb663f3fb60f6ba2cb",
+            "released": "2024-08-14T05:16:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "72ae3b87697640f936c3795a33879a7ef290f5ff",
+            "archive_commit": "f732ccf41b8567b8e66031cdb42aab48a015ce7d",
+            "released": "2024-08-14T06:13:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "1637614e860c5732d6938228799fd596acc30a7b",
+            "archive_commit": "cb7765bb08dbd75ef658e14f45bc99ee2f5def50",
+            "released": "2024-08-14T06:22:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

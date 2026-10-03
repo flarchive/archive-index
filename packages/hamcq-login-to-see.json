@@ -1,0 +1,31 @@
+{
+    "package": "hamcq/login-to-see",
+    "upstream": "https://github.com/HamCQ/flarum-ext-login-to-see",
+    "packagistUrl": "https://packagist.org/packages/hamcq/login-to-see",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "bb9d4081d799e9efb7d09f31ea4935e6aceb2b4e",
+            "archive_commit": "174dd2540781a3a6c27df95995883069d2ba8795",
+            "released": "2025-12-03T11:50:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "82603433d211af7409e208bf2f1133528f66dfd9",
+            "archive_commit": "65ec14a7e7723d4186cd6b52b90f384a80329727",
+            "released": "2025-12-03T12:03:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

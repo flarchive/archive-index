@@ -1,0 +1,19 @@
+{
+    "package": "halobear/flarum-dingtalk-auth",
+    "upstream": "https://github.com/halobear/flarum-dingtalk-auth",
+    "packagistUrl": "https://packagist.org/packages/halobear/flarum-dingtalk-auth",
+    "versions": [
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "71de9c2fcf719e4f767c172e4481fcb7c03d8acf",
+            "archive_commit": "e65db4e5ddc5f9fde12e05476c1ffe89fac75b4a",
+            "released": "2020-08-01T02:39:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "hamcq/lang-traditional-chinese",
+    "upstream": "https://github.com/HamCQ/lang-traditional-chinese",
+    "packagistUrl": "https://packagist.org/packages/hamcq/lang-traditional-chinese",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "ae3ee48818ec72cc178a58ab041ebd837a7f1e7b",
+            "archive_commit": "0d45af58e4619b98832e927efe213511209e06e3",
+            "released": "2022-09-04T04:19:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "c4cd6d2da65ac3600b8a3eb39cb77e5ce33109cb",
+            "archive_commit": "89cedfbde552057f17d9d039421571b164c038d8",
+            "released": "2023-11-23T06:52:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

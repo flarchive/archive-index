@@ -1,0 +1,55 @@
+{
+    "package": "hamcq/filter-plus",
+    "upstream": "https://github.com/HamCQ/flarum-ext-filter-plus",
+    "packagistUrl": "https://packagist.org/packages/hamcq/filter-plus",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "835a9ee9026d5c3fa50348d0970fcfa299d5989e",
+            "archive_commit": "ab8c8bb0c517099057d99db4e4aea4ef91443502",
+            "released": "2023-08-28T09:45:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "d6af9b7de0883fd29e0bd6ace8e8f29cf4ae90ec",
+            "archive_commit": "b233ade4755ca758659a800831dfd69ae3143ad1",
+            "released": "2023-08-28T09:50:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "8b3f1012ce471e0752fab9704866af556af3f020",
+            "archive_commit": "170c03edd18ab3488120d501c2d31543d1048289",
+            "released": "2023-10-28T06:29:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "13d97228c1fe7b958a6dcc25655d63bda02eefd7",
+            "archive_commit": "e6b9812039243d9e0d2ddecce52e222ed781c9fc",
+            "released": "2023-11-24T04:47:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

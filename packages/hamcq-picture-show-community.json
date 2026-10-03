@@ -1,0 +1,19 @@
+{
+    "package": "hamcq/picture-show-community",
+    "upstream": "https://github.com/HamCQ/flarum-ext-card-show-community",
+    "packagistUrl": "https://packagist.org/packages/hamcq/picture-show-community",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a1178d28e87c968203812501d42984b1109b9d99",
+            "archive_commit": "b9c7a1f87df9f9b0bed39f7577c1aa70a4720a3e",
+            "released": "2023-11-23T09:59:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
