@@ -1,0 +1,19 @@
+{
+    "package": "blomstra/no-email-notifications",
+    "upstream": "https://github.com/blomstra/flarum-ext-no-email-notifications",
+    "packagistUrl": "https://packagist.org/packages/blomstra/no-email-notifications",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "396857d63e29e8d8c4264fdb19ca9286fca61ce1",
+            "archive_commit": "19af2d34efeed77f28e2339ed6eaa14679e1957a",
+            "released": "2021-11-02T20:36:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

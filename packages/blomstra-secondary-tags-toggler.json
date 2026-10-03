@@ -1,0 +1,91 @@
+{
+    "package": "blomstra/secondary-tags-toggler",
+    "upstream": "https://github.com/blomstra/flarum-ext-secondary-tags-toggler",
+    "packagistUrl": "https://packagist.org/packages/blomstra/secondary-tags-toggler",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "3353d78c8739738aba24964a541cdceffe944dc3",
+            "archive_commit": "55dcfe3589cdb74e84395629cb107a7cf299c533",
+            "released": "2021-10-23T11:00:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "43295708427c3efa5fa4a2ed72091e62213cc168",
+            "archive_commit": "2f9de6a72c937c557ff0f8ebfc217344d0446a2b",
+            "released": "2021-10-30T11:15:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "5c16ab4b0a5aed5bfa45ca961c46e54121ea0d17",
+            "archive_commit": "cf25938b75ce4e0978112712924437619c46b9b0",
+            "released": "2021-11-13T11:40:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "eee7acae1a74d12bd60e3ebab81bebf1dad6e5bf",
+            "archive_commit": "4147841e0aae0f04fc26eebc18ec95c5382d9322",
+            "released": "2021-11-22T23:00:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "0aecd02ce1d3d5be09cf993a7159852f00bed9b8",
+            "archive_commit": "01804c7fae4937e3a1a8cb909d5be0b98297ee4c",
+            "released": "2021-11-29T14:28:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "14fd65d614a871bb879fb6765d2d17e8a813fc9b",
+            "archive_commit": "46665179b25d8b1cbd678cd3c24bd48a8acd39fe",
+            "released": "2021-12-02T17:55:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.3",
+            "tag": "archive/v0.2.3",
+            "upstream_commit": "48424e67f4821c7f8db80fcc2010e119a12a929a",
+            "archive_commit": "db75336650139b3af54191b80a28f1781a2f9be6",
+            "released": "2022-01-25T11:35:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

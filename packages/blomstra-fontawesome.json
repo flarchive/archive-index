@@ -1,0 +1,79 @@
+{
+    "package": "blomstra/fontawesome",
+    "upstream": "https://github.com/blomstra/flarum-ext-fontawesome",
+    "packagistUrl": "https://packagist.org/packages/blomstra/fontawesome",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "39ba478079cab86ab64d01f1f128900202a9efe3",
+            "archive_commit": "10f87cee320f18795514a47dc4188cdcf1b06a6a",
+            "released": "2022-07-15T23:10:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "ef633d376e25707501d19d4e166c03461ee7a0c5",
+            "archive_commit": "e36f4e381d5cda6288ccc614050572aa18c9f4db",
+            "released": "2022-07-16T22:24:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "d5dca0759a35d3dfd44c8df1f7a5b92cf908daf3",
+            "archive_commit": "ec4491bf51c360e73b107171f5d50d492457182d",
+            "released": "2022-07-22T10:32:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "60aee2ab0269aa2f91e47e0955ec978a6ffff12b",
+            "archive_commit": "19405c5590031768208fb9ae3c4efbfa692d4467",
+            "released": "2022-07-23T14:23:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "23ba906986e9b58140b81e87c1815a60a82a8ae9",
+            "archive_commit": "444dabaca91accb842b9f24447b9ec09b460a637",
+            "released": "2022-07-28T19:59:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "ad7643dab4fe37bc998eed8e9356e51ee96af2e3",
+            "archive_commit": "f1e522ca4491f0259e3d0a6a72e705f9811277f3",
+            "released": "2022-11-10T18:27:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

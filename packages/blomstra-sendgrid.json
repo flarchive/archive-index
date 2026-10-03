@@ -1,0 +1,55 @@
+{
+    "package": "blomstra/sendgrid",
+    "upstream": "https://github.com/blomstra/flarum-ext-sendgrid",
+    "packagistUrl": "https://packagist.org/packages/blomstra/sendgrid",
+    "versions": [
+        {
+            "version": "1.0-beta.1",
+            "tag": "archive/v1.0-beta.1",
+            "upstream_commit": "536fff0ae9d0f075000bc1ffff1f22197a5e34a5",
+            "archive_commit": "853b22f09b49ac121423c1779dc9bf0d8899495b",
+            "released": "2024-05-24T10:55:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0-beta.2",
+            "tag": "archive/v1.0-beta.2",
+            "upstream_commit": "81a3aed777f31166d3fc33668ffac7fd55ba351f",
+            "archive_commit": "311d9cdfb4623aa8d6a4e60d3677704f20859bbe",
+            "released": "2024-06-02T16:44:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0-beta.3",
+            "tag": "archive/v1.0-beta.3",
+            "upstream_commit": "6c952a1a47ac257f165fbdf012f1bd455aa98d4d",
+            "archive_commit": "187e7a2ad72c843f1ec5c4ada81e5eb1e3c7c1c0",
+            "released": "2024-06-27T19:26:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0-beta.4",
+            "tag": "archive/v1.0-beta.4",
+            "upstream_commit": "b649fcd845fc51b43bdb914579e69c4d8c5310e1",
+            "archive_commit": "4db5a36c75017226d3e585cd19a33a5aefb32204",
+            "released": "2024-10-22T08:08:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

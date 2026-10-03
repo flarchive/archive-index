@@ -1,0 +1,31 @@
+{
+    "package": "blomstra/mark-unread",
+    "upstream": "https://github.com/blomstra/flarum-ext-mark-unread",
+    "packagistUrl": "https://packagist.org/packages/blomstra/mark-unread",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ed8e490ecd50ec8369e78518221689a39df78f74",
+            "archive_commit": "95d423cdbebb54cd7bff9a2b2fe5ef08d21f7c56",
+            "released": "2021-11-03T20:51:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "27f6e911b3714805fa37ecea3576b9fb9bd360b0",
+            "archive_commit": "16558f6dd98b8806e8adb8325e96b15079b3e0a5",
+            "released": "2022-01-25T10:41:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

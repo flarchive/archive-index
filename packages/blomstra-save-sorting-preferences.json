@@ -1,0 +1,43 @@
+{
+    "package": "blomstra/save-sorting-preferences",
+    "upstream": "https://github.com/blomstra/flarum-ext-save-sorting-preferences",
+    "packagistUrl": "https://packagist.org/packages/blomstra/save-sorting-preferences",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "9f2389338ec8befd367b0772d7cbcb244b56db10",
+            "archive_commit": "850fbfba2c764541032609c901b4c72474400cbf",
+            "released": "2024-07-09T10:28:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0-beta",
+            "tag": "archive/v1.0-beta",
+            "upstream_commit": "3e4e5b7ec08e2a7f8df103f22db9d7c98b952100",
+            "archive_commit": "0be2e230aac067503431c678cdfcb318ccdd5f8c",
+            "released": "2024-06-11T06:50:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "12b8180c18faf51eaa3415e2f628c93d1e332231",
+            "archive_commit": "dc6ebeb9a4c0f715ed83b6d9aedb2341cc32c9d4",
+            "released": "2025-09-11T11:40:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
