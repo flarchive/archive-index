@@ -1,0 +1,19 @@
+{
+    "package": "ddawx123/flarum-ext-auth-cas",
+    "upstream": "https://github.com/ddawx123/flarum-ext-auth-cas",
+    "packagistUrl": "https://packagist.org/packages/ddawx123/flarum-ext-auth-cas",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "36203bd8042932dbad98d05ca7c34eef09826701",
+            "archive_commit": "fdda104d6dbf654cbc0cbc7d65f49153c473cbd1",
+            "released": "2018-10-13T08:49:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

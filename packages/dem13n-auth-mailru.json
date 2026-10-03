@@ -1,0 +1,19 @@
+{
+    "package": "dem13n/auth-mailru",
+    "upstream": "https://github.com/Dem13n/auth-mailru",
+    "packagistUrl": "https://packagist.org/packages/dem13n/auth-mailru",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "fc85b0b65e11c33f7050f9e5e6d703dcc3813a3f",
+            "archive_commit": "50450fca2851aa93312e2f69d6d11551b7eef7fd",
+            "released": "2019-07-13T12:17:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

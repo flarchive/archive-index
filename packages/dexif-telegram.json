@@ -1,0 +1,43 @@
+{
+    "package": "dexif/telegram",
+    "upstream": "https://github.com/dexif/telegram",
+    "packagistUrl": "https://packagist.org/packages/dexif/telegram",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "eba9064cd6dd3894ca94d3e2d884717794d26870",
+            "archive_commit": "15d23674968b3aa5448db2a11b3b2c57636906ea",
+            "released": "2018-02-09T01:07:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "8dcd2a0996284c8254fc5bbc0b23b82f3a3f31d5",
+            "archive_commit": "c79f622d0fbad2ec8f15fe486fdfb7f0baa427f1",
+            "released": "2018-02-09T16:55:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "c2ee836d32bfb72b9c7779b7e08b9445495870c4",
+            "archive_commit": "180fe6ccacb08a969e0d0738a0413b4b5d299af6",
+            "released": "2019-10-18T12:35:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "defendervex/bbextend",
+    "upstream": "https://github.com/DefenderVex/bbextend",
+    "packagistUrl": "https://packagist.org/packages/defendervex/bbextend",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b4358d58e5298cb5aaa53fca67c1584096e41f49",
+            "archive_commit": "3d04bc0a649192ad345a3b75af5812f1b7854a59",
+            "released": "2023-10-31T07:31:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "6c321567583c83d243e66e9d4bf6941f2d61ce01",
+            "archive_commit": "a43c32271812423483df6e2dad8024289bb4acbe",
+            "released": "2023-11-01T00:40:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

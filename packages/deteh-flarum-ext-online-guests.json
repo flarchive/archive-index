@@ -1,0 +1,31 @@
+{
+    "package": "deteh/flarum-ext-online-guests",
+    "upstream": "https://github.com/deteh/flarum-ext-online-guests",
+    "packagistUrl": "https://packagist.org/packages/deteh/flarum-ext-online-guests",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4d0862274b45f39cb7b93406cb02594e155f5ddf",
+            "archive_commit": "77c4723707d85a887882317df6ee12fb22a3f9d6",
+            "released": "2023-12-01T18:32:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "51adada3ba985cf589635a288524495d5b656421",
+            "archive_commit": "59af7f85598a64e04a3719567de5a8a5163f5401",
+            "released": "2023-12-01T18:40:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

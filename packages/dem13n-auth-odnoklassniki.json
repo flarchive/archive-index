@@ -1,0 +1,19 @@
+{
+    "package": "dem13n/auth-odnoklassniki",
+    "upstream": "https://github.com/Dem13n/auth-odnoklassniki",
+    "packagistUrl": "https://packagist.org/packages/dem13n/auth-odnoklassniki",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e8eac6f35f0f4caf878a66e2d31ef376fa3d8bfd",
+            "archive_commit": "243ac60d2144227e7244385b6da9d9b83e88aa4e",
+            "released": "2019-07-18T10:00:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

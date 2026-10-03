@@ -1,0 +1,19 @@
+{
+    "package": "dem13n/auth-yandex",
+    "upstream": "https://github.com/Dem13n/auth-yandex",
+    "packagistUrl": "https://packagist.org/packages/dem13n/auth-yandex",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "65f3df0611c3f7c19fb7376b00e001d088325e7b",
+            "archive_commit": "1fe8d828a38b39784103ef71c2b60808be892530",
+            "released": "2019-07-13T12:19:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

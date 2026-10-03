@@ -1,0 +1,31 @@
+{
+    "package": "davwheat/session-keepalive",
+    "upstream": "https://github.com/davwheat/flarum-session-keepalive",
+    "packagistUrl": "https://packagist.org/packages/davwheat/session-keepalive",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4ff4bad9e69f1bf8f5539736ce7d7e3ecf3a95a2",
+            "archive_commit": "c576e2cf4904341d6b52d23d0df754e9180c3092",
+            "released": "2022-04-07T14:30:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "66604310bd4df74466765504c1a0f8e063f6aadf",
+            "archive_commit": "a693c969a8081fbe7b7c01265d2e6a071b0d7fc6",
+            "released": "2022-04-08T10:05:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

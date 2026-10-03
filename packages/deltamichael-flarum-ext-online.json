@@ -1,0 +1,19 @@
+{
+    "package": "deltamichael/flarum-ext-online",
+    "upstream": "https://github.com/DeltaMichael/flarum-ext-online",
+    "packagistUrl": "https://packagist.org/packages/deltamichael/flarum-ext-online",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "2830b526c45c18b14b525c273b25900977bef03c",
+            "archive_commit": "af14ab5503bc991634e5cc796f4a3371b3ff34a9",
+            "released": "2025-11-12T15:55:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

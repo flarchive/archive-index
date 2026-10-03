@@ -1,0 +1,55 @@
+{
+    "package": "davwheat/inline-group-badges",
+    "upstream": "https://github.com/davwheat/flarum-ext-inline-group-badges",
+    "packagistUrl": "https://packagist.org/packages/davwheat/inline-group-badges",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c9a0709111a6045dca29abcdef8e4d00676ceb99",
+            "archive_commit": "f70f160795a961efcd39e695a4ae003c9218d82a",
+            "released": "2021-03-07T18:46:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "1c92492fbf0ed3fac568c4e8aa60d40e3e6f5b86",
+            "archive_commit": "181a883439369cecf6692dc4c78c8ef5d7ea14a0",
+            "released": "2021-03-07T20:26:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "edc39b1b676211a9e1828be6f66d06190cc61c07",
+            "archive_commit": "9eed9d6ea9c61d19c2919bd0b705d7ae7ad5164a",
+            "released": "2021-03-07T20:55:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6002d21d5bda346d4b36b9c3c5d2825b25f32278",
+            "archive_commit": "4b0e8ff1beaa3927b4900d251836696d718acad3",
+            "released": "2021-05-27T14:50:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

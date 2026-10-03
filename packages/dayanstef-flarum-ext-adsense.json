@@ -1,0 +1,19 @@
+{
+    "package": "dayanstef/flarum-ext-adsense",
+    "upstream": "https://github.com/dayanstef/flarum-ext-adsense",
+    "packagistUrl": "https://packagist.org/packages/dayanstef/flarum-ext-adsense",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "6d6662389858f2fb87f3a121e84318e72737daf9",
+            "archive_commit": null,
+            "released": "2017-02-20T16:34:13+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

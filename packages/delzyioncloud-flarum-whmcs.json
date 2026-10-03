@@ -1,0 +1,19 @@
+{
+    "package": "delzyioncloud/flarum-whmcs",
+    "upstream": "https://github.com/delzyioncloud/flarum-whmcs",
+    "packagistUrl": "https://packagist.org/packages/delzyioncloud/flarum-whmcs",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "629b0e819ab3fe263ded294809a5ee86047c2b30",
+            "archive_commit": "3908dd75cceeceb09dbc1674bf6388eeda69a372",
+            "released": "2023-04-19T17:02:32+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

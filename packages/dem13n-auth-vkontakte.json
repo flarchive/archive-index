@@ -1,0 +1,31 @@
+{
+    "package": "dem13n/auth-vkontakte",
+    "upstream": "https://github.com/Dem13n/auth-vkontakte",
+    "packagistUrl": "https://packagist.org/packages/dem13n/auth-vkontakte",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "37fa86849728af62e3a552565c4cedbea6c76ae5",
+            "archive_commit": "5350348810775e7661b9a0f522503ce613c94cac",
+            "released": "2019-07-13T12:18:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "bdf157f0fa4689485d1ae54bf0bf0bac6f99a27e",
+            "archive_commit": "e597fa674e17315730a22f8715dcb368ae5a5a9f",
+            "released": "2019-08-01T05:01:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
