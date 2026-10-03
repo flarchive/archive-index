@@ -1,0 +1,19 @@
+{
+    "package": "irony/flarum-ext-login2see",
+    "upstream": "https://github.com/892768447/flarum-ext-login2see",
+    "packagistUrl": "https://packagist.org/packages/irony/flarum-ext-login2see",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "e39a008ca76596f1eb763130fb30f0c3ad847dda",
+            "archive_commit": "a77dee84f28f7320895b682df19cf3d0b39dafa6",
+            "released": "2019-11-19T03:23:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

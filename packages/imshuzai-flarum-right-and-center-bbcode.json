@@ -1,0 +1,19 @@
+{
+    "package": "imshuzai/flarum-right-and-center-bbcode",
+    "upstream": "https://github.com/imshuzai/flarum-right-and-center-bbcode",
+    "packagistUrl": "https://packagist.org/packages/imshuzai/flarum-right-and-center-bbcode",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8ba2d8bd5044b1f663403e624e283451f68543d3",
+            "archive_commit": "3dcce4a978fa04039378a18ceb68f79bc96c5cb4",
+            "released": "2021-10-15T09:09:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

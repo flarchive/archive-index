@@ -1,0 +1,67 @@
+{
+    "package": "ircallnetwork/flarum-ext-oauth-allnetwork",
+    "upstream": "https://github.com/ircallnetwork/flarum-ext-oauth-allnetwork",
+    "packagistUrl": "https://packagist.org/packages/ircallnetwork/flarum-ext-oauth-allnetwork",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.8.11",
+            "tag": "archive/v0.1.0-beta.8.11",
+            "upstream_commit": "644ebb4358a11778b2d825deab134970ccf066a2",
+            "archive_commit": "565126ed0a18766141259859b847ebf8fd37c14e",
+            "released": "2017-05-29T21:39:20+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.12",
+            "tag": "archive/v0.1.0-beta.8.12",
+            "upstream_commit": "2da42c015f0f59957a190049bff0b638a45035aa",
+            "archive_commit": "505921fba230c8d68a791b8605cd5887fa62e228",
+            "released": "2017-05-29T21:57:22+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.13",
+            "tag": "archive/v0.1.0-beta.8.13",
+            "upstream_commit": "b8211a8339f3be9140fd8f417fccc4a8170bd8ff",
+            "archive_commit": "fffe9adb17d90ff1639ffb26c6c1a588e95cc154",
+            "released": "2017-05-30T05:10:02+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.14",
+            "tag": "archive/v0.1.0-beta.8.14",
+            "upstream_commit": "9a4ceec230ac5d4c6b367663a7f9b3e0300ca932",
+            "archive_commit": "fb1220c987b3954adb4e18ba73890cd1c2d589cd",
+            "released": "2017-06-04T10:10:38+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.7",
+            "tag": "archive/v0.1.0-beta.8.7",
+            "upstream_commit": "46c0eaef493c18c5adbebbd4cfbf79f823300162",
+            "archive_commit": "4b3a1596f5d44afac14a469abbafc3f483b88342",
+            "released": "2017-05-29T19:05:28+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "isaa/flarum-isaa-opengraph",
+    "upstream": "https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph",
+    "packagistUrl": "https://packagist.org/packages/isaa/flarum-isaa-opengraph",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": null,
+            "upstream_commit": "876e8c6c60b9453604e4a92f9484a1826b1fed25",
+            "archive_commit": null,
+            "released": "2016-09-05T20:42:29+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

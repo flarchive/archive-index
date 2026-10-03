@@ -1,0 +1,19 @@
+{
+    "package": "incompatiblespace/flarum-ext-greek",
+    "upstream": "https://github.com/incompatiblespace/flarum-ext-greek",
+    "packagistUrl": "https://packagist.org/packages/incompatiblespace/flarum-ext-greek",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "5db5524da9785716ab1c62b3b33e4dccf2783bb5",
+            "archive_commit": "7e0a15c24b8b2a16f6e89ca60922e07957ee9512",
+            "released": "2017-10-31T09:27:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "package": "import-ai/flarum-webhook-notification",
+    "upstream": "https://github.com/import-ai/flarum-webhook-notification",
+    "packagistUrl": "https://packagist.org/packages/import-ai/flarum-webhook-notification",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "10b32ee32338e63067d5bdeb5cbe866dec0b8e2e",
+            "archive_commit": "d8b47ba81c719f6259c8a39778ded72cfa429f0e",
+            "released": "2026-01-30T18:59:47+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "44c0439489a40de05fdee4ba7a048cdefec264ed",
+            "archive_commit": "5cf1ed388a8bc77158b1a1faa607ec68f4a8a6b3",
+            "released": "2026-02-05T06:43:17+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "af1703d76ac27f8c65c201e2a5556a35e0f99021",
+            "archive_commit": "37d80f6f4c7301d8dfec5a621dae63856102ac17",
+            "released": "2026-02-06T09:53:49+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "07736f1caf66e2398f301cfd84499fa1a4122355",
+            "archive_commit": "498d46e70df09b3abd96b08c7ef06568fcf15ae3",
+            "released": "2026-02-08T03:36:07+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "bfad45845bb9efe62753108bf1ebb772fa544e2b",
+            "archive_commit": "bd5b465e1e0a4980400bf53346df5deeccc87988",
+            "released": "2026-02-10T13:10:44+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "05d9781253321710cc6ff7f9d1770e1a035cfd05",
+            "archive_commit": "5a70273e06eee050c49b00b72e10f922a77b289e",
+            "released": "2026-02-10T22:40:05+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

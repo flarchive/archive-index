@@ -1,0 +1,31 @@
+{
+    "package": "irony/flarum-ext-webhook",
+    "upstream": "https://github.com/892768447/flarum-ext-webhook",
+    "packagistUrl": "https://packagist.org/packages/irony/flarum-ext-webhook",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "2935105594bbd8261c123dc8a2b06feb1a8633e0",
+            "archive_commit": "2546ac949759c27347b27958baf6d43b51408af7",
+            "released": "2019-11-21T14:25:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "0d33314ddcc505909f4601cddc2fe17216bd6bf7",
+            "archive_commit": "deb26706078dda71a704412a3e4102c12f1db821",
+            "released": "2019-11-22T05:27:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

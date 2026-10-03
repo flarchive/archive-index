@@ -1,0 +1,31 @@
+{
+    "package": "irony/flarum-ext-bing-wallpaper",
+    "upstream": "https://github.com/892768447/flarum-ext-bing-wallpaper",
+    "packagistUrl": "https://packagist.org/packages/irony/flarum-ext-bing-wallpaper",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "130e7de75e96c885a6003b0bd76b4900daea1286",
+            "archive_commit": "a7455575a76004f748fd808b363735ffd8d7c8d5",
+            "released": "2019-11-30T15:23:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "7c50176b7dc0cca7258788be93ca09ef40996bf4",
+            "archive_commit": "2ad639e36246d87c7ed185266c94cf225c6e4d1a",
+            "released": "2019-12-02T07:58:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

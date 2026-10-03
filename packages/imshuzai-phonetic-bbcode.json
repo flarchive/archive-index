@@ -1,0 +1,103 @@
+{
+    "package": "imshuzai/phonetic-bbcode",
+    "upstream": "https://github.com/imshuzai/phonetic-bbcode",
+    "packagistUrl": "https://packagist.org/packages/imshuzai/phonetic-bbcode",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "becb4731064a33ad4986ef97e6cfb7f477036460",
+            "archive_commit": "019f1cffc9cc1019fa25b8eb56f3e3ccfe5f0354",
+            "released": "2022-05-21T17:45:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "89b613382bc7fa87256113b043b90598856c730c",
+            "archive_commit": "5834c35d56a7f03dd8908547395c2ee7209af0a3",
+            "released": "2022-05-21T17:47:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "ce87e1e217b39c1efd4c2be6548111635b962468",
+            "archive_commit": "32f145903b8a38bb81d674764bf8a9f2ebc25d97",
+            "released": "2022-05-21T18:18:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "52c095701e6be2c63bbb0fd247b1777e28e50248",
+            "archive_commit": "8c98cd4af1c6fc6d1b0667b923f29548f87bf317",
+            "released": "2022-05-21T18:21:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.5",
+            "tag": "archive/v0.0.5",
+            "upstream_commit": "651ad208e11696cf591316195c7b2a31b8bd4d6a",
+            "archive_commit": "52473b13c053779ff4cfc2d5d33aa382459bae4e",
+            "released": "2022-05-21T18:26:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.6",
+            "tag": "archive/v0.0.6",
+            "upstream_commit": "05db74db2356d8b192f9a36d0c473058baaa2e2c",
+            "archive_commit": "fc781654161a4890fb4767a4e5976f45d3d6d1f0",
+            "released": "2022-05-22T02:18:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.7",
+            "tag": "archive/v0.0.7",
+            "upstream_commit": "d98a05c1ad690140fa1ad19a2f962d991da040f8",
+            "archive_commit": "5b7c23ec579766eb1a5982c0d11f11507496bf87",
+            "released": "2022-05-22T04:57:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "414ec22a7ca29150e6c3fc91fe66a4f78d656f77",
+            "archive_commit": "d62e6677a7841189dc8096a168de0954d2d32c18",
+            "released": "2022-05-22T05:28:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

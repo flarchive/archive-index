@@ -1,0 +1,31 @@
+{
+    "package": "imshuzai/bbcode",
+    "upstream": "https://github.com/imshuzai/BBcode",
+    "packagistUrl": "https://packagist.org/packages/imshuzai/bbcode",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "e2c4bdfede2059a808d80663bee48f9794485254",
+            "archive_commit": "6498de9bfc4d1954dc2c14d70195c006d4993e1c",
+            "released": "2022-07-29T19:05:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "efef57f4c6f7d966b779d3720bb421a0c2a9a8fe",
+            "archive_commit": "e7dd2db530e27eafdd1d76a5d6a31660017319d2",
+            "released": "2022-07-30T20:25:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "package": "imshuzai/aplayer-metingjs-for-flarum",
+    "upstream": "https://github.com/imshuzai/aplayer-metingjs-for-flarum",
+    "packagistUrl": "https://packagist.org/packages/imshuzai/aplayer-metingjs-for-flarum",
+    "versions": [
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "71925eeeb5703ef2840204e62d67eaed2f15b730",
+            "archive_commit": "91175eab47aeec9fe39cf59599107bd158653712",
+            "released": "2021-06-15T15:09:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "ec797b184dd2b98abdd2be4d5f3bbb67c063cd14",
+            "archive_commit": "e2adcfd33dceee8b72522573e146f3e4c5ff9678",
+            "released": "2021-07-17T17:28:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.3",
+            "tag": "archive/v1.1.3",
+            "upstream_commit": "811fcab6426700c6b008e9048a0ee2fb87266170",
+            "archive_commit": "e7c4ef92b464babfc60d741223d78346193794f7",
+            "released": "2022-05-21T17:17:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.4",
+            "tag": "archive/v1.1.4",
+            "upstream_commit": "61c7adb729506f3b104f7cd552455fa889ab4f15",
+            "archive_commit": "9933840b53329c6c6098c2ce1585222af61faa31",
+            "released": "2022-08-14T16:24:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.5",
+            "tag": "archive/v1.1.5",
+            "upstream_commit": "3ee990fd0deb49d7103a391385e8e24d93d35780",
+            "archive_commit": "7788f630107952afde033ff08504684969e04187",
+            "released": "2022-08-14T16:53:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

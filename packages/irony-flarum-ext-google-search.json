@@ -1,0 +1,31 @@
+{
+    "package": "irony/flarum-ext-google-search",
+    "upstream": "https://github.com/892768447/flarum-ext-google-search",
+    "packagistUrl": "https://packagist.org/packages/irony/flarum-ext-google-search",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "e50a6e91e6e03b1843ff3d99cf76348d017f876c",
+            "archive_commit": "0c5c0f86a9a9093d7562f2fb70536f7ff5b96329",
+            "released": "2019-11-13T09:37:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "0410f7476365cfa15aaab721e43044144ce14787",
+            "archive_commit": "276eb6e1e902dd6640b5033555ff8488e9fc7eab",
+            "released": "2019-11-13T10:12:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

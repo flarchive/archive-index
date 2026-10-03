@@ -1,0 +1,19 @@
+{
+    "package": "irony/flarum-ext-code-insert",
+    "upstream": "https://github.com/892768447/flarum-ext-code-insert",
+    "packagistUrl": "https://packagist.org/packages/irony/flarum-ext-code-insert",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "73786dbe5860e5fd0796a5c2d5b4fc187396fc23",
+            "archive_commit": "9b5701424175dd9a78f3f1d68819a2967a738522",
+            "released": "2019-12-04T11:40:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "irony/flarum-ext-github-upload",
+    "upstream": "https://github.com/892768447/flarum-ext-github-upload",
+    "packagistUrl": "https://packagist.org/packages/irony/flarum-ext-github-upload",
+    "versions": [
+        {
+            "version": "0.1.0.13",
+            "tag": "archive/v0.1.0.13",
+            "upstream_commit": "15dbdbbfe6e16a072471371cea631df118890c5e",
+            "archive_commit": "2cd45b5b5b06dc2280fee435525b051325d283d3",
+            "released": "2021-03-24T13:14:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

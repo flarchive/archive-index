@@ -1,0 +1,43 @@
+{
+    "package": "instkffff/user-bio-eveonline",
+    "upstream": "https://github.com/instkffff/user-bio-eveonline",
+    "packagistUrl": "https://packagist.org/packages/instkffff/user-bio-eveonline",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "83a57353e7f15a300898ad4cc10955714745a1f5",
+            "archive_commit": "ad48a2049e2101ce7494376b5e72ec8020ac2236",
+            "released": "2018-11-30T00:46:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "ff6920590bfde15d4dd5376abc461b470fedcbca",
+            "archive_commit": "26dd640c3c04e6e9a4e87473af425383a2ce312f",
+            "released": "2018-11-30T01:13:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "bf3f2751c6fe3efb131e8f16beff77e880f86192",
+            "archive_commit": "50a880f1cf38a81d1d482d03880dcd25fd311ea1",
+            "released": "2019-01-24T22:55:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
