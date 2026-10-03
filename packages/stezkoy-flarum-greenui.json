@@ -1,0 +1,163 @@
+{
+    "package": "stezkoy/flarum-greenui",
+    "upstream": "https://github.com/Stezkoy/flarum-greenui",
+    "packagistUrl": "https://packagist.org/packages/stezkoy/flarum-greenui",
+    "versions": [
+        {
+            "version": "1.1.5",
+            "tag": "archive/v1.1.5",
+            "upstream_commit": "2a8646b94f6e08a3267f37ac798086a21f97880c",
+            "archive_commit": "5ee2e560771d62f0ab39df317b7413e5e4cdd489",
+            "released": "2024-12-26T10:07:04+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.6",
+            "tag": "archive/v1.1.6",
+            "upstream_commit": "4694a2f4c155876a08217d309e10a28c98b5b546",
+            "archive_commit": "2532616b496beeb6cbb9af24f8c27245203b5e5d",
+            "released": "2024-12-26T10:12:33+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.7",
+            "tag": "archive/v1.1.7",
+            "upstream_commit": "51c88c1d17777fe136d6f0efcee16bbec8ea17e4",
+            "archive_commit": "ea89abe9d7fb81a4f5f7606471d6d0edb4e54f0c",
+            "released": "2024-12-26T10:36:55+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.8",
+            "tag": "archive/v1.1.8",
+            "upstream_commit": "7476af326c9e6dccd010c1a7fc48588d86d1312b",
+            "archive_commit": "a971428b40696e8c930069f385479d23b069d3e1",
+            "released": "2024-12-26T10:57:21+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.9",
+            "tag": "archive/v1.1.9",
+            "upstream_commit": "85c0a84a1796cef77c078f48a8914325628e7355",
+            "archive_commit": "b15e6a087c3683858fa0eb9281b0a46df8a8c371",
+            "released": "2024-12-26T11:11:16+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "bb6c7221588c04c027d69fa279beba4fc3c29bba",
+            "archive_commit": "21f8e0104f74f7abfced7a574269ac0b9bf9bf54",
+            "released": "2024-12-27T19:10:42+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "9f0d047c82ee51085f1a9ac09c78ceb1402f42a1",
+            "archive_commit": "ab31379f14390eb489dfa47922a29bcc2169cd1e",
+            "released": "2025-01-04T06:52:42+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.2",
+            "tag": "archive/v1.2.2",
+            "upstream_commit": "5eddae095f20cb35ef677a2533284c1b400850fb",
+            "archive_commit": "d6a8d7aeb4881ea619c06f965dfd9fccd15711e1",
+            "released": "2025-04-24T08:00:48+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.3",
+            "tag": "archive/v1.2.3",
+            "upstream_commit": "40c6d1f6cd2558b73cace342e21bfb9313c1640c",
+            "archive_commit": "039ec94ba158b24c4bf64488499232295784722f",
+            "released": "2025-05-19T08:58:27+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.4",
+            "tag": "archive/v1.2.4",
+            "upstream_commit": "6a2d15a9f9934045ffd4c840aba8dfe30a6adf7c",
+            "archive_commit": "382e04e1082774209d123d25af53b1909b311058",
+            "released": "2025-05-27T02:26:44+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.7",
+            "tag": "archive/v1.2.7",
+            "upstream_commit": "f38d2b1c2436b2a0d93c37a67e87b80b1666f35f",
+            "archive_commit": "0aec767a74e2284b2e0134422abfed7cced35cf7",
+            "released": "2025-11-10T06:21:16+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.8",
+            "tag": "archive/v1.2.8",
+            "upstream_commit": "eb28c000d38b66b5988a86a6fec5ec94dda678b6",
+            "archive_commit": "2ee95af2ab8838558544eb204bda9b981f3e9932",
+            "released": "2026-01-25T08:19:44+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.9",
+            "tag": "archive/v1.2.9",
+            "upstream_commit": "eefaac019641b330d64351f14ef1ed74a4db4e70",
+            "archive_commit": "19458f613f0add2507ac4ce03c6292a87a5ffe1f",
+            "released": "2026-01-25T08:25:36+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

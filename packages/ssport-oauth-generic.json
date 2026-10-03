@@ -1,0 +1,19 @@
+{
+    "package": "ssport/oauth-generic",
+    "upstream": "https://github.com/ssangyongsportsteam/flarum-ext-oauth-generic",
+    "packagistUrl": "https://packagist.org/packages/ssport/oauth-generic",
+    "versions": [
+        {
+            "version": "1",
+            "tag": "archive/v1",
+            "upstream_commit": "4a5a01001e92e6271d89dc2a70e89f4b0c5d906d",
+            "archive_commit": "aaba467dc7a05a2183fc9c83ee40863cef046b43",
+            "released": "2024-08-05T07:27:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

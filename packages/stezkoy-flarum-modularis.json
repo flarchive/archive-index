@@ -1,0 +1,55 @@
+{
+    "package": "stezkoy/flarum-modularis",
+    "upstream": "https://github.com/Stezkoy/flarum-modularis",
+    "packagistUrl": "https://packagist.org/packages/stezkoy/flarum-modularis",
+    "versions": [
+        {
+            "version": "1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "e8656fdbea982654a475f97385bec76690bccc34",
+            "archive_commit": "0704ad8cb87388b82fc975fd55f8336ac86d49da",
+            "released": "2026-08-27T18:00:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "4a1ae50f043aa926fc797339216ee72e6b0518fd",
+            "archive_commit": "f0bbda790549a5612b2372af6c29c2944ed2c9bf",
+            "released": "2026-09-04T07:53:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.7",
+            "tag": "archive/v1.0.7",
+            "upstream_commit": "81e7498113697a45d757efa07d7f24734cf35b01",
+            "archive_commit": "3005dcc5eeefa36b286d500a720af4c7c53afb2c",
+            "released": "2026-09-08T17:48:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.8",
+            "tag": "archive/v1.0.8",
+            "upstream_commit": "ccdcbcf0fd13f944c94ad19455a47c755f56f0ea",
+            "archive_commit": "4d9c4bdbd44d6d238a2e5a9f9d483f5d3e13e9d4",
+            "released": "2026-09-08T17:57:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

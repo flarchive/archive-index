@@ -1,0 +1,31 @@
+{
+    "package": "startracex/flarum-dark",
+    "upstream": "https://github.com/startracex/flarum-dark",
+    "packagistUrl": "https://packagist.org/packages/startracex/flarum-dark",
+    "versions": [
+        {
+            "version": "0.0.0",
+            "tag": "archive/v0.0.0",
+            "upstream_commit": "df214c507429f12a6e0f6121eaf542c38cf33722",
+            "archive_commit": "0f2c5a7503b41c10d0276b59cd937405627e2c40",
+            "released": "2024-04-07T16:29:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "2b185eb67c2074032b49797ec74d132addb3d8fa",
+            "archive_commit": "7d3afeeef39e94279d73c8db1e228484cdc4aa2e",
+            "released": "2024-04-09T15:58:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

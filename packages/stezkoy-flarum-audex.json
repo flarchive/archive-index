@@ -1,0 +1,31 @@
+{
+    "package": "stezkoy/flarum-audex",
+    "upstream": "https://github.com/Stezkoy/flarum-audex",
+    "packagistUrl": "https://packagist.org/packages/stezkoy/flarum-audex",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1c15b4df76446bd5391736f18a10ee9a7b1fea57",
+            "archive_commit": "6ae1f4d0c2dd27fd0cd871f882ff7e9cdadb6d6e",
+            "released": "2026-09-23T13:48:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "65182f4cc0fbf8527dc74e37c798d0ae8fa8c0fd",
+            "archive_commit": "32e126e539de06d0edebfe6405023032f750a187",
+            "released": "2026-09-25T06:34:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

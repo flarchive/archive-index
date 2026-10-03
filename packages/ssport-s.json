@@ -1,0 +1,19 @@
+{
+    "package": "ssport/s",
+    "upstream": "https://github.com/ssangyongsportsorg/flarum-ext-oauth-clerk",
+    "packagistUrl": "https://packagist.org/packages/ssport/s",
+    "versions": [
+        {
+            "version": "1",
+            "tag": "archive/v1",
+            "upstream_commit": "040613fab464121fee3164e1d5622a3bb2b70c50",
+            "archive_commit": "83082084cc838ad48da5f401f480c3976478e81b",
+            "released": "2024-07-27T04:40:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

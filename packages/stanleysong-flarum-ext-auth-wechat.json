@@ -1,0 +1,31 @@
+{
+    "package": "stanleysong/flarum-ext-auth-wechat",
+    "upstream": "https://github.com/StanleySong/flarum-ext-auth-wechat",
+    "packagistUrl": "https://packagist.org/packages/stanleysong/flarum-ext-auth-wechat",
+    "versions": [
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "db355021678d5b17fa0cf7e2f4085bf9e38ea560",
+            "archive_commit": "8d164a4525c831c82497157126938035aec7a72a",
+            "released": "2017-06-17T20:25:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "c5fe9c6a0f4048ac1d5515f9a3951a39e322334b",
+            "archive_commit": "bf4c3780cfa34e7ddc11592dddd5a9900a2a6b9b",
+            "released": "2017-06-18T02:01:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

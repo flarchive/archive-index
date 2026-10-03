@@ -1,0 +1,55 @@
+{
+    "package": "stellio/flarum-ext-subscriptions-ru",
+    "upstream": "https://github.com/stellio/flarum-ext-subscriptions-ru",
+    "packagistUrl": "https://packagist.org/packages/stellio/flarum-ext-subscriptions-ru",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": "archive/v0.1.0-beta.3",
+            "upstream_commit": "c86b7d36566671546031d101e80939f6f936a996",
+            "archive_commit": "2fb7775737de6368c5b58d2ced61e3d11b7248be",
+            "released": "2015-11-02T23:33:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": "archive/v0.1.0-beta.4",
+            "upstream_commit": "e2f919ef48b4e3e767624767577215579bfd9445",
+            "archive_commit": "8bdcb018d699afff7e09756125532c81a83bc6d0",
+            "released": "2015-11-05T06:04:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "archive/v0.1.0-beta.5",
+            "upstream_commit": "50c3a94dda0564daeb95182a519544ccf610537e",
+            "archive_commit": "5be43b2d56553a8157929dec905710f9e33b9b98",
+            "released": "2016-03-29T08:19:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.6",
+            "tag": "archive/v0.1.0-beta.6",
+            "upstream_commit": "1102fdc5dcdded2c932b06f3976bec9ceb866daf",
+            "archive_commit": "a3ec481781e1517ad37d8e72d05ad251037978ad",
+            "released": "2016-10-19T10:43:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

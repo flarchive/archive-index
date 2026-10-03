@@ -1,0 +1,19 @@
+{
+    "package": "ssangyongsports/oauth-slack",
+    "upstream": "https://github.com/ssangyongsportsorg/flarum-ext-oauth-logto",
+    "packagistUrl": "https://packagist.org/packages/ssangyongsports/oauth-slack",
+    "versions": [
+        {
+            "version": "1",
+            "tag": "archive/v1",
+            "upstream_commit": "396a83da8f9925a313e20b5827974ec819b807da",
+            "archive_commit": "926342fb58dd83d0619e1b8df8245412dac83bff",
+            "released": "2024-07-26T12:52:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

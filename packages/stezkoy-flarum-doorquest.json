@@ -1,0 +1,43 @@
+{
+    "package": "stezkoy/flarum-doorquest",
+    "upstream": "https://github.com/Stezkoy/flarum-doorquest",
+    "packagistUrl": "https://packagist.org/packages/stezkoy/flarum-doorquest",
+    "versions": [
+        {
+            "version": "1.0.0-beta.1",
+            "tag": "archive/v1.0.0-beta.1",
+            "upstream_commit": "62740e9b06b3a66f3ce73072d9897ac277285db5",
+            "archive_commit": "db9dbd81ed4b788f93496ec30ad76020ff179b92",
+            "released": "2026-09-06T16:01:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0-beta.2",
+            "tag": "archive/v1.0.0-beta.2",
+            "upstream_commit": "b4ccfb295c732b40d4a48fc45ceb65a970a63606",
+            "archive_commit": "3212bcaf8958aa7cbe50e0d29e78c57f35970f19",
+            "released": "2026-09-08T17:44:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0-beta.3",
+            "tag": "archive/v1.0.0-beta.3",
+            "upstream_commit": "c42b83614474098df096762e4d8cb06b59816e18",
+            "archive_commit": "c115e36880540b497e665946d485c5192a610364",
+            "released": "2026-09-09T17:42:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

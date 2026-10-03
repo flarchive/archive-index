@@ -1,0 +1,31 @@
+{
+    "package": "ssportd/oauth-slack",
+    "upstream": "https://github.com/ssangyongsport/flarum-ext-oauth-slack-Sls",
+    "packagistUrl": "https://packagist.org/packages/ssportd/oauth-slack",
+    "versions": [
+        {
+            "version": "1",
+            "tag": "archive/v1",
+            "upstream_commit": "e611811aeddc7325252fb7e1ad2d3f0332693036",
+            "archive_commit": "bc74a5ae516cb1b52132a6b624727fc71ad78d32",
+            "released": "2024-08-05T05:31:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2",
+            "tag": "archive/v2",
+            "upstream_commit": "01e7b08e411bbd994a7b38902fb06f11f2b8f5fb",
+            "archive_commit": "2609b204798169d210b6bd5469d9e4fe82731a1f",
+            "released": "2024-08-05T06:12:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

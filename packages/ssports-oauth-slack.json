@@ -1,0 +1,43 @@
+{
+    "package": "ssports/oauth-slack",
+    "upstream": "https://github.com/ssangyongsport/flarum-ext-oauth-slack",
+    "packagistUrl": "https://packagist.org/packages/ssports/oauth-slack",
+    "versions": [
+        {
+            "version": "1",
+            "tag": "archive/v1",
+            "upstream_commit": "8ff9a680934c220fb678f4905d77aca9a20d3d6b",
+            "archive_commit": "0174d44ff7943ddb5b993d5b665be90f04907cf4",
+            "released": "2024-08-04T13:47:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2",
+            "tag": "archive/v2",
+            "upstream_commit": "31446de5b42991d327f748e6292b6535fe93a2b3",
+            "archive_commit": "64444ecae2b9dc61a30e040c6eeeb21fb231e1a0",
+            "released": "2024-08-05T04:59:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "3",
+            "tag": "archive/v3",
+            "upstream_commit": "84aabf08569bb7fb5b32bbb301d6a7e6e19d1094",
+            "archive_commit": "1364ef7f244f24fa73d41177c11f0ca946e3f5eb",
+            "released": "2024-08-05T05:08:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
