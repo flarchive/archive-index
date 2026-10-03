@@ -1,0 +1,19 @@
+{
+    "package": "leanzo/discussion-thumbnail",
+    "upstream": "https://github.com/LeanZo/discussion-thumbnail",
+    "packagistUrl": "https://packagist.org/packages/leanzo/discussion-thumbnail",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "35603a4d3599326bbf2df13e8baca25b5b1b50f4",
+            "archive_commit": "a27f918c302488a35999f77ec2e40ec004a3b9ce",
+            "released": "2025-02-13T02:31:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

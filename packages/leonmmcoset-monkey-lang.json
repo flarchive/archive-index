@@ -1,0 +1,31 @@
+{
+    "package": "leonmmcoset/monkey-lang",
+    "upstream": "https://github.com/Leonmmcoset/flarum-ext-monkey-lang",
+    "packagistUrl": "https://packagist.org/packages/leonmmcoset/monkey-lang",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "ca18bc4800c06f37083b0435041a5cdb873964f3",
+            "archive_commit": "8674ad5aff2821993ac4cb8dce46203367b05b5f",
+            "released": "2025-03-13T13:07:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "5169b77851227c2039e033bbdc99ad97899520c3",
+            "archive_commit": "35a47516d3b70d4ff9003fcd8d248282aa36adbe",
+            "released": "2025-03-13T13:22:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

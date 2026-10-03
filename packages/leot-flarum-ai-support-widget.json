@@ -1,0 +1,19 @@
+{
+    "package": "leot/flarum-ai-support-widget",
+    "upstream": "https://github.com/LiuTengYing/AI-Support-Widget",
+    "packagistUrl": "https://packagist.org/packages/leot/flarum-ai-support-widget",
+    "versions": [
+        {
+            "version": "1.0.2",
+            "tag": null,
+            "upstream_commit": "8be26d295f9f7dd3b118f81afad163f306f08ab1",
+            "archive_commit": null,
+            "released": "2025-06-30T06:54:57+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

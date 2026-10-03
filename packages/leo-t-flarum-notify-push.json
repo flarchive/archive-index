@@ -1,0 +1,19 @@
+{
+    "package": "leo-t/flarum-notify-push",
+    "upstream": "https://github.com/Leo-ttt/Notify-Push",
+    "packagistUrl": "https://packagist.org/packages/leo-t/flarum-notify-push",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "99aa976e6dc0358fcc960c3c0f1cf9a348ace128",
+            "archive_commit": "817dd1a2444e5d52585b8d16ad7d01f8afa00741",
+            "released": "2026-02-16T03:16:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

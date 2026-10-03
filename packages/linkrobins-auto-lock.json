@@ -1,0 +1,19 @@
+{
+    "package": "linkrobins/auto-lock",
+    "upstream": "https://github.com/linkrobins/auto-lock",
+    "packagistUrl": "https://packagist.org/packages/linkrobins/auto-lock",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "119e5d60faa4043e4be653a92e34f5d02975fb65",
+            "archive_commit": "1934a50453d3001b879faee8d145c4d2fdf311e3",
+            "released": "2026-08-12T23:35:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
