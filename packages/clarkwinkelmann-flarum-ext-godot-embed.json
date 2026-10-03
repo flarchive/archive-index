@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-godot-embed",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-godot-embed",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-godot-embed",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ac9d0c7bbaaba90a33c35551d6eab80b007eb3cc",
+            "archive_commit": "4318d20457cbcf097915c2ed082f689ab26f9b7c",
+            "released": "2022-01-10T21:22:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

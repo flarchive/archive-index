@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-ipsum-autocomplete",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-ipsum-autocomplete",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-ipsum-autocomplete",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ea424f448fce85b222669b65ad63eff22477c35b",
+            "archive_commit": "5daf6590744ef48932ebccbafd7dbf67487a9dd8",
+            "released": "2022-08-16T11:10:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

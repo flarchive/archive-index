@@ -1,0 +1,67 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-lock-likes",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-lock-likes",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-lock-likes",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "bc7455a5edb442918ea6c3043f9f7a9b90b4c73f",
+            "archive_commit": "fdc98ef827edae57424fdf68f28e150c819a3c8f",
+            "released": "2020-03-11T21:07:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0-beta1",
+            "tag": "archive/v1.0.0-beta1",
+            "upstream_commit": "9c5de4f71a40171a242d873b781ca6c255a74084",
+            "archive_commit": "a8f4f4aa1339032fd689160bc5368747281addad",
+            "released": "2020-02-25T16:57:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "72cac99c7dc23ec879edfbf739b75714d0f9c732",
+            "archive_commit": "b429bde0f8012edee5e2a0b62a62c741181dfae0",
+            "released": "2020-11-08T16:58:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "baf19925f294c8837dd85f37510331856114a9a3",
+            "archive_commit": "466e44b7c118c83f30c5a63b01c5d2f407ce6f36",
+            "released": "2021-04-16T19:05:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "5686ba317315631cf765960ec03a69c8e6f91578",
+            "archive_commit": "0969953d54ece218f46e68fe42db9943ba75ca3a",
+            "released": "2021-06-09T16:55:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

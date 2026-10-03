@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-jwt-cookie-login",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-jwt-cookie-login",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-jwt-cookie-login",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1deb5299b9911af4047f75f77e477ecd0b5857b1",
+            "archive_commit": "2b1c34ac69e11dd80858f161b061b61ccc2ca697",
+            "released": "2022-04-19T13:49:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "c05ef0a7ea94e3f199534414710be6740dfb7e48",
+            "archive_commit": "26e9fbecce66872436889d29dc71c379b8f5a416",
+            "released": "2026-06-11T22:46:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-idempotency",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-idempotency",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-idempotency",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7c744c5ae8e009adb5cf199702b81f39716d5781",
+            "archive_commit": "de3d85fdbe38e9e37a3de4bd6d88e23b21b28245",
+            "released": "2021-04-11T17:25:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

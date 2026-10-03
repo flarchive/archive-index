@@ -1,0 +1,55 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-mass-actions",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-mass-actions",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-mass-actions",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "061114444301ed1c62575f28bf65fde50583f718",
+            "archive_commit": "fd8d0fd2b8174ae7dd78bc1cd6a2fae857cf911d",
+            "released": "2022-02-13T21:41:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "d6049638b9a247104cd36ba0630e4774f28c3c1d",
+            "archive_commit": "3975d552801b2275cc77391fcdcadb639a7f4897",
+            "released": "2022-05-24T21:37:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "92fbaa9c97ba0a4e5b4a7b1803f03ef68a85c74e",
+            "archive_commit": "c049537b686790fe1fedf1c2277fc94f377d31b2",
+            "released": "2022-08-05T13:51:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "b1082b40deb4a8ae5795ca6575964363d86ba2ff",
+            "archive_commit": "a52f463802c4c534b3b8fee2d703995387181859",
+            "released": "2022-08-17T07:18:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

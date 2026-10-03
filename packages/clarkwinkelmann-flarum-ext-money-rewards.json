@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-money-rewards",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-money-rewards",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-money-rewards",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e79c37196e0277db30d22dda546b70bc8bdcc64b",
+            "archive_commit": "5ab7dccb711e37fe97c81af0f1ae556ee98968e4",
+            "released": "2022-10-27T00:50:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

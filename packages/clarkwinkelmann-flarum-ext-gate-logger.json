@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-gate-logger",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-gate-logger",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-gate-logger",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d0508c5b286befbf403576bf29ed102c75bcabfb",
+            "archive_commit": "f643f0b48265dc7ef2a8cc4d54cede19efbe2536",
+            "released": "2021-10-31T21:44:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-no-email-notifications",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-no-email-notifications",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-no-email-notifications",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "11bce855a94669afa10cab2ab8d2b8b18f97f119",
+            "archive_commit": "028099828cdd6169d2fff36dafc3754ac42f9a07",
+            "released": "2022-04-06T00:25:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

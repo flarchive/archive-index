@@ -1,0 +1,103 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-popular-discussion-badge",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-popular-discussion-badge",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-popular-discussion-badge",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "72ce765e393e506e36b06c46863eb981377a61cd",
+            "archive_commit": "2681d8faefb1d4651af4ed1acac50286b72c655d",
+            "released": "2020-06-23T23:41:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "03bb7277a8edbcd25609a582ca06ef0784ef4aaa",
+            "archive_commit": "590f6c49154068972b57c4c99f65a6337e213db6",
+            "released": "2020-07-08T00:34:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "1e7c058fa569e227beeab6492e22593118259f74",
+            "archive_commit": "2ba5bac66d2ed5549660b9e40adb140430252c15",
+            "released": "2020-11-10T13:12:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "ea492b1066dbe8e4f39e97b3099692d69b8380bf",
+            "archive_commit": "c634a85d74bc0fec5979e366149f27282c468cb9",
+            "released": "2020-12-29T17:22:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.3",
+            "tag": "archive/v0.2.3",
+            "upstream_commit": "60809ccc7b223dfdcecf6f3b3833842abd89a223",
+            "archive_commit": "e20d9b5e2c818aed62793bd6b5e034b7733834e2",
+            "released": "2021-03-22T21:11:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.16 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f0c913cae6d946ad0e40ea20ff70e715d0ebb65b",
+            "archive_commit": "45611eec532953e6d09d2610e7d797949e3470d5",
+            "released": "2021-06-09T16:46:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "43458a2bf5743fca7f99f84c52dd49373df7e390",
+            "archive_commit": "c579dffb2468bfdcda6c79bff3ba66373c897901",
+            "released": "2022-02-19T17:01:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "be0c559660c3edece72d4c362d244f12b2319407",
+            "archive_commit": "18e5821539c69ee43e1eb44f41beeb6d385bd785",
+            "released": "2023-04-13T19:49:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

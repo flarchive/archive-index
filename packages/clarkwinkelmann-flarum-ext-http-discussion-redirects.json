@@ -1,0 +1,43 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-http-discussion-redirects",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-http-discussion-redirects",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-http-discussion-redirects",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "310956080297b23e2a8eabfb31f424028731e39a",
+            "archive_commit": "7043563369f6108a2bb8b1eda42851c83881ae35",
+            "released": "2020-08-18T15:55:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e6911121d30f0de09ed5cf4c2b384ce3d6bd8c57",
+            "archive_commit": "9b41fdfc0b41758f6ceda2795870c0c89610e264",
+            "released": "2020-11-08T17:07:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "03f570868105491550cf77c74856d7ad8aeb23cd",
+            "archive_commit": "3e2cbfc294498d9b936b70cdae55f9012e68eb50",
+            "released": "2021-04-10T16:05:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

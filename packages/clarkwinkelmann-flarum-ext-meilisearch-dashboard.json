@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-meilisearch-dashboard",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-meilisearch-dashboard",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-meilisearch-dashboard",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "8caf96812e011a009c202216401a0696016af7d5",
+            "archive_commit": "c5c0222b71b92189bd2a712ce0d7f78ceb26cf81",
+            "released": "2022-11-06T18:06:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e7da4a48325193481ec3f0717ac8aacd5278c72b",
+            "archive_commit": "c18c018a1fbea6223abc1d67284c0185612d4d60",
+            "released": "2022-12-20T13:56:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-high-contrast",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-high-contrast",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-high-contrast",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "1863105e6b738221b7777865b7535f5030e089c9",
+            "archive_commit": "dba8261e9ebdf8ca49ff5e5b778ed310e40b5502",
+            "released": "2018-04-01T21:32:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "be1ce4cb9f15f5a50e2a646589a33cc03e80f432",
+            "archive_commit": "6398cc6e16f5133d6ff3d042a1ca1f72ec1f106f",
+            "released": "2018-05-10T17:22:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

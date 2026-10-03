@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-money-to-all",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-money-to-all",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-money-to-all",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "76735bd1ddd2951cbf4b29a1ba7579c0ff232868",
+            "archive_commit": "985bbecb64078cb73a9b842e98d0b1bc3e36bdda",
+            "released": "2022-10-27T00:53:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
