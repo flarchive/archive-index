@@ -1,0 +1,19 @@
+{
+    "package": "blomstra/test-notification-dispatcher",
+    "upstream": "https://github.com/blomstra/flarum-ext-test-notification-dispatcher",
+    "packagistUrl": "https://packagist.org/packages/blomstra/test-notification-dispatcher",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f09b370822069a63e861f91b1cdd9fb23320a2d0",
+            "archive_commit": "423c4f89c79dff33690f13daf5b4296ba14e6856",
+            "released": "2022-07-25T00:46:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

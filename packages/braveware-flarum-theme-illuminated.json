@@ -1,0 +1,79 @@
+{
+    "package": "braveware/flarum-theme-illuminated",
+    "upstream": "https://github.com/Braveware/flarum-theme-illuminated",
+    "packagistUrl": "https://packagist.org/packages/braveware/flarum-theme-illuminated",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "de31a69747e3fc287e605e5fecb4b1ab0d970cc5",
+            "archive_commit": "f6ce5c1b7f8e71242fe0f3c5bbcf41eeb630a395",
+            "released": "2021-04-23T14:55:40+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "a75a849568df5e7a446775da699854254f6388a0",
+            "archive_commit": "98d1d0193170b79f363709015f82089f84386649",
+            "released": "2021-04-23T15:29:11+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "a75a849568df5e7a446775da699854254f6388a0",
+            "archive_commit": "45ae3200066cc6afc057916d18a41df78ec48c9c",
+            "released": "2021-04-23T15:29:11+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "92bf210fe3e1a96ee47528dd4a3654fd94fcf4da",
+            "archive_commit": "2c3f6613ede4837a1940aa889f79467044c23ca1",
+            "released": "2021-04-23T15:34:33+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "ee9a5e4d9120541786495e8d833d555e524f0244",
+            "archive_commit": "65aca3a4e5d6745e8bdbfbf53a5b934d13394c39",
+            "released": "2021-04-23T15:38:22+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "7e79776834ee18ec7b0980f53872dd8d47788c61",
+            "archive_commit": "11055c9646c74bc6261095967066473afffc9788",
+            "released": "2021-04-23T17:31:43+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

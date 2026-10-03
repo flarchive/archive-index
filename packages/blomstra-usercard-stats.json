@@ -1,0 +1,43 @@
+{
+    "package": "blomstra/usercard-stats",
+    "upstream": "https://github.com/blomstra/flarum-ext-usercard-stats",
+    "packagistUrl": "https://packagist.org/packages/blomstra/usercard-stats",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "eaddf129446dd62ee2e03f80ccaba96686f5fe33",
+            "archive_commit": "6574a4c90824511a7055f4cd40ecc7d7c10f0ea6",
+            "released": "2022-05-23T20:43:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=1.2.0 <1.4.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "1a3411b11ba9547ecfa5b7854f0f2531e870ee85",
+            "archive_commit": "259974b9af718b8e2e2fa94a076fe0c5b96ca849",
+            "released": "2022-06-07T12:48:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "9c88f375efba685f9c25124c681ad2d517730068",
+            "archive_commit": "c3826a4eb23cb2d8feec99ff1e8c7e43ccc9b21a",
+            "released": "2022-06-07T13:08:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

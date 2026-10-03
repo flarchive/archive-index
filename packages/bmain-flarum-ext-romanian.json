@@ -1,0 +1,55 @@
+{
+    "package": "bmain/flarum-ext-romanian",
+    "upstream": "https://github.com/bmalex88/flarum-ext-romanian",
+    "packagistUrl": "https://packagist.org/packages/bmain/flarum-ext-romanian",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": null,
+            "upstream_commit": "e307e4dda2fa48297ad9b5d299b7801a92179ccb",
+            "archive_commit": null,
+            "released": "2016-05-03T10:45:26+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.2.0-beta.1",
+            "tag": null,
+            "upstream_commit": "cb6968bd6f189f846d560b45fec7a9f22a33d7c0",
+            "archive_commit": null,
+            "released": "2016-06-07T16:11:13+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.3.0-beta.1",
+            "tag": null,
+            "upstream_commit": "a819b4d651aa67ccda6b7aa26290f79e822cb9d4",
+            "archive_commit": null,
+            "released": "2017-07-19T11:36:21+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.6.0-beta.6",
+            "tag": null,
+            "upstream_commit": "fc16c4b0da26f7969b8d4ab66a546e094716b619",
+            "archive_commit": null,
+            "released": "2017-07-21T16:22:10+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

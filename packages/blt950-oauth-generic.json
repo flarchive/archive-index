@@ -1,0 +1,19 @@
+{
+    "package": "blt950/oauth-generic",
+    "upstream": "https://github.com/blt950/flarum-ext-oauth-generic",
+    "packagistUrl": "https://packagist.org/packages/blt950/oauth-generic",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c85442923207c0fc8f5d7932f552c30709aba955",
+            "archive_commit": "ef24dc6d552c468b418f8e937b6a0cf151fc95ab",
+            "released": "2024-07-01T20:21:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "package": "bryantmilan/lang-serbian",
+    "upstream": "https://github.com/bryantmilan/lang-serbian",
+    "packagistUrl": "https://packagist.org/packages/bryantmilan/lang-serbian",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "d3d38d86d8a618db7a638f6b38d72f5f599cca58",
+            "archive_commit": "f6ea70d9e8273ebf67b3022ddc265d0676c8c2ac",
+            "released": "2020-06-04T09:43:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "3ef40081c0a714b1526f57dcb1b52f2b583419b7",
+            "archive_commit": "5823844147d77b5ea0af47827f0f77fb527f52b5",
+            "released": "2020-11-20T21:17:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "ed86ce5874ae6cf28dbb0e86a3029e1cc76f41a0",
+            "archive_commit": "b898735c1777c5b034330bf58332c68f415c10fa",
+            "released": "2021-01-01T21:17:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3",
+            "tag": "archive/v1.3",
+            "upstream_commit": "46e119fd92d5bd5b3aa1f13e5a0f1e7862ac7d28",
+            "archive_commit": "6af3f03ba57004c1be53123825a99171190adea0",
+            "released": "2021-04-17T21:20:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.4",
+            "tag": "archive/v1.4",
+            "upstream_commit": "794e67f0d49bf94a302651e0675ef7b763e0bf63",
+            "archive_commit": "3595dcebd84b727e7e4dbec7f11a43be63a880c1",
+            "released": "2022-01-31T13:21:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.4.1",
+            "tag": "archive/v1.4.1",
+            "upstream_commit": "ab722d89673b512d74952f217d8d1647509b2c9a",
+            "archive_commit": "1e0daab7452fa6f561f8df5a19940af04576e738",
+            "released": "2022-02-09T16:21:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

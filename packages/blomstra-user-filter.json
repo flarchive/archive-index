@@ -1,0 +1,67 @@
+{
+    "package": "blomstra/user-filter",
+    "upstream": "https://github.com/blomstra/flarum-ext-user-filter",
+    "packagistUrl": "https://packagist.org/packages/blomstra/user-filter",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "07545a05f91ad41b8e107d6d6b030c05b0a0f2c7",
+            "archive_commit": "60df8615e43ea0e93ab9826dff876024d7ce1800",
+            "released": "2022-02-17T10:14:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "a556ee705585759209960ad5415a28ecd020de99",
+            "archive_commit": "404d337f9d11956ed1371c1d138362c103c5a4f6",
+            "released": "2022-02-17T19:44:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "dee9d2ef3e9ccb350135faf001f1546dc472e837",
+            "archive_commit": "ef0d01202517e394366d157fa72223f98d885d75",
+            "released": "2022-05-18T23:03:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "5572bc1e3f372edb7bd175f8ab7268e5b1ec8e94",
+            "archive_commit": "b13d125a7c8b16f0d99e9b88780069714c7674a5",
+            "released": "2022-05-18T23:28:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "5572bc1e3f372edb7bd175f8ab7268e5b1ec8e94",
+            "archive_commit": "631a04c96e4917d64f0029cfa7772f5a321844fa",
+            "released": "2022-05-18T23:28:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

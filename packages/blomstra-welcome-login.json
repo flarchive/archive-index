@@ -1,0 +1,19 @@
+{
+    "package": "blomstra/welcome-login",
+    "upstream": "https://github.com/blomstra/flarum-ext-welcome-login",
+    "packagistUrl": "https://packagist.org/packages/blomstra/welcome-login",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "a27957419ce36d61056a51ea75cf8857af5ac6e1",
+            "archive_commit": "e5f7a028c92efd4c58a2f439204792e7dcee5170",
+            "released": "2022-03-02T16:33:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

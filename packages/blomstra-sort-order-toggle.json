@@ -1,0 +1,43 @@
+{
+    "package": "blomstra/sort-order-toggle",
+    "upstream": "https://github.com/blomstra/flarum-ext-sort-order-toggle",
+    "packagistUrl": "https://packagist.org/packages/blomstra/sort-order-toggle",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "630135f018a59cca37dc42c1ed751328c0296e51",
+            "archive_commit": "34086a96d9ff754182a8a41618906ba6e73ea203",
+            "released": "2022-02-17T14:55:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "f594ccc468a07d3cb3bd28b7a448dd9ae9d489c6",
+            "archive_commit": "1b8dc2564485a8153869548d61258e20a8216ca8",
+            "released": "2022-02-28T12:19:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "4e3cf5919fa2af5e09594eefebfb4506d6c330dc",
+            "archive_commit": "d5108c40dfefecfc20624632a4350bd96416fe37",
+            "released": "2022-08-29T16:39:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
