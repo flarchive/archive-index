@@ -1,0 +1,31 @@
+{
+    "package": "kitbur/ruby-text",
+    "upstream": "https://github.com/kitbur/ruby-text",
+    "packagistUrl": "https://packagist.org/packages/kitbur/ruby-text",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "390560997f7c19c66ec88653a9b4e1f92f6d8ba1",
+            "archive_commit": "17c932e4eb088c320bd93bc9700ea8db824d4baf",
+            "released": "2025-06-08T17:23:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "bd4cd2dc6467c51eacef82a13fe2111d0d570d5c",
+            "archive_commit": "ffe95796f7bc2ae378a2191bc3b76a5a9fea4146",
+            "released": "2025-06-10T19:35:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

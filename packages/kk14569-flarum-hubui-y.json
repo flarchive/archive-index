@@ -1,0 +1,31 @@
+{
+    "package": "kk14569/flarum-hubui-y",
+    "upstream": "https://github.com/kk14569/flarum-hubui-y",
+    "packagistUrl": "https://packagist.org/packages/kk14569/flarum-hubui-y",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": null,
+            "upstream_commit": "70d4dbdc38294b468b269cdbdda4d3eb49d900f1",
+            "archive_commit": null,
+            "released": "2024-08-15T07:14:35+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": null,
+            "upstream_commit": "4a7c2928036eae40acb3c8069af0f1e32d0149c5",
+            "archive_commit": null,
+            "released": "2024-08-16T10:25:21+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

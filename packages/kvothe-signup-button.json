@@ -1,0 +1,67 @@
+{
+    "package": "kvothe/signup-button",
+    "upstream": "https://github.com/oaklinq/flarum-signup-button",
+    "packagistUrl": "https://packagist.org/packages/kvothe/signup-button",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ea66bda783eabc3e67ca6f7d68b6b434af258931",
+            "archive_commit": "5bd320992817897ce8e203e75c24b53514722d6b",
+            "released": "2019-02-08T11:34:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "ea66bda783eabc3e67ca6f7d68b6b434af258931",
+            "archive_commit": "7c133c8ee97cad782043f3cfb3930b965c13b4da",
+            "released": "2019-02-08T11:34:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "fc90042bbc8477b57d2ca9f8351be5d8cf193fce",
+            "archive_commit": "cbedabe56f685160c4ca232ee6fbb5aee2893281",
+            "released": "2019-02-13T16:07:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "ef2ffe3ce2a5dae5679e1c5ff8d245bbe85d65bb",
+            "archive_commit": "2d95b714dd91ebf944289b198ad28619fbff7c8d",
+            "released": "2019-02-17T12:57:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "d78265a6ece7128ee803f5893ed771e61ae4fe6c",
+            "archive_commit": "f34b95625a1c837860ec1375350d947b51df3777",
+            "released": "2019-02-19T10:04:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

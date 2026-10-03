@@ -1,0 +1,31 @@
+{
+    "package": "krombox/flarum-ext-auth-wordpress",
+    "upstream": "https://github.com/krombox/flarum-ext-auth-wordpress",
+    "packagistUrl": "https://packagist.org/packages/krombox/flarum-ext-auth-wordpress",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": "archive/v0.1.0-beta.7",
+            "upstream_commit": "34e1eb941b7bec4cdf3d77082e30ec36c07faf12",
+            "archive_commit": "2e76c8a7977bdeee9a64d44062a8b2aa557b919b",
+            "released": "2017-09-12T19:19:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1-beta.7",
+            "tag": "archive/v0.1.1-beta.7",
+            "upstream_commit": "eb339705e99eadbf1ebf47201f190cbfd97105b9",
+            "archive_commit": "ba0fe2cd86b3f875c5eb80038e6c16684f330835",
+            "released": "2018-03-19T22:09:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

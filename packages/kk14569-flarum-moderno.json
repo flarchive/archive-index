@@ -1,0 +1,55 @@
+{
+    "package": "kk14569/flarum-moderno",
+    "upstream": "https://github.com/kk14569/flarum-moderno",
+    "packagistUrl": "https://packagist.org/packages/kk14569/flarum-moderno",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": null,
+            "upstream_commit": "0e758269ee9a5168969641821950eb4e3790b821",
+            "archive_commit": null,
+            "released": "2024-09-06T05:12:44+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": null,
+            "upstream_commit": "d5bba616a6a32e01104d2d3f40a76d89cbcaa462",
+            "archive_commit": null,
+            "released": "2024-09-07T08:16:35+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": null,
+            "upstream_commit": "db224ed37f68f0c10b4d49d107b52f1d4a3ebb46",
+            "archive_commit": null,
+            "released": "2024-09-14T11:01:06+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": null,
+            "upstream_commit": "6adef30b1ff170c359d5944f1223089c709a8274",
+            "archive_commit": null,
+            "released": "2024-09-29T05:34:23+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

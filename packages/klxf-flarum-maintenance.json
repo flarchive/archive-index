@@ -1,0 +1,43 @@
+{
+    "package": "klxf/flarum-maintenance",
+    "upstream": "https://github.com/klxf/flarum-maintenance",
+    "packagistUrl": "https://packagist.org/packages/klxf/flarum-maintenance",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "911824f13963a1d96b4015cb6c381776733ae2a5",
+            "archive_commit": "1c9341e959ca2778b7b23e7fac44a73ee7b69c6f",
+            "released": "2025-09-15T08:00:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b7f91cb8a403154fd22db794ae4fa4e5826b0150",
+            "archive_commit": "52c493f672f3b24db894431bd29d54bf0077c2ce",
+            "released": "2025-09-15T08:52:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "a500bf42c9e8975317a9dbf5d9af5902a56fd6f7",
+            "archive_commit": "df0e23c89802ddb18114c4f04336f6531fe69773",
+            "released": "2025-09-16T04:23:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

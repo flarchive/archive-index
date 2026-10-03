@@ -1,0 +1,31 @@
+{
+    "package": "kk14569/flarum-anti-gmail-alias",
+    "upstream": "https://github.com/kk14569/flarum-anti-gmail-alias",
+    "packagistUrl": "https://packagist.org/packages/kk14569/flarum-anti-gmail-alias",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": null,
+            "upstream_commit": "7721f42e523b9a35094b2f36e8e667d12b206e85",
+            "archive_commit": null,
+            "released": "2025-03-09T14:02:11+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": null,
+            "upstream_commit": "cc78b878d058192b72543c3bf0b25f16269d9d61",
+            "archive_commit": null,
+            "released": "2025-03-10T11:56:56+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

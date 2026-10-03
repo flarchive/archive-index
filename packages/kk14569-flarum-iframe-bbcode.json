@@ -1,0 +1,19 @@
+{
+    "package": "kk14569/flarum-iframe-bbcode",
+    "upstream": "https://github.com/kk14569/flarum-iframe-bbcode",
+    "packagistUrl": "https://packagist.org/packages/kk14569/flarum-iframe-bbcode",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": null,
+            "upstream_commit": "23f36ec5fc052b0104b7be63ffb7e825dddb27ab",
+            "archive_commit": null,
+            "released": "2025-03-08T11:29:13+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

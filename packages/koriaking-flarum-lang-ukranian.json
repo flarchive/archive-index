@@ -1,0 +1,19 @@
+{
+    "package": "koriaking/flarum-lang-ukranian",
+    "upstream": "https://github.com/koriaking/flarum-lang-ukranian",
+    "packagistUrl": "https://packagist.org/packages/koriaking/flarum-lang-ukranian",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ef50b09f45c90baa7fa7c8b11cb3216cb6775c24",
+            "archive_commit": "c316a44339630db9fd55fd9aac7d7504d9c760b0",
+            "released": "2021-11-03T08:05:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "kryonoglou/flarum-ext-greek",
+    "upstream": "https://github.com/kryonoglou/flarum-ext-greek",
+    "packagistUrl": "https://packagist.org/packages/kryonoglou/flarum-ext-greek",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "50c9bcdd845b32965511c1e004c58a89d1a6c853",
+            "archive_commit": "61885b02e8e0bc702f63418f5dfcebd435830030",
+            "released": "2018-09-20T17:41:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "c4f715892a8e06073cc050e560c84748b9719b45",
+            "archive_commit": "4338a8ac51ecc03fef9ab349f5bc7f94654e8d2a",
+            "released": "2018-09-20T22:12:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

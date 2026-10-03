@@ -1,0 +1,19 @@
+{
+    "package": "kvothe/keyboard-shortcuts",
+    "upstream": "https://github.com/oaklinq/flarum-ext-keyboard-shortcuts",
+    "packagistUrl": "https://packagist.org/packages/kvothe/keyboard-shortcuts",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c94a51350f35e8d8e542febde4f594ae5b1e020e",
+            "archive_commit": "4201291b2696e73ccf728f550ea87366f707a44c",
+            "released": "2019-03-13T12:16:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

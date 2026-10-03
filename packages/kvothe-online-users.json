@@ -1,0 +1,55 @@
+{
+    "package": "kvothe/online-users",
+    "upstream": "https://github.com/oaklinq/flarum-ext-online-users",
+    "packagistUrl": "https://packagist.org/packages/kvothe/online-users",
+    "versions": [
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "7c3c23ecd6939e1e5a7954df97f8480b4448dad8",
+            "archive_commit": "e9e1ea091c7f35166a94440abce0bddeac4eca27",
+            "released": "2018-02-24T14:50:16+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "a767e36333062e23a7b6d9603e5dc94b42663255",
+            "archive_commit": "a09142f0846004e6698687775625aaae4c5c8138",
+            "released": "2018-04-22T10:42:39+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "archive/v0.4.0",
+            "upstream_commit": "a0cc780179321ce3ad8461c85bd44362b7c7f1a9",
+            "archive_commit": "dbdd1b75dbd5f1f461d6a412d6d501b9bdfa81e2",
+            "released": "2019-03-04T15:11:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "4fd4a0cbf72a1dcac613ae8ffea82267ef10707b",
+            "archive_commit": "cc6ec9cc82273e03efdcaac4ae50f58316e928c3",
+            "released": "2018-01-10T17:06:59+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
