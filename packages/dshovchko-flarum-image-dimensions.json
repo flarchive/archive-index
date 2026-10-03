@@ -1,0 +1,91 @@
+{
+    "package": "dshovchko/flarum-image-dimensions",
+    "upstream": "https://github.com/dshovchko/flarum-image-dimensions",
+    "packagistUrl": "https://packagist.org/packages/dshovchko/flarum-image-dimensions",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c9b877fb6c6a5cb48cf63e6492b41bd6bb4e6ced",
+            "archive_commit": "b461b375aae334a09c678197916c4d1d1ba84cba",
+            "released": "2025-11-06T15:07:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "9bf3a1ce7e139984826530ac4ff641cc866429f9",
+            "archive_commit": "3c92ce022301616ad5db6e485488b618f67c80cc",
+            "released": "2025-11-06T19:32:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "2ecdde5dedcf9c6deadc4fb66ddca1e9429e998f",
+            "archive_commit": "29c13c0a8958ec0ef4c034fd8842b067040120ff",
+            "released": "2025-11-07T15:15:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "db453e3b5e37ffafb3298a62bc1fa3b23028ff36",
+            "archive_commit": "b9d7c3074aa57b6a04af00ae93b0b2b7b39f29db",
+            "released": "2025-11-09T14:46:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "c425ad0483ba3e18195904ca62066654c5b6ecab",
+            "archive_commit": "c06c2a2a3134b1345cacdd5d961315496343ba47",
+            "released": "2025-11-12T12:03:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.5.0",
+            "tag": "archive/v1.5.0",
+            "upstream_commit": "5185ef87e400c72cab835a8e8703f9354e553d08",
+            "archive_commit": "4d515bd4034fb55f77ce86ce5d8c635ea878dc6e",
+            "released": "2025-11-16T13:33:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.5.1",
+            "tag": "archive/v1.5.1",
+            "upstream_commit": "95d3fdc14bba18f31f85178143edffa1caa0a8ff",
+            "archive_commit": "72020473c9df54f082c67dd4dcc1b89bc84c957a",
+            "released": "2025-11-27T09:53:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

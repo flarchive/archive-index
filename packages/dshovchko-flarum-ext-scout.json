@@ -1,0 +1,31 @@
+{
+    "package": "dshovchko/flarum-ext-scout",
+    "upstream": "https://github.com/dshovchko/flarum-ext-scout",
+    "packagistUrl": "https://packagist.org/packages/dshovchko/flarum-ext-scout",
+    "versions": [
+        {
+            "version": "v0.3.5",
+            "tag": "archive/v0.3.5",
+            "upstream_commit": "d61f78e834423d3b257350447fc123905517d421",
+            "archive_commit": "0376b29a9cfd3f3487b98548f94b3068946e6572",
+            "released": "2026-01-31T17:57:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3.6",
+            "tag": "archive/v0.3.6",
+            "upstream_commit": "58aaa880378b3a47c11b8033cdfd1c2969dd3101",
+            "archive_commit": "122783a5864835b191d782eab98854a20af7bf7f",
+            "released": "2026-02-01T10:01:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

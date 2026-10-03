@@ -1,0 +1,67 @@
+{
+    "package": "duyplus/fl-vietnamese",
+    "upstream": "https://github.com/duyplus/fl-vietnamese",
+    "packagistUrl": "https://packagist.org/packages/duyplus/fl-vietnamese",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "67969273bd052918b3a1ae7080155259078d3c34",
+            "archive_commit": "39d56cddf9d349a54bf2b128f6f9e9bd43919052",
+            "released": "2020-02-25T13:04:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "50005d307a1c59dc8342adc630d7bca745eb0cb9",
+            "archive_commit": "e610ff23824fd2f28ce539dfdbe3b3cbb9756c7f",
+            "released": "2020-02-26T12:18:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "0b04f603c6b4cdfcf74302eea662298ef1d885e3",
+            "archive_commit": "88a5a7addde57b956167c75de5973f7dae2eed39",
+            "released": "2021-07-29T10:29:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4",
+            "tag": "archive/v0.4",
+            "upstream_commit": "c33cc01cd48bc13475756c2675185ce1e1e4144f",
+            "archive_commit": "6f96c3aaa0d3a5b4e68e29d774902350c1b413c7",
+            "released": "2022-04-29T11:10:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.5",
+            "tag": "archive/v0.5",
+            "upstream_commit": "a1f1bf2f273c678f7c2488fe5df5666adf2eef81",
+            "archive_commit": "bf181b76a8f911c98db3f44e7ec9dc8635ad1a9a",
+            "released": "2022-09-23T16:27:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

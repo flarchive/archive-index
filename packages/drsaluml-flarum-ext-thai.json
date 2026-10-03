@@ -1,0 +1,19 @@
+{
+    "package": "drsaluml/flarum-ext-thai",
+    "upstream": "https://github.com/drsaluml/flarum-ext-thai",
+    "packagistUrl": "https://packagist.org/packages/drsaluml/flarum-ext-thai",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "7a7866f70ced6bbacc25feb295ef12fb78f91cf9",
+            "archive_commit": "4112c55134575ff4128da0d65473c5bd560d50df",
+            "released": "2019-02-14T10:49:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "package": "dkn/flarum-ext-vietnamese",
+    "upstream": "https://github.com/duongkimngoc/flarum-ext-vietnamese",
+    "packagistUrl": "https://packagist.org/packages/dkn/flarum-ext-vietnamese",
+    "versions": [
+        {
+            "version": "0.1.0.10",
+            "tag": "archive/v0.1.0.10",
+            "upstream_commit": "a14fc2ff87c303d7bed212e6f58f721dddc599ed",
+            "archive_commit": "8eb34fda0d7c21420428976ea3f3c0a7efc7b541",
+            "released": "2017-05-15T06:10:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0.11",
+            "tag": "archive/v0.1.0.11",
+            "upstream_commit": "471b1bf2b643aad789b598b2b1188c166e693c71",
+            "archive_commit": "10b88a59506f9918dc8b744c87e0a2fbf4560c3e",
+            "released": "2018-05-01T17:58:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0.12",
+            "tag": "archive/v0.1.0.12",
+            "upstream_commit": "7d57fcc66bd7381a7e54e1f00c3bcfef6414eb39",
+            "archive_commit": "e64fd99dd1b5de6736a17c0d06fa4b69ce43e966",
+            "released": "2018-09-09T01:17:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0.13",
+            "tag": "archive/v0.1.0.13",
+            "upstream_commit": "dae0179074a970812d5c9099354ff660f259fcf0",
+            "archive_commit": "37a8892673c5e3e0c34668481b7b9284d82f6ea6",
+            "released": "2020-01-09T19:06:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0.7",
+            "tag": "archive/v0.1.0.7",
+            "upstream_commit": "18ab2345f241e9463917f60ff9f0e6dff014981f",
+            "archive_commit": "9b838c5d0f91653dfe0bcbd1dd6444b3b26bfd83",
+            "released": "2017-05-06T17:03:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0.8",
+            "tag": "archive/v0.1.0.8",
+            "upstream_commit": "bc432a593409dfa9c2b133f78f1a1b5fc232edb6",
+            "archive_commit": "46fb18c3ed7867df3a242f39aee3efc0b4606e37",
+            "released": "2017-05-06T17:47:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0.9",
+            "tag": "archive/v0.1.0.9",
+            "upstream_commit": "a52c388ad889a92578481e8852fc1ef84df840c0",
+            "archive_commit": "1248a2adacdd7ed22dc3fde4942f11bf51a5e241",
+            "released": "2017-05-08T10:23:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

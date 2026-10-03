@@ -1,0 +1,55 @@
+{
+    "package": "dianmx/location-discussions",
+    "upstream": "https://github.com/dianmx/local-discussions",
+    "packagistUrl": "https://packagist.org/packages/dianmx/location-discussions",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "5a0e22b47561ea1931936129b5f40bbc58a63138",
+            "archive_commit": "d7aa48faf50b7ac325a02bacb5ff617a5cc74b1b",
+            "released": "2021-11-08T10:13:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "c2fb30c37848adb2b5cdb765953a9e278da76a14",
+            "archive_commit": "342e7a195e185eb657b1f351c9275ee1761062ea",
+            "released": "2021-11-08T10:28:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "4bb6f5ba6158d8d92c05571508e921f0facb501d",
+            "archive_commit": "c7bb449e9a6f6017643d9b928c35451417952ab5",
+            "released": "2021-11-09T00:05:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "c6dab1475cb08e463b810b5ac1695b65e6f23e1a",
+            "archive_commit": "b59a1c7b96aa5ceca6fd8dc4dea01c5500918fbb",
+            "released": "2021-11-12T00:56:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

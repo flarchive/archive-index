@@ -1,0 +1,55 @@
+{
+    "package": "diegoco/ucl-email",
+    "upstream": "https://github.com/dieguitocollado/ucl-email",
+    "packagistUrl": "https://packagist.org/packages/diegoco/ucl-email",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "013dbe01799e401e78475027483904d9a7152090",
+            "archive_commit": "c372b661cd4ab7279c76dbf926433e4a96a8085f",
+            "released": "2019-06-22T12:57:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "c5efecec2eac6b3ce533a8fe581c60b4d2fb94c5",
+            "archive_commit": "b1add538fd13d0f2414ab6cdc1bf73a63bf77e17",
+            "released": "2020-11-07T17:15:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "048d8ac1fd4f09103ba2027092ee33359013c004",
+            "archive_commit": "1c9dba1aaac73dedf8d1b69ff3f01cae882582b9",
+            "released": "2020-12-14T13:48:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "1efa568d31152a9a7991623da08e5e666fbf26cf",
+            "archive_commit": "1d01cfe376213f65c1d8db6edd10cb42acd93f3e",
+            "released": "2021-03-03T19:20:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

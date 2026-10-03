@@ -1,0 +1,19 @@
+{
+    "package": "dsgnr/flarum-ext-customcss",
+    "upstream": "https://github.com/dsgnr/flarum-ext-customcss",
+    "packagistUrl": "https://packagist.org/packages/dsgnr/flarum-ext-customcss",
+    "versions": [
+        {
+            "version": "v0.1.1-beta5",
+            "tag": null,
+            "upstream_commit": "d3d774abe7076242674a50ff6d39cf8615f6c9c2",
+            "archive_commit": null,
+            "released": "2016-08-22T17:53:08+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

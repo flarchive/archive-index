@@ -1,0 +1,19 @@
+{
+    "package": "dizy/flarum-custom-smtp",
+    "upstream": "https://github.com/dizyzeng/flarum-custom-smtp",
+    "packagistUrl": "https://packagist.org/packages/dizy/flarum-custom-smtp",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b974857886109eb44666bfca9102c698ee31c7ef",
+            "archive_commit": "9eef75b14d68ce06dafd5571fe9e61d678ce6d75",
+            "released": "2020-10-02T18:52:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

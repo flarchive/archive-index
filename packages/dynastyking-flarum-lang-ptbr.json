@@ -1,0 +1,43 @@
+{
+    "package": "dynastyking/flarum-lang-ptbr",
+    "upstream": "https://github.com/DynastyKing/flarum-lang-ptbr",
+    "packagistUrl": "https://packagist.org/packages/dynastyking/flarum-lang-ptbr",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "32191900d0a278e31bc01d271750ebbcd8872e3e",
+            "archive_commit": "b7c6e59d9c715b04d2ce859ad00d88f4b4a55530",
+            "released": "2019-04-12T16:44:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "17812a4d7da6f67bab84b9d098064b66087af5ed",
+            "archive_commit": "e5020a30fda5c8a79fa13157a68121489c546477",
+            "released": "2019-04-15T13:15:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "ed5307794526e128800e8bd94df605425c4fc078",
+            "archive_commit": "425274df5c19ca3eb566f0d30281d144a77bae97",
+            "released": "2019-04-23T20:38:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

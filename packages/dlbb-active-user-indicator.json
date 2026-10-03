@@ -1,0 +1,31 @@
+{
+    "package": "dlbb/active-user-indicator",
+    "upstream": "https://github.com/thedlbbteam/active-user-indicator",
+    "packagistUrl": "https://packagist.org/packages/dlbb/active-user-indicator",
+    "versions": [
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "6485111e7f86627a7178ee81e03e653f883c9a63",
+            "archive_commit": "e9f340d95e341c61765d53f02eeaac5c2e75f592",
+            "released": "2026-06-22T16:08:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "4726bf560dc0c7795446396e2957d091275f9146",
+            "archive_commit": "c1cfe1cc8c5c33221a117b9dd6a694e8c41d2890",
+            "released": "2026-07-01T09:01:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

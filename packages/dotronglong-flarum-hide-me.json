@@ -1,0 +1,55 @@
+{
+    "package": "dotronglong/flarum-hide-me",
+    "upstream": "https://github.com/dotronglong/flarum-hide-me",
+    "packagistUrl": "https://packagist.org/packages/dotronglong/flarum-hide-me",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "f2b703b9cf964a6bbd496eaa72d3eae185163283",
+            "archive_commit": "990435a860366285e4ad61e8b703ad6cb365ba9e",
+            "released": "2019-12-22T08:20:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "dd811305498c78def03663df19012620a555062a",
+            "archive_commit": "06442cdd12b2372b7decbf87352006f1c1c697e7",
+            "released": "2019-12-22T19:29:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "93fee3d6d52644582e978a2fe70833e9e4c89552",
+            "archive_commit": "7c21edc88fde26eeaad2286d9481d286f4ee863d",
+            "released": "2019-12-24T14:21:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "29454762e96e2122764ef509d3183a08f4a9c42f",
+            "archive_commit": "b143accf3496e939bfef69647b1bbe970b2aea17",
+            "released": "2020-01-12T07:25:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

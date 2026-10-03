@@ -1,0 +1,31 @@
+{
+    "package": "dyzdyz010/flarum-ext-mediaembed-cn",
+    "upstream": "https://github.com/dyzdyz010/flarum-ext-mediaembed-cn",
+    "packagistUrl": "https://packagist.org/packages/dyzdyz010/flarum-ext-mediaembed-cn",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "ed1831315d83f37f4735cb82ce95064bb39b8dd3",
+            "archive_commit": "c8cd51dcc27739ac1a2212e03d9a98600ad68ff8",
+            "released": "2016-05-23T10:15:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "b841ad65fa81588f942b7303ed149aaf31ee9f21",
+            "archive_commit": "3b6e369a658d5d5b04bd82f71d00dc8eea502243",
+            "released": "2016-07-05T08:24:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

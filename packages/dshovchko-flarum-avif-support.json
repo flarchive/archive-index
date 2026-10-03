@@ -1,0 +1,19 @@
+{
+    "package": "dshovchko/flarum-avif-support",
+    "upstream": "https://github.com/dshovchko/flarum-avif-support",
+    "packagistUrl": "https://packagist.org/packages/dshovchko/flarum-avif-support",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c337d1128baa418fc783eacd18a72aae40418983",
+            "archive_commit": "1b1caca110eebbe8d070d31f062e289501a1522e",
+            "released": "2025-11-06T18:32:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
