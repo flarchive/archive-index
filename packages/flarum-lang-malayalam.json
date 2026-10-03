@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/malayalam",
+    "upstream": "https://github.com/flarum-lang/malayalam",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/malayalam",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "504bbb90ce53956a99df7f73ce90ed766e1cada7",
+            "archive_commit": "6c4a61fe84feee187db832211f577c37fa523d09",
+            "released": "2026-09-30T07:44:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "83b119df57628f4fd9c65c857b9cb793b377e7bc",
+            "archive_commit": "d7528abedb80e042db2a700d1a6931cc83875eb6",
+            "released": "2026-09-30T07:50:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

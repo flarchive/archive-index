@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/nepali",
+    "upstream": "https://github.com/flarum-lang/nepali",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/nepali",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1e90f2e3ed04d24c1a0cf4276857f1a454afd542",
+            "archive_commit": "5bd571fc9f16481288a471f6430d23cee208887b",
+            "released": "2026-09-30T07:46:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c92a17dde5d1ca84e8ecd303e3467bd3024f6ecd",
+            "archive_commit": "5e6a3cc53e47c36029a22e28b6563ef364c13b5c",
+            "released": "2026-09-30T07:51:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

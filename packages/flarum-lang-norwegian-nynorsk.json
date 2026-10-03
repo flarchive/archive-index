@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/norwegian-nynorsk",
+    "upstream": "https://github.com/flarum-lang/norwegian-nynorsk",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/norwegian-nynorsk",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "66d63058315bc83c4126b8cdbb8fc6fadca131c6",
+            "archive_commit": "7a0c748999c1b62fa4b98031374978579a94a83d",
+            "released": "2026-09-30T07:47:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "be167126a413c05afb980457c3647900835ea8d5",
+            "archive_commit": "3d82937d2a208498e864a7b9f86089458bdadd19",
+            "released": "2026-09-30T07:52:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

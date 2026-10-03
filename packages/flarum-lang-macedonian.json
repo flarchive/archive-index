@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/macedonian",
+    "upstream": "https://github.com/flarum-lang/macedonian",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/macedonian",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "da77ef72389cbab77d8eff1265c565d4afe7d73c",
+            "archive_commit": "44676f0c5b2552937603f4f90956e29471d8a033",
+            "released": "2026-09-30T07:44:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "70a3159ecdf037c0535f6245527c771f9d5fff5f",
+            "archive_commit": "e18ae182e274c72546b6f1aca42f40ef65886bdd",
+            "released": "2026-09-30T07:49:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

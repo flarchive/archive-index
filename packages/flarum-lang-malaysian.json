@@ -1,0 +1,19 @@
+{
+    "package": "flarum-lang/malaysian",
+    "upstream": "https://github.com/flarum-lang/malaysian",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/malaysian",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d70fe0111b2a6b790f3496dc7477475af244204e",
+            "archive_commit": "6a550552ecc47a0bc48a174185e687aeeb052ead",
+            "released": "2021-07-15T12:20:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

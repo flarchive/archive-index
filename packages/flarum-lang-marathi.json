@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/marathi",
+    "upstream": "https://github.com/flarum-lang/marathi",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/marathi",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a91fbb0e1150f68a1f96c0c56d04a50d56796c90",
+            "archive_commit": "94b122b62d163a27a3f2f0521f87ca3cd8b54241",
+            "released": "2026-09-30T07:45:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "2f51dc873c3d99cd9f98fe67d7721f7528b202a0",
+            "archive_commit": "1020091eb1923ca784f6b249fb61641b927b9c67",
+            "released": "2026-09-30T07:50:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

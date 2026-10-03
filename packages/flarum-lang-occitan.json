@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/occitan",
+    "upstream": "https://github.com/flarum-lang/occitan",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/occitan",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f3e33e4930bb81750296bc2ad1f9815444db42e3",
+            "archive_commit": "86499ba7b40c6b54c6612a264be2ae61eadfe239",
+            "released": "2026-09-30T07:47:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "9ec3393af98ab6f8fe64eba5d764e58e3f4ef777",
+            "archive_commit": "4e7a566c0278b2601324c5c32825192e99d959e8",
+            "released": "2026-09-30T07:52:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
