@@ -1,0 +1,43 @@
+{
+    "package": "datlechin/flarum-link-clicks",
+    "upstream": "https://github.com/datlechin/flarum-link-clicks",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-link-clicks",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "eb813ee25825ffb92597c227cb3079180168322b",
+            "archive_commit": "c426220a99f4fd71b52b76afcc957a391e30346e",
+            "released": "2026-05-08T20:12:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "97d52c62431aaf7a6f48bc83ad1b43cc87761f24",
+            "archive_commit": "b8bcc95c468e7bcc3896aca3aa6d507ecd38a602",
+            "released": "2026-05-09T15:29:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "4f53ec992287efd2d3a9defe7f2a04080aad2f2d",
+            "archive_commit": "a04ab32f863e26ab3b4a7c2ba0acd8305537daa4",
+            "released": "2026-08-29T13:01:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

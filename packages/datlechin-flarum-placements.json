@@ -1,0 +1,19 @@
+{
+    "package": "datlechin/flarum-placements",
+    "upstream": "https://github.com/datlechin/flarum-placements",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-placements",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0847437aa193bd28e4282aa1f11d878e2f473bda",
+            "archive_commit": "d9dd33ab85c77b5a6e9dab0a539b7315bb57bffb",
+            "released": "2026-09-06T06:45:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

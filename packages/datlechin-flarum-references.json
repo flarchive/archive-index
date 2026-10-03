@@ -1,0 +1,19 @@
+{
+    "package": "datlechin/flarum-references",
+    "upstream": "https://github.com/datlechin/flarum-references",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-references",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d7612a6e42a75830c19a1b710545f293d2b5858e",
+            "archive_commit": "51e523b72d15052dfaa9fd71233fff9b026fe8d6",
+            "released": "2026-09-08T18:15:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

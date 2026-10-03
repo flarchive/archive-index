@@ -1,0 +1,91 @@
+{
+    "package": "datlechin/flarum-scroll-buttons",
+    "upstream": "https://github.com/datlechin/flarum-scroll-buttons",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-scroll-buttons",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "614fdff2fd9efab687044b7d90de46c51edc844e",
+            "archive_commit": "be25e9e01faa565832ce15b491e624ae65e4370e",
+            "released": "2021-12-22T11:15:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "269843e0a3c6af906af207252772d66336c80f75",
+            "archive_commit": "edbd0a58058ecb4ea7a52aa0102fb2afeb47bbaf",
+            "released": "2021-12-23T04:14:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "22cc027227cf6bb359fae3d776bf07443346ac04",
+            "archive_commit": "5dd0d0908924751411bb500a7f1456d1c85a3eaf",
+            "released": "2021-12-23T12:58:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "fb5015585fa8bb64cd67e9a2b5c93653b1ae6abf",
+            "archive_commit": "a73ab43452912897492a1dc73366dab18b47542d",
+            "released": "2021-12-23T18:42:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5c73574e673775bdf6a3636040fec0a08adbf6a5",
+            "archive_commit": "e1e3826f91f8d30d4b651b0d2f441f4fbade7734",
+            "released": "2022-02-10T11:38:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "d73e84725cb9df228b8fa3a4d555359eed771976",
+            "archive_commit": "3c1d114b6022140c9d27b78e89817f2567f7ec47",
+            "released": "2022-09-09T10:35:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "747d1a1681dfac5ff7783f521b7571ff9bca5921",
+            "archive_commit": "5e7cf2de68c76940897d82e63a88c28e4c551dab",
+            "released": "2026-02-24T05:38:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

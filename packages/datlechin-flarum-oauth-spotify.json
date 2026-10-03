@@ -1,0 +1,19 @@
+{
+    "package": "datlechin/flarum-oauth-spotify",
+    "upstream": "https://github.com/datlechin/flarum-oauth-spotify",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-oauth-spotify",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "2ebea6385fb15b2241f2dc2b3583bc2f821ebe8a",
+            "archive_commit": "3a7828cf6665730f4125f1dd5ac58a3b70d58836",
+            "released": "2023-09-09T13:39:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "datlechin/flarum-remove-sidenav",
+    "upstream": "https://github.com/flatension/remove-sidenav",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-remove-sidenav",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "962e246b025fc4aa9501da89c67f28ffa4cbc019",
+            "archive_commit": "e16d2fbe2873335d22e33bbb349b5624b8b888a7",
+            "released": "2022-02-07T17:01:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

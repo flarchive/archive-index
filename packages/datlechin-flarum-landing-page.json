@@ -1,0 +1,19 @@
+{
+    "package": "datlechin/flarum-landing-page",
+    "upstream": "https://github.com/datlechin/flarum-landing-page",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-landing-page",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "375ee5387b326f1cf9fc94c3547f29f690cee2d7",
+            "archive_commit": "ca240dc413f90d6f009bf6288b31c47649ed4ab2",
+            "released": "2022-01-29T22:20:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

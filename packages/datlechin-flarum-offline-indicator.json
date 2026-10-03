@@ -1,0 +1,19 @@
+{
+    "package": "datlechin/flarum-offline-indicator",
+    "upstream": "https://github.com/datlechin/flarum-offline-indicator",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-offline-indicator",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "53830147d64599a5cd27e06b96ebe5ff77ef66d5",
+            "archive_commit": "8ecab1811b98ce74f4e23e085e2549f475bfd5be",
+            "released": "2022-04-28T16:47:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

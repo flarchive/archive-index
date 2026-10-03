@@ -1,0 +1,55 @@
+{
+    "package": "datlechin/flarum-passkey",
+    "upstream": "https://github.com/datlechin/flarum-passkey",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-passkey",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a6188032b4cdf8da05d4c0e7612ec7860fff5e0a",
+            "archive_commit": "4b7b0aa7029ef02e2455f7da8bfd8236b9ab13c2",
+            "released": "2026-05-09T21:29:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b77ace9f38f8e8401efc789a45a582d9b579f39b",
+            "archive_commit": "d7b37185ca4461c19dd01525425fe6627c76e731",
+            "released": "2026-05-09T21:43:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "f38bcf81c3e7158f83f13e9e15b252e8b2e050be",
+            "archive_commit": "95718668b7fd96cfa7d54d82359f16618d81827e",
+            "released": "2026-05-15T09:48:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "abc89ff72cda4a5563ab5f522912a0cb97a4668d",
+            "archive_commit": "0f7f47880fbc98a4413d07ded0d78617b3163ca9",
+            "released": "2026-05-15T09:49:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

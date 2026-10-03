@@ -1,0 +1,19 @@
+{
+    "package": "datlechin/flarum-oauth-envato",
+    "upstream": "https://github.com/datlechin/flarum-oauth-envato",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-oauth-envato",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "4d25582f861896d32d1d852e8fed7e0d1efba317",
+            "archive_commit": "452e887c77865bfaa8d2d030bd94bd38656af984",
+            "released": "2023-08-26T08:34:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

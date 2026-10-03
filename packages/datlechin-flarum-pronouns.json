@@ -1,0 +1,19 @@
+{
+    "package": "datlechin/flarum-pronouns",
+    "upstream": "https://github.com/datlechin/flarum-pronouns",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-pronouns",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f90f0098db5aa2a6405c6372a2e52ca477231a44",
+            "archive_commit": "6917e1264b93083385d4fccb876de936b6ae9380",
+            "released": "2021-12-26T16:46:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "datlechin/flarum-discussion-count",
+    "upstream": "https://github.com/datlechin/flarum-discussion-count",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-discussion-count",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b0184faefd45b6e36dbb73d7fbbb397085052107",
+            "archive_commit": "e590c971c13c354d0791646d41775eced1e6d814",
+            "released": "2022-06-27T05:44:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "716f121dff84fbeee8bf6befaeed5482bbee85fa",
+            "archive_commit": "c930b0a526390e330d15b1e00facd75cee0eb88c",
+            "released": "2026-02-24T09:28:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

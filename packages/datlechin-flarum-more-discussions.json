@@ -1,0 +1,55 @@
+{
+    "package": "datlechin/flarum-more-discussions",
+    "upstream": "https://github.com/flatension/more-discussions",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-more-discussions",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b56178bbed8dc4fbb407c4a894ff31d779d9efe0",
+            "archive_commit": "211500565ae1478feece468e38314314e679e023",
+            "released": "2022-07-07T13:15:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "31e99007d490906f7f8d70d243c6960cbba88e8b",
+            "archive_commit": "7d9c155e6b719750c5840637695deb829e83ce7f",
+            "released": "2023-04-03T05:28:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "266846d2122ca3af2590ae997ecad4c389838e93",
+            "archive_commit": "9a9f236597fa39e96a2230fd8b1d811f42aa723f",
+            "released": "2023-11-10T11:59:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "433d3125de677cc7ab06472ffa2c18a5beb612e7",
+            "archive_commit": "68e9b6d77972fa28b8a8f5584f05cc2a14dfb2a3",
+            "released": "2026-02-24T10:29:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "datlechin/flarum-mermaid",
+    "upstream": "https://github.com/datlechin/flarum-mermaid",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-mermaid",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3fcfad2f093135f33f8ed8514622f8bd7efe57c4",
+            "archive_commit": "26b084702b9ca42d84bbd91afa5f6ec1d75f0f4a",
+            "released": "2026-05-10T09:23:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "eba0ea770b757fe0686b6dc40c362943ff49e6a1",
+            "archive_commit": "5d573f6411daca658db81fbddd36f3834c33ee26",
+            "released": "2026-07-13T15:06:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

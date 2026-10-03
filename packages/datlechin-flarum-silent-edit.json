@@ -1,0 +1,31 @@
+{
+    "package": "datlechin/flarum-silent-edit",
+    "upstream": "https://github.com/datlechin/flarum-silent-edit",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-silent-edit",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "aca12380648d06d79787ad3d781ca8ecbc36c6cb",
+            "archive_commit": "546391a1f72f6384ca462cb5b76c73d3777da57c",
+            "released": "2022-02-09T01:30:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "78cb07e66a9ad60909d7c6d7945968db86b7dff2",
+            "archive_commit": "a5b578b444676b33b396f96bfbe6807770162e56",
+            "released": "2026-02-24T10:19:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

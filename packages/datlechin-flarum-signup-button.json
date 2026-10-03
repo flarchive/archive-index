@@ -1,0 +1,43 @@
+{
+    "package": "datlechin/flarum-signup-button",
+    "upstream": "https://github.com/flatension/signup-button",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-signup-button",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "e24719f33584eb4335b689d84aa8456099ea0649",
+            "archive_commit": "6495501aa0f8996ca9e9ae0cc520ee8128c2313a",
+            "released": "2021-12-30T09:19:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "28fbf150fb2934beb4c05e29da615392541b6251",
+            "archive_commit": "13dff718e5f378c0142dd64712bdee18d97a7fcc",
+            "released": "2022-10-24T02:53:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "51f3400cd3f0cf756ca0d056a3d8ad4ecff72fee",
+            "archive_commit": "b9cee365744d793165f05df1cff53e7f8a7bb9c0",
+            "released": "2026-02-24T10:21:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

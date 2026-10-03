@@ -1,0 +1,43 @@
+{
+    "package": "datlechin/flarum-keyboard-shortcuts",
+    "upstream": "https://github.com/flatension/keyboard-shortcuts",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-keyboard-shortcuts",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "41c14982c6208066fface5930a630600758d21c5",
+            "archive_commit": "c19ef5a8ddc0856a51f2c6f85e230af46913f377",
+            "released": "2022-01-01T13:05:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "f67499bedcddd9b080e3d2c8674b762174d3860d",
+            "archive_commit": "8f98b957193b724ff6fa9880f17b9dd8b5589656",
+            "released": "2022-01-01T17:10:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b21c0a821013752df1ac6e38508b9c8b24b53373",
+            "archive_commit": "c2a433875aedc441c53377c4871eabec1539bc88",
+            "released": "2026-08-26T08:00:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
