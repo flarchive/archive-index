@@ -1,0 +1,43 @@
+{
+    "package": "fruiter/ai-moderation",
+    "upstream": "https://github.com/CNFruiter/flarum-ai-moderation",
+    "packagistUrl": "https://packagist.org/packages/fruiter/ai-moderation",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b7e22c9a8feb635f4e9d60351a47ba4f838cdce9",
+            "archive_commit": "f4efd63dccf930db9a4fbe496b5bfcae6b70b1dd",
+            "released": "2026-08-16T06:41:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "ae81ece614acbbe0a96961014ba9d643f86a3a4e",
+            "archive_commit": "11d26d0e610af363beecde0c0b15333759f0c750",
+            "released": "2026-08-16T07:51:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "6e18a3ebb80386a777c0f6c556264654d8e2d4fa",
+            "archive_commit": "61415ee89fd2d9eefaef4d94d0e4da719ca8bc1a",
+            "released": "2026-08-16T08:00:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

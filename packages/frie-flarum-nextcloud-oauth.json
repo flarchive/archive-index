@@ -1,0 +1,31 @@
+{
+    "package": "frie/flarum-nextcloud-oauth",
+    "upstream": "https://github.com/frie/flarum-nextcloud-oauth",
+    "packagistUrl": "https://packagist.org/packages/frie/flarum-nextcloud-oauth",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "82478012bfcb91edc856c233783aede881a90d3f",
+            "archive_commit": "b326e858938a7a884c76bf805062255e3a9ba40a",
+            "released": "2021-08-04T08:40:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "fa6270a2b23389200a0bec3ceb65263aacc3ad2c",
+            "archive_commit": "8a1b3cd960c9f3c2ec3a8b59e0ae8e03c3fe2bbf",
+            "released": "2021-08-05T06:15:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

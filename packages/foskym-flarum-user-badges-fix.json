@@ -1,0 +1,19 @@
+{
+    "package": "foskym/flarum-user-badges-fix",
+    "upstream": "https://github.com/FoskyM/flarum-user-badges-fix",
+    "packagistUrl": "https://packagist.org/packages/foskym/flarum-user-badges-fix",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "3bdce39cf9c7aa8264f5ddabbdc6d871f290fd98",
+            "archive_commit": "25216c353336ba95c6bb561f0d837171a42b9a91",
+            "released": "2024-08-30T11:28:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

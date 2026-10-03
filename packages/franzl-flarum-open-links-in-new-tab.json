@@ -1,0 +1,19 @@
+{
+    "package": "franzl/flarum-open-links-in-new-tab",
+    "upstream": "https://github.com/franzliedke/flarum-open-links-in-new-tab",
+    "packagistUrl": "https://packagist.org/packages/franzl/flarum-open-links-in-new-tab",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "cbf0dff8a3420ff2517cc67d557e8648099feb7d",
+            "archive_commit": "8192114988604b239b43ee4224eede3b7b8cd4e0",
+            "released": "2019-09-26T22:48:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

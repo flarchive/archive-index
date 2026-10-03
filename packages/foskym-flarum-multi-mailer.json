@@ -1,0 +1,43 @@
+{
+    "package": "foskym/flarum-multi-mailer",
+    "upstream": "https://github.com/FoskyM/flarum-multi-mailer",
+    "packagistUrl": "https://packagist.org/packages/foskym/flarum-multi-mailer",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "77a98c793a552e0a9dfd830c075145f6c1aa3eb7",
+            "archive_commit": "a6f3de51a906482d3568505e08db4017c085b2dc",
+            "released": "2024-07-19T04:51:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "08f7a02d1bbb91e7d3e83ce22a73bb12723b3ac7",
+            "archive_commit": "179f38d2b3af862a616da1fc3478034e562457a9",
+            "released": "2024-07-19T05:04:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "231809dd2e4977ac2b3a97d9cc267552356efce3",
+            "archive_commit": "e4da3889c23fb02eb5f76ebe37aeaee3b15c817b",
+            "released": "2024-08-29T14:33:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

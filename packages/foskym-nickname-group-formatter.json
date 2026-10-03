@@ -1,0 +1,91 @@
+{
+    "package": "foskym/nickname-group-formatter",
+    "upstream": "https://github.com/FoskyM/flarum-nickname-group-formatter",
+    "packagistUrl": "https://packagist.org/packages/foskym/nickname-group-formatter",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6e63f44a9468c9de1fd15468a685a479ebf2390f",
+            "archive_commit": "d676f7c62fb2e3bcdf0dc13ff092e1fdc922151a",
+            "released": "2023-09-09T08:14:54+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0816c8eb0bdf03d60b484df2a50e1574e3c8feea",
+            "archive_commit": "ddd47bc3e3f09cbb6fe6fa3e0526ed2320966ea9",
+            "released": "2023-09-09T08:33:36+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "c3e558137ea7df223f49884acaaea695622455a3",
+            "archive_commit": "257cf13caae9d8e2550156b85be2b6009521dd9e",
+            "released": "2023-09-09T10:56:53+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "30fbac4b9d11ad9703ffa25e8032b346a0e521a5",
+            "archive_commit": "7ffe286e65770df00c26b9827ed727d9209ffbe0",
+            "released": "2023-09-24T05:54:27+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "258c1d5652ece512e7787b2d2e134a47d881f5f5",
+            "archive_commit": "ddb07629c0ac0b55de31ad8a8bbfa9b73b383342",
+            "released": "2023-09-24T07:21:35+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "d747f6f8928ff8a5a1545aefd6bf4c9a9d6444e0",
+            "archive_commit": "b4d61178a0d2f591b510869a1ad20faf1e732017",
+            "released": "2023-09-24T07:43:44+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "52260842baec2b046276eb14b1ccaf70ba3ac3f2",
+            "archive_commit": "6a42d2c313dd122f99638f05e78bdf3b243ed2d1",
+            "released": "2023-09-27T05:17:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

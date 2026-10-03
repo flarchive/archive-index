@@ -1,0 +1,31 @@
+{
+    "package": "funkeye/custom-welcome-hero",
+    "upstream": "https://github.com/funkeye/custom-welcome-hero",
+    "packagistUrl": "https://packagist.org/packages/funkeye/custom-welcome-hero",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f60d978046549b70f06191c7eeaf886b627b8348",
+            "archive_commit": "b7e8bd0f847220bc72a307cc341aad3570868499",
+            "released": "2020-08-10T15:58:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "7b2e9363d0adbdee1623090e4dd4378626423fad",
+            "archive_commit": "ba67647cce5ecefaa301823975834f69f3ebf503",
+            "released": "2020-08-15T21:53:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

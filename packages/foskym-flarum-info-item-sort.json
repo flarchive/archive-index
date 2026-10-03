@@ -1,0 +1,19 @@
+{
+    "package": "foskym/flarum-info-item-sort",
+    "upstream": "https://github.com/FoskyM/flarum-info-item-sort",
+    "packagistUrl": "https://packagist.org/packages/foskym/flarum-info-item-sort",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c609dcd9e18ff1b391ff421c9bace0a6256c064c",
+            "archive_commit": "05c9244731b99bcf967afee15eb3cf55ec1d9c92",
+            "released": "2024-08-28T16:15:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

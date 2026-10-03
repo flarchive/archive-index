@@ -1,0 +1,19 @@
+{
+    "package": "freeflarum/flarum-arevo-theme",
+    "upstream": "https://github.com/FreeFlarum/flarum-arevo-theme",
+    "packagistUrl": "https://packagist.org/packages/freeflarum/flarum-arevo-theme",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": null,
+            "upstream_commit": "1f8e6a0e800b26f25329d81d311c6db0bb188ff9",
+            "archive_commit": null,
+            "released": "2023-10-06T16:30:44+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

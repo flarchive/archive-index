@@ -1,0 +1,55 @@
+{
+    "package": "foskym/flarum-wechat-official",
+    "upstream": "https://github.com/FoskyM/flarum-wechat-official",
+    "packagistUrl": "https://packagist.org/packages/foskym/flarum-wechat-official",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7d683816c301e3fa38f890f9b6a8c09811521b02",
+            "archive_commit": "55d8b9850867078aab1fe83a1e162299e13ffa81",
+            "released": "2024-07-23T04:30:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "4e10565873d0a580654a6706917adfdeeabba6fb",
+            "archive_commit": "1da0c9ea933fd01e85a0da0e8aa164ec7dff54af",
+            "released": "2024-07-23T07:45:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "c9a82c41a29d5932592e9281696951f7e70aca31",
+            "archive_commit": "10912c888e2a536651bdb6a5c44cdabdc79808e9",
+            "released": "2024-09-17T17:25:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "385eb5e2ebe66e886c936b20005ad93bf96399e4",
+            "archive_commit": "1bb8121ae10bf2f85a711f61499fc39f686cabb1",
+            "released": "2024-09-17T17:36:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

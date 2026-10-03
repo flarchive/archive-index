@@ -1,0 +1,43 @@
+{
+    "package": "foskym/flarum-better-user-directory",
+    "upstream": "https://github.com/FoskyM/flarum-better-user-directory",
+    "packagistUrl": "https://packagist.org/packages/foskym/flarum-better-user-directory",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c4f7a7752f0fe128a65a2e59648d1b1d9ebbc99f",
+            "archive_commit": "d4f5191fbe08ff7e8b84d5bdee97e43d901d614c",
+            "released": "2024-08-28T15:39:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "72654ee6f0e56a391608b22a971aeded93e6d379",
+            "archive_commit": "02f22b0c1d2db35b8b4f144e6a933f7050bbc5e4",
+            "released": "2024-08-29T04:41:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "efeaef1d5eca5a425661b87b090a35e9571a1f7d",
+            "archive_commit": "4170e4a9afd5b05c5f147be09d6571ead597ef1e",
+            "released": "2024-08-29T15:07:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

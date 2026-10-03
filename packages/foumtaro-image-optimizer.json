@@ -1,0 +1,31 @@
+{
+    "package": "foumtaro/image-optimizer",
+    "upstream": "https://github.com/forumtaro/flarum-image-optimizer",
+    "packagistUrl": "https://packagist.org/packages/foumtaro/image-optimizer",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "c5b940580a8238328379f4204201c3fccc235ef1",
+            "archive_commit": "0b0df68832a8b4bc8060eb9af02abf4da5673a56",
+            "released": "2026-05-04T08:41:50+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "6743a59107f42cb43af627c97b0e25b30d5d78d6",
+            "archive_commit": "c40a49891110bff71651cecf15d8625c9c38b67a",
+            "released": "2026-05-04T14:17:58+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
