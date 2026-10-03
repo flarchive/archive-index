@@ -1,0 +1,55 @@
+{
+    "package": "flarum-lang/catalan",
+    "upstream": "https://github.com/flarum-lang/catalan",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/catalan",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e31919604ca92f40a55c57a1d8b9c30b773bb82f",
+            "archive_commit": "2decc0524584331cf1fe02ef841aabf133c2b33a",
+            "released": "2026-09-30T07:27:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "86d7c2aaa88364909e5adb0ed045cd3351e4e706",
+            "archive_commit": "22ee70c9d16f3d641ce27a2acc5aa2ce9a8b992a",
+            "released": "2026-09-30T07:34:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "6e9668c51cb16f67ef2fae120d4cf37fd86dd7ff",
+            "archive_commit": "74f890346c343888d1dad95e2f5e1b6750cc23e8",
+            "released": "2026-04-18T19:49:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "8b034ffaf4ca3ee98d4bc9898ca59e9751ea1761",
+            "archive_commit": "4d19fdc7e42a9b5306bd842303d8a30d9259e105",
+            "released": "2026-05-12T17:22:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

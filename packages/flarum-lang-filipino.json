@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/filipino",
+    "upstream": "https://github.com/flarum-lang/filipino",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/filipino",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "54ad7d4a8816f6b35a0f5ecac7a5ffb1be3cf570",
+            "archive_commit": "bdfba51df4ca64253d841985ea4447830c1e800d",
+            "released": "2026-09-30T07:33:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "f6f664b02eac626b1052548b539296f8db412f9d",
+            "archive_commit": "ad46f07e56fbfecdaaef2eae4ab938f750f97e08",
+            "released": "2026-09-30T07:40:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

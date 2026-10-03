@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/danish",
+    "upstream": "https://github.com/flarum-lang/danish",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/danish",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e5c96f756bfd01916d26d6087f0cb65dd7122566",
+            "archive_commit": "563e1b18af15072ec4a209cbaedf65286b76ca95",
+            "released": "2026-09-30T07:29:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "bcb5cbbaa8acc35d62d1c0e8c3ca748e95168653",
+            "archive_commit": "13836a184fa0f6d67f00ac7482f6bbc84b0d1a70",
+            "released": "2026-09-30T07:35:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

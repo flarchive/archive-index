@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/croatian",
+    "upstream": "https://github.com/flarum-lang/croatian",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/croatian",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "24c79cc00baf49216df94926ab7273615b4303bf",
+            "archive_commit": "3df3cea2e9d17d293b0aad8a07fda416fd18b579",
+            "released": "2026-09-30T07:36:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "464c4d68d4078614bed3d4ee74622ff4d1f9fba0",
+            "archive_commit": "865f61b00d70727f0e98ba44c9140fc91a8ba23e",
+            "released": "2026-09-30T07:42:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/belarusian",
+    "upstream": "https://github.com/flarum-lang/belarusian",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/belarusian",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "166f176c61da43b44f8802f067ee30b6dda6d244",
+            "archive_commit": "9bb0fe317d1df2d7f67f51f5fd490c405ae267de",
+            "released": "2026-09-30T07:25:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "444031f4ab4bd8356463493d9bc111e39c907bd5",
+            "archive_commit": "45c00b5f635a260ce1547fd7f8111d7139e43c5b",
+            "released": "2026-09-30T07:31:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

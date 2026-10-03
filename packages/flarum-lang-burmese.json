@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/burmese",
+    "upstream": "https://github.com/flarum-lang/burmese",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/burmese",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "07cb245ac20480125026ecb9639ede3f73a243df",
+            "archive_commit": "a545b9986f2a70c54eaa494c290b3919656951fe",
+            "released": "2026-09-30T07:45:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c011bbd8796d9e7e8554cfbd23e9ecd102baeb77",
+            "archive_commit": "6b8c690f9fdc671a54c810e71c99b52a36c03a6d",
+            "released": "2026-09-30T07:50:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

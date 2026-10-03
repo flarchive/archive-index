@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/estonian",
+    "upstream": "https://github.com/flarum-lang/estonian",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/estonian",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2c1cd30935ac265b9d0ed205fdc2c3212c3a29b8",
+            "archive_commit": "0a9acdeff65d30fd5ab050469129430d4e089fd4",
+            "released": "2026-09-30T07:31:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "e8fa0cc0a8c52f79a323e4de1afdcbf6e3c6f755",
+            "archive_commit": "1193d22d3dd276652f14903ad5c159788133b9c7",
+            "released": "2026-09-30T07:38:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
