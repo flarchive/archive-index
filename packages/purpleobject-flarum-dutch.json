@@ -1,0 +1,43 @@
+{
+    "package": "purpleobject/flarum-dutch",
+    "upstream": "https://github.com/PurpleObject/flarum-dutch",
+    "packagistUrl": "https://packagist.org/packages/purpleobject/flarum-dutch",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "648aed6b737b3a13e38743089a2e102c8d96e85e",
+            "archive_commit": "8e89ed345ecd9d00e7cbfd50c0bb72dbf3e4ec1c",
+            "released": "2015-11-05T13:59:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "f2e4bc21abbc5dfc82c667fb170722b1264d3192",
+            "archive_commit": "10116a641cb967a3dfb268456f4ce1f68ebea66a",
+            "released": "2017-09-28T21:40:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "b75cbd02e30fd4da32874e309a50eaf017db0de8",
+            "archive_commit": "d44a4c931605069b6bc511f47ea1c787b34b9e80",
+            "released": "2017-09-28T21:59:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

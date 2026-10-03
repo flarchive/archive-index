@@ -1,0 +1,55 @@
+{
+    "package": "push-edx/flarum-ext-pusher",
+    "upstream": "https://github.com/Push-EDX/flarum-ext-pusher",
+    "packagistUrl": "https://packagist.org/packages/push-edx/flarum-ext-pusher",
+    "versions": [
+        {
+            "version": "0.1.1-beta.5",
+            "tag": "archive/v0.1.1-beta.5",
+            "upstream_commit": "7a5befe058ce2beb455c6f3c5023263b4da2e00f",
+            "archive_commit": "09d257a4704be9abdab84277cfcb7b35af8af5c0",
+            "released": "2016-05-14T02:36:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2-beta.5",
+            "tag": "archive/v0.1.2-beta.5",
+            "upstream_commit": "a823bcb53dfecb560a9f656d86bfdb1b8233ac9f",
+            "archive_commit": "12b17582ed8c6ef980ef94fa3deb0e1ae8ba3557",
+            "released": "2016-05-14T02:43:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": "archive/v0.1.0-beta.3",
+            "upstream_commit": "b64f86fd7c06701656ca5dd92185e3f5003cb24c",
+            "archive_commit": "b1c26763aada1bf4b22b004f1db07dd93f953c98",
+            "released": "2015-11-02T23:33:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "archive/v0.1.0-beta.5",
+            "upstream_commit": "0c5ecd7c541ef3411a1f3ec0dc414ed85ba9d777",
+            "archive_commit": "0bbb26deed6f1f7915e98233cda0a511a74a4c69",
+            "released": "2016-03-29T08:18:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

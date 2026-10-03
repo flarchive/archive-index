@@ -1,0 +1,19 @@
+{
+    "package": "prm/trade-feedback",
+    "upstream": "https://github.com/smmpanelscripts1/prm-trade-feedback",
+    "packagistUrl": "https://packagist.org/packages/prm/trade-feedback",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "458b09e45643d9ef9fae2e87eb4e02c9031b8ee9",
+            "archive_commit": "7af700df2ca170618c4e67a3e4c2df3757e2f103",
+            "released": "2026-09-17T18:56:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

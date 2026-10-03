@@ -1,0 +1,19 @@
+{
+    "package": "prm/forum-activity",
+    "upstream": "https://github.com/smmpanelscripts1/prm-forum-activity",
+    "packagistUrl": "https://packagist.org/packages/prm/forum-activity",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7bf0e11b1dec375bf7c3d466e2672069d70a7431",
+            "archive_commit": "efed5c4cd138e97e93cc3f5034bcd39afd5fdebd",
+            "released": "2026-09-17T18:55:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

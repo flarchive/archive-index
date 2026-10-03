@@ -1,0 +1,19 @@
+{
+    "package": "prm/sleek-dark",
+    "upstream": "https://github.com/smmpanelscripts1/prm-sleek-dark",
+    "packagistUrl": "https://packagist.org/packages/prm/sleek-dark",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "8575e336a4451fbc9edb579bc2b2edb7f383929a",
+            "archive_commit": "3462eed2bc115f761456ac8cd4860996c060c6bb",
+            "released": "2026-09-17T19:02:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

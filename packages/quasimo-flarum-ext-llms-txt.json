@@ -1,0 +1,103 @@
+{
+    "package": "quasimo/flarum-ext-llms-txt",
+    "upstream": "https://github.com/Quasimo/flarum-ext-llms-txt",
+    "packagistUrl": "https://packagist.org/packages/quasimo/flarum-ext-llms-txt",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "227af14e54f5c250368fd8e172f23a72c5b8abff",
+            "archive_commit": "99e1b01e9bfd6ad19b9da25f134d1aed0738187b",
+            "released": "2026-03-07T16:19:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "227af14e54f5c250368fd8e172f23a72c5b8abff",
+            "archive_commit": "78f8e3dbf0a0a14a5076825fb9b2f75ade0894bc",
+            "released": "2026-03-07T16:19:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "2b90c474fa18296411bc8857e3feb2cd628c19b1",
+            "archive_commit": "5cdbcb6437ae5f8d5aa058d318e7c31d8c6fb347",
+            "released": "2026-04-04T18:03:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "25f58b79b02354ab173d1b5e8f2aca6c9d4bbe6e",
+            "archive_commit": "e2324b76d741ea777a176ce8523e7ae96e5654b2",
+            "released": "2026-04-05T06:13:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "e6d0bd5674cb4dae09da08a7245dc55f69ea688a",
+            "archive_commit": "69fd6c6567991af16d36ce677b14c16f4e18321f",
+            "released": "2026-04-05T09:23:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.4",
+            "tag": "archive/v2.0.4",
+            "upstream_commit": "f1455f8f235a8ad34d367b777cef00218d96583c",
+            "archive_commit": "404923019317c779387cfbddaa45e01535ab7e44",
+            "released": "2026-04-05T12:29:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.5",
+            "tag": "archive/v2.0.5",
+            "upstream_commit": "9d1e3061e00b9581658efd1701c7694f5469b5a2",
+            "archive_commit": "6e5a08b76b1e0fd7f529b90728bf2ea05c64680a",
+            "released": "2026-04-05T17:30:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.6",
+            "tag": "archive/v2.0.6",
+            "upstream_commit": "097d85921edbcb59badcfb35420f496e37a3878e",
+            "archive_commit": "a9b1d1821a594f3f2e075f3d7780288977473f82",
+            "released": "2026-04-05T19:08:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

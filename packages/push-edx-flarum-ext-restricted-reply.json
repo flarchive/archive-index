@@ -1,0 +1,55 @@
+{
+    "package": "push-edx/flarum-ext-restricted-reply",
+    "upstream": "https://github.com/Push-EDX/flarum-ext-restricted-reply",
+    "packagistUrl": "https://packagist.org/packages/push-edx/flarum-ext-restricted-reply",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "30f0bc64e09c4934c763191050c74701be479886",
+            "archive_commit": "491e54f9d8762ce90f2e9f36bfd27645e1f18dc5",
+            "released": "2016-05-13T18:42:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "a08d17cf6e2dfa55fb95c11258106c9bf623f1a6",
+            "archive_commit": "f455ed2d40760ae428b651d8d28ea2e983f236ed",
+            "released": "2016-05-14T12:33:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "39da5b7beca154d7bbdbf064d9847148c897a8ba",
+            "archive_commit": "e598c05da6cac2270e8ba89969221ea8b4b5459c",
+            "released": "2017-03-02T01:15:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "4e8d3b213f2454203b13a5864d3337ca6a2ba5b2",
+            "archive_commit": "296d30565d05715981c139a8024c9e6161c938c5",
+            "released": "2017-03-02T01:47:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

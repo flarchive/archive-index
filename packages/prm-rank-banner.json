@@ -1,0 +1,19 @@
+{
+    "package": "prm/rank-banner",
+    "upstream": "https://github.com/smmpanelscripts1/prm-rank-banner",
+    "packagistUrl": "https://packagist.org/packages/prm/rank-banner",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ca9741298c28026ee2c001e2a900a70e148429c4",
+            "archive_commit": "8ec02fa5c1b78a1aab630cb7be7b098953d6493d",
+            "released": "2026-09-17T18:56:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "proxytracer/flarum-proxytracer",
+    "upstream": "https://github.com/ProxyTracer/flarum-proxytracer",
+    "packagistUrl": "https://packagist.org/packages/proxytracer/flarum-proxytracer",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "80837c5b2af05b41e0ed79c09b67315475751933",
+            "archive_commit": "576815d42f2927bc2b85bf04a268421334eebd52",
+            "released": "2026-04-14T20:56:27+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "74fe198a49a72cf6c2924d11bbb2093d3abf7e5b",
+            "archive_commit": "b4ab090a5661a8af52b46f9a56107f04bc0829b9",
+            "released": "2026-07-27T17:19:15+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "689ea129a980ecea5743a98b55b36100c7d8df5d",
+            "archive_commit": "31ec42b95180add6d98a9aca8264076c0370d0f3",
+            "released": "2026-07-27T18:22:13+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "prm/security",
+    "upstream": "https://github.com/smmpanelscripts1/prm-security",
+    "packagistUrl": "https://packagist.org/packages/prm/security",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "8ee38b448ebb720acff31bc9b429de43245be0c4",
+            "archive_commit": "ad8469832d93c98eb0b6c38b9641aa50d5a405b3",
+            "released": "2026-09-18T16:34:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

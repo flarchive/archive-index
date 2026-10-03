@@ -1,0 +1,19 @@
+{
+    "package": "prm/moderation",
+    "upstream": "https://github.com/smmpanelscripts1/prm-moderation",
+    "packagistUrl": "https://packagist.org/packages/prm/moderation",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "959cab899337c931116d1c7f3fd2fb39187c50c0",
+            "archive_commit": "534de5835d735a50bc7c465895efa144c977f6c1",
+            "released": "2026-09-17T18:55:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

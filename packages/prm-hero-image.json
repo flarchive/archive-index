@@ -1,0 +1,19 @@
+{
+    "package": "prm/hero-image",
+    "upstream": "https://github.com/smmpanelscripts1/prm-hero-image",
+    "packagistUrl": "https://packagist.org/packages/prm/hero-image",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "509bf6e7dae2c4befd18dc907dac929de9ee406e",
+            "archive_commit": "aabba55f31df0a4cf30be23ad03ccf24826779ba",
+            "released": "2026-09-17T18:55:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

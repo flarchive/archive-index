@@ -1,0 +1,19 @@
+{
+    "package": "prm/messages",
+    "upstream": "https://github.com/smmpanelscripts1/prm-messages",
+    "packagistUrl": "https://packagist.org/packages/prm/messages",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "85b9d4e7bacffb9b59a562fc2fba9cb420d1d2e9",
+            "archive_commit": "4661519814733ebd88e270fb621fb63226987667",
+            "released": "2026-09-17T18:55:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
