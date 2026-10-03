@@ -1,0 +1,43 @@
+{
+    "package": "ralkage/flarum-ext-civility-filter",
+    "upstream": "https://github.com/Ralkage/flarum-ext-civility-filter",
+    "packagistUrl": "https://packagist.org/packages/ralkage/flarum-ext-civility-filter",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a25cdc6463b41c9777b2367bbb42726b29e70640",
+            "archive_commit": "05864070d26e7cc3e9e30079c192f8fdfee1b7a8",
+            "released": "2026-03-22T16:46:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "6546902f454b8a75694fa038fb219fd71a9c6931",
+            "archive_commit": "cc2c2573e1bae7bab97df10e05a1966965db3fef",
+            "released": "2026-03-22T19:05:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.8",
+            "tag": "archive/v2.0.0-beta.8",
+            "upstream_commit": "0c831def60b3220f5618cb21e7d9c480de064eea",
+            "archive_commit": "b12defbbad91e10ef97d9703fb27ab2dd5b99451",
+            "released": "2026-03-22T16:45:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

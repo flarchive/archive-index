@@ -1,0 +1,43 @@
+{
+    "package": "ralkage/flarum-ext-search",
+    "upstream": "https://github.com/Ralkage/flarum-ext-search",
+    "packagistUrl": "https://packagist.org/packages/ralkage/flarum-ext-search",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6947c073189eeebb52eac0e09728ce3d63c3be1b",
+            "archive_commit": "831997e83da69506f6b4c8a31b491e290e2395f6",
+            "released": "2026-06-15T20:21:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "e049080e90f2a25c5495ddf894837a89c76f7ed0",
+            "archive_commit": "15d21aeace6f054aaa59bbd68140bd30d653ae1a",
+            "released": "2026-06-15T21:48:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "bb96f99146bf301ecc962fb0a205b416c634eadc",
+            "archive_commit": "ee2653ae1fa2d0a9ebb6a74e7fcb74d75b0fd16d",
+            "released": "2026-06-15T22:34:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

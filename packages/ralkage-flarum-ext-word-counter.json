@@ -1,0 +1,31 @@
+{
+    "package": "ralkage/flarum-ext-word-counter",
+    "upstream": "https://github.com/Ralkage/flarum-ext-word-counter",
+    "packagistUrl": "https://packagist.org/packages/ralkage/flarum-ext-word-counter",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ea5ebe2e49d5864c548a13da8fc0d186d01746b5",
+            "archive_commit": "bc5376494e616b1b5eddccf800cab1c791e8bce1",
+            "released": "2026-03-27T17:43:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.8",
+            "tag": "archive/v2.0.0-beta.8",
+            "upstream_commit": "863d332d5b0f571a95f862e04192d9a7da6778f2",
+            "archive_commit": "796f7c2c146087b2b1fbcadd0b97f6437a207ab0",
+            "released": "2026-03-27T17:43:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

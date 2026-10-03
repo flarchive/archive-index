@@ -1,0 +1,19 @@
+{
+    "package": "qx-css/rain",
+    "upstream": "https://github.com/qx-css/rain",
+    "packagistUrl": "https://packagist.org/packages/qx-css/rain",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d17e7bbc155a30578e77e92f1eb8d17dad6bc35d",
+            "archive_commit": "8e4f3f39529992fdf41723b14d49d11f28f0e34d",
+            "released": "2026-01-16T12:40:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

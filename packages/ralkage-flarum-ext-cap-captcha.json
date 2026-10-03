@@ -1,0 +1,43 @@
+{
+    "package": "ralkage/flarum-ext-cap-captcha",
+    "upstream": "https://github.com/Ralkage/flarum-ext-cap-captcha",
+    "packagistUrl": "https://packagist.org/packages/ralkage/flarum-ext-cap-captcha",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4c763f9cba1508b2ad62f4bfb30a590cdd7d1ebe",
+            "archive_commit": "ab456d0f9df2096a7dc6eba4791b5595be3467cc",
+            "released": "2026-03-22T23:05:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "fc81029920f3e44aca3556f4854ff79f0e5d51f9",
+            "archive_commit": "53a2afa5b106c3775f8c32125cad631445a45fdb",
+            "released": "2026-03-23T00:59:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.8",
+            "tag": "archive/v2.0.0-beta.8",
+            "upstream_commit": "1aaf6af1b6df7f6d1693adcb51ff16e5aa5958ab",
+            "archive_commit": "eb3f8af35d6204353a1bae6f57fb99420263fb13",
+            "released": "2026-03-23T00:59:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

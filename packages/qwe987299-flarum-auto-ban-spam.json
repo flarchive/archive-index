@@ -1,0 +1,31 @@
+{
+    "package": "qwe987299/flarum-auto-ban-spam",
+    "upstream": "https://github.com/qwe987299/flarum-auto-ban-spam",
+    "packagistUrl": "https://packagist.org/packages/qwe987299/flarum-auto-ban-spam",
+    "versions": [
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "b5e212cafd2c9b8d58eff227e61e3476b1f5dd04",
+            "archive_commit": "ffe0e5cd6349920b36fef9f44bb529caa64a68de",
+            "released": "2026-07-24T00:32:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "de3b874688b113f2cb114c8e8f1fd343db8bbffe",
+            "archive_commit": "5928f73ae56a6cebd75aa4484cd97df09314b70e",
+            "released": "2026-07-30T12:22:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

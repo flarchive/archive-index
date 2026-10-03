@@ -1,0 +1,31 @@
+{
+    "package": "ramesh-dada/flarum-medium-zoom",
+    "upstream": "https://github.com/ramesh-dada/flarum-medium-zoom",
+    "packagistUrl": "https://packagist.org/packages/ramesh-dada/flarum-medium-zoom",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3fcc06babbdb890962347a27c132861f6549bfd4",
+            "archive_commit": "9e4c7e0e7a0c0a4b07467821d221d2e3b65ef220",
+            "released": "2021-09-13T07:43:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "f98e5b0606dd7d059aa9d8b067b43e5f47509748",
+            "archive_commit": "b38817c6458114ff5d092d2f80d5da176043dffc",
+            "released": "2021-09-13T07:52:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

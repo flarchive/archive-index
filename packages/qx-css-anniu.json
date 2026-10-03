@@ -1,0 +1,19 @@
+{
+    "package": "qx-css/anniu",
+    "upstream": "https://github.com/qx-css/anniu",
+    "packagistUrl": "https://packagist.org/packages/qx-css/anniu",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "964898640cf11d77946c4ae54fdf7581970b76e4",
+            "archive_commit": "a14034bf20556900de774d3f9583932a0ad17656",
+            "released": "2026-01-17T04:36:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "ralkage/flarum-ext-account-lockout",
+    "upstream": "https://github.com/Ralkage/flarum-ext-account-lockout",
+    "packagistUrl": "https://packagist.org/packages/ralkage/flarum-ext-account-lockout",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f300dbe4d7f085691d6f454be79c29fe01e503f8",
+            "archive_commit": "b8a9c32ff8120351f15649f58c86a75f487108ba",
+            "released": "2026-03-28T20:04:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.8",
+            "tag": "archive/v2.0.0-beta.8",
+            "upstream_commit": "1c8efa60b6b169068d7a2f13e249bf689d77e273",
+            "archive_commit": "32bb66a109474131aa7d793af1cfd77df1469b88",
+            "released": "2026-03-28T20:05:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

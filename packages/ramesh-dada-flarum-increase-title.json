@@ -1,0 +1,19 @@
+{
+    "package": "ramesh-dada/flarum-increase-title",
+    "upstream": "https://github.com/ramesh-dada/flarum-increase-title",
+    "packagistUrl": "https://packagist.org/packages/ramesh-dada/flarum-increase-title",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1f815217667847af9f6acbc6e04737bef79aafda",
+            "archive_commit": "b6bccd3a589b7428ba7decaeb17835a3dc6b2524",
+            "released": "2021-06-08T03:19:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

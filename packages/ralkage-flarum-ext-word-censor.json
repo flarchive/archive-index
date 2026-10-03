@@ -1,0 +1,31 @@
+{
+    "package": "ralkage/flarum-ext-word-censor",
+    "upstream": "https://github.com/Ralkage/flarum-ext-word-censor",
+    "packagistUrl": "https://packagist.org/packages/ralkage/flarum-ext-word-censor",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3526ec4a4f05efc59b4545e642067256b2d09e7d",
+            "archive_commit": "687f4cbae4447909eff377edbfede3f1181a7e2e",
+            "released": "2026-03-21T17:57:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.8",
+            "tag": "archive/v2.0.0-beta.8",
+            "upstream_commit": "3a3b63af239be1cf55826e636920763455a67539",
+            "archive_commit": "8edf0293b77618700be63709bb0bde4340b1718f",
+            "released": "2026-03-21T23:57:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

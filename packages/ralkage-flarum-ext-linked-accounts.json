@@ -1,0 +1,31 @@
+{
+    "package": "ralkage/flarum-ext-linked-accounts",
+    "upstream": "https://github.com/Ralkage/flarum-ext-linked-accounts",
+    "packagistUrl": "https://packagist.org/packages/ralkage/flarum-ext-linked-accounts",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b870905390c13c95c1eb88c931b63449011d5fa6",
+            "archive_commit": "107970c1b4fa162a0cc1045ad0ec6f6f4dae2ba8",
+            "released": "2026-03-24T01:38:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.8",
+            "tag": "archive/v2.0.0-beta.8",
+            "upstream_commit": "f1a8c7f9815a46b83052d005e6a2bba042e28355",
+            "archive_commit": "e86e436144160f7bf7d8ce1f62b4c5da64d98fce",
+            "released": "2026-03-24T01:31:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
