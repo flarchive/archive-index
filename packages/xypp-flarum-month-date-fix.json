@@ -1,0 +1,19 @@
+{
+    "package": "xypp/flarum-month-date-fix",
+    "upstream": "https://github.com/zxy19/flarum-month-date-fix",
+    "packagistUrl": "https://packagist.org/packages/xypp/flarum-month-date-fix",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a275647789369aae13a3803898ceed9add3b292b",
+            "archive_commit": "c021e3fe27b1dd8281fa8306057c58a56bec0377",
+            "released": "2024-08-28T18:27:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

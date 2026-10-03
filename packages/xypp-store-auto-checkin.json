@@ -1,0 +1,19 @@
+{
+    "package": "xypp/store-auto-checkin",
+    "upstream": "https://github.com/zxy19/flarum-store-auto-checkin",
+    "packagistUrl": "https://packagist.org/packages/xypp/store-auto-checkin",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "76c9c98c6214f3f087b2375957c72917ed6c26dd",
+            "archive_commit": "fcc4facb326fbed90514b2150e4a2b13dc386510",
+            "released": "2024-07-13T14:46:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

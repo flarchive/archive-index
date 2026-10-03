@@ -1,0 +1,43 @@
+{
+    "package": "xypp/flarum-custom-hide-tags",
+    "upstream": "https://github.com/zxy19/flarum-custom-hide-tags",
+    "packagistUrl": "https://packagist.org/packages/xypp/flarum-custom-hide-tags",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "be7a1c5e84ea7277758da0fdbd8b3193fdd99841",
+            "archive_commit": "947570c69668f312279a8d7d92739694fc4f1da2",
+            "released": "2024-10-04T18:24:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8cea76a7a5e32226d4e585ee9adc8f14e48afb5b",
+            "archive_commit": "25df6179b94a146ed5689ff2544815b3e5081f5f",
+            "released": "2024-10-04T18:28:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "7d389533710a5b43c584b515318e3ed435f30bbd",
+            "archive_commit": "b6549edd1a8149c517da21068bb8afc0f3b68822",
+            "released": "2024-10-05T07:03:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

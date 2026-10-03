@@ -1,0 +1,19 @@
+{
+    "package": "xypp/collector-view-history",
+    "upstream": "https://github.com/zxy19/collector-view-history",
+    "packagistUrl": "https://packagist.org/packages/xypp/collector-view-history",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9a64a0c1b45479ad5a96bc8b649f53f560b3ef86",
+            "archive_commit": "05632de58e7ab36266ffb924ba22af69978ae988",
+            "released": "2024-09-19T15:40:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

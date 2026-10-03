@@ -1,0 +1,91 @@
+{
+    "package": "xypp/sticky-card",
+    "upstream": "https://github.com/zxy19/flarum-sticky-card",
+    "packagistUrl": "https://packagist.org/packages/xypp/sticky-card",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6d506ddabcc72ce4b0c1824649389a83edb82b47",
+            "archive_commit": "05a8f0fe73ee6d31fa005544c8779080f41f9f7e",
+            "released": "2024-07-09T17:42:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "c33aa3656a0e698c1c22e76010ae350b2ba4b1de",
+            "archive_commit": "dc8a49dc88eaab43ced5d758b406b2ae700f9739",
+            "released": "2024-07-10T16:45:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "4514d3aae56ff1ea068c01642a0018d4b7cf1e50",
+            "archive_commit": "4d82c165a088f5362ac0285da53e1419ab7d42cb",
+            "released": "2024-07-11T06:41:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "101bad4f3cd474aae3e7906f718838246112b34e",
+            "archive_commit": "301f525ea76a8aaa5eece160ce3b562c333ec247",
+            "released": "2024-07-11T14:51:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "654e6ebcd9d1a906306df37fcbf92921d964201b",
+            "archive_commit": "98205199dd6eecbea3dffa401854fc8e38f468ba",
+            "released": "2024-07-13T14:36:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "182914799f907487fc17fc426444b45f25b472ed",
+            "archive_commit": "a352188c1ed4aa24559c1767121046982ce26051",
+            "released": "2024-08-03T09:20:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "e181e63314a8eb14a3be8e25de05db1e81e44b81",
+            "archive_commit": "de5eb17b06b0699d69e90279700b74bc14adb516",
+            "released": "2024-10-08T12:52:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "xypp/store-group",
+    "upstream": "https://github.com/zxy19/flarum-store-group",
+    "packagistUrl": "https://packagist.org/packages/xypp/store-group",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2dd02782bc09c47a0d95cb6620b11a0bbb011a50",
+            "archive_commit": "c48bb881d73892c0d69bb68ef0400e517250351d",
+            "released": "2024-07-13T15:03:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b4f49aaac02f1e1bba23e1d536003ce6b93eb52f",
+            "archive_commit": "70bd512c5c3dd667379312b8e7edd7ccabff1069",
+            "released": "2024-07-15T14:12:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "40c66526903de5860619cb5ea45b65834209d049",
+            "archive_commit": "b084ec94e42c766274467f9265f759b3a9339cd5",
+            "released": "2024-07-15T14:37:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

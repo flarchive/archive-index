@@ -1,0 +1,31 @@
+{
+    "package": "xypp/flarum-qqwx-redirect-page",
+    "upstream": "https://github.com/zxy19/flarum-qqwx-redirect-page",
+    "packagistUrl": "https://packagist.org/packages/xypp/flarum-qqwx-redirect-page",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "7385e140d39cf1381f4057a157f40d8f2f63ba07",
+            "archive_commit": "90e8f83990458c3a5defbd5f7a924b4cd416446e",
+            "released": "2024-07-29T17:17:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "4acb0e83411d173e3471313944ad731dbb489a71",
+            "archive_commit": "d826ffd400b821ddba02d1b0fb49a6212d8dde40",
+            "released": "2024-07-30T08:44:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

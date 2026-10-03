@@ -1,0 +1,79 @@
+{
+    "package": "xypp/flarum-answer-bounty",
+    "upstream": "https://github.com/zxy19/flarum-answer-bounty",
+    "packagistUrl": "https://packagist.org/packages/xypp/flarum-answer-bounty",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5a6b255301514e4c6c69dbcb2bf2b795dea2888e",
+            "archive_commit": "0136421f7a0ed43b6f096ce760c7df9a8550cec4",
+            "released": "2024-10-10T05:23:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "cf9cb0c5cd27518056f148c045675c6a2c76c98d",
+            "archive_commit": "5ab4caf9658f753f34f5c9ea5184597421643dc1",
+            "released": "2024-10-10T18:16:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "1465f31290be41662b4091ee43f3aa71f066a687",
+            "archive_commit": "0e4fa72248dd37e344b94c2affc8175dd928b230",
+            "released": "2024-10-11T05:02:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "d57bbe4243db4b1c5dfe0660af08b3ef6be6aac8",
+            "archive_commit": "e209459ed18fd37a9b68a5fc49f13b410a229320",
+            "released": "2024-10-11T15:32:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "426956f378832ebabf32ec01207e885a08fe7321",
+            "archive_commit": "fcf1b10ea42ffdc91de491fe1f3120c83924ea86",
+            "released": "2024-10-14T17:38:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "426956f378832ebabf32ec01207e885a08fe7321",
+            "archive_commit": "018aad5fdccb618f782d75c8622522984ee17d23",
+            "released": "2024-10-14T17:38:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "xypp/flarum-custom-user-remarks",
+    "upstream": "https://github.com/zxy19/flarum-custom-user-remarks",
+    "packagistUrl": "https://packagist.org/packages/xypp/flarum-custom-user-remarks",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0321f9875f16ee325ca966f808dd20e1e1960fe1",
+            "archive_commit": "67a9d679348515f03736e25f5402097d425a3844",
+            "released": "2024-10-31T16:38:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "f5e0621a802613567723c777b5eade18ddc2b79f",
+            "archive_commit": "158606e83e93e550f3fb19d8ac1ba9b6d48cbfcf",
+            "released": "2024-10-31T17:16:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
