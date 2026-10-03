@@ -1,0 +1,43 @@
+{
+    "package": "danielunited/flarumhe",
+    "upstream": "https://github.com/danielunited/flarum-hebrew",
+    "packagistUrl": "https://packagist.org/packages/danielunited/flarumhe",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "372028f3d561757f45f8c6c678dd7560a8a36472",
+            "archive_commit": "b210f76fa49f9eb55f6c88b13ad421d89c907cef",
+            "released": "2020-09-23T07:56:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "1c3c36718d91c1d47f4ab5b83f31965524d40f92",
+            "archive_commit": "29ef495e455f3753e4f2e2202da60fbcc6ba4c64",
+            "released": "2020-11-13T20:52:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "67babb59a3395f91881d7793848406c19ae5dad1",
+            "archive_commit": "3f1ad103b76707b556f2530270ef0ad2c311a130",
+            "released": "2020-11-13T21:33:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

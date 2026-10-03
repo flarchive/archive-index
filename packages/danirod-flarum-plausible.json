@@ -1,0 +1,31 @@
+{
+    "package": "danirod/flarum-plausible",
+    "upstream": "https://github.com/danirod/flarum-plausible",
+    "packagistUrl": "https://packagist.org/packages/danirod/flarum-plausible",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a6813eee98b9eab6ec15466747ea0a2bb152a7e1",
+            "archive_commit": "806a4a23375ae79ea854ee676dcb2872594c03b1",
+            "released": "2023-10-18T13:21:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "af47daf3c795b155b6801511d7907d50923c0fe0",
+            "archive_commit": "c29147b1e8361e80408c64b7a91bd7e6586ca64b",
+            "released": "2023-10-20T11:12:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

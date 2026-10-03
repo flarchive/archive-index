@@ -1,0 +1,43 @@
+{
+    "package": "csineneo/vivaldi-club-bbcode",
+    "upstream": "https://github.com/Csineneo/vivaldi-club-bbcode",
+    "packagistUrl": "https://packagist.org/packages/csineneo/vivaldi-club-bbcode",
+    "versions": [
+        {
+            "version": "v0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "643a0f16474019767f63bfc7e1cd362a9b43ed5b",
+            "archive_commit": "24e4183b9d6ed4218e03e1a8db226b458867e084",
+            "released": "2019-01-09T03:03:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.6",
+            "tag": "archive/v0.1.6",
+            "upstream_commit": "1239dfbcfcd4117ed4d1dd051370c77df7b61418",
+            "archive_commit": "dfda0bf85fcf3f41a5e8098f2c18775f24701966",
+            "released": "2019-01-09T04:18:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.6.1",
+            "tag": "archive/v0.1.6.1",
+            "upstream_commit": "3b703e8bafffd1e6f4fb002b51a2957031a15188",
+            "archive_commit": "078899287ac96aa9d95a861c4fe690430f51956b",
+            "released": "2019-01-16T05:18:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

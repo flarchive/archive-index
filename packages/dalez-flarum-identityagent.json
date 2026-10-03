@@ -1,0 +1,31 @@
+{
+    "package": "dalez/flarum-identityagent",
+    "upstream": "https://github.com/DellZHackintosh/flarum-identityagent",
+    "packagistUrl": "https://packagist.org/packages/dalez/flarum-identityagent",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f8137a55debf52513e5420fdc904248901651c06",
+            "archive_commit": "40d29b0de2009b146932240d4cd6fe5f7fc960e0",
+            "released": "2025-01-04T13:47:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0-beta",
+            "tag": "archive/v1.0.0-beta",
+            "upstream_commit": "b334beaa3684ff2a30c8559b104a4a4c1c6c05ed",
+            "archive_commit": "76731dcc4543632b0fbd3cbcab54771c066d9192",
+            "released": "2024-08-18T12:50:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

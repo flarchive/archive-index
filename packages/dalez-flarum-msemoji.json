@@ -1,0 +1,43 @@
+{
+    "package": "dalez/flarum-msemoji",
+    "upstream": "https://github.com/DellZHackintosh/flarum-msemoji",
+    "packagistUrl": "https://packagist.org/packages/dalez/flarum-msemoji",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "079aeb65ed0724a81ed5ae478d48b641ad13db2a",
+            "archive_commit": "482c07d09e36c3bb1db0df1e2be35dacb4c9223e",
+            "released": "2023-07-24T04:21:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8d132ce6a0d0ff7c755158a677969447a7884e05",
+            "archive_commit": "7cc653fd3803d0b4de2c6b2f1c3554a35d2c47dd",
+            "released": "2025-07-28T08:21:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "ee1cddc013fccad43a12ae92748bb030f96a1eb9",
+            "archive_commit": "94558755390ff88b6e7e9fee47b4a0045d399099",
+            "released": "2026-07-29T08:55:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

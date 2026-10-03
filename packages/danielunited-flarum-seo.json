@@ -1,0 +1,127 @@
+{
+    "package": "danielunited/flarum-seo",
+    "upstream": "https://github.com/danielunited/flarum-seo",
+    "packagistUrl": "https://packagist.org/packages/danielunited/flarum-seo",
+    "versions": [
+        {
+            "version": "0.1-beta",
+            "tag": "archive/v0.1-beta",
+            "upstream_commit": "d5af48a4928172f041c38aed814aab902b4df9df",
+            "archive_commit": "198fd03b10d1158770abea17b78ae7a8bc708317",
+            "released": "2019-01-03T21:00:25+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2-beta",
+            "tag": "archive/v0.2-beta",
+            "upstream_commit": "4aa80839f5720383a63b8723c98a4c320f9e368e",
+            "archive_commit": "05f3607f0eaae33467d2152b54771300b36b9e09",
+            "released": "2019-01-04T19:56:37+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3-beta",
+            "tag": "archive/v0.3-beta",
+            "upstream_commit": "91de02f42d9d9d5dc5baea9db7b2e29c3aa3c8e1",
+            "archive_commit": "aef50a3cc7fe4a2bf87b8e4c6e9e439c7cf5df45",
+            "released": "2019-02-05T23:36:37+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4-beta",
+            "tag": "archive/v0.4-beta",
+            "upstream_commit": "b9455162a56993a8dc534d46c3cb5024f806614c",
+            "archive_commit": "2ee8af2447019557e3d525f233368472bbdcf6f1",
+            "released": "2019-05-11T17:25:01+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "54dd8220337d80971adc31af22f9634a804c4b99",
+            "archive_commit": "99db6f24e933923cf960f0ab5a1153b98d13e949",
+            "released": "2019-05-18T18:50:06+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "024897775e59288e80a8a04dd24bd6a0fe6e226a",
+            "archive_commit": "c7ee46adb04d7cd354e928564c79dc7966ca4d84",
+            "released": "2019-05-24T23:05:47+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "2e1f5cd1d44ec41a8e8d08b7da940d4f1fd0cbb0",
+            "archive_commit": "8ffc57a341d7c30fabb2ab8b8fea50fe7104f33c",
+            "released": "2019-07-26T22:23:13+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "52054a162cb82d8501d0bdb7f77d8dfe76e3ec81",
+            "archive_commit": "c919954f9de82c1f56d073957815c028f3e0f8b8",
+            "released": "2019-12-21T20:10:47+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "1b499cac04a40614ee1eeb278bf4ff37bc2b50b8",
+            "archive_commit": "b68ea97b858143228cd9a14d8bc9009a05e93f04",
+            "released": "2020-05-10T13:40:43+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "d814c00d7c66cb00f8391e793597aed5947de0f9",
+            "archive_commit": "09efdb6a21346385a06b121dfc30c506ef028295",
+            "released": "2020-05-26T11:06:16+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

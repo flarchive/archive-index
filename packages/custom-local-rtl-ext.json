@@ -1,0 +1,19 @@
+{
+    "package": "custom-local/rtl-ext",
+    "upstream": "https://github.com/Giladx/flarum-ext-rtl",
+    "packagistUrl": "https://packagist.org/packages/custom-local/rtl-ext",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "cf0894f01bc02a91f9201bd5903ebadd542e1231",
+            "archive_commit": "b625fbcbb91964e49dcd6245ba6c753be05e02e1",
+            "released": "2020-05-14T23:01:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

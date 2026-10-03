@@ -1,0 +1,19 @@
+{
+    "package": "dalez/flarum-view-transition",
+    "upstream": "https://github.com/zDaleZ/flarum-view-transition",
+    "packagistUrl": "https://packagist.org/packages/dalez/flarum-view-transition",
+    "versions": [
+        {
+            "version": "v1.0.0-beta1",
+            "tag": "archive/v1.0.0-beta1",
+            "upstream_commit": "89cac59cb0e25e10ca485f3245d6fc6f27baf9fa",
+            "archive_commit": "f0d08ede373e5a43978251e26045769dd33c855c",
+            "released": "2025-08-23T07:16:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

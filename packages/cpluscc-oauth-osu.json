@@ -1,0 +1,31 @@
+{
+    "package": "cpluscc/oauth-osu",
+    "upstream": "https://github.com/cpluscc/flarum-ext-oauth-osu",
+    "packagistUrl": "https://packagist.org/packages/cpluscc/oauth-osu",
+    "versions": [
+        {
+            "version": "1.1.4",
+            "tag": "archive/v1.1.4",
+            "upstream_commit": "708167b1b8997a79f106ec840777eddc7cd93300",
+            "archive_commit": "46747fe043b69bd13564f4c054b37f0d180a150e",
+            "released": "2023-09-29T14:55:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1",
+            "tag": "archive/v2.1",
+            "upstream_commit": "d9af250f4f9b36e36dc1e1029e4f22f5f7517f54",
+            "archive_commit": "7c1f4b21cb38471e5449f6eed22cd3444246147f",
+            "released": "2023-09-29T15:18:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

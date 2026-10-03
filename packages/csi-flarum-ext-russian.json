@@ -1,0 +1,43 @@
+{
+    "package": "csi/flarum-ext-russian",
+    "upstream": "https://github.com/CYBERSPACE-Industries/FLARUM.LP.RUS.Core",
+    "packagistUrl": "https://packagist.org/packages/csi/flarum-ext-russian",
+    "versions": [
+        {
+            "version": "0.1.0-beta.5-1",
+            "tag": null,
+            "upstream_commit": "3ddf874a980e2ee095bc71884001f64465188c5e",
+            "archive_commit": null,
+            "released": "2016-03-29T15:12:03+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta.6-1",
+            "tag": null,
+            "upstream_commit": "b4d5f22d8022d4ca20431465a8bff548a7a6b4d4",
+            "archive_commit": null,
+            "released": "2017-01-05T18:19:21+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta.6-2",
+            "tag": null,
+            "upstream_commit": "e7d70547eb6ec21de43eea5fd07dde247c8ce58a",
+            "archive_commit": null,
+            "released": "2017-01-21T10:04:55+00:00",
+            "archived": null,
+            "license": "GPL-3.0",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

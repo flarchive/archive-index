@@ -1,0 +1,19 @@
+{
+    "package": "dalez/flarum-twemoji",
+    "upstream": "https://github.com/DellZHackintosh/flarum-twemoji",
+    "packagistUrl": "https://packagist.org/packages/dalez/flarum-twemoji",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "76b6929f9b7cfbe263d0de0358cd9a6451734594",
+            "archive_commit": "ac27544378b80d11ae7af8f507582939197e1f66",
+            "released": "2023-07-24T04:21:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
