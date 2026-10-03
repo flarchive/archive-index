@@ -1,0 +1,31 @@
+{
+    "package": "chinovn/flarum-cards-bbcode",
+    "upstream": "https://github.com/chinovn/flarum-cards-bbcode",
+    "packagistUrl": "https://packagist.org/packages/chinovn/flarum-cards-bbcode",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "e700ea76578475d873bab916c87994b66a5f97b7",
+            "archive_commit": "1242afcee0ff0473643a4d41b1113db2183f25f5",
+            "released": "2022-08-18T20:11:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "9b7a6e17fb272796f28b091a1f081d2061f18319",
+            "archive_commit": "f11551fd3d3df5ece6c7b210d283864ddce6f966",
+            "released": "2022-08-21T06:55:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

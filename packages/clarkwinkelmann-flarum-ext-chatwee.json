@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-chatwee",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-chatwee",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-chatwee",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "2ba00473076e0471927e8ea3424e62d9c9ddfc22",
+            "archive_commit": "ec67a8e69a44be4ad30e8c94b2d0d587c678a76d",
+            "released": "2018-01-09T22:41:45+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "773de402886db6072da3d8a0dda9fb5650e81d9c",
+            "archive_commit": "b6d87d08cde8df8a95745cf9c7b2f2d94848e199",
+            "released": "2018-02-09T01:33:20+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "chinovn/flarum-chart-bbcode",
+    "upstream": "https://github.com/chinovn/flarum-chart-bbcode",
+    "packagistUrl": "https://packagist.org/packages/chinovn/flarum-chart-bbcode",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "01723d79d9c2249880e3ff751db7ddf677a986cf",
+            "archive_commit": "eeeab2bad5e841d45f1a5d56d295f97cd56f88b7",
+            "released": "2022-08-21T07:00:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

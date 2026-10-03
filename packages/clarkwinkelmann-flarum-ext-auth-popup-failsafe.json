@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-auth-popup-failsafe",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-auth-popup-failsafe",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-auth-popup-failsafe",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "cd650e00c8733a641dff91770eda84b3687a78ae",
+            "archive_commit": "28e20509348978e8a5c2502e7da1011ac001fed7",
+            "released": "2022-09-09T20:18:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "2d36828465cf1c47ce4d194273503bff9b23ea54",
+            "archive_commit": "f791840550c1a8beee33249e619e28cc3cab3301",
+            "released": "2022-09-09T20:48:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

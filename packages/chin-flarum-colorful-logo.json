@@ -1,0 +1,31 @@
+{
+    "package": "chin/flarum-colorful-logo",
+    "upstream": "https://github.com/ChinW/colorful-logo",
+    "packagistUrl": "https://packagist.org/packages/chin/flarum-colorful-logo",
+    "versions": [
+        {
+            "version": "1.0.0.beta-1",
+            "tag": "archive/v1.0.0.beta-1",
+            "upstream_commit": "633c2804861d318795c4e3dbfccb2c615f96e96e",
+            "archive_commit": "1a324a852021b599ed6aa4e8ab2fcb06dcd23c05",
+            "released": "2016-05-28T04:51:10+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0.beta-2",
+            "tag": "archive/v1.0.0.beta-2",
+            "upstream_commit": "c8928b7064ae7ec44988dff129b9bb204cd21652",
+            "archive_commit": "63395486f88e9267d9296dcedbd7d7de58a2c113",
+            "released": "2016-06-01T02:08:01+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

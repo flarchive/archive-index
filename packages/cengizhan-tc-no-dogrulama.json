@@ -1,0 +1,31 @@
+{
+    "package": "cengizhan/tc-no-dogrulama",
+    "upstream": "https://github.com/Cengizhan00/TC-NO-Dogrulama",
+    "packagistUrl": "https://packagist.org/packages/cengizhan/tc-no-dogrulama",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "8cb11f1c4daff2190b285145eaf9bcd98b782678",
+            "archive_commit": "2a2e02a27f8a5407390c17951f72f5b5d7d59000",
+            "released": "2023-08-12T18:19:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "9032ad43a235fb6f565d0a679a81e82fc60c951e",
+            "archive_commit": "1581549bbe852da4ecb6c430b37e5b5d34c304e1",
+            "released": "2023-08-12T18:48:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

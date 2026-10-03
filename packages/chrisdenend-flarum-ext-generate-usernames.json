@@ -1,0 +1,55 @@
+{
+    "package": "chrisdenend/flarum-ext-generate-usernames",
+    "upstream": "https://github.com/chrisdenend/flarum-ext-generate-usernames",
+    "packagistUrl": "https://packagist.org/packages/chrisdenend/flarum-ext-generate-usernames",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "46461a5c2a3e557b68af599d0f7d074be77f3c78",
+            "archive_commit": "8676605f3858c5e9d6fdfcaf8942b0c505f57e37",
+            "released": "2023-09-27T20:32:12+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.2",
+            "tag": "archive/v0.1.0-beta.2",
+            "upstream_commit": "5a8779db64313ef2f4615e7e728ee7b389f37d55",
+            "archive_commit": "794293f453c537fcad583f45e5f854e03db414a9",
+            "released": "2023-09-28T01:04:10+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": "archive/v0.1.0-beta.3",
+            "upstream_commit": "6b4849890e42a4d291f46ff04d53b24491790c62",
+            "archive_commit": "15c270d1a2739c8e7433cc85708aba6e8da45db6",
+            "released": "2023-09-28T21:59:09+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": "archive/v0.1.0-beta.4",
+            "upstream_commit": "59194e1376abbcd4d0adbd6c4849d2652f38c584",
+            "archive_commit": "69e9ee68392e553b386aa708b7235109be6527ac",
+            "released": "2023-09-28T22:09:38+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-advanced-search-highlight",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-advanced-search-highlight",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-advanced-search-highlight",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2cc17f80386a1706560b4c03ef6089e50fa8c47f",
+            "archive_commit": "8d7ef8e3f98477ea12f716bbdb0e71dbc3c2efc5",
+            "released": "2023-05-08T16:03:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "3d580e254dc53cb2f2dfb294e04f459e011bcc8b",
+            "archive_commit": "77a6ba08c68963cb30b196f2a33c97e48b08bff3",
+            "released": "2023-05-08T21:17:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "7ced2d62976bc24f7d49c7a631534a5a1ac02913",
+            "archive_commit": "e6fd73d01728005ff9ee301bd8ba746cf3d28fc3",
+            "released": "2023-05-11T12:52:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "dad752e7b2a3b01e497a87d63407f243415ad90f",
+            "archive_commit": "c32e2738261847963318e20042d94dcd0823354c",
+            "released": "2025-01-24T02:50:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

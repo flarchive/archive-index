@@ -1,0 +1,19 @@
+{
+    "package": "chinovn/flarum-custom-bbcode",
+    "upstream": "https://github.com/chinovn/flarum-custom-bbcode",
+    "packagistUrl": "https://packagist.org/packages/chinovn/flarum-custom-bbcode",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "de39c0236e5c11b94195673b85c6318b77f264ce",
+            "archive_commit": "d5053014a9ccb0779e1b265fa26f50df750090e3",
+            "released": "2022-08-21T06:36:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

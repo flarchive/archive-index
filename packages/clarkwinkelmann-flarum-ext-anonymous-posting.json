@@ -1,0 +1,55 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-anonymous-posting",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-anonymous-posting",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-anonymous-posting",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b1681ed025c82985ea70192dcc1ea949da68b993",
+            "archive_commit": "bd69b74c9e59f6ac6c5ccd475d348c8d4b1fab67",
+            "released": "2022-07-04T09:50:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b3050fd1368d90ea27dc69d05ad62915fc81fdf0",
+            "archive_commit": "db99caa68b6ace63f9d17a189f9c817cdb80eddd",
+            "released": "2022-08-25T15:31:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "8a79185b704c066a584c644bc0cae869d03489da",
+            "archive_commit": "5d331b93c39dea6ea5464d3eaafb53a8eb28783b",
+            "released": "2023-02-11T17:25:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "6a1c6bfc5251c8e66dc0943b48bb33df5755ce81",
+            "archive_commit": "0cb8b52de6c2ad1f5bfafabbd7564aca5aa16a06",
+            "released": "2023-03-09T18:14:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

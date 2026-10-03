@@ -1,0 +1,43 @@
+{
+    "package": "chinovn/flarum-button-bbcode",
+    "upstream": "https://github.com/chinovn/flarum-button-bbcode",
+    "packagistUrl": "https://packagist.org/packages/chinovn/flarum-button-bbcode",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "8241c142ac73c4bf87a31e229f1938305ec81707",
+            "archive_commit": "c4d75f1c2dddb013ac925831c11cddbd24d0abe0",
+            "released": "2022-08-13T18:07:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "4a2f633c7d3dad7155577036fd7527a7b9702704",
+            "archive_commit": "0021c245042bbd914a75fe7077de918f8560246f",
+            "released": "2022-08-13T18:23:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "44cd94fdd484c09c6b577bff871e562d111bdd63",
+            "archive_commit": "4701f3b667da2b304db3cb7938c2ef99ef1be102",
+            "released": "2022-08-21T06:44:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

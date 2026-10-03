@@ -1,0 +1,43 @@
+{
+    "package": "chatixy/flarum-chatixy",
+    "upstream": "https://github.com/Devoflex/flarum-chatixy",
+    "packagistUrl": "https://packagist.org/packages/chatixy/flarum-chatixy",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b52c71e184df79e1b1313a1744dc60774b62c2d5",
+            "archive_commit": "5548b25cd15701844233667f1328e581da01f119",
+            "released": "2026-08-17T23:15:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "2303ffc664d1f5913a2321d4910f7235888447fc",
+            "archive_commit": "e50452ba3d7c73d30c4e0e08463d24695f44ba2d",
+            "released": "2026-08-19T12:51:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "99775fbec610cad8aa38ed747430d0f4b1ebc1ef",
+            "archive_commit": "f28a8803daeb809011f83ab19784bfa5fa50a730",
+            "released": "2026-08-19T20:15:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

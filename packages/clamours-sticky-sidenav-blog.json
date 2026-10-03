@@ -1,0 +1,31 @@
+{
+    "package": "clamours/sticky-sidenav-blog",
+    "upstream": "https://github.com/Clamours/sticky-sidenav-blog",
+    "packagistUrl": "https://packagist.org/packages/clamours/sticky-sidenav-blog",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": null,
+            "upstream_commit": "fce4a904df706e4ecb738d0bff0f7bc129163afc",
+            "archive_commit": null,
+            "released": "2023-10-17T12:03:50+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": null,
+            "upstream_commit": "bff0bff3c517221f7f8043730a63e874cdd94502",
+            "archive_commit": null,
+            "released": "2023-10-17T12:40:43+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

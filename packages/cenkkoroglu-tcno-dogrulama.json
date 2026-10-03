@@ -1,0 +1,19 @@
+{
+    "package": "cenkkoroglu/tcno-dogrulama",
+    "upstream": "https://github.com/cenkkoroglu/flarum-tcno-dogrulama",
+    "packagistUrl": "https://packagist.org/packages/cenkkoroglu/tcno-dogrulama",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "93dd6209bc1a79eb0c356d06edd41e433c181d29",
+            "archive_commit": "3c0b44122c8787614e449862659fd93ca89b7d0c",
+            "released": "2020-05-25T12:19:15+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

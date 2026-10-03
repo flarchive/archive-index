@@ -1,0 +1,43 @@
+{
+    "package": "chinovn/flarum-timeline-bbcode",
+    "upstream": "https://github.com/chinovn/flarum-timeline-bbcode",
+    "packagistUrl": "https://packagist.org/packages/chinovn/flarum-timeline-bbcode",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "e1bf0bdac819de95c0f3827e1fdf2d41b64c57eb",
+            "archive_commit": "e995b9a103e9bf5c77cc57f3774a48082e918e7a",
+            "released": "2022-08-16T15:13:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "ed20d94552250b0663a4c03ecead231e9df01230",
+            "archive_commit": "aff613e0e3e06cbc8a4fcb345d0486407154513f",
+            "released": "2022-08-16T15:18:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "f3448de9efea65bcce141ed3ccf9cae6f4abb557",
+            "archive_commit": "cf38476958fedf4fd10da83f34aa6eec93d3fc39",
+            "released": "2022-08-21T06:49:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6 || ^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
