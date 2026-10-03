@@ -1,0 +1,55 @@
+{
+    "package": "f0rtem/flarum-ext-lt",
+    "upstream": "https://github.com/f0rtem/flarum-ext-lt",
+    "packagistUrl": "https://packagist.org/packages/f0rtem/flarum-ext-lt",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "22b7964a4800e2a5b3d1378aefdd1b53af466e4c",
+            "archive_commit": "b13ed08723b7004d907787a04d4ed990d0d8f96c",
+            "released": "2020-12-29T14:51:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "dd36d4b1061e291a5a01e5ea2863c60b03a07475",
+            "archive_commit": "d5c3fd568a22327d402edafb70aeddc095ad5ab8",
+            "released": "2020-12-29T16:09:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "13d3002433e28741d3609310605adc3cd793a77c",
+            "archive_commit": "45bc6f9685022ee26baef424df656ff81ce877d7",
+            "released": "2021-04-27T19:57:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "ecf631c33f162a179850cf6752488a8a40c205ad",
+            "archive_commit": "814ff5da159d96f1bf8474f4a69bae4295a010aa",
+            "released": "2021-04-27T20:48:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

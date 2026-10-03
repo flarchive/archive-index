@@ -1,0 +1,43 @@
+{
+    "package": "fajuu/flarum-icons",
+    "upstream": "https://github.com/Fajuu/flarum-icons",
+    "packagistUrl": "https://packagist.org/packages/fajuu/flarum-icons",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "cd9e99dc1a12cb9cb21bc9d2c882e7d18b3c18b4",
+            "archive_commit": "353def302ace4d26270e08b14ae94f297fb21144",
+            "released": "2019-09-19T02:59:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "b03561e3d6a96d65327d81d1a00ce276765a139a",
+            "archive_commit": "60d87a766416ce4ed007410cdefb60f0a30bbf0f",
+            "released": "2019-10-05T16:15:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "d9a2db1904c12afac8ab9c3cbc60d9db8a0aa2bd",
+            "archive_commit": "e2d988871121ff069eee37d889cfaebff80e7182",
+            "released": "2019-10-14T18:43:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

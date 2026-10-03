@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/warren",
+    "upstream": "https://github.com/ernestdefoe/warren",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/warren",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "fa98419b348dbb24e791a8324367fd98fc6e171a",
+            "archive_commit": "7df460855cb3652c5d695b5c2528e3c107400b2c",
+            "released": "2026-09-12T22:53:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "53dca5e0c5adad73e8a0135a36aea88e875a362e",
+            "archive_commit": "1e6096564415d5fe6ae3539bd529a9439918d1b9",
+            "released": "2026-09-13T21:10:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

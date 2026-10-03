@@ -1,0 +1,19 @@
+{
+    "package": "fastchen/flarum-link-attribute",
+    "upstream": "https://github.com/FastChen/flarum-ext-link-attribute",
+    "packagistUrl": "https://packagist.org/packages/fastchen/flarum-link-attribute",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "fa35244075d9fe44d2b2122ecd82c844a9c3d228",
+            "archive_commit": "913efe1be0fa39ae30a69feb72d7c83af7b14b3f",
+            "released": "2026-05-14T13:34:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

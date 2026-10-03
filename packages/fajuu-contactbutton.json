@@ -1,0 +1,43 @@
+{
+    "package": "fajuu/contactbutton",
+    "upstream": "https://github.com/Fajuu/ContactButton",
+    "packagistUrl": "https://packagist.org/packages/fajuu/contactbutton",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "764041c1945fc3e9597c7faff80d308879410a89",
+            "archive_commit": "51c8f1c5fc4ffcc65f6a362038307558159f04a8",
+            "released": "2019-01-24T13:39:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "19fc89d6c5b30d19f0875a610f2fce2f06b0c797",
+            "archive_commit": "2e09e46865c7bc64186ba90028617bd3bebd134f",
+            "released": "2019-04-16T20:38:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v3.0",
+            "tag": "archive/v3.0",
+            "upstream_commit": "0c2dd4e3cd4bbc56dee90768bb94c3a816a4f0e9",
+            "archive_commit": "9754a035a18f86e61ee786793f5f9e87aaed3000",
+            "released": "2019-04-21T02:43:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

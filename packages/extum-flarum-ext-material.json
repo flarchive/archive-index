@@ -1,0 +1,31 @@
+{
+    "package": "extum/flarum-ext-material",
+    "upstream": "https://github.com/Extum/flarum-ext-material",
+    "packagistUrl": "https://packagist.org/packages/extum/flarum-ext-material",
+    "versions": [
+        {
+            "version": "1.0.0-beta.1",
+            "tag": "archive/v1.0.0-beta.1",
+            "upstream_commit": "88dbe5c81ec9bb40651ef8a5a49b3a9caa4f4598",
+            "archive_commit": "643265feef39c3ed3de5ae2b923be8ae0c2ca3e4",
+            "released": "2018-07-28T23:18:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0-beta.2",
+            "tag": "archive/v1.0.0-beta.2",
+            "upstream_commit": "6cc8253489c3b32c5924086a04e674832a50c7da",
+            "archive_commit": "cd6c7196b9115426eeec17e6a8cb2ec07ebda08f",
+            "released": "2018-08-01T17:25:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

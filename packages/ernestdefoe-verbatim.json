@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/verbatim",
+    "upstream": "https://github.com/ernestdefoe/verbatim",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/verbatim",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "25170cb9f42809b51f1bc76e302ff395468f8cd5",
+            "archive_commit": "396edbbb69ae5799a24479a7bbef7a0ad378588e",
+            "released": "2026-09-12T20:55:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "69b4104c4a028bfdda0bbde2528ca687010a7ad8",
+            "archive_commit": "362c9157e827bbbbb8825f32bc34329229550c93",
+            "released": "2026-09-13T01:58:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

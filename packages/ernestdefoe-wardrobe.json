@@ -1,0 +1,43 @@
+{
+    "package": "ernestdefoe/wardrobe",
+    "upstream": "https://github.com/ernestdefoe/wardrobe",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/wardrobe",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "38820a56f6aeac956a5db31a6c25db5d2c9be222",
+            "archive_commit": "8e9a5c9d3de2d71fc68bcd7a0a66be7e4b0f4fd1",
+            "released": "2026-09-12T17:25:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "5b60f7c61be6c05575ef3335e7cf8c94be8453f9",
+            "archive_commit": "91cfc166bd73abfbf4667e8f95b93d6c80830e74",
+            "released": "2026-09-16T00:47:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "1e13e4ebe074f739bd2c4af7e36d43510469df60",
+            "archive_commit": "de8e81236640b8aeceb47f3f128c8e06716e7091",
+            "released": "2026-09-16T00:55:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

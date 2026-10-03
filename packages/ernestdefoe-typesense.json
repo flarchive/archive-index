@@ -1,0 +1,55 @@
+{
+    "package": "ernestdefoe/typesense",
+    "upstream": "https://github.com/ernestdefoe/typesense",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/typesense",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f53bf937edb994b3ba45a1b501bd71931684be04",
+            "archive_commit": "a9b6f172dd6c4d31a9e3256563e31f7770590308",
+            "released": "2026-07-02T22:53:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "77f0873138baed48e88fba55ee2f086fc1274b29",
+            "archive_commit": "c1aaac5cea967bb25f5388cd4d375ab829beffaf",
+            "released": "2026-07-02T22:59:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "74e550f19c458e7dfe416399542afe1f55dfc343",
+            "archive_commit": "759e6e72270680aef12618e1959c839f33e687c1",
+            "released": "2026-07-02T23:22:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "79d342d492248e9f096848a936990ab94160cd36",
+            "archive_commit": "838ced2b060ef53c5c664ca185cbd56db4cec06c",
+            "released": "2026-07-03T16:57:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

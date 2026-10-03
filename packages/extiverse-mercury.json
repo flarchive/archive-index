@@ -1,0 +1,67 @@
+{
+    "package": "extiverse/mercury",
+    "upstream": "https://github.com/extiverse/mercury",
+    "packagistUrl": "https://packagist.org/packages/extiverse/mercury",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "126f41e9b1479ad1c406c264873b4b329ab6f8a8",
+            "archive_commit": "c7ba75a632bac1ea351c21aeb63eda3a160ed0b5",
+            "released": "2021-06-07T18:28:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "22ca98f7c60451216e93e5e275573694d6216779",
+            "archive_commit": "009a9b9f8945acf9b2c0fd420805e505bceebccf",
+            "released": "2021-06-08T07:26:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "43695b30cc2640990484d776012057802d4b9650",
+            "archive_commit": "7ff57d5c91758ad083076168f006a41b4d1d6a63",
+            "released": "2021-06-08T08:07:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "a5f0ea095c820e27664b9e6d411229b0d23cf87b",
+            "archive_commit": "377196c80783b59a1855b8d5c533d8ce768c31f1",
+            "released": "2021-06-16T23:58:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "1500eecd5aaa3218d6dba4838103f1492bc56ab2",
+            "archive_commit": "0cf85e56e8fd12d48d088f1b699470445f093563",
+            "released": "2022-05-20T20:51:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

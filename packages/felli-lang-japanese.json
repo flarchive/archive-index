@@ -1,0 +1,19 @@
+{
+    "package": "felli/lang-japanese",
+    "upstream": "https://github.com/Felli/lang-japanese",
+    "packagistUrl": "https://packagist.org/packages/felli/lang-japanese",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0e832759bc598d69ab8c64c0fe57ae6dec116f2a",
+            "archive_commit": "06c0b4a7b485cb84e5a7f46e3e57c25281baa54d",
+            "released": "2017-10-25T20:55:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

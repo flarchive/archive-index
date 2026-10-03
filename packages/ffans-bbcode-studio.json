@@ -1,0 +1,31 @@
+{
+    "package": "ffans/bbcode-studio",
+    "upstream": "https://github.com/FFans/bbcode-studio",
+    "packagistUrl": "https://packagist.org/packages/ffans/bbcode-studio",
+    "versions": [
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "6748170e853b2dcad50ebd37890b388c898c5f65",
+            "archive_commit": "3f2bb9a19afee4ddd12309ca7bc68cd35d8a914b",
+            "released": "2026-08-29T12:46:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.2",
+            "tag": "archive/v2.0.0-beta.2",
+            "upstream_commit": "f5c39d7dd7615f333872db869acec4e5a8e169c8",
+            "archive_commit": "8050720413cc62c86066cea41fe0653b814c6857",
+            "released": "2026-09-10T09:44:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

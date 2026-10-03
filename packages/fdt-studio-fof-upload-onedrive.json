@@ -1,0 +1,31 @@
+{
+    "package": "fdt-studio/fof-upload-onedrive",
+    "upstream": "https://github.com/FDT-Studio/fof-upload-onedrive",
+    "packagistUrl": "https://packagist.org/packages/fdt-studio/fof-upload-onedrive",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d80ffa290352555cf368bf41a5b25cf8add6f0cc",
+            "archive_commit": "40bce9d7e9f5130237fd739f57d01f43338bbd73",
+            "released": "2024-07-18T01:03:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "bb006777ff5791f7f2e5d493a31b040658ebea58",
+            "archive_commit": "39dddd8ab9d60814d79274ae95189b376e382e13",
+            "released": "2024-07-21T00:36:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "ffans/activity-title-count",
+    "upstream": "https://github.com/FFans/activity-title-count",
+    "packagistUrl": "https://packagist.org/packages/ffans/activity-title-count",
+    "versions": [
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "0fe991a5ef408c530a64a29e3147838e4f0afb01",
+            "archive_commit": "ccc2e6ac0a22fd7923c01fb20ae341b92c68bd67",
+            "released": "2026-08-30T12:05:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.2",
+            "tag": "archive/v2.0.0-beta.2",
+            "upstream_commit": "833fcc5dc37903d7b0b0acfcdb7b2518b29a6eca",
+            "archive_commit": "6ebb8c4cc8b7f0c52311d7cdfbb1eef40f424bc4",
+            "released": "2026-09-01T16:35:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
