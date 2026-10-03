@@ -1,0 +1,19 @@
+{
+    "package": "teddan/dislikes",
+    "upstream": "https://github.com/tttteddan/dislikes",
+    "packagistUrl": "https://packagist.org/packages/teddan/dislikes",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "005c133e5fdb48a4573a3c957796e13ce62eb5f3",
+            "archive_commit": "9857f647786e4da650fda83e40a2edbccdc2d7c9",
+            "released": "2026-09-06T23:43:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

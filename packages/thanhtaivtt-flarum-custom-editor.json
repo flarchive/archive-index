@@ -1,0 +1,19 @@
+{
+    "package": "thanhtaivtt/flarum-custom-editor",
+    "upstream": "https://github.com/thanhtaivtt/flarum-custom-editor",
+    "packagistUrl": "https://packagist.org/packages/thanhtaivtt/flarum-custom-editor",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "dd996393264cb3d436f8ac9c06a3ec5b0e20c3e0",
+            "archive_commit": "9a7b0e2d68bb7fadf83bfc8cc2c658c10260c0e3",
+            "released": "2019-09-28T03:54:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "the-turk/flarum-nodp",
+    "upstream": "https://github.com/the-turk/flarum-nodp",
+    "packagistUrl": "https://packagist.org/packages/the-turk/flarum-nodp",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "ff469772115d1853ce486a4ba4203e81a940a849",
+            "archive_commit": null,
+            "released": "2021-06-30T23:23:08+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "98187b1d5fc075f4433df2571366a22c0cabd58a",
+            "archive_commit": null,
+            "released": "2021-07-04T12:00:27+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "package": "the-turk/flarum-flamoji",
+    "upstream": "https://github.com/the-turk/flarum-flamoji",
+    "packagistUrl": "https://packagist.org/packages/the-turk/flarum-flamoji",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "b1a9cb899c020165ce0a8205debc646537a6d493",
+            "archive_commit": null,
+            "released": "2021-07-10T01:53:23+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "61047f7599edecc1c03a0af39c2a57a70e1b09b6",
+            "archive_commit": null,
+            "released": "2021-07-10T08:20:46+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.2",
+            "tag": null,
+            "upstream_commit": "efce7475e439e0d3b4e6f474508cc917db63588e",
+            "archive_commit": null,
+            "released": "2021-07-10T10:31:21+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.3",
+            "tag": null,
+            "upstream_commit": "82655ffcc19a9ebe6da0becdda5ce8e77bbdc7c6",
+            "archive_commit": null,
+            "released": "2022-04-02T14:35:37+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.4",
+            "tag": null,
+            "upstream_commit": "1c9a886cdcac0a997f4351a4ae64c1c8aa0dbcc2",
+            "archive_commit": null,
+            "released": "2022-04-04T21:00:03+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

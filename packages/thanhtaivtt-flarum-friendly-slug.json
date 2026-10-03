@@ -1,0 +1,55 @@
+{
+    "package": "thanhtaivtt/flarum-friendly-slug",
+    "upstream": "https://github.com/thanhtaivtt/flarum-friendly-slug",
+    "packagistUrl": "https://packagist.org/packages/thanhtaivtt/flarum-friendly-slug",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2456d3877d41a41e32ad2cc1e08409ae6787b0ec",
+            "archive_commit": "486dffe235a80a92043eb1e02ede061d065e1e9f",
+            "released": "2019-09-21T08:44:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8cf65f6d577ea70bddccc98576e22f731c152f96",
+            "archive_commit": "935ff22f9d3869de7fe6649ecea68d0b90652abc",
+            "released": "2019-09-21T08:52:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "cf95a7e5934e8f30e1d4088def46f12211b1d0eb",
+            "archive_commit": "f79400b24d70f980e4ce31061b0843e96eb8c501",
+            "released": "2019-09-21T15:53:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "18b121e43a0bc53f72e69beec3d9e08cf5f74689",
+            "archive_commit": "8b961fde37ccbe5f60cbe043fd6cf65c15860158",
+            "released": "2019-09-21T16:02:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

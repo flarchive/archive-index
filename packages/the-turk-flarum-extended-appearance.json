@@ -1,0 +1,31 @@
+{
+    "package": "the-turk/flarum-extended-appearance",
+    "upstream": "https://github.com/the-turk/flarum-extended-appearance",
+    "packagistUrl": "https://packagist.org/packages/the-turk/flarum-extended-appearance",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "1aeb21a4bbc39dffd27f8d9fd34a9ecd4f38de64",
+            "archive_commit": null,
+            "released": "2020-05-16T16:41:42+00:00",
+            "archived": null,
+            "license": null,
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.1",
+            "tag": null,
+            "upstream_commit": "4615f6ff954d40a034cac79f10b6b336a806ab94",
+            "archive_commit": null,
+            "released": "2020-05-16T18:36:24+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

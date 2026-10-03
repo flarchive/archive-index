@@ -1,0 +1,43 @@
+{
+    "package": "the-turk/flarum-miserable-users",
+    "upstream": "https://github.com/the-turk/flarum-miserable-users",
+    "packagistUrl": "https://packagist.org/packages/the-turk/flarum-miserable-users",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "cb3285cc0aa2423d67178cdbebe0d7d82f0a591a",
+            "archive_commit": null,
+            "released": "2021-06-27T01:36:31+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "cbcf92959bbddf06938a594a87739547c69c2f63",
+            "archive_commit": null,
+            "released": "2021-06-27T01:40:51+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.2",
+            "tag": null,
+            "upstream_commit": "23c6fe418252dc5f140527c345748dddbf118eb8",
+            "archive_commit": null,
+            "released": "2021-06-27T11:52:38+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "package": "the-turk/flarum-ext-fancybox",
+    "upstream": "https://github.com/the-turk/flarum-ext-fancybox",
+    "packagistUrl": "https://packagist.org/packages/the-turk/flarum-ext-fancybox",
+    "versions": [
+        {
+            "version": "0.1-beta",
+            "tag": null,
+            "upstream_commit": "caaed8ff2501a5bdba2811262c95f1960fb53092",
+            "archive_commit": null,
+            "released": "2019-04-01T22:59:41+00:00",
+            "archived": null,
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.2-beta",
+            "tag": null,
+            "upstream_commit": "1fb6e7b84f97bf08e3d25d0f85f631ae8659eb25",
+            "archive_commit": null,
+            "released": "2019-05-01T05:15:15+00:00",
+            "archived": null,
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.2.0-beta.2",
+            "tag": null,
+            "upstream_commit": "1c94c20a0ed1700f6f578a33b161636d9d17f04e",
+            "archive_commit": null,
+            "released": "2020-05-22T15:04:10+00:00",
+            "archived": null,
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.2.0-beta.3",
+            "tag": null,
+            "upstream_commit": "ac7d152c89135f4ce822197cd6ca3e5088cad4df",
+            "archive_commit": null,
+            "released": "2020-05-22T19:08:16+00:00",
+            "archived": null,
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.2.0-beta.4",
+            "tag": null,
+            "upstream_commit": "4d0ba869b893f4245b7ea086a3cadc27b368fa23",
+            "archive_commit": null,
+            "released": "2020-05-22T22:40:04+00:00",
+            "archived": null,
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

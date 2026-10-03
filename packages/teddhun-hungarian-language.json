@@ -1,0 +1,67 @@
+{
+    "package": "teddhun/hungarian-language",
+    "upstream": "https://github.com/teddhun/hungarian-language",
+    "packagistUrl": "https://packagist.org/packages/teddhun/hungarian-language",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "058a704455c4776c9e922faa048abd07c097ddb0",
+            "archive_commit": "d5112e9e5fd3bd65f711b5899c0143c1f4b6978c",
+            "released": "2021-02-08T21:27:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "9c61ba8ae0ffe36a5632ecc4077fb6aa53f9ea97",
+            "archive_commit": "2466e1ed99d9f52efb55d043ff2e959bc56c6a09",
+            "released": "2021-02-08T21:41:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "4925d1f3f2ed9c45b06fd74d4253e5518237047d",
+            "archive_commit": "bf476b080feb8e435c0eb6ba5cafc2775fca1214",
+            "released": "2021-05-08T11:53:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2.1",
+            "tag": "archive/v0.1.2.1",
+            "upstream_commit": "361db31dbd402ed0ee876472a8c54c525e947f95",
+            "archive_commit": "6e40987b88100bcaafbb33385ed6ae1a65c256d4",
+            "released": "2021-05-08T12:31:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2.2",
+            "tag": "archive/v0.1.2.2",
+            "upstream_commit": "3373f0d69eeac02c7aa476dbc2b54e32bcf08a37",
+            "archive_commit": "1297cfe14b8bcfd71eedeb2060c0e7abb6db3b59",
+            "released": "2021-06-08T15:14:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

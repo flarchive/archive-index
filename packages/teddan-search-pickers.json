@@ -1,0 +1,31 @@
+{
+    "package": "teddan/search-pickers",
+    "upstream": "https://github.com/tttteddan/flarum-search-pickers",
+    "packagistUrl": "https://packagist.org/packages/teddan/search-pickers",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "19c2bf7ba88c156cfc4c5161eb574032ffae07a5",
+            "archive_commit": "a4548e0f2b8418e1b8c043988408dad083850150",
+            "released": "2026-09-05T23:33:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "04a40e91da2ad0daacea0c53bf2d432aa9da9343",
+            "archive_commit": "f15f08d1cedfe53d1898d43db802b1b6b90fdf21",
+            "released": "2026-09-06T00:12:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

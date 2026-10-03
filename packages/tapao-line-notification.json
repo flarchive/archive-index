@@ -1,0 +1,43 @@
+{
+    "package": "tapao/line-notification",
+    "upstream": "https://github.com/Tapao-NonSen/LINE-Notification",
+    "packagistUrl": "https://packagist.org/packages/tapao/line-notification",
+    "versions": [
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "4ea1860ea9ab62358604574f20d5e2a72852a2e8",
+            "archive_commit": "89fbc07b501144fb1f912143043519b03e31f949",
+            "released": "2026-07-05T10:53:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "abea8a46006acbc5ee42ebea2cc20dbd9e111538",
+            "archive_commit": "d1579dc70b8e468a0d3cf45b6e7a65df5dd1a51a",
+            "released": "2026-07-09T07:55:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.6",
+            "tag": "archive/v1.1.6",
+            "upstream_commit": "8de94c88349248a0e0985d899c34f0f8ef71851d",
+            "archive_commit": "21ee06da3bc3322f600f89c0076028a3b5332ca1",
+            "released": "2026-07-04T18:08:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

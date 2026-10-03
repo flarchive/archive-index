@@ -1,0 +1,31 @@
+{
+    "package": "tavoweb/flarum-lang-lithuanian",
+    "upstream": "https://github.com/tavoweb/flarum-lang-lithuanian",
+    "packagistUrl": "https://packagist.org/packages/tavoweb/flarum-lang-lithuanian",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5814fd60301740b72b22be31a0fd55f22d2534c1",
+            "archive_commit": "2f80d7fa2a42452d62aef2d738d4d49cdeeaac99",
+            "released": "2022-03-02T11:16:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "05e089ac4e94e9ab5a86da489034528fe741c0c0",
+            "archive_commit": "7b6c19fcff1fc1924959348143098bf4ab76ca16",
+            "released": "2022-03-02T11:46:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

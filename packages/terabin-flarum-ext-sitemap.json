@@ -1,0 +1,43 @@
+{
+    "package": "terabin/flarum-ext-sitemap",
+    "upstream": "https://github.com/terabin/flarum-ext-sitemap",
+    "packagistUrl": "https://packagist.org/packages/terabin/flarum-ext-sitemap",
+    "versions": [
+        {
+            "version": "v1.0.0-beta.2",
+            "tag": "archive/v1.0.0-beta.2",
+            "upstream_commit": "24302c1c6d83daf129dc6aa17732addf0f1d79c5",
+            "archive_commit": "1acf999e626b025323f0e377101806967dfe64e5",
+            "released": "2016-09-03T00:22:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1-beta.2",
+            "tag": "archive/v1.0.1-beta.2",
+            "upstream_commit": "b3fa6233ef40ca178b6928b5a187f0d4aa86a929",
+            "archive_commit": "c3524be11803e24d936e4e141280548ee6be4838",
+            "released": "2016-09-04T15:54:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2-beta.2",
+            "tag": "archive/v1.0.2-beta.2",
+            "upstream_commit": "2d4df9ee69aebe7b0dab83b4e7dfd9ee369691a7",
+            "archive_commit": "fecf91b48279894be00e5231445c85d84bc3cd70",
+            "released": "2016-11-17T19:09:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

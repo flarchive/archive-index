@@ -1,0 +1,31 @@
+{
+    "package": "tapao/custom-landing-page",
+    "upstream": "https://github.com/Tapao-NonSen/Custom-Landing-Page",
+    "packagistUrl": "https://packagist.org/packages/tapao/custom-landing-page",
+    "versions": [
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "9c2fe72593333d354591713b77620a27ad282ef0",
+            "archive_commit": "3e164f66791386d0233ecb2202206b4b49f0dac5",
+            "released": "2026-06-27T17:05:54+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.6",
+            "tag": "archive/v2.1.6",
+            "upstream_commit": "bb6595c053de5b6b98fea3ca3bb1591994b94324",
+            "archive_commit": "a932013b3a4cbec458d800603061b0763569e48b",
+            "released": "2026-07-05T12:08:57+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

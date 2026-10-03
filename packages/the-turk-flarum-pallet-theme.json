@@ -1,0 +1,55 @@
+{
+    "package": "the-turk/flarum-pallet-theme",
+    "upstream": "https://github.com/the-turk/flarum-pallet-theme",
+    "packagistUrl": "https://packagist.org/packages/the-turk/flarum-pallet-theme",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": null,
+            "upstream_commit": "76e927f7a3aea2d63ae940650457c3e899f72725",
+            "archive_commit": null,
+            "released": "2021-06-15T17:51:05+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta.2",
+            "tag": null,
+            "upstream_commit": "ce7ed952510f532de4633c032fb69f307b184074",
+            "archive_commit": null,
+            "released": "2021-06-17T18:29:40+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta.3",
+            "tag": null,
+            "upstream_commit": "b1d785f06511657b41fe70135e611d63090175cb",
+            "archive_commit": null,
+            "released": "2021-06-17T20:36:08+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta.4",
+            "tag": null,
+            "upstream_commit": "bac4b9586cd6643c8fc1fe364024613dff01949a",
+            "archive_commit": null,
+            "released": "2021-06-17T20:45:03+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "tapao/co-authors",
+    "upstream": "https://github.com/Tapao-NonSen/Co-Author",
+    "packagistUrl": "https://packagist.org/packages/tapao/co-authors",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c88e99a45bacff6fbaf11b40259cd20a9d6eded0",
+            "archive_commit": "71993b8dd8f7b1d5cb850edbcd461edae2b35ac0",
+            "released": "2026-07-19T15:45:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
