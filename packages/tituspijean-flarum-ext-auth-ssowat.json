@@ -1,0 +1,91 @@
+{
+    "package": "tituspijean/flarum-ext-auth-ssowat",
+    "upstream": "https://github.com/tituspijean/flarum-ext-auth-ssowat",
+    "packagistUrl": "https://packagist.org/packages/tituspijean/flarum-ext-auth-ssowat",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.10-1",
+            "tag": "archive/v0.1.0-beta.10-1",
+            "upstream_commit": "260f07d679f5b0e81116b535e40977b8ebb1fbcd",
+            "archive_commit": "23f349cabebf958c161713b35c4375c8eb0df872",
+            "released": "2019-09-16T20:30:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.10-2",
+            "tag": "archive/v0.1.0-beta.10-2",
+            "upstream_commit": "b605a1f2ec7fa142e20cb65e2fbf7b83d4f0d5b7",
+            "archive_commit": "99a7bf961053dd78957f544bfd0a592fd0b347cb",
+            "released": "2019-09-23T18:50:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.12",
+            "tag": "archive/v0.1.0-beta.12",
+            "upstream_commit": "f3ad4753ed9de8dec7627f79d3284986f6bd6a57",
+            "archive_commit": "526c1ac8e311157967cb2e944585f707f3db49d8",
+            "released": "2020-03-18T19:38:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.13-1",
+            "tag": "archive/v0.1.0-beta.13-1",
+            "upstream_commit": "41da39a2e5476468520fc448bd9d13aee402d799",
+            "archive_commit": "6bea5d1120f30b11fd2af53d05e427461e4f5fe4",
+            "released": "2020-07-25T19:50:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.13-2",
+            "tag": "archive/v0.1.0-beta.13-2",
+            "upstream_commit": "49b5c0af09002720e1bdafc3a72e4288e9f91557",
+            "archive_commit": "84920ddb6861a01beef05f58ca2931f5854f6e78",
+            "released": "2020-09-15T13:06:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.14-1",
+            "tag": "archive/v0.1.0-beta.14-1",
+            "upstream_commit": "5c0570b76c16e60d902f6881a4b239c36be49ffc",
+            "archive_commit": "44177035b7df8ae469a197b3ab93c65fe1cffa79",
+            "released": "2020-10-24T14:09:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.9-1",
+            "tag": "archive/v0.1.0-beta.9-1",
+            "upstream_commit": "b2db96977eb4a76fbe00e1d704581ce19d327c70",
+            "archive_commit": "a8282cc3a351c4920be077572a92b9996ae67abc",
+            "released": "2019-08-25T08:32:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

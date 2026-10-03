@@ -1,0 +1,55 @@
+{
+    "package": "the-turk/flarum-quiet-edits",
+    "upstream": "https://github.com/the-turk/flarum-quiet-edits",
+    "packagistUrl": "https://packagist.org/packages/the-turk/flarum-quiet-edits",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "b3d6be12db228463f394f1b4216bae5a3fc959b0",
+            "archive_commit": null,
+            "released": "2020-02-27T22:44:42+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.1",
+            "tag": null,
+            "upstream_commit": "7b043498d7d44351b158b88bc1427cf1000aaeef",
+            "archive_commit": null,
+            "released": "2020-03-04T19:21:15+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.2",
+            "tag": null,
+            "upstream_commit": "dc375d891f73e6861a61f7f44a2e8ef0c0a770ce",
+            "archive_commit": null,
+            "released": "2020-05-08T18:50:02+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.3",
+            "tag": null,
+            "upstream_commit": "1557c61cb8613d9cd0cab1598ea787540dcbc0de",
+            "archive_commit": null,
+            "released": "2021-06-27T14:46:54+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "thesilwar/flarum-bbcode-button",
+    "upstream": "https://github.com/thesilwar/flarum-bbcode-button",
+    "packagistUrl": "https://packagist.org/packages/thesilwar/flarum-bbcode-button",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "132e1051acdabf3469ab727c36ad507ef5e173ef",
+            "archive_commit": "aceb16548c9aeee85e263e73d76fdbccbefa70ae",
+            "released": "2026-06-23T14:26:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "a6727acb03a1b0526be600aecee375110ad45bfb",
+            "archive_commit": "c4be9966b111b31a92ca91e0dc41532fda8ed017",
+            "released": "2026-06-23T14:35:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

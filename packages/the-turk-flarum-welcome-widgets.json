@@ -1,0 +1,43 @@
+{
+    "package": "the-turk/flarum-welcome-widgets",
+    "upstream": "https://github.com/the-turk/flarum-welcome-widgets",
+    "packagistUrl": "https://packagist.org/packages/the-turk/flarum-welcome-widgets",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "6de6039f5928180ae6ebb07a2a5037259a12518e",
+            "archive_commit": null,
+            "released": "2020-07-17T20:37:05+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.1",
+            "tag": null,
+            "upstream_commit": "e85f90558f75e80afcc1d804d8b07c5f693fc147",
+            "archive_commit": null,
+            "released": "2020-07-17T20:52:47+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.2",
+            "tag": null,
+            "upstream_commit": "97da3f3a21310b2fd5cf3638466cba02bbb018c9",
+            "archive_commit": null,
+            "released": "2020-07-19T18:39:40+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "thesilwar/flarum-ext-copy-code-to-clipboard",
+    "upstream": "https://github.com/thesilwar/flarum-ext-copy-code-to-clipboard",
+    "packagistUrl": "https://packagist.org/packages/thesilwar/flarum-ext-copy-code-to-clipboard",
+    "versions": [
+        {
+            "version": "v2.3.0",
+            "tag": "archive/v2.3.0",
+            "upstream_commit": "87a269578db849d76a36f8ef7c9753f4ac572e84",
+            "archive_commit": "15c8c259d34c30545c2cddfcdcac2c6e9d3a7812",
+            "released": "2026-07-29T03:35:11+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.8 || ^2.0.0@beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

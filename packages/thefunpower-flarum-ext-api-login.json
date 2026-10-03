@@ -1,0 +1,31 @@
+{
+    "package": "thefunpower/flarum-ext-api-login",
+    "upstream": "https://github.com/thefunpower/flarum-ext-api-login",
+    "packagistUrl": "https://packagist.org/packages/thefunpower/flarum-ext-api-login",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c1279a6882a79ac57bcfe93c4b20f81c42ae57a2",
+            "archive_commit": "29124320c49b3133a2f946494dd963efd21ea9f1",
+            "released": "2024-07-30T07:53:33+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b181f667345e97eb57a16b671bcd8a3ea6f379cf",
+            "archive_commit": "1df091d81501dbefaad36b99d3e5e0ce268259a3",
+            "released": "2024-08-01T06:31:22+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

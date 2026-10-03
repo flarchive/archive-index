@@ -1,0 +1,43 @@
+{
+    "package": "the-turk/flarum-stargazing-theme",
+    "upstream": "https://github.com/the-turk/flarum-stargazing-theme",
+    "packagistUrl": "https://packagist.org/packages/the-turk/flarum-stargazing-theme",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": null,
+            "upstream_commit": "29c5d2e4a3db149be2be087185bacdd628ff54eb",
+            "archive_commit": null,
+            "released": "2020-03-05T19:20:16+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": null,
+            "upstream_commit": "f49068cd70d52c8886ee496798d8a66ae3d3d6fd",
+            "archive_commit": null,
+            "released": "2020-02-03T21:59:44+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.2",
+            "tag": null,
+            "upstream_commit": "507a90b3fb4f24c177c43aa6a1100d72f6de0ba3",
+            "archive_commit": null,
+            "released": "2020-02-09T17:29:05+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "tokenjenny/flarum-ext-web3",
+    "upstream": "https://github.com/tokenjenny/flarum-ext-web3",
+    "packagistUrl": "https://packagist.org/packages/tokenjenny/flarum-ext-web3",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "150f698113b932cce29c0fd9d8fb8ee578a72fd6",
+            "archive_commit": "b10b7ffa856a16ef0278dc13dd1c46148b702d8f",
+            "released": "2021-11-04T19:11:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "f1108cf9e479e5b3097600ece7357c36de30a243",
+            "archive_commit": "94329c3a13c7731cf3cb6970b5447223562ed25a",
+            "released": "2021-11-21T09:50:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
