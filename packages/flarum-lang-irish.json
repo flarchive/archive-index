@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/irish",
+    "upstream": "https://github.com/flarum-lang/irish",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/irish",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2bb70473b65caad698ff667230f00c3b3ab221dc",
+            "archive_commit": "e370ba50aa91a6174cf2f67c9fd6228d57f30d5c",
+            "released": "2026-09-30T07:34:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "901493a893f7ff181d7bd72d85efce62ffb5a5ac",
+            "archive_commit": "8089c9d5223d4a50301599b89a59f7a11f6564ca",
+            "released": "2026-09-30T07:41:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

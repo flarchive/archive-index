@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/kazakh",
+    "upstream": "https://github.com/flarum-lang/kazakh",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/kazakh",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4a83940990bf8ec08947ee9c31836994335a8360",
+            "archive_commit": "4bd93aa0ff37f616b4720f8992090357a8fd1ef2",
+            "released": "2026-09-30T07:40:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "4729a224dfa74c0ba5a08aa08f5af3215c9c8cec",
+            "archive_commit": "9d24b292bab89a9efb7d4fb4fd5f4e8b7023aa60",
+            "released": "2026-09-30T07:46:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

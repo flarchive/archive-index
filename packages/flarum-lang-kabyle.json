@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/kabyle",
+    "upstream": "https://github.com/flarum-lang/kabyle",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/kabyle",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9b432f15d536a3dbf9fef58a30c56bb45da521e9",
+            "archive_commit": "f41f93bdc68cd6ca888262c7d93466cf78cc48dc",
+            "released": "2026-09-30T07:39:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "3f3bc171bb54eef48265c106a5ca2b4595a1bb47",
+            "archive_commit": "8cefb2638dcd6a94d966f0fabb1125cd7ac3aeaf",
+            "released": "2026-09-30T07:46:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

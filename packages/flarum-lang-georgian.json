@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/georgian",
+    "upstream": "https://github.com/flarum-lang/georgian",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/georgian",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4c28784bb2b39900f07903511ac93ba43711e47a",
+            "archive_commit": "c52e39917de2e5942564c16050265336a33da640",
+            "released": "2026-09-30T07:38:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "5dcfea8b97c37975487a2b412298d5c71bfd3dbb",
+            "archive_commit": "b0f8ab832fe5f4ae62b80ef28ec1e74f41c0af66",
+            "released": "2026-09-30T07:45:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
