@@ -1,0 +1,19 @@
+{
+    "package": "vuthaihoc/flarum-language-vi",
+    "upstream": "https://github.com/vuthaihoc/flarum-language-vi",
+    "packagistUrl": "https://packagist.org/packages/vuthaihoc/flarum-language-vi",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "667c39e1980a761c195563fdc47a5ee113731c63",
+            "archive_commit": "f55395766438f98d285c907258056017a873dce1",
+            "released": "2016-01-19T10:12:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

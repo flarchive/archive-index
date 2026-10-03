@@ -1,0 +1,19 @@
+{
+    "package": "vingle/flarum-like-share-facebook",
+    "upstream": "https://github.com/tutula1/vingle-like-share-facebook",
+    "packagistUrl": "https://packagist.org/packages/vingle/flarum-like-share-facebook",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "888396926c67a14bfb6f32a630408f36786ca1e8",
+            "archive_commit": "7649caf1a183eff04f2c32f5badf99b618ed8c73",
+            "released": "2015-12-10T18:47:19+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

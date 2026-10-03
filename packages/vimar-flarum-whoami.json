@@ -1,0 +1,19 @@
+{
+    "package": "vimar/flarum-whoami",
+    "upstream": "https://github.com/vimar/flarum-whoami",
+    "packagistUrl": "https://packagist.org/packages/vimar/flarum-whoami",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2d409e25bfcdf7c250e5a0f00108fe222b66d2b5",
+            "archive_commit": "eb0310958d9beff323b38961098d3b5282a1e013",
+            "released": "2023-11-07T13:18:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

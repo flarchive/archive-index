@@ -1,0 +1,31 @@
+{
+    "package": "v17development/flarum-third-party-login-only",
+    "upstream": "https://github.com/v17development/flarum-third-party-login-only",
+    "packagistUrl": "https://packagist.org/packages/v17development/flarum-third-party-login-only",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f8c6d55ebe41694fa8488c578298ea0db57d6682",
+            "archive_commit": "15873b150649e9a7b2a5a8a8c70084b73404c0c9",
+            "released": "2021-08-03T09:35:28+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "5d4a7edf6079d9830fd347b862db418b71eaa93f",
+            "archive_commit": "0fd0c9277c3230e388555010616fba0df0d7a20c",
+            "released": "2021-08-08T11:40:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

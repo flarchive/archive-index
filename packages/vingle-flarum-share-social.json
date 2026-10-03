@@ -1,0 +1,19 @@
+{
+    "package": "vingle/flarum-share-social",
+    "upstream": "https://github.com/tutula1/vingle-share-social",
+    "packagistUrl": "https://packagist.org/packages/vingle/flarum-share-social",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0ce19c16e926c1d42e091218e627ec56be073506",
+            "archive_commit": "a33205d62527feee66560a92b907c8828e27b069",
+            "released": "2015-12-13T10:36:14+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

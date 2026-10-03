@@ -1,0 +1,31 @@
+{
+    "package": "vasyltech/flarum-algolia-search",
+    "upstream": "https://github.com/VasylTech/flarum-algolia-search",
+    "packagistUrl": "https://packagist.org/packages/vasyltech/flarum-algolia-search",
+    "versions": [
+        {
+            "version": "1.0.0-alpha.1",
+            "tag": "archive/v1.0.0-alpha.1",
+            "upstream_commit": "add740962bb2f1cc4ec21a84fdb79e68e974fdf1",
+            "archive_commit": "4cc8e5d29db2cf1f56f71481b59545734354369d",
+            "released": "2019-04-03T09:52:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "0.1.0-beta.8.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0-alpha.2",
+            "tag": "archive/v1.0.0-alpha.2",
+            "upstream_commit": "381538b7921bee33c269e4df733d2468461c2f49",
+            "archive_commit": "5c283c0939646d5e043820e0065f2a8dd6388439",
+            "released": "2019-07-16T01:47:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

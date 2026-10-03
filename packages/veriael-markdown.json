@@ -1,0 +1,55 @@
+{
+    "package": "veriael/markdown",
+    "upstream": "https://github.com/Veriael/markdown",
+    "packagistUrl": "https://packagist.org/packages/veriael/markdown",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "e88d0ed8fef97b7080651cd2336a5699b5c3e5f4",
+            "archive_commit": "258392850bb6ca579f320012597851d7f5e3e206",
+            "released": "2019-09-19T15:31:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "7109791ce0524ca81826a0e21d638ff42d4799d3",
+            "archive_commit": "2dd631d14aea734091e1f6024152f780ce34a30f",
+            "released": "2019-09-19T16:05:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "c79a5079ef8bb007f6e55f287308e632836a1142",
+            "archive_commit": "1e02260e7018aa8bb8d3c95a78bb440e90b4787b",
+            "released": "2019-09-19T20:47:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2.1",
+            "tag": "archive/v1.0.2.1",
+            "upstream_commit": "53c55620626d9ee31d48841bfeaba137fa4f9b96",
+            "archive_commit": "66aa08e8f2345930fb33437d46ff9664345d2b34",
+            "released": "2019-09-30T09:33:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

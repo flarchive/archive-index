@@ -1,0 +1,31 @@
+{
+    "package": "vovayatsyuk/flarum-ext-auth-magento",
+    "upstream": "https://github.com/vovayatsyuk/flarum-ext-auth-magento",
+    "packagistUrl": "https://packagist.org/packages/vovayatsyuk/flarum-ext-auth-magento",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "5666cd0af16f20080db22905007aaacfbe75ba2a",
+            "archive_commit": "a24eea380a1f9240c2344e558524cfd98058eef4",
+            "released": "2016-01-27T09:38:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.2",
+            "tag": "archive/v0.1.0-beta.2",
+            "upstream_commit": "fb86ef6d0b7a71d78efa2e97719cb8734bd441cf",
+            "archive_commit": "84c1e0b60fbbaea28bf72ed3be51ce541caea7f8",
+            "released": "2016-01-28T14:29:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

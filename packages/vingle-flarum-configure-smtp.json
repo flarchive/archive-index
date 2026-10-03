@@ -1,0 +1,31 @@
+{
+    "package": "vingle/flarum-configure-smtp",
+    "upstream": "https://github.com/tutula1/vingle-configure-smtp",
+    "packagistUrl": "https://packagist.org/packages/vingle/flarum-configure-smtp",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "13def6d9ad319ae8171d089c9ffb49faf21f55c7",
+            "archive_commit": "27b9f9aaaf5e69c926e528329e82d65ff30bce69",
+            "released": "2015-12-09T01:24:01+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "52cd54cb143715be553dc11f023da0cd9502c345",
+            "archive_commit": "58fe4915ed94121edecaf2853a8fd1ea7b4cc259",
+            "released": "2016-04-07T04:07:17+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
