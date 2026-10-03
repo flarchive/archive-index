@@ -1,0 +1,43 @@
+{
+    "package": "m4v3rick4git/flarum-lineup",
+    "upstream": "https://github.com/m4v3rick4git/flarum-lineup",
+    "packagistUrl": "https://packagist.org/packages/m4v3rick4git/flarum-lineup",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "64e80f55a806b44f24c8fbe134ed573926ef96da",
+            "archive_commit": "70ab95cafb9401724d3ebb33f3cc667d654e785f",
+            "released": "2026-08-04T22:09:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "8298e4c5534866328711d1ad3d26abbe678a4d8e",
+            "archive_commit": "0301ba7fafe7596bcedcf2ac3f65b652dbf9f10f",
+            "released": "2026-08-07T20:43:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "b68261d283f4c84a229519f3e258593e8f98f98b",
+            "archive_commit": "47fd1ae1b1b5fc7c47ff64bd2c9ecf9a408ee7b2",
+            "released": "2026-08-07T22:55:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

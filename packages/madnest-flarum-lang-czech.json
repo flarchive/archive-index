@@ -1,0 +1,43 @@
+{
+    "package": "madnest/flarum-lang-czech",
+    "upstream": "https://github.com/madnest/flarum-lang-czech",
+    "packagistUrl": "https://packagist.org/packages/madnest/flarum-lang-czech",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.11",
+            "tag": "archive/v0.1.0-beta.11",
+            "upstream_commit": "a6701a15888285c351bafc2829ca97610b3ea8f8",
+            "archive_commit": "8add8991befde324e5fd02fed50fe60ca96987ae",
+            "released": "2020-01-26T21:19:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.14.1",
+            "tag": "archive/v0.1.0-beta.14.1",
+            "upstream_commit": "462fbe672444ffcdeabe624bf3302443d6902291",
+            "archive_commit": "6f74d4bfe2d40c0abd123084db4b1f5de795b861",
+            "released": "2020-11-30T00:58:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f1e04a9434d765705b2528145f4a05e7beb6de0a",
+            "archive_commit": "caf73aa821b5fe10d93b967dfa1ccb19dff53c2a",
+            "released": "2021-06-14T15:20:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

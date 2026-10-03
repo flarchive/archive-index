@@ -1,0 +1,43 @@
+{
+    "package": "madraka/lang-turkish",
+    "upstream": "https://github.com/Madraka/lang-turkish",
+    "packagistUrl": "https://packagist.org/packages/madraka/lang-turkish",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.8",
+            "tag": "archive/v0.1.0-beta.8",
+            "upstream_commit": "e1df3a9d9d0b0400841951f22a6ad93af0c74d7b",
+            "archive_commit": "98052816292480a54647330498dc742f0ee146a0",
+            "released": "2018-12-01T00:16:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.1",
+            "tag": "archive/v0.1.0-beta.8.1",
+            "upstream_commit": "b3b7cae346967365638550c195d6ce4cf36e777c",
+            "archive_commit": "ffbb91a1b5d0c1f1e79148ef983c965f621a5e17",
+            "released": "2018-12-22T01:36:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.9",
+            "tag": "archive/v0.1.0-beta.9",
+            "upstream_commit": "8170346da6e195f1d08861d02e2a930bf7f74fb7",
+            "archive_commit": "d68e1da801055f93258a26c1f689e44a66723a56",
+            "released": "2019-07-13T20:49:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

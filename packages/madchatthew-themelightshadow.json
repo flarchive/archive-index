@@ -1,0 +1,67 @@
+{
+    "package": "madchatthew/themelightshadow",
+    "upstream": "https://github.com/Madchatthew/themelightshadow",
+    "packagistUrl": "https://packagist.org/packages/madchatthew/themelightshadow",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "9b311df207ad2672d1af32a6325cf88c289daf72",
+            "archive_commit": "de26306264a3fc67697e270c1b600acb9a33f5ea",
+            "released": "2018-10-20T11:59:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "575adf1e3d2509480ae6c605c4c5bd14ec9c80db",
+            "archive_commit": "8cd3d8d966621954f9d48a5e1ae21cde04a97407",
+            "released": "2019-03-18T23:04:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "acb5e07151b3047d3d05edc085aa576579902cf5",
+            "archive_commit": "20de631087b87dedc7b744b2b43e3de10da56382",
+            "released": "2020-02-03T06:18:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.11.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "fd1d58319e2f40eda3c56fb15a9ba78cae3cc283",
+            "archive_commit": "7d40ae66ba412dc1a4d73c5aa959629620688c5e",
+            "released": "2022-05-20T05:36:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "e1e3cd2a7dcc846b8688058197584dc52ed3e825",
+            "archive_commit": "d68ff5ac6eef7ba79c7b389fd3dc8fa49a90bd31",
+            "released": "2022-05-20T16:50:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

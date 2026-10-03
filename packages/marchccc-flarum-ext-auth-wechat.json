@@ -1,0 +1,19 @@
+{
+    "package": "marchccc/flarum-ext-auth-wechat",
+    "upstream": "https://github.com/Marchccc/flarum-ext-auth-wechat",
+    "packagistUrl": "https://packagist.org/packages/marchccc/flarum-ext-auth-wechat",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.15",
+            "tag": "archive/v0.1.0-beta.15",
+            "upstream_commit": "9c24c768a0f39ff9b6ef3e217309a91444980e9a",
+            "archive_commit": "fc91af8aabadf3e742af5d898d3116abab134b25",
+            "released": "2021-01-28T10:23:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

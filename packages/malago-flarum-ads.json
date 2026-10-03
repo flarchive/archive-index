@@ -1,0 +1,55 @@
+{
+    "package": "malago/flarum-ads",
+    "upstream": "https://github.com/malago86/flarum-ads",
+    "packagistUrl": "https://packagist.org/packages/malago/flarum-ads",
+    "versions": [
+        {
+            "version": "0.2.8",
+            "tag": "archive/v0.2.8",
+            "upstream_commit": "f092e109a917e9797a5597e9f28fa17f6c740dca",
+            "archive_commit": "1ba7179c08af9ead83edb0748bb23e9a95d96a1b",
+            "released": "2020-12-15T17:30:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "9f981f29a7ae3f6bb34833af4e6d62acd7855368",
+            "archive_commit": "6eb71a0264790671282e60d00e13ebea1cc8247a",
+            "released": "2021-05-31T17:59:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "archive/v0.3.1",
+            "upstream_commit": "e9428701d574944a91130bbbc3f5060dbf9056be",
+            "archive_commit": "9b6a6c5880dcb037fa78f0567e1972ba500a9423",
+            "released": "2021-06-03T02:21:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.2",
+            "tag": "archive/v0.3.2",
+            "upstream_commit": "dd9b280018c865af8be5ab839e00d6b14a396cf7",
+            "archive_commit": "196126a53169db3aa124dfa850be78394a5b0c43",
+            "released": "2021-07-07T20:35:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

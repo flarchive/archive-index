@@ -1,0 +1,43 @@
+{
+    "package": "malago/flarum-linkpreview",
+    "upstream": "https://github.com/malago86/flarum-linkpreview",
+    "packagistUrl": "https://packagist.org/packages/malago/flarum-linkpreview",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "5be0035853e40e39750aa3b2103c28a2db9c68bd",
+            "archive_commit": "eedc9709464d1ca9f1d22451f7aac1c4ca920b1d",
+            "released": "2021-07-01T20:09:37+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "f0f961f9cd37e3bc3ea4ed74def9825edbdfc9f2",
+            "archive_commit": "d951fa7730931d119699eddffb9863b85695063d",
+            "released": "2021-07-18T18:09:16+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "2882c231d685c25e95aa80325c3d7239e9bcea4d",
+            "archive_commit": "acc2a9f5236551cdba09437e757e9804c388c7ae",
+            "released": "2021-07-19T20:26:12+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

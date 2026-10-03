@@ -1,0 +1,55 @@
+{
+    "package": "manaszon/flarum-ext-hungarian",
+    "upstream": "https://github.com/manaszon/flarum-ext-hungarian",
+    "packagistUrl": "https://packagist.org/packages/manaszon/flarum-ext-hungarian",
+    "versions": [
+        {
+            "version": "v1.0b",
+            "tag": "archive/v1.0b",
+            "upstream_commit": "88db637df7e9376eff38d3d453007e96eacf60a3",
+            "archive_commit": "71840d34d6e3b5c652e0f3ab58be589cfece0de7",
+            "released": "2018-02-05T18:27:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "2b72c00cdb20db54cafeb1548598ef4f893b1f5f",
+            "archive_commit": "dbddbe9c6cf5cc87cc532a319d587535ccd97750",
+            "released": "2019-01-06T01:56:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "35ce4eb2132ca461776860d8ad4a6938d680f97e",
+            "archive_commit": "a5df94f499d7725d9f6711854b94afebe4c12946",
+            "released": "2019-01-14T23:58:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "4d49673f9df2dff1e1dcc0fa96597b83382a5289",
+            "archive_commit": "cb54e9cfdeec71a71438cade50faa4ab499fb91f",
+            "released": "2020-04-12T20:00:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

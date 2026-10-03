@@ -1,0 +1,79 @@
+{
+    "package": "maicol07/mason",
+    "upstream": "https://github.com/maicol07/mason",
+    "packagistUrl": "https://packagist.org/packages/maicol07/mason",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c054cd83b631c544e909b33fd00c0080eb2ff3e8",
+            "archive_commit": "f55846b7834e729aea7d369af270456b00bb5035",
+            "released": "2017-10-05T17:21:32+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "5477b720f3a4af67f5c2e32b9de140dc93a112eb",
+            "archive_commit": "b7ce308cf19cc18fd900eccac4d6344389de89b6",
+            "released": "2017-10-05T19:40:23+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "ee62c814f8e50d7d4e2f9ce0b22217fabff2d0de",
+            "archive_commit": "9e78ad722b4b25aaa42ead8457856be690feb161",
+            "released": "2017-10-24T14:24:33+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "bcc735e70806713a18b81293870a96faaf7f3eef",
+            "archive_commit": "2b2f8fdd9072c54f87b5522c98509c019a3b34d2",
+            "released": "2019-02-17T17:41:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "archive/v0.3.1",
+            "upstream_commit": "50b7050edd9f2e3d317caf70909f72d7a8c93c52",
+            "archive_commit": "12de2b18f386a1820da3fadf4e021b9772599bd4",
+            "released": "2019-05-04T20:01:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4",
+            "tag": "archive/v0.4",
+            "upstream_commit": "d012bdf688985aa8745c4ab0b1169c70baf03a78",
+            "archive_commit": "996aaa58b09c3ff31de96abce17bc6154a24d5f0",
+            "released": "2020-07-18T08:38:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

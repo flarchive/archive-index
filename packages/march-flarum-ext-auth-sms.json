@@ -1,0 +1,19 @@
+{
+    "package": "march/flarum-ext-auth-sms",
+    "upstream": "https://github.com/Marchccc/flarum-ext-auth-sms",
+    "packagistUrl": "https://packagist.org/packages/march/flarum-ext-auth-sms",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "fba66acda5d55a4465c0335860eadcef9c5eb6e6",
+            "archive_commit": "1656ff12a8b565a0c1603b1f6c2f6f3dfd1a6741",
+            "released": "2021-03-08T09:17:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

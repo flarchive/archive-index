@@ -1,0 +1,103 @@
+{
+    "package": "malago/flarum-ext-fancybox",
+    "upstream": "https://github.com/malago86/flarum-ext-fancybox",
+    "packagistUrl": "https://packagist.org/packages/malago/flarum-ext-fancybox",
+    "versions": [
+        {
+            "version": "0.1-beta",
+            "tag": "archive/v0.1-beta",
+            "upstream_commit": "caaed8ff2501a5bdba2811262c95f1960fb53092",
+            "archive_commit": "29ac0cc9a7d333e0badfd7a167f8ac860456c4fd",
+            "released": "2019-04-01T22:59:41+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2-beta",
+            "tag": "archive/v0.2-beta",
+            "upstream_commit": "1fb6e7b84f97bf08e3d25d0f85f631ae8659eb25",
+            "archive_commit": "fcd8c464fdb9e5c39ae631ecaf706f3c14cf7917",
+            "released": "2019-05-01T05:15:15+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0-beta.2",
+            "tag": "archive/v0.2.0-beta.2",
+            "upstream_commit": "1c94c20a0ed1700f6f578a33b161636d9d17f04e",
+            "archive_commit": "3b3fbe1def273f0bb30ffb2bf37ac81d5d7f3274",
+            "released": "2020-05-22T15:04:10+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0-beta.3",
+            "tag": "archive/v0.2.0-beta.3",
+            "upstream_commit": "ac7d152c89135f4ce822197cd6ca3e5088cad4df",
+            "archive_commit": "6317de0ca3804866f48b92d373475e7b74e612e0",
+            "released": "2020-05-22T19:08:16+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0-beta.4",
+            "tag": "archive/v0.2.0-beta.4",
+            "upstream_commit": "4d0ba869b893f4245b7ea086a3cadc27b368fa23",
+            "archive_commit": "15fc677358926f97365a5110eced5bf07cbcf418",
+            "released": "2020-05-22T22:40:04+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0-beta.5",
+            "tag": "archive/v0.2.0-beta.5",
+            "upstream_commit": "ba2df2f69295064d7e3298dd30d1e0039dbd4fa5",
+            "archive_commit": "f16c5741a2ccc5636b74c1c6fecfe624c627033f",
+            "released": "2021-01-27T22:00:05+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "9c6553f15de961e9f41159e4b1f5750c49fb6f96",
+            "archive_commit": "6de39a99f5d1b91aa775d5fe08e0a3ef7c0fb5d2",
+            "released": "2021-01-30T22:31:44+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "5921ed85cada59696b12cdc28276460075e391cb",
+            "archive_commit": "6106a77d971f7ac08bec06b15d162fab189b5f0e",
+            "released": "2021-05-28T18:13:38+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

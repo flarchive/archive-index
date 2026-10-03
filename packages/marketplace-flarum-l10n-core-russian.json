@@ -1,0 +1,43 @@
+{
+    "package": "marketplace/flarum-l10n-core-russian",
+    "upstream": "https://github.com/pkgstore/flarum-l10n-core-russian",
+    "packagistUrl": "https://packagist.org/packages/marketplace/flarum-l10n-core-russian",
+    "versions": [
+        {
+            "version": "1.1.1-p1",
+            "tag": null,
+            "upstream_commit": "c03e6cc25ede9bcc3a4d7dbc44b971377c7d031c",
+            "archive_commit": null,
+            "released": "2021-12-05T17:05:15+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1.1-p2",
+            "tag": null,
+            "upstream_commit": "f5095b8728a8984546fde71494ea4729fd7a0f4a",
+            "archive_commit": null,
+            "released": "2021-12-05T19:34:26+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.2.0-p1",
+            "tag": null,
+            "upstream_commit": "808de1c1a3e0b97c803af65655c64ca2c228baa7",
+            "archive_commit": null,
+            "released": "2022-02-18T08:33:55+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.1",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

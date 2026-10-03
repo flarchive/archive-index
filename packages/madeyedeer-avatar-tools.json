@@ -1,0 +1,31 @@
+{
+    "package": "madeyedeer/avatar-tools",
+    "upstream": "https://github.com/MadEyeDeer/avatar-tools",
+    "packagistUrl": "https://packagist.org/packages/madeyedeer/avatar-tools",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "eff6aacf746ffd9c4ab043c4a6c6c7dd5ff1328f",
+            "archive_commit": "13397fd857ae1b7e1a44b76e1b11ed790de1692d",
+            "released": "2024-05-15T13:38:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e2f80b5a17cf864b24fe554b95daa037cf342b7a",
+            "archive_commit": "26fa0019a7101da80a97c7ca72dccbe458ec228a",
+            "released": "2024-05-18T04:02:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
