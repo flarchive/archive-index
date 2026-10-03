@@ -1,0 +1,43 @@
+{
+    "package": "widayn/flarum-avatar-cropper",
+    "upstream": "https://github.com/WiDayn/flarum-avatar-cropper",
+    "packagistUrl": "https://packagist.org/packages/widayn/flarum-avatar-cropper",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b960c9c0d25aff0b6262636191506518633d3772",
+            "archive_commit": "9f9d9a3a1ba2e13c7fb0854e20b2e7744dad6c64",
+            "released": "2023-05-13T01:45:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "f7702b024f2450fee3b111a0657c4a0ee90daf1c",
+            "archive_commit": "36b706934e5a93ab38e2c83f0e45694e062792ac",
+            "released": "2023-05-13T02:31:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "136840637a8c33b11a1cf0eda496c735e6a72172",
+            "archive_commit": "bfb375903b7edeccbf8c147d2e856638daf023d5",
+            "released": "2023-05-13T02:46:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

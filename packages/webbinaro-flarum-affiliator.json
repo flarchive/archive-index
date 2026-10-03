@@ -1,0 +1,67 @@
+{
+    "package": "webbinaro/flarum-affiliator",
+    "upstream": "https://github.com/eddiewebb/flarum-affiliator",
+    "packagistUrl": "https://packagist.org/packages/webbinaro/flarum-affiliator",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "5291b867a9aec4fea54ae257358551c525349042",
+            "archive_commit": "bb6c258d61911ac2e83af5a64aae44ddf798a418",
+            "released": "2022-01-29T18:09:33+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "2bec1c3f12557f8d6b053bc1f8cf42fd41ac787b",
+            "archive_commit": "0d6552cb892dfee9f4897b18ab1946fc896d0952",
+            "released": "2022-02-02T22:07:06+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "b74ccd0583159a6f04b8049c1d9ed2b2cfc6712f",
+            "archive_commit": "aa916765789af4b272f244fd6fc7b2ed6b70ef31",
+            "released": "2022-03-18T23:04:51+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "3c1326658f47c6f94c488e8266ebd14fbc1118f6",
+            "archive_commit": "dbd218fb4cfdca1a84495e85145e86322b4ea4dc",
+            "released": "2022-03-20T12:27:18+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.5",
+            "tag": "archive/v0.0.5",
+            "upstream_commit": "724f27224d34fbf688441783d09e8ff445576030",
+            "archive_commit": "73e1c1362691d25b53a89f6eef46fc65807a293d",
+            "released": "2023-02-07T23:54:19+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "weixinxin1994/flarum-custom-discussions-item",
+    "upstream": "https://github.com/Weixinxin1994/flarum-custom-discussions-item",
+    "packagistUrl": "https://packagist.org/packages/weixinxin1994/flarum-custom-discussions-item",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "728979a771ac6a0f6da578a264d4bb453d412f62",
+            "archive_commit": "0cf51e09f1469127809cd8b9c282a044955e0d6b",
+            "released": "2025-09-29T06:23:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "fa77ff11c17512b5bae7c0828931dd6d669a485e",
+            "archive_commit": "9a04e3dbde3b041443dd2d11783d37797c967fa9",
+            "released": "2025-09-29T06:34:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

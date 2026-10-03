@@ -1,0 +1,31 @@
+{
+    "package": "winckle/grcade-bbcode",
+    "upstream": "https://github.com/frameset/grcade-bbcode",
+    "packagistUrl": "https://packagist.org/packages/winckle/grcade-bbcode",
+    "versions": [
+        {
+            "version": "v0.01",
+            "tag": "archive/v0.01",
+            "upstream_commit": "655892d65484fda484e0389e77f997ababfaff5b",
+            "archive_commit": "5e896c2c9b9c8f6ec3dd5cfafe1a7462cd813b6e",
+            "released": "2024-01-26T15:03:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.02",
+            "tag": "archive/v0.02",
+            "upstream_commit": "13eb2dd5a0cf6130a51eef1158e984f909dded70",
+            "archive_commit": "fcf4626788aed40e910530660f317af4394087c0",
+            "released": "2024-01-26T15:20:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16 || ^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

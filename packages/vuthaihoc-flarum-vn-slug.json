@@ -1,0 +1,19 @@
+{
+    "package": "vuthaihoc/flarum-vn-slug",
+    "upstream": "https://github.com/vuthaihoc/flarum-vn-slug",
+    "packagistUrl": "https://packagist.org/packages/vuthaihoc/flarum-vn-slug",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7f51d92e0815bb270f8cbcc854db6b9fb1d2093b",
+            "archive_commit": "cbefd4197d908264eac5d65860414e5919aeecba",
+            "released": "2016-01-14T16:49:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "package": "wanecho/hello",
+    "upstream": "https://github.com/wanecho/hello",
+    "packagistUrl": "https://packagist.org/packages/wanecho/hello",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "f441a29550c7eec7c3252ca9807361d01db66e4e",
+            "archive_commit": null,
+            "released": "2022-06-26T03:54:23+00:00",
+            "archived": null,
+            "license": "MIT-CMU",
+            "flarum": "^1.2.0",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "c7639da1ccf41ef0a3a48ea7a9a3532ba0584e6e",
+            "archive_commit": null,
+            "released": "2022-06-26T04:33:07+00:00",
+            "archived": null,
+            "license": "MIT-CMU",
+            "flarum": "^1.2.0",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "7443366aa6ebeb5b354a1ce19577a92e983e6358",
+            "archive_commit": "ec1d9724cb5fd36d89f36dc57b71fa9c72c81d7e",
+            "released": "2022-06-26T04:57:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "8de82e12ab9e9bfdc12e9f551d559b6e202da2d5",
+            "archive_commit": "31005cd2b4524ddf102f43b02dcea4d0ad5ba860",
+            "released": "2022-06-26T05:16:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.5",
+            "tag": "archive/v0.0.5",
+            "upstream_commit": "e0304255e136c349be74b59733ae753c5d36773e",
+            "archive_commit": "a49d7641a9ceaaed932ab8a54d60e3f29ff3dc0c",
+            "released": "2022-06-26T07:44:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.6",
+            "tag": "archive/v0.0.6",
+            "upstream_commit": "1d9a5808d1d82ccb0f613018006e82314d8a1671",
+            "archive_commit": "e99bbd441159abf1a48ed44dd91075b67c3940de",
+            "released": "2022-06-26T09:30:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.7",
+            "tag": "archive/v0.0.7",
+            "upstream_commit": "1d9a5808d1d82ccb0f613018006e82314d8a1671",
+            "archive_commit": "84b1ee19d698c317c871a45b6d1f159548046c0e",
+            "released": "2022-06-26T09:30:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.8",
+            "tag": "archive/v0.0.8",
+            "upstream_commit": "068f4bc9a72797ceed2ee2c2af9699499ec602b5",
+            "archive_commit": "0dda452c38bb4d19dfb84d8c1c59c77eac8eb86f",
+            "released": "2022-06-26T15:45:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.9",
+            "tag": "archive/v0.0.9",
+            "upstream_commit": "d49ff70c94bfcfdb8b3af941df1c3995f3873c11",
+            "archive_commit": "7195b89c938e2506449444e4001bf2fed55ae1a1",
+            "released": "2022-06-26T17:48:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "9e1196ff4754a59d0d9d24952f716a198f757152",
+            "archive_commit": "c31d374ec65f40799d297480fe5c4397aa6f0885",
+            "released": "2022-06-27T13:21:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "276c41b7d3d0d9b3d49c5e8285ea13394e1a3316",
+            "archive_commit": "ebebc0bf9f6fc62b038b7c2cd42f7999bb95d3f3",
+            "released": "2022-06-27T15:07:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "8f48f7b784c1e16e1f4e6236f1b7d870574915b9",
+            "archive_commit": "35ce2298521b5ff79adeffca774875e69ef42185",
+            "released": "2022-06-27T15:24:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "1321a0b7e2e7c2cfd62aa27a91506b4bcb7c36cd",
+            "archive_commit": "faf8ad3949f918e8cf1755a30641813d753e4a4d",
+            "released": "2022-06-27T16:14:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

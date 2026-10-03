@@ -1,0 +1,19 @@
+{
+    "package": "whydesd/reply-to-see",
+    "upstream": "https://github.com/whydesd/flarum-ext-reply2see",
+    "packagistUrl": "https://packagist.org/packages/whydesd/reply-to-see",
+    "versions": [
+        {
+            "version": "v1.1.0",
+            "tag": null,
+            "upstream_commit": "198641301dfff0632268e8f02796f21115a666c2",
+            "archive_commit": null,
+            "released": "2021-12-04T07:17:40+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

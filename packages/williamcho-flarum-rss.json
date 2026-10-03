@@ -1,0 +1,19 @@
+{
+    "package": "williamcho/flarum-rss",
+    "upstream": "https://github.com/William1607cho/flarum-ext-rss",
+    "packagistUrl": "https://packagist.org/packages/williamcho/flarum-rss",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9348712fe44e55412df0510d662e17af55a3e823",
+            "archive_commit": "2034fb7cc9ffb75043ab715f390c88fe4bcd913a",
+            "released": "2026-07-29T16:25:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
