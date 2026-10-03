@@ -1,0 +1,43 @@
+{
+    "package": "nodeloc/flarum-ext-essential",
+    "upstream": "https://github.com/nodeloc/flarum-ext-essential",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-ext-essential",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "24c4c88ec300ea0f696b9525611763c117660e1e",
+            "archive_commit": "34f7ee538d2148d298962b2cc894dbae1e156e98",
+            "released": "2024-05-19T15:59:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "46c00c761197e2bba03620005d9426302f3fad6a",
+            "archive_commit": "14ff45ff8d2446ef0b724f0af0abce153014aca5",
+            "released": "2025-02-01T15:07:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "1fc77c0b3c61890bd07c487bf6f3d9c8c854a338",
+            "archive_commit": "3ae2cf2bdd2ea8a32f8afd77ed5360ccee73a075",
+            "released": "2025-02-01T15:51:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

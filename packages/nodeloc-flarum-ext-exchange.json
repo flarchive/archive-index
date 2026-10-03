@@ -1,0 +1,31 @@
+{
+    "package": "nodeloc/flarum-ext-exchange",
+    "upstream": "https://github.com/nodeloc/flarum-ext-exchange",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-ext-exchange",
+    "versions": [
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "c0593fe4c4b84fa030b3f887c33afde7aa8987e0",
+            "archive_commit": "d165627001210e2969e339229490c61fdf45ce28",
+            "released": "2024-05-17T17:49:50+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "8b1a1decc6d4c892620a07f51e59243b9034b692",
+            "archive_commit": "fc6a72820ac2d3d892ac615f4c38973576def210",
+            "released": "2024-12-20T07:21:36+00:00",
+            "archived": "2026-10-03",
+            "license": "LPL-1.02",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

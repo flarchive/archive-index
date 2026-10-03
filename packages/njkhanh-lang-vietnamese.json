@@ -1,0 +1,19 @@
+{
+    "package": "njkhanh/lang-vietnamese",
+    "upstream": "https://github.com/njkhanh/lang-vietnamese",
+    "packagistUrl": "https://packagist.org/packages/njkhanh/lang-vietnamese",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": null,
+            "upstream_commit": "a18c2ccfeec2b6bd700d373775b0f6cf7f6e40b2",
+            "archive_commit": null,
+            "released": "2019-07-13T10:02:14+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

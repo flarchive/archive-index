@@ -1,0 +1,43 @@
+{
+    "package": "nikovonlas/flarum-ext-auth-vk",
+    "upstream": "https://github.com/NikoVonLas/flarum-ext-auth-vk",
+    "packagistUrl": "https://packagist.org/packages/nikovonlas/flarum-ext-auth-vk",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "archive/v0.1.0-beta.5",
+            "upstream_commit": "d6925a3ed7d9330f7543beb7309fb80d84a3fb18",
+            "archive_commit": "ab242113d1bea606e7f6757690e4bd1d3c986bd4",
+            "released": "2019-07-15T19:15:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.6",
+            "tag": "archive/v0.1.0-beta.6",
+            "upstream_commit": "7d6b2dbf3d887784a911441f55f8e62cc7c44a3f",
+            "archive_commit": "7d5a5c5da0b71c862cc518abe1d068a9b7e597f7",
+            "released": "2019-07-15T23:03:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": "archive/v0.1.0-beta.7",
+            "upstream_commit": "37625eb243f9db3f44413f89afcfadffb3c39124",
+            "archive_commit": "4b281dafe0e7ef51fb3fe8143d2002034bfba92f",
+            "released": "2019-07-16T18:16:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

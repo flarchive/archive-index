@@ -1,0 +1,19 @@
+{
+    "package": "neotiler/flarum-drawer-tags",
+    "upstream": "https://github.com/karacocukk/Neo-Mobile-Tag-Drawer-flarum",
+    "packagistUrl": "https://packagist.org/packages/neotiler/flarum-drawer-tags",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9fb78724d44ffe0f6e51398ff9b329afd61c2aca",
+            "archive_commit": "4b8361d81dd1a4cff3222e4fb4d5b05cf46fc7ce",
+            "released": "2026-05-02T19:27:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

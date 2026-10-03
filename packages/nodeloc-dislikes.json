@@ -1,0 +1,31 @@
+{
+    "package": "nodeloc/dislikes",
+    "upstream": "https://github.com/nodeloc/Dislikes",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/dislikes",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c3a4f424b2ff4eb446a551524222f0363d0fefe6",
+            "archive_commit": "c7b86b7e87b4c56e7f1f27c6de839edeec51c615",
+            "released": "2024-01-14T08:46:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "e3c8fee3230d5a7085476e2a15370daa687a45f4",
+            "archive_commit": "349cbdd5ca17a4dc366bc3b6ec19cc8e6d588a06",
+            "released": "2024-01-14T09:20:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

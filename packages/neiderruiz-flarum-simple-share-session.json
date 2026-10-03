@@ -1,0 +1,55 @@
+{
+    "package": "neiderruiz/flarum-simple-share-session",
+    "upstream": "https://github.com/neiderruiz/flarum-simple-share-session",
+    "packagistUrl": "https://packagist.org/packages/neiderruiz/flarum-simple-share-session",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "5d96171bcc51d4b69e2f34e93d8b2c1b15d1adf0",
+            "archive_commit": "32098cfb48ce24d6444436352747fe25abac34f3",
+            "released": "2025-02-22T18:27:21+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8 <1.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "adad9492eed7de25e5f1372f83276ca292b49653",
+            "archive_commit": "f4d028e788a56455282c56bb0959a7cc6b71604e",
+            "released": "2025-02-23T07:38:01+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8 <1.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "3c53826b5f28cf6d1b5cc2f2a2513b2c4d4e9a93",
+            "archive_commit": "7b7e63c125ded8ee860eb91c5e7adb89de4cbac1",
+            "released": "2025-05-05T14:32:26+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8 <1.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "8c5a80fa4fe461a86d21b521e3739a044c992253",
+            "archive_commit": "c5faf58e1b833af96338bc9e2060c363985f27f7",
+            "released": "2025-05-05T15:33:33+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=1.8 <1.10",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

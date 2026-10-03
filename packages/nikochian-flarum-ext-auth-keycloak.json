@@ -1,0 +1,19 @@
+{
+    "package": "nikochian/flarum-ext-auth-keycloak",
+    "upstream": "https://github.com/nikochian/flarum-ext-auth-keycloak",
+    "packagistUrl": "https://packagist.org/packages/nikochian/flarum-ext-auth-keycloak",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5224cf34da247d40819fc72db9dfa2af390939e6",
+            "archive_commit": "b6288a1d0e331ce75c9ecdf7bdfa9070a3a0d99c",
+            "released": "2023-11-29T09:27:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

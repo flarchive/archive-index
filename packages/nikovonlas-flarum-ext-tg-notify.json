@@ -1,0 +1,55 @@
+{
+    "package": "nikovonlas/flarum-ext-tg-notify",
+    "upstream": "https://github.com/NikoVonLas/flarum-tg-notify",
+    "packagistUrl": "https://packagist.org/packages/nikovonlas/flarum-ext-tg-notify",
+    "versions": [
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "e0d5e02ff39dedb2b96427a65b6b9bae29738164",
+            "archive_commit": "8074e1e0138dea75be59400cbe15a3690c36e6a9",
+            "released": "2025-02-04T20:13:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "c8b05e03901c94722710af1641d4d98c85f93c61",
+            "archive_commit": "876e1c69ead8fd3455dfd936e577983eb8d01bc3",
+            "released": "2025-02-04T21:55:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "461ba56f83fd14fa6d3211b06bbe8164ae07fd71",
+            "archive_commit": "b05b279edf084f67087a9724836194da6a110291",
+            "released": "2025-02-04T22:17:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "fba0460d1ddbf3ee75d92621bb41adb4c6f50c67",
+            "archive_commit": "78917ecb601296d3477a948159a3e6ba5fcfe77f",
+            "released": "2025-04-13T17:50:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

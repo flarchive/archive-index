@@ -1,0 +1,67 @@
+{
+    "package": "nit/flarum-ext-albania",
+    "upstream": "https://github.com/tinaira/flarum-ext-albania",
+    "packagistUrl": "https://packagist.org/packages/nit/flarum-ext-albania",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": null,
+            "upstream_commit": "e9d300b8ec1a8e8e86f90988c3bebf09d317ba14",
+            "archive_commit": null,
+            "released": "2015-10-28T20:53:51+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": null,
+            "upstream_commit": "16c85426cce57da7245773d29c63952bc21152a7",
+            "archive_commit": null,
+            "released": "2015-11-04T22:52:09+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": null,
+            "upstream_commit": "13d85f852b37632024a845dad60c3e6360df094b",
+            "archive_commit": null,
+            "released": "2016-03-29T08:15:31+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.6",
+            "tag": null,
+            "upstream_commit": "0ac610a95dab87cfbd83ee09c254b14881d49f52",
+            "archive_commit": null,
+            "released": "2016-10-19T10:43:02+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": null,
+            "upstream_commit": "5b14897cdd4573ef44ac4adf5d892cbcb2b84b1e",
+            "archive_commit": null,
+            "released": "2017-07-22T02:38:43+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

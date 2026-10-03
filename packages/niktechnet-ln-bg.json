@@ -1,0 +1,43 @@
+{
+    "package": "niktechnet/ln-bg",
+    "upstream": "https://github.com/niktechnet/ln-bg",
+    "packagistUrl": "https://packagist.org/packages/niktechnet/ln-bg",
+    "versions": [
+        {
+            "version": "0.1.0-beta.15-12",
+            "tag": "archive/v0.1.0-beta.15-12",
+            "upstream_commit": "76276e0afc307bb90de1c9eb87b201c3a61a7fcd",
+            "archive_commit": "c8060d055ad5e91632183689e63e67ebfc3d0d75",
+            "released": "2021-03-06T10:58:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.16",
+            "tag": "archive/v0.1.0-beta.16",
+            "upstream_commit": "d1cd80e1f0cd353432d052e333a3e4cc514299d8",
+            "archive_commit": "60fc8e45af10de4f25bda47b96c4978a1beaa59e",
+            "released": "2021-03-19T15:33:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.16.1",
+            "tag": "archive/v0.1.0-beta.16.1",
+            "upstream_commit": "417ff005ad19d0caaf9d0c09e461c5a56f40d5a2",
+            "archive_commit": "f611bb61ff192cdfbd38ce8dfd155316cd5ac656",
+            "released": "2021-04-11T04:46:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

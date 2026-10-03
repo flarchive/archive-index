@@ -1,0 +1,55 @@
+{
+    "package": "nikovonlas/flarum-ext-web-push",
+    "upstream": "https://github.com/NikoVonLas/flarum-ext-web-push",
+    "packagistUrl": "https://packagist.org/packages/nikovonlas/flarum-ext-web-push",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.6",
+            "tag": "archive/v0.1.0-beta.6",
+            "upstream_commit": "781d019ea465bce0bbe87fdd7e9eb110a7f217ef",
+            "archive_commit": "b65110ee64afe02c809e29236733dd085b8973eb",
+            "released": "2019-07-18T14:47:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": "archive/v0.1.0-beta.7",
+            "upstream_commit": "36bd505c578a9af4233bb4d8a75bacd62659a6d7",
+            "archive_commit": "d6b51e8c4352e2ba13ebc18e2cf3b74d7680aaa4",
+            "released": "2019-07-19T22:16:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8",
+            "tag": "archive/v0.1.0-beta.8",
+            "upstream_commit": "e13f0d7127e983b73e086e883362cc148f2a1e76",
+            "archive_commit": "16893925537b7e4b9efe3f1cb5cc67da6fa01104",
+            "released": "2019-08-01T21:03:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.9",
+            "tag": "archive/v0.1.0-beta.9",
+            "upstream_commit": "29aa4b6b55ddfb098540b4d40b599bf9a5f2e259",
+            "archive_commit": "1f354a358be75fcba77ad46b0cfb2172613d7c9a",
+            "released": "2019-11-23T15:10:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

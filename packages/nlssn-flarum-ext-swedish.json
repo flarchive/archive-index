@@ -1,0 +1,31 @@
+{
+    "package": "nlssn/flarum-ext-swedish",
+    "upstream": "https://github.com/nlssn/flarum-ext-swedish",
+    "packagistUrl": "https://packagist.org/packages/nlssn/flarum-ext-swedish",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f0cb131046c9a89f7156aa4c001df76c78f806b1",
+            "archive_commit": "ba294020b022c083da59071dfc5eb06dc573ff1a",
+            "released": "2017-04-29T20:40:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "b1626fef44482948a9a235dd74913d379aa52e4a",
+            "archive_commit": "81ab2ee375079ab9a00629ec2c310c78b80e2b50",
+            "released": "2018-05-09T13:10:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

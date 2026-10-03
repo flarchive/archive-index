@@ -1,0 +1,43 @@
+{
+    "package": "nodeloc/flarum-auto-moderator",
+    "upstream": "https://github.com/nodeloc/flarum-auto-moderator",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-auto-moderator",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "827cddaea82e1975d153be9099ee91c59c3d097c",
+            "archive_commit": "b961ee7b59b26fcc8da2343dede9d595b019ae53",
+            "released": "2023-12-07T04:08:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "a98c11016678a6d83d664d7e77e1c3a48534241b",
+            "archive_commit": "0bc4dc4702e6390fc6b6affd359d292abd791969",
+            "released": "2024-08-29T21:06:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "e643580f6821883cc83e4063b5b4253d4dcd66d3",
+            "archive_commit": "6f6994728099366532b08e78901075fe115e1d78",
+            "released": "2024-08-30T00:00:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
