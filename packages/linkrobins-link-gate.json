@@ -1,0 +1,55 @@
+{
+    "package": "linkrobins/link-gate",
+    "upstream": "https://github.com/linkrobins/flarum-link-gate",
+    "packagistUrl": "https://packagist.org/packages/linkrobins/link-gate",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3491a6e6b55c4cffcbe9364bd92f91758eef2d1d",
+            "archive_commit": "424ef55fafcf8c0f0368395cfef5e8cf01f38dc1",
+            "released": "2026-08-08T23:56:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "0920c24d0a685e3ae77274c2ec70ccec8dd5c8ad",
+            "archive_commit": "8c3c690a9438acbd0981868cec184d41292215e7",
+            "released": "2026-08-08T23:56:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "cb65a0a56fe85678573ee92f77c09a498d826c17",
+            "archive_commit": "ffa260edfb2af46ba5bdec5a75241c7c5006e5bd",
+            "released": "2026-08-12T23:35:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "86a6825e7368ccaf5ceeeac562c2c6708f0f4598",
+            "archive_commit": "6102222a528b593cd4995fd4d2bd1192afc4d665",
+            "released": "2026-08-24T01:54:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

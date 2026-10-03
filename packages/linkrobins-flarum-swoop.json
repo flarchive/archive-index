@@ -1,0 +1,43 @@
+{
+    "package": "linkrobins/flarum-swoop",
+    "upstream": "https://github.com/linkrobins/flarum-swoop",
+    "packagistUrl": "https://packagist.org/packages/linkrobins/flarum-swoop",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1797c70065a9917c3ea90714700ae957a115cc35",
+            "archive_commit": "2259ceade42a69f2f27db5dccfce7cfdf2278ad1",
+            "released": "2026-09-09T09:46:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "6f7167876c4feedd684e066f5dea6c8db540d954",
+            "archive_commit": "aacdc4cbfd345e0db5e837c2f3f2e2d0d49a6c15",
+            "released": "2026-09-11T01:33:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "26b83828a8e582c5a5465ef3b017391006f5ed52",
+            "archive_commit": "b689934eab1126b98b219707a67971818f4709c8",
+            "released": "2026-09-15T02:29:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

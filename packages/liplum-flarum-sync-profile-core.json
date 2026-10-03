@@ -1,0 +1,67 @@
+{
+    "package": "liplum/flarum-sync-profile-core",
+    "upstream": "https://github.com/liplum/flarum-sync-profile-core",
+    "packagistUrl": "https://packagist.org/packages/liplum/flarum-sync-profile-core",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "255d90bd9778be637f286d2bd5dad063d8ffbd38",
+            "archive_commit": "b1041a43c7872dc0267a0ba4e85f1edc9883b996",
+            "released": "2024-12-07T02:08:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "8c0f52ac2ea697ebfe71971474c7969d7dd1a1a0",
+            "archive_commit": "531e137b561c5008d5a634ee207f6f11b3eb24fc",
+            "released": "2024-12-07T10:57:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "55d347e6f69032fcfe712ba0ba1e1f9824f0ad93",
+            "archive_commit": "59edd2ef7536dfcf2e8b74e1ebd01862c213aece",
+            "released": "2024-12-07T22:53:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "0c981a95f6bb888c20b69fe89248df1916ed921b",
+            "archive_commit": "7202f9111452ae3145b9f40d7c598818ac9dfc04",
+            "released": "2025-03-16T10:25:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.3",
+            "tag": "archive/v0.2.3",
+            "upstream_commit": "039e173098ee7f323c22f1d70911e1c1c1363833",
+            "archive_commit": "f19ea1b4f5d1e60e0f3919b93db0f4c17c1a1748",
+            "released": "2025-04-09T02:43:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

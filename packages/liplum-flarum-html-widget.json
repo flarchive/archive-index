@@ -1,0 +1,19 @@
+{
+    "package": "liplum/flarum-html-widget",
+    "upstream": "https://github.com/liplum/flarum-html-widget",
+    "packagistUrl": "https://packagist.org/packages/liplum/flarum-html-widget",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "538fedca4ad413202e22111de998643acfffc676",
+            "archive_commit": "a742146eb5d48d3475164a0891f474bd2d4f82ac",
+            "released": "2025-03-16T10:27:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

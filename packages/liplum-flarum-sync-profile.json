@@ -1,0 +1,43 @@
+{
+    "package": "liplum/flarum-sync-profile",
+    "upstream": "https://github.com/liplum/flarum-sync-profile",
+    "packagistUrl": "https://packagist.org/packages/liplum/flarum-sync-profile",
+    "versions": [
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "b4a0a80dde1cf3d329c8b61c057ceedc317d6d0b",
+            "archive_commit": "ce92ffce775e03301c46a35fa578766bcdf115ff",
+            "released": "2024-12-07T10:53:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "207921939d98478e1f38f614e74b1aff0e1b50b4",
+            "archive_commit": "33d62b2d338b512c1ac9cd2971b4402702ca427a",
+            "released": "2024-12-07T02:15:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "b590e553251bfa53d0f0600cea8ea1a9bcc99c64",
+            "archive_commit": "cab1115faf5bdccd2b8ba3b74266363a6eedc88a",
+            "released": "2025-03-16T10:28:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

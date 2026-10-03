@@ -1,0 +1,55 @@
+{
+    "package": "liplum/flarum-jwt-auth",
+    "upstream": "https://github.com/liplum/flarum-jwt-auth",
+    "packagistUrl": "https://packagist.org/packages/liplum/flarum-jwt-auth",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "a7b337e28dfa754a108bc8463c9210da48747a61",
+            "archive_commit": "aaddea39e54ed502c5ee8dfce55b48660dc05496",
+            "released": "2024-12-04T13:23:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "42ab8fc31a6505a6e5695be9e1447efafa8bf8c0",
+            "archive_commit": "46d0c45c401d37a228514fc90efe7bec341857bd",
+            "released": "2024-12-06T11:14:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "11225647b2b6ed5a6705e6885c18b3ef79243d45",
+            "archive_commit": "81b74e758b0189653f6ecda68fc129d80000a7da",
+            "released": "2024-12-06T20:23:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "archive/v0.3.1",
+            "upstream_commit": "9482eef0b7af6a0364424585e0065d54af200987",
+            "archive_commit": "52a95fa5f4f572a6be861c9b3911b427f4ec868e",
+            "released": "2024-12-07T10:58:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

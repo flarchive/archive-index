@@ -1,0 +1,91 @@
+{
+    "package": "linkrobins/html-widget",
+    "upstream": "https://github.com/linkrobins/html-widget",
+    "packagistUrl": "https://packagist.org/packages/linkrobins/html-widget",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0b93caa6f1febef99dc49c282d8bbff131b624d9",
+            "archive_commit": "aebff794114b42914b918eee00c3a61faf7949f1",
+            "released": "2026-05-10T18:46:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "e5b0f0f0c8e59d7c3b3ae5babf6d5b41a6976fe1",
+            "archive_commit": "9c00ac81e1c2940b69b3d76f9f181272a2cea433",
+            "released": "2026-05-28T01:06:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "4f9bc75971b42a8437d7f8e3c21f66fcf3daa344",
+            "archive_commit": "608eaa97acf6e5f7995d3e1b9a9849644f098e9e",
+            "released": "2026-05-31T00:21:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "365c5a2986fbb380a4c550713a359954af813148",
+            "archive_commit": "ee0a2b990609fe2058467c5e7d6537ab5eb037c5",
+            "released": "2026-07-04T19:22:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "a529f4dedd2c0036b6e778f349ba0503b301f2a7",
+            "archive_commit": "24d6ba4859fa2867c53bf14950b75b3aab8fb17a",
+            "released": "2026-07-23T22:37:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "4be96e9d37da7ff71b5f617cbe7291c3cfd05536",
+            "archive_commit": "739a0d496bb262c31ec059ffd9ba84daedb4e772",
+            "released": "2026-08-12T23:35:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "4d5f828de78ffadb2d610aa4a9c47ebfdeff0b65",
+            "archive_commit": "d20b96e1d01e6a0e56788c01639a9f35009764e9",
+            "released": "2026-09-27T19:27:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

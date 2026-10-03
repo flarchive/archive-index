@@ -1,0 +1,31 @@
+{
+    "package": "linkrobins/metronome",
+    "upstream": "https://github.com/linkrobins/metronome",
+    "packagistUrl": "https://packagist.org/packages/linkrobins/metronome",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "cb66f08d367f5f1dea336921c377114acc29bc4d",
+            "archive_commit": "779a0ae0c3352482c9b1fc6b74143fb8dd84c71c",
+            "released": "2026-08-31T02:20:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "467149e55facb73692e9656f90f2bda38495d04b",
+            "archive_commit": "35b666ed53e6046922bd89763f15e9393943c198",
+            "released": "2026-08-31T23:08:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

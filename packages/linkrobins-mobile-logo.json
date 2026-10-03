@@ -1,0 +1,31 @@
+{
+    "package": "linkrobins/mobile-logo",
+    "upstream": "https://github.com/linkrobins/mobile-logo",
+    "packagistUrl": "https://packagist.org/packages/linkrobins/mobile-logo",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "83c8ae4179e24ab4c3438c43d6e8092527f388bf",
+            "archive_commit": "676dc75f5e1609377a14c0434f331eeb16ff3a9a",
+            "released": "2026-08-14T01:01:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8e6c268154e16cda97cacbe3b703d9ca32b84d20",
+            "archive_commit": "76d1604fbbd2a0ea7883b88c91aaa1ac40b722ac",
+            "released": "2026-08-14T17:02:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
