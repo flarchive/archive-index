@@ -1,0 +1,31 @@
+{
+    "package": "gtdxyz/flarum-ext-hcaptcha",
+    "upstream": "https://github.com/daocatt/flarum-ext-hcaptcha",
+    "packagistUrl": "https://packagist.org/packages/gtdxyz/flarum-ext-hcaptcha",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "6fb92f363a2055a2f7d397457a7fdb67e603a4b6",
+            "archive_commit": "515e12abe586803cda5031df89725d2f2b1f862c",
+            "released": "2024-02-23T13:32:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "b07dd0e7ae68271b9239418a377c72c6b036134a",
+            "archive_commit": "164d426542d726a265b5b5d61656f513cc1e93c5",
+            "released": "2024-02-23T14:49:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

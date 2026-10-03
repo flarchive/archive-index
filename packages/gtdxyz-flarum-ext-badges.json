@@ -1,0 +1,31 @@
+{
+    "package": "gtdxyz/flarum-ext-badges",
+    "upstream": "https://github.com/daocatt/flarum-ext-badges",
+    "packagistUrl": "https://packagist.org/packages/gtdxyz/flarum-ext-badges",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "8d108972f3045d478baa4e72f623a89f866bb954",
+            "archive_commit": "b63ac169283bec5f780b2b2e5dab68702ce030b1",
+            "released": "2024-03-21T17:11:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "25af6626c4bbe27e0618d2bec21a96c78c24c4a2",
+            "archive_commit": "ce317f734b94f48d5caf46a8a536d132a32af443",
+            "released": "2024-11-08T02:24:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

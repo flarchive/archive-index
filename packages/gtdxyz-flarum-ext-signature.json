@@ -1,0 +1,31 @@
+{
+    "package": "gtdxyz/flarum-ext-signature",
+    "upstream": "https://github.com/daocatt/flarum-ext-signature",
+    "packagistUrl": "https://packagist.org/packages/gtdxyz/flarum-ext-signature",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "463d662900e9d034f1aab4968c6114fd46bb6574",
+            "archive_commit": "eaf7480a4f091c3e3efb8031a5af0fb7fffbbc9e",
+            "released": "2024-02-24T17:55:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "7f7a7d4c13eacc93f2e42b80cef49de9afd8222e",
+            "archive_commit": "3f76983cc6286dc5d7eb5083b5c0c1f23319c0a6",
+            "released": "2024-11-08T07:41:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "gradba/flarum-s3-avatars",
+    "upstream": "https://github.com/gradba/flarum-s3-avatars",
+    "packagistUrl": "https://packagist.org/packages/gradba/flarum-s3-avatars",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "628b28ea592ffb5b7e093c22259faebecfb167fe",
+            "archive_commit": "69d22a4d6f7bcc4394787f4eb299c746911a4713",
+            "released": "2026-07-24T20:05:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "a51c03afbffce2dde5afc04288bdb00e0008dffc",
+            "archive_commit": "ce1cda300761a0f6494ff2d908bd7a5a63602c78",
+            "released": "2026-07-24T20:06:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

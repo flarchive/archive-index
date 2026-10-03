@@ -1,0 +1,31 @@
+{
+    "package": "greatis/login2see-advanced",
+    "upstream": "https://github.com/greatis/flarum-ext-login2see-advanced",
+    "packagistUrl": "https://packagist.org/packages/greatis/login2see-advanced",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8e5a5e5d8a12ea1d65fe1efff28fcd0c140e6c17",
+            "archive_commit": "0eaf2d10b3d2844284f566d98009b3c23f64a353",
+            "released": "2025-10-18T15:59:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "f34df64ebf92f5e590734a9ce116c6077cabfa30",
+            "archive_commit": "d2542cc3de1f8503a4e4b2316107c24dc44924c5",
+            "released": "2025-10-28T11:38:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

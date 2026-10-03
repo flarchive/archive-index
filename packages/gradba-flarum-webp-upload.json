@@ -1,0 +1,19 @@
+{
+    "package": "gradba/flarum-webp-upload",
+    "upstream": "https://github.com/gradba/flarum-webp-upload",
+    "packagistUrl": "https://packagist.org/packages/gradba/flarum-webp-upload",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e8cadc2d4eeed547f4dbac86bcd401428e4c5f50",
+            "archive_commit": "9c85596b28e5e58bf0b9caec41d40c53821b70a3",
+            "released": "2026-07-24T17:43:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

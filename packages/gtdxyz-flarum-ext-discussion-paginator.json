@@ -1,0 +1,55 @@
+{
+    "package": "gtdxyz/flarum-ext-discussion-paginator",
+    "upstream": "https://github.com/daocatt/flarum-ext-discussion-paginator",
+    "packagistUrl": "https://packagist.org/packages/gtdxyz/flarum-ext-discussion-paginator",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "a30c5307d5567560d28ffd38148c6f37ec7c8e3f",
+            "archive_commit": "648b4c6de4cae2fa38b0e6a58d4659287e688d3a",
+            "released": "2024-03-28T08:19:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "7ac13f217a9b060a33e98361aad500bbcc8e543a",
+            "archive_commit": "5c07517b9324166c93e8818bea917bf1e77eb198",
+            "released": "2024-03-28T09:16:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "d6c5b767409c51b1e6dddec6d9bcf5e85f56859a",
+            "archive_commit": "b07c7414a6dc961508ee0df4e88aa43f6cfea544",
+            "released": "2024-03-29T06:48:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "0a3d47f0981d28d64757c009e341fa432fadeffc",
+            "archive_commit": "ee4b1bd50f7336c796db70150d68935e4de62471",
+            "released": "2024-04-02T15:59:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

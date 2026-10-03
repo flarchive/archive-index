@@ -1,0 +1,31 @@
+{
+    "package": "gtdxyz/flarum-ext-mobile-sidebar",
+    "upstream": "https://github.com/daocatt/flarum-ext-mobile-sidebar",
+    "packagistUrl": "https://packagist.org/packages/gtdxyz/flarum-ext-mobile-sidebar",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "70aa9c3fb92729ba68a90fb6562bd79dfb61b382",
+            "archive_commit": "d99ab2b54bb08ade828172da6b9e14547bc4e63c",
+            "released": "2024-04-02T15:39:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "5693bf9b40925b216f1325a078e35e04d6f16109",
+            "archive_commit": "f4aa3fa387b25b10ab9815ddef3ef856fab35db5",
+            "released": "2024-04-04T10:40:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

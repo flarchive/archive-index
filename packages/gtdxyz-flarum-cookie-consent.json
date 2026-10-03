@@ -1,0 +1,19 @@
+{
+    "package": "gtdxyz/flarum-cookie-consent",
+    "upstream": "https://github.com/daocatt/flarum-cookie-consent",
+    "packagistUrl": "https://packagist.org/packages/gtdxyz/flarum-cookie-consent",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "21e33168ac92de2e6f1eb033d0241ec6535f4783",
+            "archive_commit": "8ae1b4b22645294107dbdd15ea37a5418b911e22",
+            "released": "2024-02-22T19:04:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

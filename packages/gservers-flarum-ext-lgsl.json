@@ -1,0 +1,43 @@
+{
+    "package": "gservers/flarum-ext-lgsl",
+    "upstream": "https://github.com/TresIqus94/flarum-ext-lgsl",
+    "packagistUrl": "https://packagist.org/packages/gservers/flarum-ext-lgsl",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8d2a04af85c60f0d6b827c14a6816fa89eb57630",
+            "archive_commit": "ae43b6f85c621bf0b6270379d81b9b54848125b2",
+            "released": "2026-08-04T14:10:36+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.5.0",
+            "tag": "archive/v1.5.0",
+            "upstream_commit": "b83f4472bb5843781beb873fb4a903f8dd203988",
+            "archive_commit": "8e3052e8789f244d29e43de1186488cf358b37c0",
+            "released": "2026-08-04T19:08:16+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "e814d9b870f82a8b1718736f8cf72de03cc36b54",
+            "archive_commit": "1bf64f9d50a3b3914e65d908780bde9baba18c43",
+            "released": "2026-08-05T08:29:35+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

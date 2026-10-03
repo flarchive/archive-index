@@ -1,0 +1,19 @@
+{
+    "package": "gtdxyz/flarum-ui-links",
+    "upstream": "https://github.com/daocatt/flarum-ui-links",
+    "packagistUrl": "https://packagist.org/packages/gtdxyz/flarum-ui-links",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "6088be300f366798876a16af2544447c0a36e19b",
+            "archive_commit": "3167d65440b44e258c76c3cea2d9c1356ef5c450",
+            "released": "2024-02-13T09:00:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

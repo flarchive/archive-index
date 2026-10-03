@@ -1,0 +1,19 @@
+{
+    "package": "gtdxyz/flarum-ext-logo-boost",
+    "upstream": "https://github.com/daocatt/flarum-ext-logo-boost",
+    "packagistUrl": "https://packagist.org/packages/gtdxyz/flarum-ext-logo-boost",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "a5bb47fb1fa316296a0394038cfaa55a4d95ba69",
+            "archive_commit": "9f806042d4b1cf85a248ae95d86c8ec1675b053c",
+            "released": "2024-02-28T18:25:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

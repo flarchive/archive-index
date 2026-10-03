@@ -1,0 +1,43 @@
+{
+    "package": "gtdxyz/flarum-ext-login",
+    "upstream": "https://github.com/daocatt/flarum-ext-login",
+    "packagistUrl": "https://packagist.org/packages/gtdxyz/flarum-ext-login",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "4bd0b2d7ec75fff38d7215f39b82b71c74d30976",
+            "archive_commit": "3542c310dbc0cdace4f98072698831a1d03bd762",
+            "released": "2024-03-22T15:24:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "4ea7e1b52dad6b058cd12baab84bacf1efe889a9",
+            "archive_commit": "d4d10cdd49298428051db16ef0b030ffc7d7335a",
+            "released": "2024-03-23T03:59:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "169ab4db2cccc2976585d46d510291a9d486aa47",
+            "archive_commit": "f780bbb86d4dbc1e0221f300108b0557012f1e68",
+            "released": "2024-04-12T03:38:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
