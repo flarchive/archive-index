@@ -1,0 +1,55 @@
+{
+    "package": "ianm/oauth-reddit",
+    "upstream": "https://github.com/imorland/flarum-ext-oauth-reddit",
+    "packagistUrl": "https://packagist.org/packages/ianm/oauth-reddit",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "1e44c966e0aed4d4b0b9237338fb23f59e329d99",
+            "archive_commit": "964d74b2bf5059a57d69e3370beb43d0205caba7",
+            "released": "2023-01-30T08:13:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "110c54d15f8d2e7ec088e51badf001ea73f3e667",
+            "archive_commit": "c64566f2e598f44a9f4cf2a03d8d2465e40ea89d",
+            "released": "2026-04-20T15:22:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "01d7eec9fe74db68f20027336bc04936c949ed59",
+            "archive_commit": "f16d15d220e60f7b2d277ac191e7176bf5a12f59",
+            "released": "2026-10-02T10:27:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "4a690388d4b3ffec83e3512405003bd815a40edc",
+            "archive_commit": "5a594ec9ba9f3094d0864bbbe7f1d4e86206e829",
+            "released": "2026-04-20T16:15:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

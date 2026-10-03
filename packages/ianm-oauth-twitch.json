@@ -1,0 +1,31 @@
+{
+    "package": "ianm/oauth-twitch",
+    "upstream": "https://github.com/imorland/flarum-ext-oauth-twitch",
+    "packagistUrl": "https://packagist.org/packages/ianm/oauth-twitch",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f74b40f7a422379c6621c6c79685b9619fa458ea",
+            "archive_commit": "9b0bca4446b81c949400451b6af7dad2e51ecb39",
+            "released": "2022-11-12T10:19:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "53417f3fed9cc790801627577c93efce82b1040e",
+            "archive_commit": "930c566d49f216aa4ee27128ce308f8b7b00e90c",
+            "released": "2022-11-16T20:54:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

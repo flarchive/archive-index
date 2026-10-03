@@ -1,0 +1,55 @@
+{
+    "package": "imeepo/flarum-more-bbcode",
+    "upstream": "https://github.com/imeepo/flarum-more-bbcode",
+    "packagistUrl": "https://packagist.org/packages/imeepo/flarum-more-bbcode",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0fe45c8a480193bb172b657879878a9dcfb172b4",
+            "archive_commit": "4a3a1a518eb716f3e1921222559e08204c471163",
+            "released": "2023-03-06T02:24:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "6cbd0e71ae7464df73dfa4db4da170c8671e2478",
+            "archive_commit": "d693f63a6dfe3a4eab35f20d96787294ead8e28a",
+            "released": "2023-03-06T07:34:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "c4fe506770f9d983aba4b2fa0d5f1fe16817b525",
+            "archive_commit": "98a438b610626e897d28d0be21c87936e9afcdb8",
+            "released": "2023-09-08T10:35:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "4f63e53e8991f6306fa7e3692967894986110f5a",
+            "archive_commit": "ef5ebb0bd8414edc07257ae3c4413ecc0b38bcca",
+            "released": "2023-11-03T07:46:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

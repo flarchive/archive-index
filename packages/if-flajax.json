@@ -1,0 +1,43 @@
+{
+    "package": "if/flajax",
+    "upstream": "https://github.com/arektekieli/FlaJax",
+    "packagistUrl": "https://packagist.org/packages/if/flajax",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "13d1885d063a1694e6a80f34972c98bd12882e26",
+            "archive_commit": "5719c9690b02a71b3eb4684be4f5d7a2d841d6ea",
+            "released": "2021-04-08T11:47:31+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "886dc0df4f706d956902ecb5509bbccddbc7b439",
+            "archive_commit": "482a4ffe486e1bc8d499cec6540588b60e2c98b0",
+            "released": "2021-05-30T14:05:03+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "5a0d37b0860147f01d781d3891234decbf48daa1",
+            "archive_commit": "d0491fa9a9688273bc8a4f44b0f3c04b6dd2fdb0",
+            "released": "2021-06-03T08:16:25+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

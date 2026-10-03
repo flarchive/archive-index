@@ -1,0 +1,43 @@
+{
+    "package": "import-ai/flarum-webhook",
+    "upstream": "https://github.com/import-ai/flarum-webhook",
+    "packagistUrl": "https://packagist.org/packages/import-ai/flarum-webhook",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e675e063af00a721eb1d70e2216258510a58e744",
+            "archive_commit": "3e52da06036cc4b93a4225941285969c0a84e823",
+            "released": "2026-01-30T20:09:18+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "334e9b3636b9c014436426d2e9d5235a04c20b5f",
+            "archive_commit": "266e87e3e9f567c1a423c2aeef4f707a4f5c3afc",
+            "released": "2026-01-30T16:52:21+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "3d5db5873a69bf94216d3d9987dabb5145fcc752",
+            "archive_commit": "c6b01f1f199685b4262dba5a3d8411fee8bc2359",
+            "released": "2026-01-31T17:49:30+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "idevsig/flarum-asciinema",
+    "upstream": "https://github.com/idev-sig/flarum-asciinema",
+    "packagistUrl": "https://packagist.org/packages/idevsig/flarum-asciinema",
+    "versions": [
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "968b451ee0f657e3b9daff2eaf2d9789a85633c4",
+            "archive_commit": "c4f26100391b36c2b64ac4e7cd0de8d50f86111a",
+            "released": "2025-01-21T15:44:46+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.0.0 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

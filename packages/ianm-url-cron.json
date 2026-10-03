@@ -1,0 +1,43 @@
+{
+    "package": "ianm/url-cron",
+    "upstream": "https://github.com/imorland/flarum-ext-url-cron",
+    "packagistUrl": "https://packagist.org/packages/ianm/url-cron",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b3c4853969635819bc249710bc97c9426cfea956",
+            "archive_commit": "35c92f214319caff3da148be7185f868a97a3606",
+            "released": "2023-05-10T07:11:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "caaf829757f464a319c2c50212d26e028519f1e8",
+            "archive_commit": "4de5ae4d5cc125ab18946a281ce4a48e4965c7d0",
+            "released": "2023-05-10T08:34:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "fac27e220a9762d0754c0b186620ecf1c6b83f02",
+            "archive_commit": "36eda37072d5442c65c2e7e8091c3eeaec544858",
+            "released": "2026-08-16T11:29:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

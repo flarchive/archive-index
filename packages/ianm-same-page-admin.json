@@ -1,0 +1,19 @@
+{
+    "package": "ianm/same-page-admin",
+    "upstream": "https://github.com/imorland/flarum-ext-same-page-admin",
+    "packagistUrl": "https://packagist.org/packages/ianm/same-page-admin",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "db9cea761c455d553b87be141550804a2391022b",
+            "archive_commit": "bf356c046e29d699c0711c3b2938c325fbfa1be4",
+            "released": "2022-01-26T14:42:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

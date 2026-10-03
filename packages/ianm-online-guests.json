@@ -1,0 +1,43 @@
+{
+    "package": "ianm/online-guests",
+    "upstream": "https://github.com/imorland/flarum-ext-online-guests-widget",
+    "packagistUrl": "https://packagist.org/packages/ianm/online-guests",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1c9049a9d6fbc0b0415ab1d04df50828903e9bd8",
+            "archive_commit": "4eb4d646e3b14279ac886972c6d51f63ca5f3f3f",
+            "released": "2023-10-04T08:03:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "142d54e0da6cfa5e57779c9cfa460c889ccee3b9",
+            "archive_commit": "654d02626231e0fbf3c00cb824c4dc016730112c",
+            "released": "2026-06-09T10:33:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "0e2be11822445bfc56af5da88ea17120a2134650",
+            "archive_commit": "29ffc494986036f07cb5d08aab00e8669dba8710",
+            "released": "2026-06-09T11:56:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

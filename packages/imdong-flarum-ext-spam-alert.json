@@ -1,0 +1,19 @@
+{
+    "package": "imdong/flarum-ext-spam-alert",
+    "upstream": "https://github.com/imdong/flarum-ext-spam-alert",
+    "packagistUrl": "https://packagist.org/packages/imdong/flarum-ext-spam-alert",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "e7d77134f33ad115cd35f7125d255c577ece3da0",
+            "archive_commit": "43bc5f41ff064cd6c6105d95f6a3151b0347fe23",
+            "released": "2023-10-21T14:10:42+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

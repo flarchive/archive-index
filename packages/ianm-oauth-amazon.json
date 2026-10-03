@@ -1,0 +1,43 @@
+{
+    "package": "ianm/oauth-amazon",
+    "upstream": "https://github.com/imorland/flarum-ext-oauth-amazon",
+    "packagistUrl": "https://packagist.org/packages/ianm/oauth-amazon",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2a2b7d594baa0a52a25a48ab22fd40aab7de8d6b",
+            "archive_commit": "0fc491b1806d06a618222a1600696ac7d7a6b4ee",
+            "released": "2021-10-13T18:39:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "bd8e31cec8b7dec28ee31af8710e74e38872709a",
+            "archive_commit": "9961eeff2cb4dbfeb4e1234bfb1efac5ccb28088",
+            "released": "2022-05-20T00:34:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "32d1879dec772b89b9dba9f6b2bf9da9fbd627a8",
+            "archive_commit": "e57c00c537f0eddf0ab8b1e65015e5e1360753b6",
+            "released": "2022-11-16T21:27:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "import-ai/flarum-oauth-passport",
+    "upstream": "https://github.com/import-ai/flarum-oauth-passport",
+    "packagistUrl": "https://packagist.org/packages/import-ai/flarum-oauth-passport",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b3bce75180a439d761ec03eb2a246e5fb46f4746",
+            "archive_commit": "2024cd23dba8538215a6340e6697f09cf52e857c",
+            "released": "2026-02-03T19:00:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "f940efb6675ffb6581c46721691630459821c8ed",
+            "archive_commit": "5e11e7625df24f095b4f1d9f6bdb9411d15dc76c",
+            "released": "2026-02-04T14:34:03+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "49477e5060c76c8314b801c615b6dc62d8d57513",
+            "archive_commit": "ab27b81ca1bf2dba97b2806da94a3a4f6629c2dd",
+            "released": "2026-02-28T06:08:21+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "imdong/flarum-ext-anti-change-email",
+    "upstream": "https://github.com/imdong/flarum-ext-anti-change-email",
+    "packagistUrl": "https://packagist.org/packages/imdong/flarum-ext-anti-change-email",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "50d3eefa66a73f3d9034f07ab612ab41ceda8c4c",
+            "archive_commit": "86bbe16f54ff137f9fde8b9bbcb19f1a5315b058",
+            "released": "2023-11-12T14:22:45+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "a018212c623e343bd155b3b096db8c484581b47e",
+            "archive_commit": "07fea575d6ab298584c98d69ab433ad3a8d873df",
+            "released": "2023-11-12T14:33:02+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "9a393addb4e16582b0a0ad807376b62164ec58b2",
+            "archive_commit": "b58cb2dcc818e18afbadd1a42c5a3f1cf3f40225",
+            "released": "2023-11-12T14:52:56+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-only",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
