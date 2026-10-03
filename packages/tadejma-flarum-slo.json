@@ -1,0 +1,31 @@
+{
+    "package": "tadejma/flarum-slo",
+    "upstream": "https://github.com/tadejma/flarum-slo",
+    "packagistUrl": "https://packagist.org/packages/tadejma/flarum-slo",
+    "versions": [
+        {
+            "version": "16",
+            "tag": "archive/v16",
+            "upstream_commit": "04f72f7f3a437e0fb7fb86f50e9d4e035adf2e07",
+            "archive_commit": "b7bb06fe278aef08375384af0019114269ea90e2",
+            "released": "2021-05-10T21:11:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "d4c37b07941cdaa4188fa6ea7703f3f61caab647",
+            "archive_commit": "4701645f63d5e6bb122ead77e53646c3405824b5",
+            "released": "2022-03-03T19:00:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

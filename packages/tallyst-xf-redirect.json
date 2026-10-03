@@ -1,0 +1,31 @@
+{
+    "package": "tallyst/xf-redirect",
+    "upstream": "https://github.com/zaja/XF-Redirect",
+    "packagistUrl": "https://packagist.org/packages/tallyst/xf-redirect",
+    "versions": [
+        {
+            "version": "v0.2.0",
+            "tag": null,
+            "upstream_commit": "94f97954a38cd92e3fdaa96c8d1c4ad4c9bb7968",
+            "archive_commit": null,
+            "released": "2026-06-18T16:00:35+00:00",
+            "archived": null,
+            "license": "proprietary",
+            "flarum": "^2.0.0-rc.3",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "3607a19f86806d2b7bd9395c28b2188074cd4509",
+            "archive_commit": "11e1ee417c272f6a472cfd8367e8bc772fdada14",
+            "released": "2026-06-18T13:51:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

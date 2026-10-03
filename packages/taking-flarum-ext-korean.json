@@ -1,0 +1,19 @@
+{
+    "package": "taking/flarum-ext-korean",
+    "upstream": "https://github.com/taking/flarum-ext-korean",
+    "packagistUrl": "https://packagist.org/packages/taking/flarum-ext-korean",
+    "versions": [
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "93eaacb95c2fcbd8ceb953a436464f380d3b9861",
+            "archive_commit": "7983b2ed5fc1ca973b8a6da2b2c8cbe1dd6d8963",
+            "released": "2021-05-31T16:20:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

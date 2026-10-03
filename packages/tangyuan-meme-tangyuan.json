@@ -1,0 +1,19 @@
+{
+    "package": "tangyuan/meme-tangyuan",
+    "upstream": "https://github.com/Little100/meme-tangyuan",
+    "packagistUrl": "https://packagist.org/packages/tangyuan/meme-tangyuan",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6a0738cd76db4339878be291332e8136feb2c591",
+            "archive_commit": "3b46501dc737b421613c308cd35224652c11679b",
+            "released": "2026-04-26T15:35:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

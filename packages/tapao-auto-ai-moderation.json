@@ -1,0 +1,31 @@
+{
+    "package": "tapao/auto-ai-moderation",
+    "upstream": "https://github.com/Tapao-NonSen/Auto-AI-Moderation",
+    "packagistUrl": "https://packagist.org/packages/tapao/auto-ai-moderation",
+    "versions": [
+        {
+            "version": "2.1.9",
+            "tag": "archive/v2.1.9",
+            "upstream_commit": "9b3b6abd607c0845fbf9d153fdfd43385d09f8fc",
+            "archive_commit": "86467b42807c1999f52b9aa5eef1136ac0dc6202",
+            "released": "2026-07-05T11:44:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "dc889a5f90418c8fa7ea4ec58054a08d4a0835c5",
+            "archive_commit": "b2b6aa3cada1f96d33eed13359918ff5d7b661f7",
+            "released": "2026-06-26T17:29:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

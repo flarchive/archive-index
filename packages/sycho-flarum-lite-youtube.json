@@ -1,0 +1,31 @@
+{
+    "package": "sycho/flarum-lite-youtube",
+    "upstream": "https://github.com/SychO9/flarum-lite-youtube",
+    "packagistUrl": "https://packagist.org/packages/sycho/flarum-lite-youtube",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0c23976f33207daee90051f2cf20201aabeaf952",
+            "archive_commit": "56c11c4a2c61a186acc9deb541cba8d41b9fff14",
+            "released": "2022-10-21T15:32:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "16087660dcf2bf5bc00c613b72d0f88fab7f61ed",
+            "archive_commit": "dfcb2b5ba4fb182e651d21bafcbce05e3345e873",
+            "released": "2022-12-03T18:48:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

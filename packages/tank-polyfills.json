@@ -1,0 +1,79 @@
+{
+    "package": "tank/polyfills",
+    "upstream": "https://github.com/flarum-tank/flarum-polyfill",
+    "packagistUrl": "https://packagist.org/packages/tank/polyfills",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": null,
+            "upstream_commit": "2d1d2a6fee2164e9dbdab4c350621bc9d569d9e8",
+            "archive_commit": null,
+            "released": "2020-03-13T02:18:51+00:00",
+            "archived": null,
+            "license": "AGPL-3.0-or-later",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": null,
+            "upstream_commit": "2f513cdd03f63abf38f5e3dcd7ed1644141200ac",
+            "archive_commit": null,
+            "released": "2020-05-07T00:38:33+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": null,
+            "upstream_commit": "6812b91975b57148abd82441342ebfa127a8f665",
+            "archive_commit": null,
+            "released": "2020-11-08T13:42:44+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": null,
+            "upstream_commit": "0696b25a095de03a62732a5ce3c1cfcde8828520",
+            "archive_commit": null,
+            "released": "2020-12-21T15:09:40+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": null,
+            "upstream_commit": "76ac1b1e0b415853b0c0f17cd15ea254b8623445",
+            "archive_commit": null,
+            "released": "2021-03-15T18:10:41+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": null,
+            "upstream_commit": "f47c5a76a1482143027a79353210257a15f89dbc",
+            "archive_commit": null,
+            "released": "2021-06-29T19:21:03+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

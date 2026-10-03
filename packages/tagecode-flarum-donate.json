@@ -1,0 +1,31 @@
+{
+    "package": "tagecode/flarum-donate",
+    "upstream": "https://github.com/tagecode/flarum-donate",
+    "packagistUrl": "https://packagist.org/packages/tagecode/flarum-donate",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f6b4f1453536c68bf7ba8dae94e35c05dc6b91dd",
+            "archive_commit": "8b809c2ac897af14209a9575107b6825fa73658d",
+            "released": "2021-12-30T09:23:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "447bc65a6cf00014716ced61f2c4b3111a24bdf5",
+            "archive_commit": "466fa684a745c59d303a7c3279c1ad48e5940220",
+            "released": "2022-01-01T17:46:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

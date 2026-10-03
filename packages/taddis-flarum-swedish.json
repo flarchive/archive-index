@@ -1,0 +1,67 @@
+{
+    "package": "taddis/flarum-swedish",
+    "upstream": "https://github.com/taddis/flarum-swedish",
+    "packagistUrl": "https://packagist.org/packages/taddis/flarum-swedish",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "23408aade563c81aaef0e95b7c147f5b7cf33927",
+            "archive_commit": "4681c7152e7a8ae7bcfc907fe8cf2db7b5ad4c05",
+            "released": "2020-04-18T10:47:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b103a7722fb10d389833ad3b8f5ce952b891793f",
+            "archive_commit": "7cccbc40794082e04e8d48f032c65d18c56c0d1e",
+            "released": "2020-04-18T11:10:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "9fdab4064385f77928eeb9f329e9108f6813b069",
+            "archive_commit": "4d3f62bde43804b291b86c35d15b30d5ab85f850",
+            "released": "2020-04-18T11:38:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "a71a2de6d7ec911daea792ad8d7d6b0872c66c18",
+            "archive_commit": "460a4ec0b8cb71cea951bf79d9f38aa1486da9ea",
+            "released": "2020-04-19T16:35:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "a523c35e2f9b739b0886e66784d37ebbca7a6dee",
+            "archive_commit": "5680e5913fadc569998bc1cc374ac76b61086821",
+            "released": "2020-12-21T08:39:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
