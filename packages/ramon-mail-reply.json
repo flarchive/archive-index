@@ -1,0 +1,43 @@
+{
+    "package": "ramon/mail-reply",
+    "upstream": "https://github.com/ram0ng1/mail-reply",
+    "packagistUrl": "https://packagist.org/packages/ramon/mail-reply",
+    "versions": [
+        {
+            "version": "0.1.0-beta",
+            "tag": "archive/v0.1.0-beta",
+            "upstream_commit": "f2840bf17c68d35b60e6aa338c9b09b1a982b275",
+            "archive_commit": "4aa789430c913650016830442317186fb6fa8eb7",
+            "released": "2026-04-21T21:25:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0-beta",
+            "tag": "archive/v0.2.0-beta",
+            "upstream_commit": "924b7036cbfff190428825614cd288316561637b",
+            "archive_commit": "86d97e370cb97fd2b415d782a4ecbd3fe96d588e",
+            "released": "2026-04-21T21:42:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "f2dfc0b517772ce64460f64c40e75e1e1cb9458e",
+            "archive_commit": "844d8b15537355b3258c90c4743f118da13702a1",
+            "released": "2026-05-18T02:20:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

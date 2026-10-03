@@ -1,0 +1,55 @@
+{
+    "package": "reflar/clean-profile-posts",
+    "upstream": "https://github.com/ReFlar/clean-profile-posts",
+    "packagistUrl": "https://packagist.org/packages/reflar/clean-profile-posts",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "2801b15d46541d93313d51214baebfee76387ced",
+            "archive_commit": "597a15802dd205083d83c53ce11e478809b850e2",
+            "released": "2018-09-14T22:04:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "d0815ca0096dbd89275987d445c9d3d378e25a3f",
+            "archive_commit": "bfa69f86d962c5b010cf18a4479404523cfcc6bb",
+            "released": "2018-09-17T22:18:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "ee2bf513e2175fa722c01e8ce5a7341d0dfc2ac7",
+            "archive_commit": "1b6d5c89e1ba78eb73e01eab05a8046143267f1d",
+            "released": "2018-12-27T03:08:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "b5732a09e244d2aaf2776a06070c7c74adff2877",
+            "archive_commit": "52506762032a8f874c302cacf5e0dd0b10d9fc76",
+            "released": "2018-12-27T03:22:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

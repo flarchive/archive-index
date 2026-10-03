@@ -1,0 +1,31 @@
+{
+    "package": "ramon/guest-cta",
+    "upstream": "https://github.com/ram0ng1/guest-cta",
+    "packagistUrl": "https://packagist.org/packages/ramon/guest-cta",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "cbefc1215d036566ad2ded3628a39f2a3e09d2be",
+            "archive_commit": "529de9f3c49c6fb1a13244a31fde32622fc0d78d",
+            "released": "2026-05-09T03:09:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "f25ae2001c2fd459ac4b0e07fb2fbfbe2877775a",
+            "archive_commit": "c8186f946441e53e8a4bd27c6b4364d0d16fa1df",
+            "released": "2026-05-09T11:57:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

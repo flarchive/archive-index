@@ -1,0 +1,19 @@
+{
+    "package": "ramon/classifieds",
+    "upstream": "https://github.com/ram0ng1/classifieds",
+    "packagistUrl": "https://packagist.org/packages/ramon/classifieds",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "52c09563a43d79016b99d29099dee4739cfce9ec",
+            "archive_commit": "17617d905153ef537497dbb036bf0bf5ce58a4eb",
+            "released": "2026-05-01T02:39:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

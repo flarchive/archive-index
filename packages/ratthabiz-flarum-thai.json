@@ -1,0 +1,19 @@
+{
+    "package": "ratthabiz/flarum-thai",
+    "upstream": "https://github.com/ratthabiz/flarum-thai",
+    "packagistUrl": "https://packagist.org/packages/ratthabiz/flarum-thai",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8839832476241e197c19e8227521f2a4762d4431",
+            "archive_commit": "6a063600048c17825f7b66db6a0c077c4533c9a8",
+            "released": "2021-08-05T08:42:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "ramon/auth-modals",
+    "upstream": "https://github.com/ram0ng1/auth-modals",
+    "packagistUrl": "https://packagist.org/packages/ramon/auth-modals",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "a2ae48935a4750525712ee019aceb70e7e5b60c9",
+            "archive_commit": "88f72cb8405fee6effd8afadf780faa727bdd2c5",
+            "released": "2026-05-12T00:25:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "bb7f0391fd2b7113c197f626390e49ad731ca32c",
+            "archive_commit": "52d7a01ba9073b7fb7e29b298dd7edb9736c9f50",
+            "released": "2026-05-12T00:33:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "67f8ebda2a7b8c3f03d37fffa02df7852b11789d",
+            "archive_commit": "0c0735325b846b3c7470f7f90b228f8c8c08ac1b",
+            "released": "2026-05-23T12:22:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "9c1738fc006acaa2741e600489402c7a08d46958",
+            "archive_commit": "9f072f8866e980b824ec1ddd61da6846296566e2",
+            "released": "2026-05-23T13:20:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
