@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-translation-inspector",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-translation-inspector",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-translation-inspector",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "15469ad55ee2b66cde940ef7416a737875bf58e9",
+            "archive_commit": "37d3651c4af725cc6da4acbb62f6df9c0bd0c3aa",
+            "released": "2021-06-04T19:22:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

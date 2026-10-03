@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-readonly-profile",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-readonly-profile",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-readonly-profile",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "019e909ab05af7361cbe0f86afddeda511da6c1d",
+            "archive_commit": "4334cdf2e43940a1a8e0fbd48283de6b0345cc14",
+            "released": "2022-04-19T13:55:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "d4361328a93bf95523ef29e3798bbe7312cee832",
+            "archive_commit": "875a6869c23d6d7148ab19cd2d8c19aa92048866",
+            "released": "2022-09-06T15:11:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

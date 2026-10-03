@@ -1,0 +1,43 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-post-stream-search",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-post-stream-search",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-post-stream-search",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "7f4b7d9e300e3f998b24a7fdd3ff3e0ff786c623",
+            "archive_commit": "dc12d545115a401917c4e5cd0127deb0e6540ae0",
+            "released": "2022-11-10T20:45:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "593ba51398be8afeddca040e29ce85e445a33aa5",
+            "archive_commit": "4bc608ede923326011417ce89b0ed0b27f732d53",
+            "released": "2022-11-21T18:17:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "673fa9d19ff5e79f6629d78abc885cd531968243",
+            "archive_commit": "0abd4c88c51a69c843db6bd5412fb4f01ce72340",
+            "released": "2023-05-08T16:16:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

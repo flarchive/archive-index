@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-reset-preferences",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-reset-preferences",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-reset-preferences",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "206fce8464227727f6940ff164524cb2812db9f0",
+            "archive_commit": "ca88e9b06ff01006ee69f0a587b4ea98161f27b4",
+            "released": "2022-06-09T18:29:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

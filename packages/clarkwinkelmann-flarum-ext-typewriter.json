@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-typewriter",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-typewriter",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-typewriter",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "50cd2e6d8c1f4fd65ae02b0c448531dcadbb28ce",
+            "archive_commit": "6e919f9e086e1cfbab7d769190e65c2d649dfb84",
+            "released": "2022-04-29T20:59:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

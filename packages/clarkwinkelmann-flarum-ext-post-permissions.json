@@ -1,0 +1,43 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-post-permissions",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-post-permissions",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-post-permissions",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "2ac2d02890bd2f9f36dc93bd3c19795d05db687b",
+            "archive_commit": "0b0a1574c78b47e6475a14a3dd7352a27582ff6e",
+            "released": "2021-03-16T22:59:29+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "2cf70561f243e4d558fef1a182c5b8b3937913de",
+            "archive_commit": "3fb36fad2b7ab534316fca82ba5b00652ffc3d7e",
+            "released": "2021-03-19T18:26:41+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e734044c698c97e91a29a37addcbec87628b20d7",
+            "archive_commit": "b8fdd373837ffb18004f0e5f5e324bffa1d30229",
+            "released": "2021-08-03T06:56:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

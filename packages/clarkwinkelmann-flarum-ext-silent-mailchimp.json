@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-silent-mailchimp",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-silent-mailchimp",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-silent-mailchimp",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "ec7a3cba84df21339a1607b49d8039c0a9c555d8",
+            "archive_commit": null,
+            "released": "2020-03-11T21:10:36+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.0-beta1",
+            "tag": null,
+            "upstream_commit": "c801702f1a9ca927d23150a1ddd916cf906f511e",
+            "archive_commit": null,
+            "released": "2020-02-25T21:58:28+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

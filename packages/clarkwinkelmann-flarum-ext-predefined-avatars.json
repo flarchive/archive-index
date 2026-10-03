@@ -1,0 +1,43 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-predefined-avatars",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-predefined-avatars",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-predefined-avatars",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0bebcb660de5be4e630dfeacef16596ae09fb99e",
+            "archive_commit": "e05e6833b5deceaf9d678adffd716bd6c1486403",
+            "released": "2021-05-19T17:30:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "aa060ad5b32bf0828bf24156d43a8dfc52a2d890",
+            "archive_commit": "30da2b1282a8a241ccd1c9a4432e0d0c9552414e",
+            "released": "2021-05-28T15:56:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "83f97508630ea37b043e28385c873690fe7c41fb",
+            "archive_commit": "79d1eee1c7b5bc1d7e635159cbb4cdf1464789dd",
+            "released": "2022-05-31T14:41:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

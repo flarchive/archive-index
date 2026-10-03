@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-quiz-polls",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-quiz-polls",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-quiz-polls",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0ae75aef2453dbdc26ffe96babf594108df5c69a",
+            "archive_commit": "b18e4d6a9fc42ded39747d656ab2977841a2b352",
+            "released": "2021-04-09T19:35:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

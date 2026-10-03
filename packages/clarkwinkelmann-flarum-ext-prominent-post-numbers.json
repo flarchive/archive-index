@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-prominent-post-numbers",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-prominent-post-numbers",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-prominent-post-numbers",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8f0c71dd4089f67a7c175875a5bfd3a5020d5909",
+            "archive_commit": "1e66254dcc51c49d8349b91b33695751451f9ce3",
+            "released": "2022-07-04T09:47:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "dfe2e937593e82feb31a385c446642107721c735",
+            "archive_commit": "edf7183f5187fd45d88e61a3b71b0337b5c7036a",
+            "released": "2024-02-16T15:58:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

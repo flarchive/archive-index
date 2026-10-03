@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-roll-die",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-roll-die",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-roll-die",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c12a1050e58d0eb810cdecaa3bcf12dd3f9ac9e7",
+            "archive_commit": "0aed9b79e55965df6104f389405b3f2f94d95074",
+            "released": "2021-12-18T18:19:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

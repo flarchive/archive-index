@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-selective-mediaembed",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-selective-mediaembed",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-selective-mediaembed",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b12ab3ae5ad8f6ac954514a88ad492490e88bc0f",
+            "archive_commit": "05bac68cdc23f1e3dd47c7022bb3ac843b7d7ceb",
+            "released": "2022-08-12T23:30:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "25ee56a455f1f157236465f6050383813a127f61",
+            "archive_commit": "8b01d99758790a7205648c58ef99944c5eff0a3c",
+            "released": "2023-10-14T17:00:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

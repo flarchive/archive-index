@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-post-date",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-post-date",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-post-date",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "59708aa147a55af54dad1a27acabc5fdaed6d826",
+            "archive_commit": "7823e755d158191fcf2cf5be61dc5add300e979e",
+            "released": "2019-09-05T20:50:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "29c311f41c72d3a6e0a3d2e82bfe2a1dcc682eea",
+            "archive_commit": "5ccea3e090c8f31facaad3bfdaa8a85ad4b427b0",
+            "released": "2019-09-08T17:03:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

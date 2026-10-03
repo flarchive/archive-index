@@ -1,0 +1,55 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-sudo-mode",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-sudo-mode",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-sudo-mode",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "cc9d6d204ad8d1a2ae1c0857ce7d6f5610952af8",
+            "archive_commit": "b56f2422aa3d3b6e11de359ceee5fe150ed3e905",
+            "released": "2022-11-19T19:04:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b98170015bf1f14bec41051dbd8d47e3f831f0e3",
+            "archive_commit": "b77282f96730f4ac6396e20c4a6e475505730433",
+            "released": "2022-11-19T20:25:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "379a0afbc2c67a452a2d4966252d6a85c9a76579",
+            "archive_commit": "77ab677429a1acb178075b68ded7d337a1d7f805",
+            "released": "2022-11-19T23:56:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "5df222c4d840b13da9aca31df204902a6e742f6a",
+            "archive_commit": "4ee0ea737597e1ce8c655017ff5f8f26a021c03b",
+            "released": "2024-01-05T17:37:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

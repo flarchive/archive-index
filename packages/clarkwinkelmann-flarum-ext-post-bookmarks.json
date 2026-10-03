@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-post-bookmarks",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-post-bookmarks",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "cb46e9938a2ed446dd18cb535fb1dd9dd1d290d9",
+            "archive_commit": "ebf8e930a86fd54782cf5ab7530ce2aad7cb3277",
+            "released": "2021-04-15T20:02:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "bbdf570097d6c33e7f3ef945ad1427c91c0c3189",
+            "archive_commit": "af3377713f2573b3ae6a1c37033a85037de3697d",
+            "released": "2021-06-11T01:51:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
