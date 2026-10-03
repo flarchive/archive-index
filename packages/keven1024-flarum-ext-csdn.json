@@ -1,0 +1,55 @@
+{
+    "package": "keven1024/flarum-ext-csdn",
+    "upstream": "https://github.com/keven1024/flarum-ext-csdn",
+    "packagistUrl": "https://packagist.org/packages/keven1024/flarum-ext-csdn",
+    "versions": [
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "181bcccf34624d1571dca430a23bc8b115e7f942",
+            "archive_commit": "96f4782f1250a888846f29dff20f84140bb3261b",
+            "released": "2023-01-28T06:29:37+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "e78987244873bcfba19ad2a4c7c61e914da1ee55",
+            "archive_commit": "9de5d5657bf86b9db6ad044ca647c7695eafe927",
+            "released": "2023-01-29T06:46:13+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "c09604e45788f614208adce672ee450ffb6f9f82",
+            "archive_commit": "dfafdcfa37255da6750289fad04a5e426abe3892",
+            "released": "2023-02-01T08:46:23+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.3",
+            "tag": "archive/v1.1.3",
+            "upstream_commit": "b60f7099c2d4094edf36e6942db9e3df5d0092cb",
+            "archive_commit": "8d8b0599029bb9e2331310c963e8fd3f0b67b2a7",
+            "released": "2023-04-24T14:51:20+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

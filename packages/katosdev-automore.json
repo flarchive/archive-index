@@ -1,0 +1,67 @@
+{
+    "package": "katosdev/automore",
+    "upstream": "https://github.com/katosdev/automore",
+    "packagistUrl": "https://packagist.org/packages/katosdev/automore",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f6514e821fc87f93285e05bbd96ff35c892c626d",
+            "archive_commit": "af763f04208618d1db143daa5fa6e9820feeea02",
+            "released": "2018-05-10T13:43:29+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "6815ab62b8b90c7e3a11e44bf406b84a41a0a17f",
+            "archive_commit": "43ecb941cce3314a921e7a5b3ad1b2e49f8e91e1",
+            "released": "2018-05-10T14:50:39+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^0.1.0-beta-7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "8b83ba57fe31190bca01e1f0c5acd794537622b8",
+            "archive_commit": "0033c9efb52b285b8d3c550e70a4ebabfd68479a",
+            "released": "2019-01-10T08:56:33+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^0.1.0-beta-8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "archive/v0.3.1",
+            "upstream_commit": "f39ba4cf54d9162aae76e36b097e6c93e53c6589",
+            "archive_commit": "854714e213e9fbcf668649e6205d77eb1cb66754",
+            "released": "2021-02-22T15:03:18+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-2.0",
+            "flarum": "^0.1.0-beta-15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "240d4bb9c74d085420a805ccaa1f51830af472e3",
+            "archive_commit": "2232b35cb48999d40af413fa9750a2660ef1dc84",
+            "released": "2023-12-09T23:31:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

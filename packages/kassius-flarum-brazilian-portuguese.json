@@ -1,0 +1,31 @@
+{
+    "package": "kassius/flarum-brazilian-portuguese",
+    "upstream": "https://github.com/kassius/flarum-brazilian-portuguese",
+    "packagistUrl": "https://packagist.org/packages/kassius/flarum-brazilian-portuguese",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "cb4c8f5f9a6a224f05f4c4001120057c35bd15a5",
+            "archive_commit": null,
+            "released": "2016-01-12T10:11:35+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.1",
+            "tag": null,
+            "upstream_commit": "c9ebffa1e6e0b78406c401132ac082b05e499c13",
+            "archive_commit": null,
+            "released": "2016-01-14T22:18:11+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

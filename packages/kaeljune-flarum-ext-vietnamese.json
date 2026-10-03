@@ -1,0 +1,55 @@
+{
+    "package": "kaeljune/flarum-ext-vietnamese",
+    "upstream": "https://github.com/kaeljune/flarum-ext-vietnamese",
+    "packagistUrl": "https://packagist.org/packages/kaeljune/flarum-ext-vietnamese",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "551b99450862987662789965cb01585105520152",
+            "archive_commit": "17b6e2b7b80dfb2987150e8e159aa6f9010ab648",
+            "released": "2016-08-19T05:47:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "057ae934bde7a7fdb17b1934eb4e8f48f1062ab2",
+            "archive_commit": "c0542c667bb16e7631d5427948fffabfa93ff68d",
+            "released": "2016-08-19T06:30:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "dddee1f41d3426f6b3f62830a134a1ea3e8000b7",
+            "archive_commit": "b869ecf5c25240444533e673a268ba1412b52aba",
+            "released": "2016-08-19T08:00:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "31ae3a37a539abba43c5c72bd20f004dae64d762",
+            "archive_commit": "69f6456c543e022104b04ac9e8e49ab045776982",
+            "released": "2016-08-19T08:10:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

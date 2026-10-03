@@ -1,0 +1,55 @@
+{
+    "package": "kilowhat/flarum-ext-affiliation-links",
+    "upstream": "https://github.com/kilowhat/flarum-ext-affiliation-links",
+    "packagistUrl": "https://packagist.org/packages/kilowhat/flarum-ext-affiliation-links",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0684d2861fe254e74eef59e06394a4e7f5d2443b",
+            "archive_commit": "6f7fbc92de0aea6c55f153d0a4902fe1b1e3c209",
+            "released": "2018-05-23T12:26:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "cf96653fb15a68356ece4d69046cc9d2c1cb538e",
+            "archive_commit": "b2ec93dd3aabee49c90eda9c0f8b5d7fbfb543e9",
+            "released": "2018-05-23T12:50:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "7f5e758e2e054c860f3f93e567221c9411edf02e",
+            "archive_commit": "9efcc3538360d6b90e5e4245b838f04c87f5aff0",
+            "released": "2019-02-18T13:04:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "7fb230cdebf28381bab94359da73bb7d6f01ee56",
+            "archive_commit": "049aaec6b6df438d005e0b7c9796a9d8e5f5162b",
+            "released": "2019-11-01T14:47:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 < 0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

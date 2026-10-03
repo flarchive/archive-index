@@ -1,0 +1,19 @@
+{
+    "package": "keven1024/flarum-ext-chinese-slug",
+    "upstream": "https://github.com/keven1024/flarum-ext-chinese-slug",
+    "packagistUrl": "https://packagist.org/packages/keven1024/flarum-ext-chinese-slug",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "1560fb2413e7e678e60b6c4a1c8eda0a136dc30e",
+            "archive_commit": "f87eed1330b5918a34e0cf547d26f6e14a82ff60",
+            "released": "2022-05-27T14:20:21+00:00",
+            "archived": "2026-10-03",
+            "license": "AGPL-3.0",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

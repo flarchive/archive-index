@@ -1,0 +1,31 @@
+{
+    "package": "keochoandara/flarum-lang-khmer",
+    "upstream": "https://github.com/keochoandara/flarum-lang-khmer",
+    "packagistUrl": "https://packagist.org/packages/keochoandara/flarum-lang-khmer",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "a5289fd1f2fa47d88aa36d373f8b738e723f7e71",
+            "archive_commit": "f3fe184e6344c0dc3c60095aa4007a297b2d98c8",
+            "released": "2020-12-15T03:14:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "c5395d76e4b7a31d5d0dabf3087090d6742ff88f",
+            "archive_commit": "301b8fd4835ce4a1236696ab83931f84513d9df1",
+            "released": "2020-12-15T03:30:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

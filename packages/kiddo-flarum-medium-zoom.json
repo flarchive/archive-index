@@ -1,0 +1,19 @@
+{
+    "package": "kiddo/flarum-medium-zoom",
+    "upstream": "https://github.com/kiddoVin/flarum-medium-zoom",
+    "packagistUrl": "https://packagist.org/packages/kiddo/flarum-medium-zoom",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "df5ea20d8377228ccd302653e08a1557daa8c078",
+            "archive_commit": "03b5ff02539af6386aa017a19ece7c86d979f54e",
+            "released": "2023-03-24T13:00:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

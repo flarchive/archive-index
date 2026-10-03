@@ -1,0 +1,103 @@
+{
+    "package": "kevid/flarum-pipetables",
+    "upstream": "https://github.com/webagil-kevin/flarum-pipetables",
+    "packagistUrl": "https://packagist.org/packages/kevid/flarum-pipetables",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "77df22737f2db3b0970cfcdbf15e904d10ccefaf",
+            "archive_commit": "ce9d1833c55cf61e21e13640b36fd9437fc55e3e",
+            "released": "2018-02-28T23:38:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "5e90839168b4d3ff30f4931bbd3b517b33ba0f22",
+            "archive_commit": "344b7dc9d0a37d9238046fe3b0ded1d366c526f0",
+            "released": "2018-02-28T23:41:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "855e9ce6baeb09529a596b8ba453cb07b06c8c55",
+            "archive_commit": "9878945c9de2ef95b06b52f30d29fc9ba90ae424",
+            "released": "2018-02-28T23:43:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "cf1f906689f8f7f0f775bebc7dba691c0d6321d3",
+            "archive_commit": "a125160bccb8197c4d2079c2d9494e924af70de1",
+            "released": "2018-03-01T00:05:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "ecb0295fa96b3c7d129c7bcce51d46707c5f2b3b",
+            "archive_commit": "fc58ae5690a02922ca010a342f980ee5493cd2d7",
+            "released": "2018-03-01T02:02:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.7",
+            "tag": "archive/v1.0.7",
+            "upstream_commit": "348d9770ae5e507122892e964a70fe4e0b25d16b",
+            "archive_commit": "902174baf02b6362fff78874a322d83e395f6846",
+            "released": "2018-03-02T00:19:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.8",
+            "tag": "archive/v1.0.8",
+            "upstream_commit": "53bf7eb22525e9869a2bd3791433491001e86991",
+            "archive_commit": "a454d8ceb69453f74279c4e336dfc0ae4be69ca8",
+            "released": "2018-03-05T19:45:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "793d378bfbcff62382fe0511cdac17c3e6dd5380",
+            "archive_commit": "2c86cb94745f0bc3036e5e2f1d283013a5c56afb",
+            "released": "2019-03-16T16:37:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "justoverclock/youtube-video-feed",
+    "upstream": "https://github.com/justoverclockl/youtube-video-feed",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/youtube-video-feed",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d5f977ae27f363bffcb39ab4c776fd3b7f9b7171",
+            "archive_commit": "1e6d95ad24af2d25734cf22f1e1c8573714d0dde",
+            "released": "2021-08-10T12:50:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "75fc70d5ff877a101443fb7186d510d1dadf5dbf",
+            "archive_commit": "8c7a238f891ada4dca4dddc3e2bd1ccb5a1de499",
+            "released": "2021-08-12T22:03:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "32a8bcdf9b2ba8c352ecc2adef474b7283bcbe9b",
+            "archive_commit": "79525dafcf250af5f086a104b355e1b36e8f36ba",
+            "released": "2021-08-13T05:03:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

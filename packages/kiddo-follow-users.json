@@ -1,0 +1,19 @@
+{
+    "package": "kiddo/follow-users",
+    "upstream": "https://github.com/kiddoVin/follow-users",
+    "packagistUrl": "https://packagist.org/packages/kiddo/follow-users",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "6705caaf69fc71d7ad35755fc2a4d0b11b457c6b",
+            "archive_commit": "93eb55925895f4f1168c81799ef348a703b8d7ca",
+            "released": "2023-04-18T15:15:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

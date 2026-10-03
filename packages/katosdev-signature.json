@@ -1,0 +1,55 @@
+{
+    "package": "katosdev/signature",
+    "upstream": "https://github.com/katosdev/signature",
+    "packagistUrl": "https://packagist.org/packages/katosdev/signature",
+    "versions": [
+        {
+            "version": "1.3",
+            "tag": "archive/v1.3",
+            "upstream_commit": "4155d23cc28708f806dc91fffc8e6b77b0389e8f",
+            "archive_commit": "8052d7a38f47572591c2c5637f41e78e8350cd46",
+            "released": "2023-10-07T13:36:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.4",
+            "tag": "archive/v1.4",
+            "upstream_commit": "f60826882e1ca29214af53780716a2d38242f9e6",
+            "archive_commit": "e27b545d49147c66c69e431e6bdd523833bebbe8",
+            "released": "2023-12-08T15:44:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.5",
+            "tag": "archive/v1.5",
+            "upstream_commit": "23ca7ef885b7fe560063be736682081bfd891f9c",
+            "archive_commit": "4e3240a56abba0f29bd2d305b791f3f854e1f685",
+            "released": "2023-12-18T10:30:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.6",
+            "tag": "archive/v1.6",
+            "upstream_commit": "97bf152292d0cfd60bd4c0857db49b7da1778ec5",
+            "archive_commit": "ea0fcd3c09d6da4c280572cf403d1c93db0e016a",
+            "released": "2023-12-20T19:46:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
