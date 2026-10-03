@@ -1,0 +1,31 @@
+{
+    "package": "justoverclock/flachievements",
+    "upstream": "https://github.com/justoverclockl/flachievements",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/flachievements",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "882a3c78e397b12978630429f756b8ec49cc24d3",
+            "archive_commit": "21e80307341feaa0ca50005a2493f3db4a045818",
+            "released": "2024-11-06T00:09:26+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^v1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "9f91ef2f74c5842eaf5de79cb9267899d9dfc5f4",
+            "archive_commit": "24d64de440e804f58615b94a7dc5ad7c35869b75",
+            "released": "2024-11-06T07:35:20+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^v1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

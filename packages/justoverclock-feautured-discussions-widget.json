@@ -1,0 +1,31 @@
+{
+    "package": "justoverclock/feautured-discussions-widget",
+    "upstream": "https://github.com/justoverclockl/feautured-discussions-widget",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/feautured-discussions-widget",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "3e328e39eba472ba3669b99d6f2d894ebde49499",
+            "archive_commit": "c510b97737151f858be7d2a9f1bda28b39e69fd2",
+            "released": "2021-10-04T14:01:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "4e5721f9f11f66c9384e0b05c33962824058e2a7",
+            "archive_commit": "368eff4e31a149198c6ada9b8a053f3f0a0ff3f7",
+            "released": "2021-10-04T20:30:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

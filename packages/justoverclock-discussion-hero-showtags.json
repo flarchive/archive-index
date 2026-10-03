@@ -1,0 +1,43 @@
+{
+    "package": "justoverclock/discussion-hero-showtags",
+    "upstream": "https://github.com/justoverclockl/discussion-hero-showtags",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/discussion-hero-showtags",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b6dda6cd89f900bd6cd47f722bdaa802a9eb9c38",
+            "archive_commit": "488d02da2fae521877ef6d542834e98fd7ffce00",
+            "released": "2021-09-19T16:14:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "694e30cc28f1fa6b0cb5eef86a6dddff9f70f2d5",
+            "archive_commit": "3aa7ade56baee4e287ed520f1f6be3f1b0e6fd28",
+            "released": "2021-09-19T16:27:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "5c0c8af941f2b52583099584a7ec5d00fedd465f",
+            "archive_commit": "5d895a5033080ea22ca7ee45749d37953ac18ac1",
+            "released": "2021-09-19T16:28:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

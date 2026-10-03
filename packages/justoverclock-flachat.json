@@ -1,0 +1,43 @@
+{
+    "package": "justoverclock/flachat",
+    "upstream": "https://github.com/justoverclockl/flachat",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/flachat",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7b55ab5af041b77ce0327980dd03e22634af373e",
+            "archive_commit": "8164c80970c219c68bbee14f63b9f43ed7907bf3",
+            "released": "2021-10-06T09:33:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "b9d61b769b6900950274dd4dce97eb952dc3ea26",
+            "archive_commit": "4719034cf75003aaac08143bc5984dadb52a6abb",
+            "released": "2021-10-06T14:17:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "8ed00d6041d9948d3afed2520d8349784c4cdc9e",
+            "archive_commit": "48f924018b12d6ed9a50d5e113b77f074ae97c49",
+            "released": "2021-10-14T10:39:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

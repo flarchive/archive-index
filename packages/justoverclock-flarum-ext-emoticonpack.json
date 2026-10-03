@@ -1,0 +1,55 @@
+{
+    "package": "justoverclock/flarum-ext-emoticonpack",
+    "upstream": "https://github.com/justoverclockl/flarum-ext-emoticonpack",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/flarum-ext-emoticonpack",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ea53065758aaf6b642bb9fa3e1ca52e857988c4f",
+            "archive_commit": "c3eeff985b1449ab8f918ad110cae852c117b400",
+            "released": "2021-07-01T11:54:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "f10635eb83188e220e52d0843714eda559c1316e",
+            "archive_commit": "b437521445385195723e0147f4828fcc88a0ca2a",
+            "released": "2021-07-02T12:47:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "a5faeffc405b5410bc78b240d90cf6719586ff52",
+            "archive_commit": "8ce4d5d3f51d778d3e76f51ea172ed39439199a0",
+            "released": "2021-09-24T08:19:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0ba9ee85280449c2d37428437133a104e384151d",
+            "archive_commit": "bf9c519a0c82e146bd3db8430a074463bdaff829",
+            "released": "2024-11-14T09:10:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^v1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

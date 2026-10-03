@@ -1,0 +1,31 @@
+{
+    "package": "justoverclock/edit-posts",
+    "upstream": "https://github.com/justoverclockl/edit-posts",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/edit-posts",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "a08aa2195f0debc88a4eafecd2114f43db7e62d6",
+            "archive_commit": "93d0c373df966088081017af0d5f0d9c956e6639",
+            "released": "2021-08-10T17:58:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "9766f843b69386ba428052794e47a98a9c0c0522",
+            "archive_commit": "890ee35d889dd3213601e5c51e1628f1635bf54b",
+            "released": "2021-08-11T08:35:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

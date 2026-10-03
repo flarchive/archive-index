@@ -1,0 +1,43 @@
+{
+    "package": "justoverclock/first-visit-indexpage",
+    "upstream": "https://github.com/justoverclockl/first-visit-indexpage",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/first-visit-indexpage",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "03ea028a0bf49dda6218c29fd20b7dd69d005792",
+            "archive_commit": "a4e7ea163d5d21931b50b47f7ed98b0f51f53ae8",
+            "released": "2021-07-13T07:53:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e3f01aac23e3e1e6a7c6961c030028222fad56bf",
+            "archive_commit": "18507e506efadb7ee0e38fd0d9eb55c15b785940",
+            "released": "2021-07-13T07:56:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "6309e19baa396d7a50f92938497f5902fbb8f25c",
+            "archive_commit": "bdf61fd4b8641fca6fb8b72439bcab6b4657dcd5",
+            "released": "2021-07-14T10:47:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

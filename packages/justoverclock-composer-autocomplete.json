@@ -1,0 +1,19 @@
+{
+    "package": "justoverclock/composer-autocomplete",
+    "upstream": "https://github.com/justoverclockl/composer-autocomplete",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/composer-autocomplete",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "4d6880df91f10834fe941d8d6638edcaedb67b86",
+            "archive_commit": "e683c43e1b1524d9c12589f2389cbc252c726939",
+            "released": "2021-12-23T15:18:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
