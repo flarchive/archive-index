@@ -1,0 +1,55 @@
+{
+    "package": "ericychu/flarum-ext-bbcode-editor",
+    "upstream": "https://github.com/EricYChu/flarum-ext-bbcode-editor",
+    "packagistUrl": "https://packagist.org/packages/ericychu/flarum-ext-bbcode-editor",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": "archive/v0.1.0-beta.7",
+            "upstream_commit": "f6b5a0fbee94f74da2997cf47ca6b52978533b49",
+            "archive_commit": "59db3379b4ed966671078e27e6ad71647f681dec",
+            "released": "2018-09-25T11:43:48+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7.1",
+            "tag": "archive/v0.1.0-beta.7.1",
+            "upstream_commit": "7bdb01597226e46bccea6ed5f19e05212a92602f",
+            "archive_commit": "5875954f881cc7393e6c41bd2182bc59eb3e18c6",
+            "released": "2018-09-27T19:10:01+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7.2",
+            "tag": "archive/v0.1.0-beta.7.2",
+            "upstream_commit": "277d730764227e8b35bc8ad690f01e51ee78867f",
+            "archive_commit": "218818d1a779f28796f5efd17e3d01070d0d4db3",
+            "released": "2018-09-28T10:20:36+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7.3",
+            "tag": "archive/v0.1.0-beta.7.3",
+            "upstream_commit": "db568210c099295b0efeaa8c5b0b57086269678b",
+            "archive_commit": "d3530afa5ea92389efaa97ed738275a2aba4fb85",
+            "released": "2018-09-28T10:29:22+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

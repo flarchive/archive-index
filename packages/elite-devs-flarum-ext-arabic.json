@@ -1,0 +1,19 @@
+{
+    "package": "elite-devs/flarum-ext-arabic",
+    "upstream": "https://github.com/hichem2h/flarum-ext-arabic",
+    "packagistUrl": "https://packagist.org/packages/elite-devs/flarum-ext-arabic",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e392e90fce80385266f734b47b5c097cb35d6711",
+            "archive_commit": "d8e504858f07357e068e08892b0ea497aadcd519",
+            "released": "2018-04-03T14:13:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

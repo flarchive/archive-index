@@ -1,0 +1,43 @@
+{
+    "package": "emilioforrer/flarum-ext-spanish",
+    "upstream": "https://github.com/emilioforrer/flarum-ext-spanish",
+    "packagistUrl": "https://packagist.org/packages/emilioforrer/flarum-ext-spanish",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ee3c1c4a9162d2a0686a7e33d906f1f1f137d10c",
+            "archive_commit": "4d6ec7daef0558b8dcc7c5abb15eb386f00b0a37",
+            "released": "2017-07-08T07:53:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "f54874e5cb468ecb4a7589c028200c3578504f86",
+            "archive_commit": "fee794674f805c4578980130d6a4c74708ba04ba",
+            "released": "2017-07-08T08:49:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "fd14a11b91a3b514e2673c4d509eb63eaec53a53",
+            "archive_commit": "a05e95b464a553285e5d610f722316bff717a313",
+            "released": "2017-07-08T08:55:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

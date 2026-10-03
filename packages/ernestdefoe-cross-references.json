@@ -1,0 +1,55 @@
+{
+    "package": "ernestdefoe/cross-references",
+    "upstream": "https://github.com/ernestdefoe/cross-references",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/cross-references",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "077b72a9b138fa21116848612b7b63ce7fb5b359",
+            "archive_commit": "2be2181e1e1503a51da8642aa7811bc71303b74d",
+            "released": "2026-05-17T19:38:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "cd0937240b58f59b4ece516cd3b9e070a425e17d",
+            "archive_commit": "af1aa0e4accb2142d29b4e904becccd3f8da3037",
+            "released": "2026-05-19T13:25:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "3.0.0",
+            "tag": "archive/v3.0.0",
+            "upstream_commit": "077c250bc57faff5861f4fc36dce7001e71df320",
+            "archive_commit": "d761948c92b0792cb05793ff43ad23a8ac4935df",
+            "released": "2026-05-26T02:47:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "3.0.1",
+            "tag": "archive/v3.0.1",
+            "upstream_commit": "3064cb15fc51461a4d0c1e7d99d4493ed1630ff6",
+            "archive_commit": "23f597dc0a1917d2129bb15dd19a2068abef89cc",
+            "released": "2026-09-13T13:01:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

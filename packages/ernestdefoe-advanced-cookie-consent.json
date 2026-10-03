@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/advanced-cookie-consent",
+    "upstream": "https://github.com/ernestdefoe/advanced-cookie-consent",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/advanced-cookie-consent",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b53d7bc349bda153569d13f41f4f2de97745757f",
+            "archive_commit": "4531a5030db14e5a61e21d26d1533718f43db84c",
+            "released": "2026-06-09T20:45:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "c91094ccdc39f6cda52ba6d78b4f42318bd9be8f",
+            "archive_commit": "6e2a90301c51a3c0f523f98130ca58650edfca5d",
+            "released": "2026-06-09T21:08:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "ernestdefoe/discussion-participants",
+    "upstream": "https://github.com/ernestdefoe/discussion-participants",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/discussion-participants",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "63678e96e1c9b347570d91b4e870fd0a376a41bf",
+            "archive_commit": "dbb1cd311df1eaa506d85f72ed67ba10085f66ca",
+            "released": "2026-08-29T17:12:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "c60ec158214cfa475629102d7c7124dee43747c3",
+            "archive_commit": "3179a434f3c592bffd76bcf169df6cbcfd75f11b",
+            "released": "2026-08-30T12:30:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "f90300eeb021aa859b6f27d1b1479e9e69580cb8",
+            "archive_commit": "6feb31d624fedf0e6be4d581b07a1cbb62000a55",
+            "released": "2026-08-30T16:40:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "a44b6e8510e1795fc6a1457be2005020704425f6",
+            "archive_commit": "ce11b5dd760ff6314071b88ef19949085a76f579",
+            "released": "2026-09-11T23:49:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

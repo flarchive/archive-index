@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/connect",
+    "upstream": "https://github.com/ernestdefoe/connect",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/connect",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "15cf139c709ade1d216801f7a7192a0f2aef0e7a",
+            "archive_commit": "4ec095637866af8f3fbb61f4b3b80c5fe7fe895e",
+            "released": "2026-07-23T23:59:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "f09bffff7560277dd20f28c6f4e0fbe114257a97",
+            "archive_commit": "195ce5d3df0f2f87299bfbb10c40bfde522e5686",
+            "released": "2026-07-24T01:01:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

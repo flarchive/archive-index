@@ -1,0 +1,43 @@
+{
+    "package": "ekumanov/flarum-ext-post-search",
+    "upstream": "https://github.com/ekumanov/flarum-ext-post-search",
+    "packagistUrl": "https://packagist.org/packages/ekumanov/flarum-ext-post-search",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9519b0030ac23316c9f5d6286ac9eec13a7d3a30",
+            "archive_commit": "57b52f25e2dbb0d04a84a4f27c6c795e18e325e7",
+            "released": "2026-04-18T19:07:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "378395cb59289b929cff9069dd31b32cadd140eb",
+            "archive_commit": "8498536c157a55af098070f816d3dd0d4b141d58",
+            "released": "2026-04-26T18:39:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "4dfa7f44365f144e100b0a025fbd42b958fe6f4c",
+            "archive_commit": "b2679cb6b50f66ab6cfd5ffe9836f41e2ade7274",
+            "released": "2026-09-24T15:15:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

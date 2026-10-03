@@ -1,0 +1,43 @@
+{
+    "package": "enver/flarum-ext-turkish",
+    "upstream": "https://github.com/enverarslan/flarum-ext-turkish",
+    "packagistUrl": "https://packagist.org/packages/enver/flarum-ext-turkish",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "e023e4d64ad2ab424cdd07e2b6e48f88e876bb36",
+            "archive_commit": null,
+            "released": "2017-08-25T00:19:48+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "541163123bbc3a67202e252c09624020487bd6c7",
+            "archive_commit": null,
+            "released": "2017-08-25T01:11:55+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.2",
+            "tag": null,
+            "upstream_commit": "8c55f13937a56d782f9617b3a348b4376008ee27",
+            "archive_commit": null,
+            "released": "2017-08-25T02:03:05+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}
