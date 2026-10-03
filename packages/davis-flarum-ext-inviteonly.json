@@ -1,0 +1,55 @@
+{
+    "package": "davis/flarum-ext-inviteonly",
+    "upstream": "https://github.com/dav-is/flarum-ext-inviteonly",
+    "packagistUrl": "https://packagist.org/packages/davis/flarum-ext-inviteonly",
+    "versions": [
+        {
+            "version": "v0.1.0-beta",
+            "tag": "archive/v0.1.0-beta",
+            "upstream_commit": "cc4fa3baebf886d673f9b2e461f5d2922d8848b8",
+            "archive_commit": "69dc5ef70165bfe1a5d943d17e99f725fde49c34",
+            "released": "2016-04-30T04:41:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta2",
+            "tag": "archive/v0.1.0-beta2",
+            "upstream_commit": "7929b7f06a4445bd3825b6b0d46a90623c135350",
+            "archive_commit": "bbe0f60df6b19f26d2f5fe131efd8d38bf32163a",
+            "released": "2016-05-13T09:33:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta3",
+            "tag": "archive/v0.1.0-beta3",
+            "upstream_commit": "0b7a7442cacd87eb22a45dbac38c7a096db1f9e8",
+            "archive_commit": "7471c50494813bf289662ed7a6fcaa08f5a0db43",
+            "released": "2016-06-27T01:19:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta4",
+            "tag": "archive/v0.1.0-beta4",
+            "upstream_commit": "1efdc32feb952bb641d97839d5b592536c9ca748",
+            "archive_commit": "d4a59e8ec4d429b9f3ad7c18a24a4aa5b3534281",
+            "released": "2018-02-09T12:54:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

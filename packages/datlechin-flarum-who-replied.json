@@ -1,0 +1,19 @@
+{
+    "package": "datlechin/flarum-who-replied",
+    "upstream": "https://github.com/flatension/who-replied",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-who-replied",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1d6a5c701ad771a742297bdfb1810042eff80942",
+            "archive_commit": "74c292a22e68c8de4ecb7c54bae3ae0ac9417e78",
+            "released": "2021-12-11T08:55:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

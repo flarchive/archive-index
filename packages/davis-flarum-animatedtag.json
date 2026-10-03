@@ -1,0 +1,103 @@
+{
+    "package": "davis/flarum-animatedtag",
+    "upstream": "https://github.com/dav-is/flarum-animatedtag",
+    "packagistUrl": "https://packagist.org/packages/davis/flarum-animatedtag",
+    "versions": [
+        {
+            "version": "v0.0.1beta",
+            "tag": "archive/v0.0.1beta",
+            "upstream_commit": "030436d8909e71573f37282bf6f452c7a74fb449",
+            "archive_commit": "72b2c0c68bb9e268b1cac703021f865d54cf0bc8",
+            "released": "2015-12-20T21:29:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.1beta2",
+            "tag": "archive/v0.0.1beta2",
+            "upstream_commit": "a1696a32e49cbf605669585cd78443e98c372777",
+            "archive_commit": "26d1b44f20337ea1fc70cc1f4abd49b9c99701f5",
+            "released": "2015-12-22T22:24:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.1beta3",
+            "tag": "archive/v0.0.1beta3",
+            "upstream_commit": "26853e7b003eab3d1af327762afb65e81d031d35",
+            "archive_commit": "65f7a37f5b683ebb6f75deb4d31d060e5c203b7c",
+            "released": "2015-12-22T23:29:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.1beta4",
+            "tag": "archive/v0.0.1beta4",
+            "upstream_commit": "9b59e1649e23735c169aa461d0fdba786039afad",
+            "archive_commit": "54ffff864c43e467364bfb1a6f7cde9809e76080",
+            "released": "2015-12-23T05:00:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.1beta5",
+            "tag": "archive/v0.0.1beta5",
+            "upstream_commit": "6dbda31eb213de1d74000503ca0baef9108da32e",
+            "archive_commit": "148427dbd5241eccb7f139da079c390d45e9ddc3",
+            "released": "2015-12-23T06:17:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.1beta6",
+            "tag": "archive/v0.0.1beta6",
+            "upstream_commit": "720f7d323371ab0235fba2fdd25974704d6870ad",
+            "archive_commit": "71e3e1b167f7ffbcbc6e6f312307cea19f697cc6",
+            "released": "2015-12-23T22:27:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.1beta7",
+            "tag": "archive/v0.0.1beta7",
+            "upstream_commit": "107cc17615611d34ebf5cd901e04007c00ccae78",
+            "archive_commit": "ef20da87b154bdb0fe5ee323f46a1cc45c60611f",
+            "released": "2015-12-24T03:53:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.1beta8",
+            "tag": "archive/v0.0.1beta8",
+            "upstream_commit": "83855dae4d28790ba670c801459301b626fb9458",
+            "archive_commit": "e4fb802843c4ed66f237ce6599a5cd58b688b1a2",
+            "released": "2015-12-24T20:27:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

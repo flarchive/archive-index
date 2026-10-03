@@ -1,0 +1,55 @@
+{
+    "package": "davis/flarum-ext-customheader",
+    "upstream": "https://github.com/dav-is/flarum-ext-customheader",
+    "packagistUrl": "https://packagist.org/packages/davis/flarum-ext-customheader",
+    "versions": [
+        {
+            "version": "v0.1.0-beta",
+            "tag": "archive/v0.1.0-beta",
+            "upstream_commit": "5c5b174951bef37d4e09c824181c62d264aca51b",
+            "archive_commit": "1c070d33c58752eb86d9c3572eb5d3c2f132abc8",
+            "released": "2016-05-01T04:07:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta2",
+            "tag": "archive/v0.1.0-beta2",
+            "upstream_commit": "54da5d6a42a698fed6c263b7653a6e20a58ebe12",
+            "archive_commit": "f37225c0ff363678110c7ecbacbfb1e48693f87a",
+            "released": "2016-05-01T04:27:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta3",
+            "tag": "archive/v0.1.0-beta3",
+            "upstream_commit": "77e0d59bbec045e0b856ebd43214378a8d64199c",
+            "archive_commit": "1d14de5013bf3d08f9dcdb0f98e400c768bbfce5",
+            "released": "2016-06-13T22:21:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta4",
+            "tag": "archive/v0.1.0-beta4",
+            "upstream_commit": "d89e6674178c42ac791f3af5254a8a17e6147edd",
+            "archive_commit": "2edf8c6ca537293255c3bd5b14ecb7ee1cef8bdb",
+            "released": "2018-08-04T22:56:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

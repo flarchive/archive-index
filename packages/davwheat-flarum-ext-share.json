@@ -1,0 +1,43 @@
+{
+    "package": "davwheat/flarum-ext-share",
+    "upstream": "https://github.com/davwheat/flarum-ext-share",
+    "packagistUrl": "https://packagist.org/packages/davwheat/flarum-ext-share",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "90881310cd463e438aa62e63d0e50994576de1d7",
+            "archive_commit": "cc16922a9a215a170583851bb68cd4ab997e9850",
+            "released": "2021-09-30T00:22:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "ced0bcd66d8cb751af6c9665aa211cbd817785d2",
+            "archive_commit": "3241c951aee785482b389bc33790ab8ddd94d1db",
+            "released": "2021-10-09T12:15:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "26f73f5f33852c2bae7b41203e07a0f9730fa68c",
+            "archive_commit": "0a2164bb66296a8d356179118e0719397fa4fe34",
+            "released": "2023-02-07T22:16:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

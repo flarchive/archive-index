@@ -1,0 +1,79 @@
+{
+    "package": "datlechin/flarum-simple-tour-guide",
+    "upstream": "https://github.com/datlechin/flarum-simple-tour-guide",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-simple-tour-guide",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "3dd853998fbd6627a19d044a887a5888d0195f6b",
+            "archive_commit": "497027ec0bd4764090b1e12b2278c17243ee1e96",
+            "released": "2023-11-23T18:32:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "baecb5def4ead77522d8b76cddbd22b22a9a7302",
+            "archive_commit": "03a48be5ed9ab59d396c9f3a66447948419de7f8",
+            "released": "2024-06-13T18:33:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "13df6030019936a0c1ee1820d10e58d875c2e3a9",
+            "archive_commit": "b60e2516a73448b7e3900a115fb2e93b42e8ab80",
+            "released": "2024-06-13T19:20:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "1b83ed1ccc3fed9656cd00e5dfe761b5e209ac16",
+            "archive_commit": "bbc6de972effc7208cf6dfbb92c6c2301387abde",
+            "released": "2024-06-25T11:57:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "d99efcdd8a5f9a686be69f1e61e91f5c0dda4894",
+            "archive_commit": "9cf1c6719bf59b8010467221c99dd4243bfd6958",
+            "released": "2024-09-19T15:28:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "d686ca9c1b0c35dfdb9b153bedd294ccc85cf6b0",
+            "archive_commit": "883270162764b992a2ad38c2b232afbd001fbb95",
+            "released": "2026-09-01T15:31:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

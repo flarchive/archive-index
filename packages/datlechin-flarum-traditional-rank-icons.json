@@ -1,0 +1,43 @@
+{
+    "package": "datlechin/flarum-traditional-rank-icons",
+    "upstream": "https://github.com/datlechin/flarum-traditional-rank-icons",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-traditional-rank-icons",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f43fc032a33298f0174868b9702785a561ce6f78",
+            "archive_commit": "c4f5d3cef82438d446aa10fc17fceffdbfa8700b",
+            "released": "2022-01-30T04:17:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "b27816631267e25a185b2b2cb85586450cbe1ae4",
+            "archive_commit": "d216fc07c77ed278f016aab42388c9303b7bf001",
+            "released": "2022-08-29T16:04:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "f0f58d28d1ba2f1ecc84e9faba31201dccc5ab45",
+            "archive_commit": "d42fea2245cf60fd37230ab54a496ce80a75e1c7",
+            "released": "2026-02-24T06:11:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

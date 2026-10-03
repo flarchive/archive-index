@@ -1,0 +1,31 @@
+{
+    "package": "datlechin/flarum-usercard-uid",
+    "upstream": "https://github.com/datlechin/flarum-usercard-uid",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-usercard-uid",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "03bd9c7c1279a7db6df32f2fd12641a15dc895df",
+            "archive_commit": "57076e55d7801295db66d6e8f4d53015694ecef8",
+            "released": "2022-01-03T03:39:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "53915b8e48b0fb33ae441f3005b4d59fbcb4b118",
+            "archive_commit": "9a71a118f83cf77a81d8db90afce0cdd2ec1eee9",
+            "released": "2022-01-03T06:09:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

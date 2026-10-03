@@ -1,0 +1,43 @@
+{
+    "package": "datlechin/flarum-title-length",
+    "upstream": "https://github.com/datlechin/flarum-title-length",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-title-length",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d3bb7930780ec8a4b1603f13e79b272efea0af11",
+            "archive_commit": "5ded1921e7dd811b17b2ece465287bc360dd2776",
+            "released": "2022-01-24T15:40:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "6f52a53f31a2025d792dccd731f846cbe69f0d10",
+            "archive_commit": "fda1009bd95f776f88a99d615fc442484bd35776",
+            "released": "2022-02-23T10:52:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0-beta.1",
+            "tag": "archive/v1.0.0-beta.1",
+            "upstream_commit": "2c95df1a26d67235bd50c0a67be0f1a908741b14",
+            "archive_commit": "edcf8a9ec7392695a361a1798b6b1aff17954ae7",
+            "released": "2026-05-05T16:07:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

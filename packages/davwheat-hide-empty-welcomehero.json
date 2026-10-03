@@ -1,0 +1,19 @@
+{
+    "package": "davwheat/hide-empty-welcomehero",
+    "upstream": "https://github.com/davwheat/hide-empty-welcomehero",
+    "packagistUrl": "https://packagist.org/packages/davwheat/hide-empty-welcomehero",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "44edaf6cf4fd7d0b21d3a1770d3c716126fa2fe7",
+            "archive_commit": "d0e87b29aa14ed4fffd76b5527fd5ca39fa4c9b2",
+            "released": "2021-12-21T20:30:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

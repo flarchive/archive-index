@@ -1,0 +1,43 @@
+{
+    "package": "davwheat/blog-featured-widget",
+    "upstream": "https://github.com/davwheat/flarum-ext-blog-featured-widget",
+    "packagistUrl": "https://packagist.org/packages/davwheat/blog-featured-widget",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "ef9bf66d07330fac14acf3de4b5cc96c373eb134",
+            "archive_commit": "8499f1f8b9a190cc8716f543549d65f8173db7dc",
+            "released": "2022-05-30T22:55:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.2",
+            "tag": "archive/v0.1.0-beta.2",
+            "upstream_commit": "61cabadcef597e2e1730cad88731c09ce1f39d83",
+            "archive_commit": "03269b9e9171c13e396f87195290c3580a19ecda",
+            "released": "2022-05-30T23:51:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.3",
+            "tag": "archive/v0.1.0-beta.3",
+            "upstream_commit": "330781d8f823f10b40306eba2c594cd13b82dfc7",
+            "archive_commit": "d8a5a812d31e6fc1ae506d4cc2af8be059a9ea6a",
+            "released": "2022-06-04T04:24:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

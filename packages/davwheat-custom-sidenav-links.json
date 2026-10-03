@@ -1,0 +1,103 @@
+{
+    "package": "davwheat/custom-sidenav-links",
+    "upstream": "https://github.com/davwheat/flarum-ext-custom-sidenav-links",
+    "packagistUrl": "https://packagist.org/packages/davwheat/custom-sidenav-links",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "36744e3bd68898bd5347c1df67edc0b3f2d65eda",
+            "archive_commit": "e3dc14781dbfea6a745b0d9815681545095d1115",
+            "released": "2021-03-08T05:33:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "639aa044c2ee1ff53bb22c3693e5a6b202df0f6c",
+            "archive_commit": "041a958fa5b5f180eb9fe6137d061a37d508c8b0",
+            "released": "2021-03-08T05:39:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "ebec5b1344db3574dcb9d2290f3fd37ab63558b4",
+            "archive_commit": "7f344a1bc65dd4019c5dcc8c39c6b03f449dcdab",
+            "released": "2021-03-08T05:45:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "f938ddd83d7d5a02d2aadee9587bbff434774503",
+            "archive_commit": "6b10d36d60c912d5c90d7f5490756838e1e0a56d",
+            "released": "2021-03-12T00:29:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "cee0c8b4e88df8de70ac7a6903e5303a5c23dab0",
+            "archive_commit": "c658653a8599a8d97d3434971e7fbcd65c15aeba",
+            "released": "2021-03-24T20:50:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "3a42fc9d70e8472553efc03b10d31ece13ddcd65",
+            "archive_commit": "26f1813200e7e43ea638f3e50df2e9d8f1a04fe7",
+            "released": "2021-03-27T15:56:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.16 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0ec478f42d0227b842a2969df3d9a2712bfef3c2",
+            "archive_commit": "ec7feabfeadcac5a98cab33f33cfe6967dd37579",
+            "released": "2021-05-17T16:50:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8381454ad9984cf269ca831410f44ec188870927",
+            "archive_commit": "b6cfbe253c1528782044e8efe8faae0d03cd10dd",
+            "released": "2021-10-15T19:53:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^v1.1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

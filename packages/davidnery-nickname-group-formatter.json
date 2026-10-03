@@ -1,0 +1,43 @@
+{
+    "package": "davidnery/nickname-group-formatter",
+    "upstream": "https://github.com/DavidNery/flarum-nickname-group-formatter",
+    "packagistUrl": "https://packagist.org/packages/davidnery/nickname-group-formatter",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "c18a07fd599e43a5b16bbb15f310c8d9f3366335",
+            "archive_commit": "aad2f290d1c0c1f51f638265543774af0674a170",
+            "released": "2020-10-18T15:10:21+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "8d5a8b7acc5e8efbe38ebe246cb255e071561e1f",
+            "archive_commit": "2f255bcd6a2cd486e55dfb923da0c731427f78a6",
+            "released": "2020-10-19T17:48:34+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "e429dc85a6fc309b31ad9957d01cfad53e876354",
+            "archive_commit": "27c4cb20b8b7ed5ef29970497c8877d771db4c97",
+            "released": "2020-12-19T18:09:32+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": ">=0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
