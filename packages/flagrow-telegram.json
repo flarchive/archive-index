@@ -1,0 +1,31 @@
+{
+    "package": "flagrow/telegram",
+    "upstream": "https://github.com/flagrow/telegram",
+    "packagistUrl": "https://packagist.org/packages/flagrow/telegram",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "eba9064cd6dd3894ca94d3e2d884717794d26870",
+            "archive_commit": "ee6fad040be4069200fc6bd4abbd0d9d1bd4c193",
+            "released": "2018-02-09T01:07:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "8dcd2a0996284c8254fc5bbc0b23b82f3a3f31d5",
+            "archive_commit": "5ae1c33db56f263d5f112e01607168bf02685bfe",
+            "released": "2018-02-09T16:55:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

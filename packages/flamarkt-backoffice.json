@@ -1,0 +1,67 @@
+{
+    "package": "flamarkt/backoffice",
+    "upstream": "https://github.com/flamarkt/backoffice",
+    "packagistUrl": "https://packagist.org/packages/flamarkt/backoffice",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "4f3204b59d29da93dbcb90fb5468648ef981d6fe",
+            "archive_commit": "079d11838a4f6feae3d957669e83b2748dfaae4e",
+            "released": "2022-03-28T00:25:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "2d3d2d56a3fa634015610c8f70d751c780ad409c",
+            "archive_commit": "f9d31079647313740ce7d01a878ce1d62228c47c",
+            "released": "2022-04-01T00:04:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "1cc8bffaab7b6cd95afc812d43e4e342bdd97963",
+            "archive_commit": "2dfb431a4d700e63f06679b82b2dd8faf70e78a1",
+            "released": "2022-11-10T18:45:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "fcc600515e49ffc1000be26d2cc55974de63dedc",
+            "archive_commit": "ed598a5662339e7e5cd990032ba97aab2b096a0b",
+            "released": "2022-11-21T18:16:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "ef526cd0ad04c47d0f5decdb1c2f0c57429882f2",
+            "archive_commit": "dc5492c74fd3746a220711c89677e794b2723faf",
+            "released": "2024-06-01T14:10:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

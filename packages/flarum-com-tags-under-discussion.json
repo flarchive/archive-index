@@ -1,0 +1,31 @@
+{
+    "package": "flarum-com/tags-under-discussion",
+    "upstream": "https://github.com/flarum-com/tags-under-discussion",
+    "packagistUrl": "https://packagist.org/packages/flarum-com/tags-under-discussion",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f06e7b8fe1f1c6b5c8208e35eb27abc014141bca",
+            "archive_commit": "3190838134661d440504c4f60b0b6a625aff8292",
+            "released": "2024-07-06T16:00:56+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "6d8e4572c93f0572aa6d01d21a1d61a0c319318c",
+            "archive_commit": "3da0d12861ca11ea709f1f0a706fb8761737f746",
+            "released": "2024-07-23T10:30:38+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

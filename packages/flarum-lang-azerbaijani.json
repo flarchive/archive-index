@@ -1,0 +1,43 @@
+{
+    "package": "flarum-lang/azerbaijani",
+    "upstream": "https://github.com/flarum-lang/azerbaijani",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/azerbaijani",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "df4ec8e45bb1a34254f671cec0228e5faecec2d4",
+            "archive_commit": "5109659e019700d8f5865905d08a77d593c9ca1e",
+            "released": "2021-09-09T15:10:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "3f0c76c7a5429f63549108a82c6da027c6bdec61",
+            "archive_commit": "94d162a2f3dfd3e19e251ddb524cb73ee416b89b",
+            "released": "2026-09-30T07:24:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "ebe55a049317e42c5819c51c0be82a51e622e9a5",
+            "archive_commit": "230f6683317165ed1736cc0f877bc7382ad62ecf",
+            "released": "2026-09-30T07:31:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

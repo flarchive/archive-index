@@ -1,0 +1,55 @@
+{
+    "package": "flame05/flarum-ita",
+    "upstream": "https://github.com/flame05/flarum-ita",
+    "packagistUrl": "https://packagist.org/packages/flame05/flarum-ita",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "3b04cfea0ec0ca198ada80684e25fb6195f5757d",
+            "archive_commit": "4df914a4d17c5f7aa531e0dccca71d37743d465d",
+            "released": "2015-11-04T14:09:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "34b8434579d71c0deb6591c56b880861d876aaf3",
+            "archive_commit": "c3869f927575ae1b7823460ddf068496ec51282e",
+            "released": "2015-11-04T21:21:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "2a9216acf44171db7b3483b025ad8636f0637b1f",
+            "archive_commit": "8e76a79211f08b7e4b736c7ac3a7967c1a1330a0",
+            "released": "2015-11-05T14:23:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "ff234f0b8f216da6fcf5d9bdbf48281dca534a40",
+            "archive_commit": "d9142ef62773d13ef087e95f23ffbe5b58dc8ab6",
+            "released": "2015-11-07T14:22:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

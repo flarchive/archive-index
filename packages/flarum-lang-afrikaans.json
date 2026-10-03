@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/afrikaans",
+    "upstream": "https://github.com/flarum-lang/afrikaans",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/afrikaans",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "90cba536ba36154ae1d497fbe8cc121638b04e44",
+            "archive_commit": "457b89a88b913ee4841ba435db3bb7a0f53e6b3f",
+            "released": "2026-09-30T07:22:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "dedb6b5fe766ff1075b0065aaea7a509fd21f034",
+            "archive_commit": "75f001c4330ec46c7d9e00036cbf39ea547a1605",
+            "released": "2026-09-30T07:29:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

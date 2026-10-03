@@ -1,0 +1,19 @@
+{
+    "package": "flarum-com/truncating-approval",
+    "upstream": "https://github.com/flarum-com/truncating-approval",
+    "packagistUrl": "https://packagist.org/packages/flarum-com/truncating-approval",
+    "versions": [
+        {
+            "version": "1.0.0-beta.1",
+            "tag": "archive/v1.0.0-beta.1",
+            "upstream_commit": "417fc3619eed2026d6897e87f404b219f643a136",
+            "archive_commit": "e6f3f75cfcca60a8559739d2b01133b293060e75",
+            "released": "2023-08-19T16:52:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^v1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

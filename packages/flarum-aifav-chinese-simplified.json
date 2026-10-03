@@ -1,0 +1,31 @@
+{
+    "package": "flarum-aifav/chinese-simplified",
+    "upstream": "https://github.com/moyonie/chinese-simplified",
+    "packagistUrl": "https://packagist.org/packages/flarum-aifav/chinese-simplified",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "3044912fb4b185c380345f1939573a4f6045b4fd",
+            "archive_commit": "c4b73fa55e43d54452511e452c26e49f04703219",
+            "released": "2026-03-25T20:36:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "b4ce2de5c29437f671e32bd866bc32dd253f43f5",
+            "archive_commit": "864d7e4668d0f7cc6102fae9875ec56411859afe",
+            "released": "2026-03-27T07:32:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

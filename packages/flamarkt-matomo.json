@@ -1,0 +1,19 @@
+{
+    "package": "flamarkt/matomo",
+    "upstream": "https://github.com/flamarkt/matomo",
+    "packagistUrl": "https://packagist.org/packages/flamarkt/matomo",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0d480cf779e66807a0b12e86bffe6c5f7e05f8d7",
+            "archive_commit": "2f85f1e61ada2f0b549d3d581fb86851d38a3820",
+            "released": "2022-04-01T00:53:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

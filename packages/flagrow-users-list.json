@@ -1,0 +1,43 @@
+{
+    "package": "flagrow/users-list",
+    "upstream": "https://github.com/flagrow/users-list",
+    "packagistUrl": "https://packagist.org/packages/flagrow/users-list",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "dd8d6126ac57674963aa2d04c67eab873aec9956",
+            "archive_commit": "2c58808b7e9b7afc29a86d9ac15d41dbce70bb25",
+            "released": "2016-08-18T14:27:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "ed9b1a02832fb00031ab1c0030b18071751464c4",
+            "archive_commit": "d3f1443558542dd77bc083a55fd4099c1510d850",
+            "released": "2016-09-16T08:42:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "d804c4a7e96e8e05df960b780e2937e6c59a74a6",
+            "archive_commit": "b8a18189326d2a7989f7d515e61a7d71b8e7167f",
+            "released": "2017-06-13T14:26:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

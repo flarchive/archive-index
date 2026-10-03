@@ -1,0 +1,19 @@
+{
+    "package": "flagrow/subscribed",
+    "upstream": "https://github.com/flagrow/subscribed",
+    "packagistUrl": "https://packagist.org/packages/flagrow/subscribed",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "9444687969672192f8c0be9c13c983c55d2580a4",
+            "archive_commit": "8ef558d88c09e3d53d5766be7429f32864d9324e",
+            "released": "2017-08-02T12:01:32+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
