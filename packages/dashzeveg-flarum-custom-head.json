@@ -1,0 +1,19 @@
+{
+    "package": "dashzeveg/flarum-custom-head",
+    "upstream": "https://github.com/dashzeveg/flarum-custom-head",
+    "packagistUrl": "https://packagist.org/packages/dashzeveg/flarum-custom-head",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "acd5bd805f73fdbd03cbb9115dc43adc0a8ef457",
+            "archive_commit": "50b429c98abde5df1ab902a56b395708eed8eadd",
+            "released": "2026-04-09T01:24:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "datlechin/flarum-cbox",
+    "upstream": "https://github.com/datlechin/flarum-cbox",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-cbox",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "a5fbabe8c16f3de3866b3cc3aa8fb97020992a8f",
+            "archive_commit": "ee8993c46bdc95209bc98c409cc82681c0cf03b3",
+            "released": "2024-08-10T10:32:23+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "ebdfe5efb4af718d10dd8ff5d9a1809d657b0c02",
+            "archive_commit": "27faf4a14a8cb9a35f8a1a9a2f4e51f31f823b6c",
+            "released": "2024-08-13T15:12:53+00:00",
+            "archived": "2026-10-03",
+            "license": "Unlicense",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

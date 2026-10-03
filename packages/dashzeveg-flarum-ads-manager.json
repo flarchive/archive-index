@@ -1,0 +1,31 @@
+{
+    "package": "dashzeveg/flarum-ads-manager",
+    "upstream": "https://github.com/dashzeveg/flarum-ads-manager",
+    "packagistUrl": "https://packagist.org/packages/dashzeveg/flarum-ads-manager",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "178f94df987a59e508e5cd007c613b97d18953cd",
+            "archive_commit": "ea74f54daa54a60a63232ff95f6fcdfcc87836f4",
+            "released": "2026-04-13T12:24:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "4e22c2264eea0f4c3d9cd730020bd89dea96b289",
+            "archive_commit": "74a000e48a0651193a4c842825691467968ccd2f",
+            "released": "2026-05-13T10:52:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

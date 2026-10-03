@@ -1,0 +1,19 @@
+{
+    "package": "dashzeveg/flarum-open-links-in-new-tab",
+    "upstream": "https://github.com/dashzeveg/flarum-open-links-in-new-tab",
+    "packagistUrl": "https://packagist.org/packages/dashzeveg/flarum-open-links-in-new-tab",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "ea7fb9282b42178809a9d388dc73ae9f3b18f1d5",
+            "archive_commit": "22a06ddf2dea44f144f39f497011683298f936f2",
+            "released": "2026-04-09T13:34:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

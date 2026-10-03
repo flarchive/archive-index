@@ -1,0 +1,31 @@
+{
+    "package": "dashzeveg/flarum-meta-tags",
+    "upstream": "https://github.com/dashzeveg/flarum-meta-tags",
+    "packagistUrl": "https://packagist.org/packages/dashzeveg/flarum-meta-tags",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "c273479083a779db83cc2dbea96345743880ea50",
+            "archive_commit": "1505488ab9622f656a447e141251260f1865c130",
+            "released": "2026-04-09T12:24:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "94b55c7b493fc33d57ccf3392379a330794e5cab",
+            "archive_commit": "178045916a17e3174a878640cd640c6afc4f21e3",
+            "released": "2026-04-11T16:11:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

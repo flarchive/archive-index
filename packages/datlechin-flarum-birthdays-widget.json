@@ -1,0 +1,31 @@
+{
+    "package": "datlechin/flarum-birthdays-widget",
+    "upstream": "https://github.com/flatension/birthdays-widget",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-birthdays-widget",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "60b3922935a9c06290c65f28eed2fd912fd0f3a9",
+            "archive_commit": "36278a7c4af25e6bcf0fe5719e9263b75362c27c",
+            "released": "2022-09-29T06:45:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "939ce5f561b7a93eb04a1f847a4ad37ede1b9c33",
+            "archive_commit": "ff9dc20d0a7c8f15bcdb68bae1eaed2dda0540a6",
+            "released": "2026-03-08T11:19:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

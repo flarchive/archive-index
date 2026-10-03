@@ -1,0 +1,43 @@
+{
+    "package": "datitisev/flarum-discussion-agree-message",
+    "upstream": "https://github.com/dsevillamartin/flarum-discussion-agree-message",
+    "packagistUrl": "https://packagist.org/packages/datitisev/flarum-discussion-agree-message",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9ace7bdcedfc3e342e7d89e43817d02fd9060911",
+            "archive_commit": "6c98dcf5b3948c434bcf4b9714751482f6428f22",
+            "released": "2021-09-02T16:29:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0b6bf1da9212ea585791fa0058cc17c24bbe832d",
+            "archive_commit": "cb78372bdab86faa2903bb5b623fbcd0bcc6c388",
+            "released": "2021-09-02T20:41:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "5f0cb51241a78efd258798ca1b424d5988434363",
+            "archive_commit": "a5808a88321d23e1e5a8686600b594215f6730f2",
+            "released": "2021-09-05T14:34:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

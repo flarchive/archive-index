@@ -1,0 +1,43 @@
+{
+    "package": "datlechin/flarum-ai-summarize",
+    "upstream": "https://github.com/datlechin/flarum-ai-summarize",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-ai-summarize",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0d893953f9b6acae0c8870e922bcb02cf8787b18",
+            "archive_commit": "09daed74ba777a5609b88218bf843236583bf0ca",
+            "released": "2025-10-11T04:32:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "6475bbd622d0e1982b59df5ba924be229f856682",
+            "archive_commit": "c414f3f4b97519932dd186cb36f7ceda3704659e",
+            "released": "2025-10-12T11:19:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "87b8b4ea8e3ab5c73f05ad1ef1e26080011ebf00",
+            "archive_commit": "add66321ccf967d6d1127944663ade654ba9e41e",
+            "released": "2026-03-21T11:09:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

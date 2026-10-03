@@ -1,0 +1,67 @@
+{
+    "package": "datitisev/flarum-post-galleries",
+    "upstream": "https://github.com/datitisev/flarum-post-galleries",
+    "packagistUrl": "https://packagist.org/packages/datitisev/flarum-post-galleries",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2305393cd1ac6d70b8dd39e0a18c77c9bcf6bde5",
+            "archive_commit": "d7798fafadca4a547bb5f9fcbc0920233c206e7e",
+            "released": "2022-03-03T23:29:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b968e69015ddea8e863f418cebabf0d888c67b3b",
+            "archive_commit": "8bfb8cb731fc50ac8bd90652d379e8596db426d5",
+            "released": "2023-03-28T00:37:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "4c75d104bd9ee1af9a740dea0ee9f783885d5cdd",
+            "archive_commit": "410e805261c5ee435daa1eec7b89a2ab2fabbf79",
+            "released": "2023-08-08T16:19:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "3bf88d53292e67372437d53f9d39d4524f4d4d43",
+            "archive_commit": "96ad039a7274db9133277afa7947771689312091",
+            "released": "2023-08-09T15:03:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "68956be4f2ea15a9a5d8ee9d1356c728bfabc085",
+            "archive_commit": "772e53573181c72feadce38499db832290326a07",
+            "released": "2026-09-07T21:05:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

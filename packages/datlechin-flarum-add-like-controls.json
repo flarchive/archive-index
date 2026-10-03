@@ -1,0 +1,91 @@
+{
+    "package": "datlechin/flarum-add-like-controls",
+    "upstream": "https://github.com/datlechin/flarum-add-like-controls",
+    "packagistUrl": "https://packagist.org/packages/datlechin/flarum-add-like-controls",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3a423800b54638aaec2bbd05309b11edccaa877a",
+            "archive_commit": "91b4c49b16bd7bd52ee6077d70b7f91b1acfadfd",
+            "released": "2021-11-22T21:56:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "f90e01b3d023a51d6de81a70a5bd56baa64c43cb",
+            "archive_commit": "1307f9d5e23b6ed1f25a042457a9fb504383e572",
+            "released": "2021-11-23T11:48:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "9c48853b08452c3212d2ee779d36450414c50e67",
+            "archive_commit": "2b9cb962ed92bc0da3f4dee94068a3d03b52ac08",
+            "released": "2021-11-24T08:51:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "46c126c38a4cf80d5f61cac6c14919d56f362832",
+            "archive_commit": "4b2c4070d4ec7909728e67e1c5479388c996801e",
+            "released": "2021-12-07T13:57:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "63fcb0788a0ca0bbcab68fe0fc33f7e95fd427d5",
+            "archive_commit": "2dcd6f70eb6ed97971ee597eff84ef22b15f22e6",
+            "released": "2021-12-10T01:28:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "1f05f7904a207de842ac3fa82826cb1f46239b4f",
+            "archive_commit": "4eebd79f69f68ed6e6cbead00b1f348a009356f4",
+            "released": "2021-12-16T01:43:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "46e3633ee7737953609812c4871adb2bbac0e76f",
+            "archive_commit": "e2e50061bbe1bcdc9df11e3861d1d80c4a07b971",
+            "released": "2021-12-17T00:47:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
