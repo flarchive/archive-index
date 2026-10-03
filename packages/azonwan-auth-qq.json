@@ -1,0 +1,19 @@
+{
+    "package": "azonwan/auth-qq",
+    "upstream": "https://github.com/azonwan/azonwan-auth-qq",
+    "packagistUrl": "https://packagist.org/packages/azonwan/auth-qq",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0f797932b19e5d1cf457497099030c06502ef72b",
+            "archive_commit": "d52c5eef5e2d84e3fcf29c140e49684a266a9070",
+            "released": "2016-01-27T17:01:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

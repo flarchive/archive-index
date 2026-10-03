@@ -1,0 +1,19 @@
+{
+    "package": "beeta-dev/ext-quickavatar",
+    "upstream": "https://github.com/Beeta-dev/ext-quickavatar",
+    "packagistUrl": "https://packagist.org/packages/beeta-dev/ext-quickavatar",
+    "versions": [
+        {
+            "version": "0.1.9",
+            "tag": "archive/v0.1.9",
+            "upstream_commit": "b2616848084543a23639c91373276febf8483b3b",
+            "archive_commit": "712e61561becf579e54d257096ed9f632d00c8c7",
+            "released": "2016-07-22T20:55:44+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

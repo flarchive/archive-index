@@ -1,0 +1,55 @@
+{
+    "package": "avatar4eg/flarum-ext-geotags",
+    "upstream": "https://github.com/Avatar4eg/flarum-ext-geotags",
+    "packagistUrl": "https://packagist.org/packages/avatar4eg/flarum-ext-geotags",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f649a8f4bc7d88f735df6ede84720abe6cc64a2b",
+            "archive_commit": "e1ee28be96afccdfe9b047cbb73d4f4f3259b227",
+            "released": "2016-08-11T09:20:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "1a9c3616a31936e1125c2567c6f7c1be8a0e177e",
+            "archive_commit": "3c64b570e478a7f1297b1a580209d4671b0aebe5",
+            "released": "2016-08-12T08:48:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "8b0853c850cb9a3ddff3283b699d2a4069952956",
+            "archive_commit": "465411eaa089354ff63fc8b0f85f87615ceaca46",
+            "released": "2016-09-15T22:58:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "a54216a02a3e0abc908f9ba3aec69431f906fb92",
+            "archive_commit": "bb62152dd12de9a0c5ca414ed222e06867dfe8e2",
+            "released": "2017-06-10T07:27:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

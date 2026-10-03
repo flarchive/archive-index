@@ -1,0 +1,19 @@
+{
+    "package": "avokadogames/auth-discord",
+    "upstream": "https://github.com/AvokadoGames/auth-discord",
+    "packagistUrl": "https://packagist.org/packages/avokadogames/auth-discord",
+    "versions": [
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "42d8d1600fe661cc357a8fe4c9898c3492d0cc98",
+            "archive_commit": "bfefbc28fa8034620da332a273cfaacd945eddbf",
+            "released": "2025-02-04T13:11:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

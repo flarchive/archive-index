@@ -1,0 +1,43 @@
+{
+    "package": "antriver/flarum-http-hooks",
+    "upstream": "https://github.com/antriver/flarum-http-hooks",
+    "packagistUrl": "https://packagist.org/packages/antriver/flarum-http-hooks",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "b5f6302834b44b0bd03e6d3d86ac8f9c5dbac334",
+            "archive_commit": "92ce425d994fba020dd726944c7b7595db7b79f1",
+            "released": "2018-03-19T22:53:52+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "4be8977168fbe7b5b7ba24147e6fe4e26d3f3742",
+            "archive_commit": "27a572a447cf4afbdd6145abb1b7a8c0fa5b024c",
+            "released": "2018-03-20T00:23:58+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "96a2e14056b12570fea60a7a4d8f8251101b662a",
+            "archive_commit": "e4ded737c75b2ff5c8440999374722d461e08abd",
+            "released": "2018-03-20T00:36:58+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "asyntai/flarum-chatbot",
+    "upstream": "https://github.com/asyntai/flarum-chatbot",
+    "packagistUrl": "https://packagist.org/packages/asyntai/flarum-chatbot",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1b33d0504fad65b8f6817b3231eb81219a3d93f2",
+            "archive_commit": "b774ce3df7940b5cb3fcfa38762303d80d643283",
+            "released": "2026-08-13T12:04:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "9550e2c055e821a90bafd07c73f015ba2cd8ed69",
+            "archive_commit": "6747dbf8c14ae07cd140561773efbbfc3ca57b8c",
+            "released": "2026-08-13T12:38:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

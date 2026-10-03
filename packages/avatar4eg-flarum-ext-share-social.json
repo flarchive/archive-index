@@ -1,0 +1,67 @@
+{
+    "package": "avatar4eg/flarum-ext-share-social",
+    "upstream": "https://github.com/Avatar4eg/flarum-ext-share-social",
+    "packagistUrl": "https://packagist.org/packages/avatar4eg/flarum-ext-share-social",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0ce19c16e926c1d42e091218e627ec56be073506",
+            "archive_commit": "ee64ddd0ccfb02440077215489df8922b07e695a",
+            "released": "2015-12-13T10:36:14+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "eac02fa2e74cb46f7f94b482d09689cbf3fb4b75",
+            "archive_commit": "2b9d2117ee579163e3bb54286e4e9226f45542f5",
+            "released": "2016-07-27T08:17:01+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "9040c611bcdda1f56f6617e8ec452712c98fed92",
+            "archive_commit": "8b8eb9c0c8d2091bcc65a905e7f68c588a472031",
+            "released": "2016-08-11T10:54:43+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "5847dee3f2cbd6b587cff231f8af29bad1ba7f94",
+            "archive_commit": "677208a1873ee3c59a1515225b866ed6bb3aef36",
+            "released": "2016-09-06T07:43:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.3",
+            "tag": "archive/v0.2.3",
+            "upstream_commit": "1f65cda4736fc898ab503db6a6fb01257a32257f",
+            "archive_commit": "b227561e7855f2ece28a97a0e6f221c48955cd76",
+            "released": "2016-09-16T07:52:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

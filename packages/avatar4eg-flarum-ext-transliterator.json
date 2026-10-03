@@ -1,0 +1,67 @@
+{
+    "package": "avatar4eg/flarum-ext-transliterator",
+    "upstream": "https://github.com/Avatar4eg/flarum-ext-transliterator",
+    "packagistUrl": "https://packagist.org/packages/avatar4eg/flarum-ext-transliterator",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "71a423c9d3e2c0b8813d79a7ba25780ab69c7006",
+            "archive_commit": "d273936daf84a9b619bf8b31f3afa890e02d658b",
+            "released": "2016-09-11T20:11:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "a62859c168e970004d16db7e577e8f1320d4ba43",
+            "archive_commit": "6f1b4f9e072cacbb68d6d3c0c1773b54345afca7",
+            "released": "2016-09-11T21:58:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "9a2ebf949e406f4cc1449d6b3597bf8536721e9f",
+            "archive_commit": "f63d1fe106b901f0b07c6254292232aac85e23fc",
+            "released": "2016-09-17T10:26:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "75cd2135004727b43c0b305f3bd09e10988b2d0a",
+            "archive_commit": "13cacef268547efd71a44230b1af53fa4bee4422",
+            "released": "2017-03-20T14:36:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "archive/v0.4.0",
+            "upstream_commit": "3a89dbf338f2d7593a4bc0bd21124ed42756484e",
+            "archive_commit": "70cb5c14ead52bd8fd8a982e618b74ff53651c79",
+            "released": "2017-03-21T00:13:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "balkanje/flarum-ext-bosnian",
+    "upstream": "https://github.com/balkanje/flarum-ext-bosnian",
+    "packagistUrl": "https://packagist.org/packages/balkanje/flarum-ext-bosnian",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6bc65c6926cd0c7de2629fcb7b379cdd3a74ee15",
+            "archive_commit": "1cc8543325afdc99acae67e8cb2e5c45289cf627",
+            "released": "2016-03-13T13:34:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "76eb16eb6962924865008c87be16839409bfa889",
+            "archive_commit": "6291cda5e077a1c40f94c0a10c6d0952ccbec79a",
+            "released": "2016-03-16T01:42:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "92bfcb6150c2dadca5aef1300e58f89f672fc0c7",
+            "archive_commit": "6718a687a77a00619146bb853fdc0e3c265e22d4",
+            "released": "2016-03-18T14:53:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "9e5bcfe3023a49eae14f84f1aba723eeb7b4ddbe",
+            "archive_commit": "7a470e7167006a9769fc4dbe95f4907f08c33fc3",
+            "released": "2016-03-20T15:58:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

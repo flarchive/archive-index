@@ -1,0 +1,19 @@
+{
+    "package": "beeta-dev/ext-ads",
+    "upstream": "https://github.com/Beeta-dev/ext-ads",
+    "packagistUrl": "https://packagist.org/packages/beeta-dev/ext-ads",
+    "versions": [
+        {
+            "version": "0.3.3",
+            "tag": "archive/v0.3.3",
+            "upstream_commit": "b2e60ee32622c5391c17d43f8ec976bccff36cb3",
+            "archive_commit": "9ce8e8e9d966bbecde45e4ec75ed6124dd0b3966",
+            "released": "2016-07-22T20:40:04+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

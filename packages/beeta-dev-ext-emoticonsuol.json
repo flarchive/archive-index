@@ -1,0 +1,19 @@
+{
+    "package": "beeta-dev/ext-emoticonsuol",
+    "upstream": "https://github.com/Beeta-dev/ext-emoticonsuol",
+    "packagistUrl": "https://packagist.org/packages/beeta-dev/ext-emoticonsuol",
+    "versions": [
+        {
+            "version": "0.2.5",
+            "tag": "archive/v0.2.5",
+            "upstream_commit": "1b550763247e6092abe04c7afbe581c0b6ae9380",
+            "archive_commit": "699ffd5b73a9b680efcc8a89a06a50a6fdb6d964",
+            "released": "2016-07-22T20:44:28+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

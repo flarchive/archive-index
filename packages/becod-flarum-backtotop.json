@@ -1,0 +1,31 @@
+{
+    "package": "becod/flarum-backtotop",
+    "upstream": "https://github.com/BecodReyes/flarum-BackTotop",
+    "packagistUrl": "https://packagist.org/packages/becod/flarum-backtotop",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": null,
+            "upstream_commit": "ed8c0d128209fd828d5cf0f07ec0a43025ec7509",
+            "archive_commit": null,
+            "released": "2022-03-26T11:38:22+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.1",
+            "tag": null,
+            "upstream_commit": "e92b896c21f850c7bad60fa0a36fcd6f43156eec",
+            "archive_commit": null,
+            "released": "2022-06-07T19:40:00+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

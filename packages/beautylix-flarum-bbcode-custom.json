@@ -1,0 +1,103 @@
+{
+    "package": "beautylix/flarum-bbcode-custom",
+    "upstream": "https://github.com/beautylix/flarum-bbcode-custom",
+    "packagistUrl": "https://packagist.org/packages/beautylix/flarum-bbcode-custom",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "2d28569b7b22c29d7177f6bfe4f3aa4b8f4fa2c3",
+            "archive_commit": "d110a90f57cdc5f214a066e902970fe96e77d592",
+            "released": "2022-08-11T05:04:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "79bc5468b64773ccbab81c3b388a422c4d508f2d",
+            "archive_commit": "8818a3c0740653ae291a691b9191f4fccda27971",
+            "released": "2022-08-11T06:30:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "d870bc3d68f5fbd47da3bccd6304527e59bd9957",
+            "archive_commit": "28121035c69fa0a98a30cea80a0ab1e951e45406",
+            "released": "2022-08-21T22:45:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3",
+            "tag": "archive/v1.3",
+            "upstream_commit": "74dc4c135b6b7048efec995f4b393ce5aec9697d",
+            "archive_commit": "36c2fb628a62a623547eca4201cbabd77ad41899",
+            "released": "2022-10-03T06:34:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.1",
+            "tag": "archive/v1.3.1",
+            "upstream_commit": "d870bc3d68f5fbd47da3bccd6304527e59bd9957",
+            "archive_commit": "f4c87ef6c3df40120ac27b2172671c01ccfee679",
+            "released": "2022-08-21T22:45:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.5",
+            "tag": "archive/v1.5",
+            "upstream_commit": "01849a09cd7fb541035c93cf30458fa0a81c7dee",
+            "archive_commit": "56745d64609d51a7745d638adff25ce3939f7555",
+            "released": "2024-07-12T07:41:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "15.1",
+            "tag": "archive/v15.1",
+            "upstream_commit": "afddfd1d0279d36a365a0fe179ff0833416d55cd",
+            "archive_commit": "adf1a64bdb1c943a8c1316eff3144d7b59785cea",
+            "released": "2024-07-12T08:38:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "15.2",
+            "tag": "archive/v15.2",
+            "upstream_commit": "ea9f52097496762529c379b19ab8cc6db0302aec",
+            "archive_commit": "a97623dd4f348ae5350a4895ad3beda35cd0d515",
+            "released": "2024-07-12T10:59:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

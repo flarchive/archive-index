@@ -1,0 +1,31 @@
+{
+    "package": "avatar4eg/flarum-ext-users-list",
+    "upstream": "https://github.com/Avatar4eg/flarum-ext-users-list",
+    "packagistUrl": "https://packagist.org/packages/avatar4eg/flarum-ext-users-list",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "dd8d6126ac57674963aa2d04c67eab873aec9956",
+            "archive_commit": "5d18feb13540da4b955fa29268496a854f680658",
+            "released": "2016-08-18T14:27:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "ed9b1a02832fb00031ab1c0030b18071751464c4",
+            "archive_commit": "b304c88c2ece9059da8667d9496fb8a3909eb165",
+            "released": "2016-09-16T08:42:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

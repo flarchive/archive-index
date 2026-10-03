@@ -1,0 +1,19 @@
+{
+    "package": "bagiril/payments",
+    "upstream": "https://github.com/BagiRil/payments",
+    "packagistUrl": "https://packagist.org/packages/bagiril/payments",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "e1e3335ad85a370ad6a77f1bed375e5114d154aa",
+            "archive_commit": "f80d7c0ad90394a3a2b39dfffc2180ac06df0df8",
+            "released": "2022-01-26T21:43:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
