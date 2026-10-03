@@ -1,0 +1,55 @@
+{
+    "package": "gbcl/fof-upload-qcloud",
+    "upstream": "https://github.com/GBCLStudio/fof-upload-qcloud",
+    "packagistUrl": "https://packagist.org/packages/gbcl/fof-upload-qcloud",
+    "versions": [
+        {
+            "version": "1.2.2",
+            "tag": "archive/v1.2.2",
+            "upstream_commit": "ab5de023330eac0151a7dde51924ea167cc11dbe",
+            "archive_commit": "91f7fd6ff2e055779cf5440bacd0c32ba67e8852",
+            "released": "2024-02-18T19:10:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "424a473f1eff20852169c1dce6345056699c14d0",
+            "archive_commit": "e8951983c9e86e0030ad0b7ccf855f64cc933d7d",
+            "released": "2024-08-02T11:42:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.0.1",
+            "tag": "archive/v1.3.0.1",
+            "upstream_commit": "9cb4eb0ee234f1ea3c81b7d4d6b5f49e31c9ff5f",
+            "archive_commit": "f76be3505f7853eeee7662ab6cba70bd22558bea",
+            "released": "2024-08-02T12:20:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.0.2",
+            "tag": "archive/v1.3.0.2",
+            "upstream_commit": "1c0d143f6bc520437b4af74d046ae2381a37fdc7",
+            "archive_commit": "45513f5ab8ab6835560333de97f792a3d9c7e11d",
+            "released": "2024-08-02T12:27:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

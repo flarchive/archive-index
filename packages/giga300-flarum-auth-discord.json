@@ -1,0 +1,31 @@
+{
+    "package": "giga300/flarum-auth-discord",
+    "upstream": "https://github.com/giga300/flarum-auth-discord",
+    "packagistUrl": "https://packagist.org/packages/giga300/flarum-auth-discord",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": null,
+            "upstream_commit": "eccdcc89807b953e915ec721a2210666e8529ed7",
+            "archive_commit": null,
+            "released": "2019-06-29T13:51:54+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": null,
+            "upstream_commit": "dcf6e678cbdd683bc113bc24a0b43d0eab17ec29",
+            "archive_commit": null,
+            "released": "2019-06-29T14:28:28+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

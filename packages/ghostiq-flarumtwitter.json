@@ -1,0 +1,67 @@
+{
+    "package": "ghostiq/flarumtwitter",
+    "upstream": "https://github.com/ghostiq/flarumtwitter",
+    "packagistUrl": "https://packagist.org/packages/ghostiq/flarumtwitter",
+    "versions": [
+        {
+            "version": "v0.1-beta",
+            "tag": "archive/v0.1-beta",
+            "upstream_commit": "d1e8b90f893cdcf6c2bdeb63f9d6a9e00e2942e1",
+            "archive_commit": "da6ecc6b4cc506c3859951fc100efb47afc35278",
+            "released": "2019-09-11T15:30:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3-beta",
+            "tag": "archive/v0.3-beta",
+            "upstream_commit": "cf8b841ebcafdcb62c5d44cfbeeee349f1e157bf",
+            "archive_commit": "144474e27df70206dc0d76cfadb570b8a7039537",
+            "released": "2019-09-12T13:54:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.4-beta",
+            "tag": "archive/v0.4-beta",
+            "upstream_commit": "a39f20a87ce0cfbf62ba7775bafda05716f27e03",
+            "archive_commit": "bfe3a3997eddd384c60f46cfb233405e71e916ff",
+            "released": "2019-09-12T13:58:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.5-beta",
+            "tag": "archive/v0.5-beta",
+            "upstream_commit": "389fdb984a687ad88f9394616f52e803ecabea75",
+            "archive_commit": "432241aa9e15c291893e680e74b190de66674916",
+            "released": "2019-09-12T14:31:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.6-beta",
+            "tag": "archive/v0.6-beta",
+            "upstream_commit": "18ab27f106cbecaa0deed00d39898ae2834716fa",
+            "archive_commit": "0dc895ab9a0468cd818cd62d13abc08a1acaf059",
+            "released": "2019-09-12T15:25:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

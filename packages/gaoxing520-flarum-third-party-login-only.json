@@ -1,0 +1,31 @@
+{
+    "package": "gaoxing520/flarum-third-party-login-only",
+    "upstream": "https://github.com/gaoxing520/flarum-third-party-login-only",
+    "packagistUrl": "https://packagist.org/packages/gaoxing520/flarum-third-party-login-only",
+    "versions": [
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "866518aa398030dffcbdcc117d202b75c8d201b9",
+            "archive_commit": "f9d95688e1cf075cca6ce123689a171b760037f6",
+            "released": "2022-05-20T10:27:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "c10cc289896cdae0eb4af345b681c9f094d3f9d1",
+            "archive_commit": "6e8063f9c4d7527bccdb493f0061d057af99bad3",
+            "released": "2026-08-19T02:51:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

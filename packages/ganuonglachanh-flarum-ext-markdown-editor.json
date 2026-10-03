@@ -1,0 +1,115 @@
+{
+    "package": "ganuonglachanh/flarum-ext-markdown-editor",
+    "upstream": "https://github.com/ganuonglachanh/flarum-ext-markdown-editor",
+    "packagistUrl": "https://packagist.org/packages/ganuonglachanh/flarum-ext-markdown-editor",
+    "versions": [
+        {
+            "version": "0.9",
+            "tag": null,
+            "upstream_commit": "11c52749426cfb40361ffea88d8f05250cb75d66",
+            "archive_commit": null,
+            "released": "2017-05-16T14:24:43+00:00",
+            "archived": null,
+            "license": "Private",
+            "flarum": "^0.1.0-beta.6",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "6e9c297c10a630d66b87c7ff7021717e4a92734c",
+            "archive_commit": "cb382fb7023c70dedbe071158c00c63cceb5bb31",
+            "released": "2016-10-24T22:28:16+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "727f46b94ad8d435d682883f7ebe7247bc22a152",
+            "archive_commit": "0ca4014f227c357d31a5a706670508a0107934b2",
+            "released": "2016-10-25T21:29:05+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "bc47a5d9d94d2855b4a33d45ba11bbeff471a2e0",
+            "archive_commit": "8840c489c007b4d60813de1bf2098afea602f4d5",
+            "released": "2016-10-26T15:49:09+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4",
+            "tag": "archive/v0.4",
+            "upstream_commit": "b811c84c1f7d6ec6b3d9b98583eddd51c33ee1b3",
+            "archive_commit": "113e9eea6be67e7984de5de80c4fe2ea36fb7bc5",
+            "released": "2016-10-26T16:11:00+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.5",
+            "tag": "archive/v0.5",
+            "upstream_commit": "d9146c7d4d9ece803cbb9de0fa0291bd234ae619",
+            "archive_commit": "e6b878128ea74fb651920bea82bd2579839a01b8",
+            "released": "2016-10-26T16:31:46+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.6",
+            "tag": "archive/v0.6",
+            "upstream_commit": "85ff27b248c9bf6861018423c83224850f391172",
+            "archive_commit": "b056d35e35d32286bda1fd1780c54247130aad68",
+            "released": "2017-04-08T17:47:20+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.7",
+            "tag": "archive/v0.7",
+            "upstream_commit": "0afc1b329387c3eb5265f2442b9b5fc6e8f84074",
+            "archive_commit": "7c86b3ac213453e26e251b7e7b0f5c09b2a38593",
+            "released": "2017-04-16T23:55:38+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.8",
+            "tag": "archive/v0.8",
+            "upstream_commit": "02f610111ae7ece2fffc455de5f328e053d16259",
+            "archive_commit": "7c7ea7f08b8afe882e9c2e2f0c54f977c4a9352f",
+            "released": "2017-04-17T02:44:28+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

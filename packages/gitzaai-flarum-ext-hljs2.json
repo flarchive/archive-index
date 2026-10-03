@@ -1,0 +1,19 @@
+{
+    "package": "gitzaai/flarum-ext-hljs2",
+    "upstream": "https://github.com/gitzaai/flarum-ext-hljs2",
+    "packagistUrl": "https://packagist.org/packages/gitzaai/flarum-ext-hljs2",
+    "versions": [
+        {
+            "version": "2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "3e4fb62a8b2914fd63a7b3f627e1345023121cc0",
+            "archive_commit": "9b5e75e17633fdf29ad852d30bdf091890cda128",
+            "released": "2022-08-28T06:42:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

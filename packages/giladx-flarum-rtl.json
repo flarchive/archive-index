@@ -1,0 +1,31 @@
+{
+    "package": "giladx/flarum-rtl",
+    "upstream": "https://github.com/Giladx/flarum-rtl",
+    "packagistUrl": "https://packagist.org/packages/giladx/flarum-rtl",
+    "versions": [
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "ec79eea1670e235b9f0f76e7616c2073fc25b5ee",
+            "archive_commit": "d56df19e577b990ab1a8463e61d0e693c05a46fc",
+            "released": "2020-05-14T23:21:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "d3408b2e7a1e68727627a71b3c1e3dd84c966147",
+            "archive_commit": "7d7151dc2d6b7eb73d268cfce70d1a541be8a148",
+            "released": "2020-05-14T23:31:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

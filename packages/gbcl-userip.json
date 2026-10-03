@@ -1,0 +1,43 @@
+{
+    "package": "gbcl/userip",
+    "upstream": "https://github.com/GBCLStudio/userip",
+    "packagistUrl": "https://packagist.org/packages/gbcl/userip",
+    "versions": [
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "e8a5db529d5ac1c39c6091052510029b2b443783",
+            "archive_commit": "a0e4bdf0dc3c23d0313105f5e5ffb4ff87e1b99b",
+            "released": "2023-05-21T10:17:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "08eff3db1b3bb2ba946064ff0161bcf0db193c25",
+            "archive_commit": "34f0055804ade28b0f1d9c38093cf9475f705758",
+            "released": "2023-06-29T17:33:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "6c5056d4634a3935b21135d9a4d5d6d7251a67a9",
+            "archive_commit": "b1f8bdeb6bd39c56940ddb8a436e3892b3cac51a",
+            "released": "2024-07-30T15:36:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

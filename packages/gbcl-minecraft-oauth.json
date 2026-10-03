@@ -1,0 +1,19 @@
+{
+    "package": "gbcl/minecraft-oauth",
+    "upstream": "https://github.com/GBCLStudio/Flarum-MinecraftAuth",
+    "packagistUrl": "https://packagist.org/packages/gbcl/minecraft-oauth",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "eea2d1164651eb53048de926407ef49875c1c4cc",
+            "archive_commit": "613d6256de930170bb8e93f1ce44ad8dab9e8323",
+            "released": "2024-08-19T19:48:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

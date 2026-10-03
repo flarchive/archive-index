@@ -1,0 +1,31 @@
+{
+    "package": "ganuonglachanh/flarum-vn-slug",
+    "upstream": "https://github.com/ganuonglachanh/flarum-vn-slug",
+    "packagistUrl": "https://packagist.org/packages/ganuonglachanh/flarum-vn-slug",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7f51d92e0815bb270f8cbcc854db6b9fb1d2093b",
+            "archive_commit": "e1c8b52492215f6f22bd202733b7be9ea0b5d024",
+            "released": "2016-01-14T16:49:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.8",
+            "tag": "archive/v0.1.8",
+            "upstream_commit": "fa63ba298f4f1dca16b6c347bd24a9a0aa2e234c",
+            "archive_commit": "e03769655021a0203285aba571cdfbec7debf4b8",
+            "released": "2018-05-01T10:33:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

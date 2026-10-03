@@ -1,0 +1,19 @@
+{
+    "package": "ganuonglachanh/flarum-ext-sharing",
+    "upstream": "https://github.com/ganuonglachanh/flarum-ext-sharing",
+    "packagistUrl": "https://packagist.org/packages/ganuonglachanh/flarum-ext-sharing",
+    "versions": [
+        {
+            "version": "0.1.0-beta.7",
+            "tag": "archive/v0.1.0-beta.7",
+            "upstream_commit": "37dcd3dadba6c144f6ec71fa373620ab8366041c",
+            "archive_commit": "ae8645cfd70e289e5004ffc2a6265dedf7619e8b",
+            "released": "2018-05-12T13:55:51+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

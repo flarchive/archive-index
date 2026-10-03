@@ -1,0 +1,55 @@
+{
+    "package": "gerardwalace/flarum-bb-hub-coach-bio",
+    "upstream": "https://github.com/GerardWalace/FlarumBbHubCoachBio",
+    "packagistUrl": "https://packagist.org/packages/gerardwalace/flarum-bb-hub-coach-bio",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "46d2417b5714532bbb652b01a9e9fbb3b0eb0a33",
+            "archive_commit": "ca4e629079659828986f4555dfdc6f7d5f6d7b82",
+            "released": "2024-10-20T15:26:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "b17866c7c14d23280c3d2b791ea20095a9d8443b",
+            "archive_commit": "aa6fdd723c1fe3da919d91090bee4671c4912e7b",
+            "released": "2024-10-20T16:01:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta1",
+            "tag": "archive/v2.0.0-beta1",
+            "upstream_commit": "c7561eabef3dd1fced271e57819cb23e1e853873",
+            "archive_commit": "b4f6e3e41cbba7685814a414e2983b4c1f08f496",
+            "released": "2026-06-17T06:02:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-rc.1",
+            "tag": "archive/v2.0.0-rc.1",
+            "upstream_commit": "c1e3c5c5749307aa93f284da201623b75ef8ad08",
+            "archive_commit": "36463de9ccd5d360ec8ac4f0d63cae7b9bc5dd65",
+            "released": "2026-08-26T19:47:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

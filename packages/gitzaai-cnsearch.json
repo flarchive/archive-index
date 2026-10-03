@@ -1,0 +1,31 @@
+{
+    "package": "gitzaai/cnsearch",
+    "upstream": "https://github.com/gitzaai/cnsearch",
+    "packagistUrl": "https://packagist.org/packages/gitzaai/cnsearch",
+    "versions": [
+        {
+            "version": "0.1.21",
+            "tag": "archive/v0.1.21",
+            "upstream_commit": "cf78633a50d3cb676ece6404cda5e2629cf3de14",
+            "archive_commit": "7ae2eaa17a161e220af04f2d03299ad226061bec",
+            "released": "2026-05-16T14:23:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "18b354efacc1ce9c2867fe5973c907c0225013ad",
+            "archive_commit": "3a4bd63ff2a42d2ed15d324c0c1dad07b9c0b40f",
+            "released": "2026-05-28T13:57:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

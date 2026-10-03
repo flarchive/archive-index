@@ -1,0 +1,19 @@
+{
+    "package": "gbcl/oauth-logto",
+    "upstream": "https://github.com/GBCLStudio/flarum-oauth-logto",
+    "packagistUrl": "https://packagist.org/packages/gbcl/oauth-logto",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "7a32e93488018e58f75942e0957bc27667e547a7",
+            "archive_commit": "ec5398eeab0634c95895f0b68464a09d320b39ed",
+            "released": "2024-10-03T18:57:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

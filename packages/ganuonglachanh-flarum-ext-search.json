@@ -1,0 +1,55 @@
+{
+    "package": "ganuonglachanh/flarum-ext-search",
+    "upstream": "https://github.com/ganuonglachanh/flarum-ganuonglachanh-search",
+    "packagistUrl": "https://packagist.org/packages/ganuonglachanh/flarum-ext-search",
+    "versions": [
+        {
+            "version": "0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "5adfdbb4c20f2f61bb1497a1888b3a028de50d55",
+            "archive_commit": "d43bfe68134eae19edaddbcb0bf39ee77b9d678e",
+            "released": "2017-07-01T06:30:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.4",
+            "tag": "archive/v0.4",
+            "upstream_commit": "5015730fd5dc2315fda3427c6131d49e75fb3509",
+            "archive_commit": "a8450b6972b6852edcd7f02c9e78adffb55e44ec",
+            "released": "2018-04-09T13:21:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.5.1",
+            "tag": "archive/v0.5.1",
+            "upstream_commit": "8a9f6ea23c18114044055d5c6f5ff66224468316",
+            "archive_commit": "8bd5fcd9f8bb9b00b5d7a81a03dd41b6a51c2ae5",
+            "released": "2021-08-30T17:20:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.5.2",
+            "tag": "archive/v0.5.2",
+            "upstream_commit": "b99c065b1604e3807c9a07e0f74813a5a5e7a157",
+            "archive_commit": "d199c3119997d187b305ef6a7b79de14ca9bf10e",
+            "released": "2023-02-11T01:50:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

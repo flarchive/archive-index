@@ -1,0 +1,19 @@
+{
+    "package": "giladx/hebrew-translation",
+    "upstream": "https://github.com/Giladx/flabrew",
+    "packagistUrl": "https://packagist.org/packages/giladx/hebrew-translation",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "234121bdc22f3204db338ab42f0c5bba1e8d5a20",
+            "archive_commit": "6abe64263049caeeedf46ca546cec5da070787ca",
+            "released": "2020-05-23T18:26:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
