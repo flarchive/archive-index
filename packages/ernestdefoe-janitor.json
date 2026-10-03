@@ -1,0 +1,67 @@
+{
+    "package": "ernestdefoe/janitor",
+    "upstream": "https://github.com/ernestdefoe/janitor",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/janitor",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "dacb307fc0239ec9b25a6080373ca555cd732e98",
+            "archive_commit": "1fcf9fa8bc2e68519fe131910cee38c7cf4eda3a",
+            "released": "2026-06-28T18:53:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "810f2ed9600f0b82480b534851b5df40ce53a48e",
+            "archive_commit": "c0489d940bb915b71866aef220b2995a9b93cee5",
+            "released": "2026-06-28T19:03:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "146521bd234fe4ffc6db78b2fdb6358e509956c1",
+            "archive_commit": "83bc1e863e088e9f64e98b9b74ba53494ec9460f",
+            "released": "2026-07-04T14:51:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "bafb1f617e29ea4f35ebfdb6fd878e54a5002297",
+            "archive_commit": "20a1857fe82e21ce1af217cf693c4559f0d10327",
+            "released": "2026-07-05T18:39:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.1",
+            "tag": "archive/v1.3.1",
+            "upstream_commit": "b2ec9435ddeabea07142464e5d4a584544ab3ab3",
+            "archive_commit": "010869681e6ee80f2cee252b49bd70d8300bb6a1",
+            "released": "2026-07-05T18:55:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "ernestdefoe/marginalia",
+    "upstream": "https://github.com/ernestdefoe/marginalia",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/marginalia",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "be201e4060554c1c7023fa0a2a8d7922f089cae4",
+            "archive_commit": "5fb3bbf868753426883e5776c354bb26b5664f78",
+            "released": "2026-09-12T21:49:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "7d7a70be0324eeb5312134206106b33959d0ddda",
+            "archive_commit": "3e9589c74f812594b3c6d1de20d4226d8544e941",
+            "released": "2026-09-12T22:40:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "195ad4755a0e6219ce1e26630c88decfb9cbabb6",
+            "archive_commit": "172cabd48d52c452fc3bd57d179ea23c76d85e4a",
+            "released": "2026-09-13T01:58:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "74c2521192720640e5033b2d68c8e1015da46897",
+            "archive_commit": "30eecbc223f508dee48a239141ca5ea03bd851c4",
+            "released": "2026-09-13T18:23:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

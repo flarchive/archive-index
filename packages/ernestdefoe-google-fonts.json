@@ -1,0 +1,79 @@
+{
+    "package": "ernestdefoe/google-fonts",
+    "upstream": "https://github.com/ernestdefoe/google-fonts",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/google-fonts",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "50e39e1fedca288a1452db0998d9c0b0974f5b5d",
+            "archive_commit": "890c16c9f2a19a79648d67bb1f833497eea6ed03",
+            "released": "2026-06-07T01:36:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "469801f3f7cce5fb993b1ad0566dd5fbecf4a81b",
+            "archive_commit": "7083028817c1390255201e883ffa868122d7d84e",
+            "released": "2026-06-07T10:57:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "230cf43fc557d7f995df270b880e7efa5c55b15e",
+            "archive_commit": "daddb5c554480cc9240129517d7755f4968df6b3",
+            "released": "2026-06-07T11:05:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "17d343b0a0543c76871fdffc98546c358c638583",
+            "archive_commit": "a1d274f989b0e4004a8ba7c53079d9f5aa2dce0a",
+            "released": "2026-06-21T13:42:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.3",
+            "tag": "archive/v0.2.3",
+            "upstream_commit": "6a0c1a32d58d428c4362a59cba4a1a35cf38254f",
+            "archive_commit": "8a6b32cb8a5c17ba0c0049628ad266643166c21e",
+            "released": "2026-06-21T20:48:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.4",
+            "tag": "archive/v0.2.4",
+            "upstream_commit": "12669913fddb41199ee256393c4d116b4303d12a",
+            "archive_commit": "4da944eedcc3b5cfa5cf87232c1c2c73cb41b1d1",
+            "released": "2026-09-12T17:27:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

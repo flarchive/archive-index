@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/logo-manager",
+    "upstream": "https://github.com/ernestdefoe/logo-manager",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/logo-manager",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "85c224996b5f13aeda34de83723052b7dec738b0",
+            "archive_commit": "12997650318febf33afe9ef81e863e6965480e17",
+            "released": "2026-09-09T16:40:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

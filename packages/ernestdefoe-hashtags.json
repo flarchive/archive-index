@@ -1,0 +1,55 @@
+{
+    "package": "ernestdefoe/hashtags",
+    "upstream": "https://github.com/ernestdefoe/hashtags",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/hashtags",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "4f062dfbd575269bd8aa85b9b64ecd0244cc44a4",
+            "archive_commit": "fb8e3a07aaf5b8808d09dacee10e8664e94d1670",
+            "released": "2026-09-09T16:36:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "5e42ee982d33e4298faacce8dd47b116aff2dd60",
+            "archive_commit": "9a3c3a3159eaa0a878f5c0ac663a990a5a7b95ae",
+            "released": "2026-09-09T18:44:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "8c1df133492995646ad09b234ab964a4cefec179",
+            "archive_commit": "16c1786675398a0fde739407e822caf12ca132f2",
+            "released": "2026-09-09T21:39:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.3",
+            "tag": "archive/v2.0.3",
+            "upstream_commit": "e0ff89c01aca32437536591acc46f8b682049279",
+            "archive_commit": "05fb8a23a6ff1f7b563dbafff4adfaaea246cffd",
+            "released": "2026-09-11T09:58:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

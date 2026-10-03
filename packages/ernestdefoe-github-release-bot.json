@@ -1,0 +1,55 @@
+{
+    "package": "ernestdefoe/github-release-bot",
+    "upstream": "https://github.com/ernestdefoe/github-release-bot",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/github-release-bot",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "cad048cd3cdd783a4c6ab828922c747f623bdc1a",
+            "archive_commit": "f30b77ec488e6d1033abc6dbdc5d3b541a3bb048",
+            "released": "2026-05-19T20:50:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "09c4dd31b860790d83d7ed3a835eaef3babc2481",
+            "archive_commit": "fc6418316b0da5181d95a1a2ffbec3078a351012",
+            "released": "2026-05-19T21:03:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "a9eb6f48d7bbace64699b051639b5a2aee1df156",
+            "archive_commit": "28c63249d44411b36fa81aaa0bdf1e01b203db34",
+            "released": "2026-05-19T21:10:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "108a5c62f99499afc9a8e8325b0ae6ada3167d8d",
+            "archive_commit": "4f30aba800efccbde492176a43a7e5fb778bac2f",
+            "released": "2026-09-02T16:59:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

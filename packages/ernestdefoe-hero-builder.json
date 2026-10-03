@@ -1,0 +1,91 @@
+{
+    "package": "ernestdefoe/hero-builder",
+    "upstream": "https://github.com/ernestdefoe/hero-builder",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/hero-builder",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ab26caecd50f22aa791c8f0923aefb00015a42bb",
+            "archive_commit": "7a10ced7da438f2393e8ac9f85b5e7e6b6c3fd0f",
+            "released": "2026-06-26T17:40:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "9bfb6dd1e779087ee47838cde5a8a230f4373f80",
+            "archive_commit": "10a6ed79d3fcbf6c26423c070e258b5967ffff4f",
+            "released": "2026-06-27T10:33:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "15b945724efb26c730f3d3e02cc4e600fff7fa4f",
+            "archive_commit": "4db467a12ba31afda17cd9f0e49d379fac2f4296",
+            "released": "2026-06-27T10:45:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "d4132fceb136053491608d991f29b698aac40ceb",
+            "archive_commit": "6e55c079e8bd43e6bd3b84d8317e8f9306d10b88",
+            "released": "2026-06-27T11:08:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "27f91b6e27fcf7828917473d7f2507c42dcc65ae",
+            "archive_commit": "c3c93d146d4e16f9f672881a49815dc3203978ac",
+            "released": "2026-06-28T15:27:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.1",
+            "tag": "archive/v1.3.1",
+            "upstream_commit": "b41a8a15964659466e4d13a6394010f3a8e5e3a0",
+            "archive_commit": "006f21eadafa90f7f9d91188674a04eed6f962ea",
+            "released": "2026-06-28T17:42:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "644ec4be7fbcd1aabe7aba86555d0cc0547e7541",
+            "archive_commit": "162ce5116754c327e047f87ef0890c4b848ff7d4",
+            "released": "2026-07-22T21:03:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

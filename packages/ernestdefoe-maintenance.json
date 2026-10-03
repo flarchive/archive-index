@@ -1,0 +1,91 @@
+{
+    "package": "ernestdefoe/maintenance",
+    "upstream": "https://github.com/ernestdefoe/maintenance",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/maintenance",
+    "versions": [
+        {
+            "version": "1.1.3",
+            "tag": "archive/v1.1.3",
+            "upstream_commit": "3a376b09b99dc60036652db878e92a912e6910e7",
+            "archive_commit": "2dda1f501f06aac63a8bba1c58b9730891d62245",
+            "released": "2026-09-04T13:00:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.4",
+            "tag": "archive/v1.1.4",
+            "upstream_commit": "4c4802cd9197e1146da84d8bba0b792e7b3f6592",
+            "archive_commit": "3f661d333fa082fe05f5da8d4857f92859c0f324",
+            "released": "2026-09-08T09:14:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.5",
+            "tag": "archive/v1.1.5",
+            "upstream_commit": "3d535ce50e73e56ecdc3065d24aff8183332f056",
+            "archive_commit": "d07b7cacce5ab16e36b996bbb32381ebafb13e8a",
+            "released": "2026-09-11T09:17:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a68a3f17fcb6d224aff296cd7f37fa062ecf072d",
+            "archive_commit": "69d6c7287a66dabe8cf716e6eaa72f74f2cfb248",
+            "released": "2026-07-05T18:55:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "853281a2a51b8a596b34e19f53c54599cd9cc155",
+            "archive_commit": "267a4c22e0f7044bf8d4651a145f5c6975ae1b95",
+            "released": "2026-08-30T00:28:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "a623fb3fe72babe033c8da342203c366908c63fb",
+            "archive_commit": "2a42314a2acac4a901f9cb9bfb9c33f4135ef6e1",
+            "released": "2026-09-01T14:41:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "40e077547bd5b3044003f15b4d3a3dc4c8d06086",
+            "archive_commit": "49cf0bad23b5e55087d7a62cbc46a77232a4da05",
+            "released": "2026-09-01T14:50:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

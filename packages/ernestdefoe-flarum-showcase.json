@@ -1,0 +1,43 @@
+{
+    "package": "ernestdefoe/flarum-showcase",
+    "upstream": "https://github.com/ernestdefoe/flarum-showcase",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/flarum-showcase",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "20b885bd16dfbbfdd7bf57dd6ea62b102863d081",
+            "archive_commit": "8e855b45a28d7034a0417c9dd801475be2e43667",
+            "released": "2026-05-22T15:58:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "86401df43bccd74c06b2d56c13e5c5502b732c0d",
+            "archive_commit": "76553347e820368aeea61580973264dd1a8cc14f",
+            "released": "2026-05-24T00:05:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "d16a98a1e98c9e800ba559d45467dfd27292f1e4",
+            "archive_commit": "1172ba62369af3c4ced30de55128a9b16ba7460a",
+            "released": "2026-05-24T00:09:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
