@@ -1,0 +1,31 @@
+{
+    "package": "wiseclock/flarum-ext-profile-image-crop",
+    "upstream": "https://github.com/WiseClock/flarum-ext-profile-image-crop",
+    "packagistUrl": "https://packagist.org/packages/wiseclock/flarum-ext-profile-image-crop",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "23a8012af58b5813499007d9fd0a5094a514ac75",
+            "archive_commit": "e6579186384239b62604b07de13d281274038392",
+            "released": "2017-03-13T12:23:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "35ef23cbb2f42156928f674fdf6525a3ac6cac26",
+            "archive_commit": "fa7007b58469cb948ae28ad35db2b175cb74314a",
+            "released": "2017-03-14T03:12:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

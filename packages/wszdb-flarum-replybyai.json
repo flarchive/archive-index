@@ -1,0 +1,43 @@
+{
+    "package": "wszdb/flarum-replybyai",
+    "upstream": "https://github.com/wszdb/flarum-replybyai",
+    "packagistUrl": "https://packagist.org/packages/wszdb/flarum-replybyai",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "a93039680a1b3d917c26b1bae994b17d0fb0e80c",
+            "archive_commit": "386070fa95e5d0216b642dc03080f0d3dbffdafc",
+            "released": "2025-10-12T12:26:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "9b32d3dbd1abd07796d0a4dca425f1faefc38af3",
+            "archive_commit": "8ce24626af60883c71e612c94d6382818c6db4ee",
+            "released": "2025-10-12T12:36:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "664366a8f10fb0f7350e1bdb3a16f47c26c0ca66",
+            "archive_commit": "9b77a79f9153aee361be5d439dc6fc6d4d996e3f",
+            "released": "2025-10-18T03:38:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "wvbforum/post-license",
+    "upstream": "https://github.com/JC-ProPlus/flarum-ext-post-license",
+    "packagistUrl": "https://packagist.org/packages/wvbforum/post-license",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "120b4f69f7341dbfe35b42157dd66f5d09942bed",
+            "archive_commit": "14c788e1142bc74fadac7379d5d532c301914d53",
+            "released": "2020-04-16T03:09:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

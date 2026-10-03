@@ -1,0 +1,31 @@
+{
+    "package": "wiseclock/flarum-ext-reply2see",
+    "upstream": "https://github.com/WiseClock/flarum-ext-reply2see",
+    "packagistUrl": "https://packagist.org/packages/wiseclock/flarum-ext-reply2see",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6b5715d8402516570f4110f772bb7bcee8df5a6e",
+            "archive_commit": "a0c2d98eab7c67ec0cfbc15d962b532033250765",
+            "released": "2017-03-17T03:25:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "6bcc7f44d2659d234afd80e16f55d875aa0540c3",
+            "archive_commit": "38556d215cbdb995d1f9341664ff6240547c0c1d",
+            "released": "2017-07-28T10:38:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

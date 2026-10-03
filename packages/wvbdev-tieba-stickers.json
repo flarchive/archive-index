@@ -1,0 +1,79 @@
+{
+    "package": "wvbdev/tieba-stickers",
+    "upstream": "https://github.com/wvbdev/tieba-stickers",
+    "packagistUrl": "https://packagist.org/packages/wvbdev/tieba-stickers",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "04456b92464f3e39538c44613e7658870640a435",
+            "archive_commit": "7b651c3bfae08104f5519854d1d6a7e7d89fe485",
+            "released": "2019-06-02T04:53:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "26630b09cb8fe32108941a9212a72b15a8cd410e",
+            "archive_commit": "01b35bef1072ec745ad43d90d5549a11e8236fba",
+            "released": "2020-01-20T13:32:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "f40da7ff7978b799bb79eecf1052ee0e48c66869",
+            "archive_commit": "5c9c416bced59ae030e27cef40d6c1987ea54a6b",
+            "released": "2020-03-21T04:50:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "c128fc079448732d80a83533bd9535b3b31a1643",
+            "archive_commit": "0eb461a36323d30c9a9ee89e831aa91f6189cf71",
+            "released": "2020-08-15T08:06:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "7e6f33a7a0ae2335328cfb5ebfc2340831c05a62",
+            "archive_commit": "4f2ab32627bed4f443c591d6263a5deb350d910d",
+            "released": "2020-10-17T01:23:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v4.0.0",
+            "tag": "archive/v4.0.0",
+            "upstream_commit": "9253e7b6773e85b24838af936af858e76ad0d9bd",
+            "archive_commit": "4c1075a342d2e6596513f1a7115d9667076e5062",
+            "released": "2021-06-26T11:47:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

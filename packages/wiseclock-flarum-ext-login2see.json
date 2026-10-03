@@ -1,0 +1,31 @@
+{
+    "package": "wiseclock/flarum-ext-login2see",
+    "upstream": "https://github.com/WiseClock/flarum-ext-login2see",
+    "packagistUrl": "https://packagist.org/packages/wiseclock/flarum-ext-login2see",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7c2aac38bd15520b5e89efaab9ac8c63b25cba1d",
+            "archive_commit": "3b5fac29e4872416fe98029fcd9a4a1dcb54a05e",
+            "released": "2017-03-16T01:14:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "03dd9038371b269f9ca141d2ff42254e7a76c28e",
+            "archive_commit": "0d3c88380e51b724d1d4122d2327bd99ff7dcff9",
+            "released": "2017-03-16T06:16:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

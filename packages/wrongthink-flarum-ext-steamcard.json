@@ -1,0 +1,43 @@
+{
+    "package": "wrongthink/flarum-ext-steamcard",
+    "upstream": "https://github.com/1337god/flarum-ext-steamcard",
+    "packagistUrl": "https://packagist.org/packages/wrongthink/flarum-ext-steamcard",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "187966b54c0e882c05924176e3ed2bbe374815d4",
+            "archive_commit": "19b16539949453a92fa16818ea31d8079baf42ee",
+            "released": "2017-05-11T19:31:50+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "4c4d70d9eac9d630443a2cadf37d74408dc7bc53",
+            "archive_commit": "f47e0384eecbb76dfbd7585c8c0e6aeb8cdd0153",
+            "released": "2017-05-12T06:06:13+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "b24c1b603a9766eb7bfe462a22338696438ebd6b",
+            "archive_commit": "15ba58a4d563c0dcc8d71cadffa2e904ee5f5db6",
+            "released": "2017-05-12T06:10:45+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

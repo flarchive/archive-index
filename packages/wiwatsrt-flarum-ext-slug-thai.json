@@ -1,0 +1,19 @@
+{
+    "package": "wiwatsrt/flarum-ext-slug-thai",
+    "upstream": "https://github.com/wiwatsrt/flarum-ext-slug-thai",
+    "packagistUrl": "https://packagist.org/packages/wiwatsrt/flarum-ext-slug-thai",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "f24f1d3044886f765900a5c64f479cd08ec22730",
+            "archive_commit": "2c56d13a86b995feb5e63c97fe4b02d61335f88b",
+            "released": "2016-10-15T02:36:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

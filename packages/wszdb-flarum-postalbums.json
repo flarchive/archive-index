@@ -1,0 +1,43 @@
+{
+    "package": "wszdb/flarum-postalbums",
+    "upstream": "https://github.com/wszdb/flarum-postalbums",
+    "packagistUrl": "https://packagist.org/packages/wszdb/flarum-postalbums",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "95596c982264c2ed1e85b7ff9586104066984d6d",
+            "archive_commit": "84349c84b0b5298f285d3108de795b4a1b1c9d89",
+            "released": "2025-11-02T05:32:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "b99092f2c4967ef323af22eef95c74639169aa54",
+            "archive_commit": "9fb945fe19fcdef47c6da0996559f59808c99a99",
+            "released": "2025-11-02T06:09:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "271d36ec7d1db5949a728cd0056fb3614856fd55",
+            "archive_commit": "821331758bd588fac5fbcc15da5fe4f097272c86",
+            "released": "2025-11-08T08:42:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

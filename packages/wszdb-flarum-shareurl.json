@@ -1,0 +1,19 @@
+{
+    "package": "wszdb/flarum-shareurl",
+    "upstream": "https://github.com/wszdb/flarum-shareurl",
+    "packagistUrl": "https://packagist.org/packages/wszdb/flarum-shareurl",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "32124f65bc5f0b71f789838bbee2d1e68ee97dcf",
+            "archive_commit": "74d967a91bb10dc67c9b7481b55d81458ef6e010",
+            "released": "2025-10-26T13:24:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
