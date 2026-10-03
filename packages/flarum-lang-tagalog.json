@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/tagalog",
+    "upstream": "https://github.com/flarum-lang/tagalog",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/tagalog",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "778d288624d42e105768574cb18b3db1200a0c09",
+            "archive_commit": "03743d7e208223840d093b2e74b663fbeb032f71",
+            "released": "2026-09-30T07:53:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "a704a0975cc0d3127d46da8fb4f3445f08e9042e",
+            "archive_commit": "dac234194ba60893f95ceab8c15c1a8a13ffff20",
+            "released": "2026-09-30T07:59:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

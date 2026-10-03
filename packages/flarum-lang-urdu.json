@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/urdu",
+    "upstream": "https://github.com/flarum-lang/urdu",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/urdu",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "57ef3e9c5d7c98cbb4df62959debf20350b5b37d",
+            "archive_commit": "82435e90f19539e5f5847b406fdab176a78820cf",
+            "released": "2026-09-30T07:55:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "b5ca2c95ea8d90b7dafa0921345a57075d42edea",
+            "archive_commit": "8b526343361429087b5c08febfaff7e1bf88bccc",
+            "released": "2026-09-30T08:00:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

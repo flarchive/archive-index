@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/tatar",
+    "upstream": "https://github.com/flarum-lang/tatar",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/tatar",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "cedf6d10491563df2096f7602bc518c12761f0bf",
+            "archive_commit": "b8b97dc679979dbf2646a09dd10db8db28dacf37",
+            "released": "2026-09-30T07:54:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "e1c42aa8ae61c07a928d8d32bc660c8102faf074",
+            "archive_commit": "e84b0eca930831db2979c45d757a6896f23b6002",
+            "released": "2026-04-20T03:09:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

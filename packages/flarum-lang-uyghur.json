@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/uyghur",
+    "upstream": "https://github.com/flarum-lang/uyghur",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/uyghur",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d9f3c638e1e132fcc1234bb000b9db3cc10777c8",
+            "archive_commit": "904d1c253eb41f72832ff7d910b31f8c25711f1a",
+            "released": "2026-09-30T07:55:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "e90f024b97ed217c59259f606c35a946263e1a8f",
+            "archive_commit": "0412405b720bf3f336ad806637f7ce3150bca73a",
+            "released": "2026-09-30T07:59:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/spanish-argentina",
+    "upstream": "https://github.com/flarum-lang/spanish-argentina",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/spanish-argentina",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c477a215d395161578ab68636cd5f23baaaa1709",
+            "archive_commit": "906d12e01a8b6896244ed5538fdd99422a963e34",
+            "released": "2026-09-30T07:31:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "8e83da0b67c9c1f9be5469c9a6d65d30a72bbc31",
+            "archive_commit": "5ac5b8099541932390955d1efb16ddce57d20a6f",
+            "released": "2026-09-30T07:37:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "flarum-lang/welsh",
+    "upstream": "https://github.com/flarum-lang/welsh",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/welsh",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1bd334acb9d4299764581ad1f4797f4d8a4bc166",
+            "archive_commit": "6c9269d5e552b9fa07d5ded3276ed29cdabbdaf4",
+            "released": "2026-09-30T07:28:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "908a8447f5b7be320aa637d2b58596145cae9c94",
+            "archive_commit": "858733b48e194ca80f72e828dd764436c67e9336",
+            "released": "2026-09-30T07:35:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

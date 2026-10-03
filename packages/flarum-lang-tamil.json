@@ -1,0 +1,91 @@
+{
+    "package": "flarum-lang/tamil",
+    "upstream": "https://github.com/flarum-lang/tamil",
+    "packagistUrl": "https://packagist.org/packages/flarum-lang/tamil",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "560ea660428753c269295b4bd0850701caf639d4",
+            "archive_commit": "4810260f07925755453270a29aaeb98e92a94db5",
+            "released": "2021-06-17T00:04:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "3f408eaf2fa4e982a0bab2342422e20c3a59d0f0",
+            "archive_commit": "10f6ffe7cbd6fb579334fb61201c0b41890f0b65",
+            "released": "2021-06-27T23:30:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "eb3fc8e9da4add6f9d7567248715a35a724d96d9",
+            "archive_commit": "48fa0d4522a4ebcf8e92325e230dd535261b12fb",
+            "released": "2021-10-16T15:51:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "a27d060b732f3d71e17863f90de5b34a186f2b04",
+            "archive_commit": "a1847f1ab8f68321876fa9e6fc854fe7771961ae",
+            "released": "2023-08-12T22:02:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3.1",
+            "tag": "archive/v0.3.1",
+            "upstream_commit": "7c48cb19f9a5f47962fe4f912c2d530984179214",
+            "archive_commit": "0d09e7cfbf14e31c3669410c2d699ee8b36ecc06",
+            "released": "2024-05-13T19:30:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "7c4f18b5d1861f23b8f6ee7fd8cf8a9bc40d1fce",
+            "archive_commit": "c93c546e7e1d397a7846308f02b67228ea5f50f1",
+            "released": "2026-04-24T15:07:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "c127b8b7cfd289ca04b762cf6908080be9aa827d",
+            "archive_commit": "1f2d5676361d7ca931fa2da6cc4bc130d424202a",
+            "released": "2026-06-16T23:43:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
