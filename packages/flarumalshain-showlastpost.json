@@ -1,0 +1,43 @@
+{
+    "package": "flarumalshain/showlastpost",
+    "upstream": "https://github.com/flarumalshain/showlastpost",
+    "packagistUrl": "https://packagist.org/packages/flarumalshain/showlastpost",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "a18625446824273764e6170aa4fba5206b8050be",
+            "archive_commit": "4ead10b91d066908edf75f621544c228fb1c4357",
+            "released": "2020-01-31T11:43:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "2524e54fca09e91fe23a6765f38c18785b82e8c5",
+            "archive_commit": "ea428fe04ab9b3350a429fdec234b2984281230f",
+            "released": "2020-01-31T11:51:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.9 < 0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "a714742bc73eefd8e856b311d13c9f623f317308",
+            "archive_commit": "539a7cb73855db346b297b27dd8fba2e73b22686",
+            "released": "2020-05-10T16:53:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.9 < 0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

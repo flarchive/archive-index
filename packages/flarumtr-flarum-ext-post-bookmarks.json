@@ -1,0 +1,19 @@
+{
+    "package": "flarumtr/flarum-ext-post-bookmarks",
+    "upstream": "https://github.com/flarumtr/flarum-ext-post-bookmarks",
+    "packagistUrl": "https://packagist.org/packages/flarumtr/flarum-ext-post-bookmarks",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "22183d171b66a577f89f2d6134a1711c5f764694",
+            "archive_commit": null,
+            "released": "2021-04-23T15:53:18+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

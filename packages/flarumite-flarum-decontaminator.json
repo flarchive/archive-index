@@ -1,0 +1,91 @@
+{
+    "package": "flarumite/flarum-decontaminator",
+    "upstream": "https://github.com/flarumite/flarum-decontaminator",
+    "packagistUrl": "https://packagist.org/packages/flarumite/flarum-decontaminator",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "d7d4cb42bfcb4b35b420c4182ece736c81b732be",
+            "archive_commit": null,
+            "released": "2020-05-10T17:03:32+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.1",
+            "tag": null,
+            "upstream_commit": "2ee79438b39c54d7cfc9bc08b2347d74430cf4f0",
+            "archive_commit": null,
+            "released": "2020-05-10T20:24:33+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.2",
+            "tag": null,
+            "upstream_commit": "e21a5c8a2c8a66c6ee1398b61a2cc778bb691974",
+            "archive_commit": null,
+            "released": "2020-05-17T14:27:35+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.3",
+            "tag": null,
+            "upstream_commit": "cbf681b51c046d5b8c6723e73493e6afd610cf3c",
+            "archive_commit": null,
+            "released": "2020-05-26T07:09:33+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.4",
+            "tag": null,
+            "upstream_commit": "02189036d46435296f46bf678b74247bd8f0cbfc",
+            "archive_commit": null,
+            "released": "2020-05-27T17:37:01+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.5",
+            "tag": null,
+            "upstream_commit": "8224eb6083496adc101ee542715696ad5af39f46",
+            "archive_commit": null,
+            "released": "2020-06-25T20:05:04+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.6",
+            "tag": null,
+            "upstream_commit": "90f5cef8ec80c60996e3a69edfb870f614292457",
+            "archive_commit": null,
+            "released": "2020-06-25T20:14:16+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

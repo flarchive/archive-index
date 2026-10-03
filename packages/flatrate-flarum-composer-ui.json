@@ -1,0 +1,19 @@
+{
+    "package": "flatrate/flarum-composer-ui",
+    "upstream": "https://github.com/mrkcntrmn/flatrate-flarum-composer-ui",
+    "packagistUrl": "https://packagist.org/packages/flatrate/flarum-composer-ui",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ba6c4d6fd8bf12461a66442f0c2087c6f6f517b3",
+            "archive_commit": "574cee03358ba244cb4993223eca36c79dc79dc9",
+            "released": "2026-09-27T08:11:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.19",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

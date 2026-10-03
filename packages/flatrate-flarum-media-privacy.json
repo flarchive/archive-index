@@ -1,0 +1,19 @@
+{
+    "package": "flatrate/flarum-media-privacy",
+    "upstream": "https://github.com/mrkcntrmn/flatrate-flarum-media-privacy",
+    "packagistUrl": "https://packagist.org/packages/flatrate/flarum-media-privacy",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0352dd1e631d026e27e387d317f58611aa34f64d",
+            "archive_commit": "b660472f93db88ccb00dd068b179507b19234c71",
+            "released": "2026-09-08T01:00:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.19",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

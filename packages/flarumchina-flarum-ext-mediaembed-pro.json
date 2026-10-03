@@ -1,0 +1,91 @@
+{
+    "package": "flarumchina/flarum-ext-mediaembed-pro",
+    "upstream": "https://github.com/FlarumChina/flarum-ext-mediaembed-pro",
+    "packagistUrl": "https://packagist.org/packages/flarumchina/flarum-ext-mediaembed-pro",
+    "versions": [
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "55c37273d3576d072247c39def2fbe00a3239ea9",
+            "archive_commit": "c8f87a410ef5f97680454371fcc567b801e2c99a",
+            "released": "2015-11-04T22:04:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "archive/v0.3.1",
+            "upstream_commit": "cf617a1cf30fce3413e7a8d9470fd8d74c6a6685",
+            "archive_commit": "28485422a291a3f5f7d47e9b8903801ed2f942bf",
+            "released": "2015-11-04T23:41:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.2",
+            "tag": "archive/v0.3.2",
+            "upstream_commit": "7041c45cfe368eb083250bae7cd3d5d9587ea711",
+            "archive_commit": "62fb4004b306a2326b730d5502a335189a099d56",
+            "released": "2015-12-04T17:40:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.3",
+            "tag": "archive/v0.3.3",
+            "upstream_commit": "eb3adfa02c111f44a74b9eeeb5573afb1fb53e09",
+            "archive_commit": "7434d990478b432e409d0e6b0a6115605715808c",
+            "released": "2017-04-03T14:10:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.4",
+            "tag": "archive/v0.3.4",
+            "upstream_commit": "583a3b78f01c37318e554584ad943e161e5e0b99",
+            "archive_commit": "5ba87bb9567674deb2a1888b3dbb12d6d58a0842",
+            "released": "2017-07-31T06:18:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.5",
+            "tag": "archive/v0.3.5",
+            "upstream_commit": "0121721d2a6b387bea4394739a8fc3a598d3d500",
+            "archive_commit": "c92c1c1629e8edeb70ca1eff61935dea087897ba",
+            "released": "2017-08-16T14:02:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.6",
+            "tag": "archive/v0.3.6",
+            "upstream_commit": "49dc389b137565d5c2bec5cf3b3018a7e6edb396",
+            "archive_commit": "9d6b1f213b900c13be97da4e0407069f21019aad",
+            "released": "2018-02-15T05:57:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

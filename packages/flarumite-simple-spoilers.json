@@ -1,0 +1,55 @@
+{
+    "package": "flarumite/simple-spoilers",
+    "upstream": "https://github.com/flarumite/simple-spoilers",
+    "packagistUrl": "https://packagist.org/packages/flarumite/simple-spoilers",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "bf86028ec3156fe2a166deabb273b2ac09580366",
+            "archive_commit": "2d5e858d2cfa53090adf3805cc3f01978a08f574",
+            "released": "2021-03-05T21:05:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "73901aece2c93fb2096b88a8abc31ce9cf425fe7",
+            "archive_commit": "a9c1ddcc13c7cadf44fe57f4b52af7c74d74cc3f",
+            "released": "2021-03-05T22:47:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "6ad2e46d9a2e5650ddb353646b7489f3720564db",
+            "archive_commit": "2affeb6f90c3d6ad8be2afe20b8d63668cd1b1d5",
+            "released": "2021-03-06T02:45:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c058a6401fbcd11580ddb364013d72d1d47877e6",
+            "archive_commit": "ffeaf9fa8b8d82a93bd9fae00cb4ed191f1ebbd0",
+            "released": "2021-05-29T17:51:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "flarumchina/flarum-ext-sitemap-chinese",
+    "upstream": "https://github.com/FlarumChina/flarum-ext-sitemap-chinese",
+    "packagistUrl": "https://packagist.org/packages/flarumchina/flarum-ext-sitemap-chinese",
+    "versions": [
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "fd43157b74be4a0e8b200ca43f3214f8bf648596",
+            "archive_commit": "fbf1a038148c9fb303222e6aa692819ba0b9bca0",
+            "released": "2018-02-15T02:21:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
