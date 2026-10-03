@@ -1,0 +1,55 @@
+{
+    "package": "pladask/flarum-ext-norwegian-nynorsk",
+    "upstream": "https://github.com/pladask/flarum-ext-norwegian-nynorsk",
+    "packagistUrl": "https://packagist.org/packages/pladask/flarum-ext-norwegian-nynorsk",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.5.0",
+            "tag": "archive/v0.1.0-beta.5.0",
+            "upstream_commit": "55286996b8975f1e322589c7470dc1a440f7e5eb",
+            "archive_commit": "ace776fa9577bc1ed53738e6a8db0fd0e3073576",
+            "released": "2016-05-07T14:57:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.1",
+            "tag": "archive/v0.1.0-beta.5.1",
+            "upstream_commit": "7117b572b28c523d731b411e85363d7bc9f85796",
+            "archive_commit": "5731d591e132c685a1d519d68500071797afee58",
+            "released": "2016-05-07T16:47:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.2",
+            "tag": "archive/v0.1.0-beta.5.2",
+            "upstream_commit": "42f7d5dd8713bef3321516ff92dc7422c5dabd50",
+            "archive_commit": "751639db7e7d902d0bb90d1c1450698c45f28998",
+            "released": "2016-05-07T20:38:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.3",
+            "tag": "archive/v0.1.0-beta.5.3",
+            "upstream_commit": "add72b609ff576a930a63dd69f46ee76ba11b4dd",
+            "archive_commit": "8ed5553debeb80e37ed36d6c6a588bd779d3be5c",
+            "released": "2016-05-07T21:04:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

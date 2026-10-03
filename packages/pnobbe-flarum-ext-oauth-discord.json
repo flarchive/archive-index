@@ -1,0 +1,43 @@
+{
+    "package": "pnobbe/flarum-ext-oauth-discord",
+    "upstream": "https://github.com/pnobbe/flarum-ext-oauth-discord",
+    "packagistUrl": "https://packagist.org/packages/pnobbe/flarum-ext-oauth-discord",
+    "versions": [
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "cef9be99fa7dfe349c6687e5e0db68a49c142545",
+            "archive_commit": "4f70ec6305c063608cd5f661b0b9797e3f2e565a",
+            "released": "2016-11-18T08:54:06+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "2a69690e9c406de880aa22a9adc80d149f29702c",
+            "archive_commit": "86976089af64882f9f70fa02739d685d16e3c51f",
+            "released": "2016-07-27T22:04:57+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "v0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1beta6",
+            "tag": "archive/v1.0.1beta6",
+            "upstream_commit": "13c502e34fbc2cf67c1a993445e19e074dbce8d9",
+            "archive_commit": "a59571a166bba3017ceb3c0d1a2ca5965804e8ea",
+            "released": "2016-11-16T17:56:50+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "v0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

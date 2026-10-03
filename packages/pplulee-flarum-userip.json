@@ -1,0 +1,19 @@
+{
+    "package": "pplulee/flarum-userip",
+    "upstream": "https://github.com/pplulee/flarum-userip",
+    "packagistUrl": "https://packagist.org/packages/pplulee/flarum-userip",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "dbfcdf978c1c40b3f6b5781f5317d90a0ea35a9b",
+            "archive_commit": null,
+            "released": "2024-01-11T20:47:53+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

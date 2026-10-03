@@ -1,0 +1,31 @@
+{
+    "package": "piwind/flarum-diff",
+    "upstream": "https://github.com/piwind/flarum-diff",
+    "packagistUrl": "https://packagist.org/packages/piwind/flarum-diff",
+    "versions": [
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "01d5992e258256d65270c110f779ee1fc5648b77",
+            "archive_commit": "d9922f178dd11438db7f7d350209c20e8836f785",
+            "released": "2025-05-27T17:52:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "eb706195690c494bbaedc5c98d084b10732a00d4",
+            "archive_commit": "24bb3f0562e49ff12d85b8f520c65b54af5072b0",
+            "released": "2025-05-27T18:12:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "pixiake/aichat",
+    "upstream": "https://github.com/pixiake/aichat",
+    "packagistUrl": "https://packagist.org/packages/pixiake/aichat",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "d689f29c6afa371c27b80b6adfda2a7ae1f055aa",
+            "archive_commit": "6920fe6c8aebc744b8b13a5588d706d19576416c",
+            "released": "2024-10-17T11:18:58+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "8d7e8d8d0d3fcfc1849660799b0cd85e1af850a2",
+            "archive_commit": "a0b9de670577f232c21d4e2a47b075deb62a0d25",
+            "released": "2024-11-25T13:14:47+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

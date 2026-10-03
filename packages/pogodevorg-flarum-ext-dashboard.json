@@ -1,0 +1,43 @@
+{
+    "package": "pogodevorg/flarum-ext-dashboard",
+    "upstream": "https://github.com/pogodevorg/flarum-ext-admindashboard",
+    "packagistUrl": "https://packagist.org/packages/pogodevorg/flarum-ext-dashboard",
+    "versions": [
+        {
+            "version": "v0.1.0-beta",
+            "tag": "archive/v0.1.0-beta",
+            "upstream_commit": "39506d12d3d2886d69717c7871c8890e159f0c8a",
+            "archive_commit": "62289f8ffc2dd667f862994cdc9a5e5e3808ff9f",
+            "released": "2016-05-21T20:50:16+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta-5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.2",
+            "tag": "archive/v0.1.0-beta.2",
+            "upstream_commit": "2409c321ab1db8832bdff7f1e06b573e6d2a13d5",
+            "archive_commit": "6fa1e0d3546bb03ae6a0a4468ea233ce62d60eca",
+            "released": "2016-05-22T15:11:31+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta-5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": "archive/v0.1.0-beta.3",
+            "upstream_commit": "596f00e58cb8491315122a62d91fe24950d151fc",
+            "archive_commit": "340f93ad5e24420312c363d9fb61f6b4b0ae0f74",
+            "released": "2016-06-05T23:12:09+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta-5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

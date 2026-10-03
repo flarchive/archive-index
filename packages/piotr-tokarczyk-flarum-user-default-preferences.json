@@ -1,0 +1,31 @@
+{
+    "package": "piotr-tokarczyk/flarum-user-default-preferences",
+    "upstream": "https://github.com/piotr-tokarczyk/flarum-user-default-preferences",
+    "packagistUrl": "https://packagist.org/packages/piotr-tokarczyk/flarum-user-default-preferences",
+    "versions": [
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "4a125348ea6a7a95a061e40c4c62d122c9ebd88f",
+            "archive_commit": "047f4da94157f97e7295fa4e59b64d8ee6637920",
+            "released": "2018-08-08T12:54:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "50359dd3ce6c575fbc898e1a0232f9c64c22fa4f",
+            "archive_commit": "256ca41387c2ee6a5d1fa95cd1ff93c5f1da91f2",
+            "released": "2019-07-04T12:52:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

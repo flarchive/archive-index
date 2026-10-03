@@ -1,0 +1,19 @@
+{
+    "package": "pogodevorg/flarum-favicon",
+    "upstream": "https://github.com/pogodevorg/flarum-favicon",
+    "packagistUrl": "https://packagist.org/packages/pogodevorg/flarum-favicon",
+    "versions": [
+        {
+            "version": "v1.0.0-beta.2",
+            "tag": "archive/v1.0.0-beta.2",
+            "upstream_commit": "802b727b01b7682c21595fb27f66baa87643ef27",
+            "archive_commit": "97ce0a1259ca69661be26a4fc5c741a49a66da62",
+            "released": "2015-12-17T21:48:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "piwind/username-request",
+    "upstream": "https://github.com/piwind/username-request",
+    "packagistUrl": "https://packagist.org/packages/piwind/username-request",
+    "versions": [
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "3cf44f1b01e4e85003b89213eb940b82c54c12cb",
+            "archive_commit": "acc8c400d694a9e3ce794781636684e662c7fd38",
+            "released": "2025-05-16T16:32:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

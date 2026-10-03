@@ -1,0 +1,67 @@
+{
+    "package": "pm7913/flarumjwtauth",
+    "upstream": "https://github.com/pm7913/flarum-jwt-auth",
+    "packagistUrl": "https://packagist.org/packages/pm7913/flarumjwtauth",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "b383d7d0dd1b86300ccc66546cf5bb5e50ea0707",
+            "archive_commit": "83fcfaae2221371c3361e57e6a2d047b4af8f99c",
+            "released": "2020-09-02T13:23:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "a071717150d00cfb5a74c80a19d75d9947bd663c",
+            "archive_commit": "388ef767317df3aa95568a6731192534589c5729",
+            "released": "2020-09-02T13:27:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "4aa2be8a0d0b4a546da13310b60b0ff14ee45bb1",
+            "archive_commit": "add2b20b14f07c1dc263760adfbe6e22089a241a",
+            "released": "2020-09-02T13:56:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3",
+            "tag": "archive/v1.3",
+            "upstream_commit": "f935483ba1f2c77a2f69a4fb5401b2f5961493fc",
+            "archive_commit": "7a7800ef0c6514fc417ef8b976f3ee59bde6ad29",
+            "released": "2020-09-03T00:33:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.4",
+            "tag": "archive/v1.4",
+            "upstream_commit": "e04005763a0124679d6515279eb0d664b4c5496c",
+            "archive_commit": "75a2429ba560293c267cfe15704b72fefcf7d18b",
+            "released": "2020-09-03T01:53:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

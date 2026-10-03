@@ -1,0 +1,43 @@
+{
+    "package": "piwind/oauth-microsoft",
+    "upstream": "https://github.com/piwind/flarum-ext-oauth-microsoft",
+    "packagistUrl": "https://packagist.org/packages/piwind/oauth-microsoft",
+    "versions": [
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "d1726da90a3ddf1736cd83c30d3a61f0075580cd",
+            "archive_commit": "6bf5cd43c30f0ab34368cf2ff81ce4f4f2a3250a",
+            "released": "2025-05-12T07:59:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "a0b17dde057590357c37073bd37a846314cc0271",
+            "archive_commit": "7469c6493e66e412d60127a971d74608a07bd057",
+            "released": "2025-05-12T09:21:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "69ce8118b6c7c5897f91ee1467c268042ece4440",
+            "archive_commit": "e9c4f9df748b4f3937a51063c9a6b4d6e801b93a",
+            "released": "2025-05-12T15:35:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

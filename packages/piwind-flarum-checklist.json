@@ -1,0 +1,19 @@
+{
+    "package": "piwind/flarum-checklist",
+    "upstream": "https://github.com/piwind/flarum-checklist",
+    "packagistUrl": "https://packagist.org/packages/piwind/flarum-checklist",
+    "versions": [
+        {
+            "version": "v1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "63e7e28ec4f83ddc8ce904f9966615336183570b",
+            "archive_commit": "4c6efad1280fb49cd2128f6385c97fa3ed72ae40",
+            "released": "2025-05-22T09:10:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

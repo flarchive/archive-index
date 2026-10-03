@@ -1,0 +1,19 @@
+{
+    "package": "piwind/flarum-ext-username-blacklist",
+    "upstream": "https://github.com/piwind/flarum-ext-username-blacklist",
+    "packagistUrl": "https://packagist.org/packages/piwind/flarum-ext-username-blacklist",
+    "versions": [
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "b209aa63fd466783693a9c13110c3cedf352917d",
+            "archive_commit": "050f90e90204e67848145f31e04ef2f2625e8977",
+            "released": "2025-05-21T07:18:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "pipecraft/flarum-ext-id-slug",
+    "upstream": "https://github.com/PipecraftNet/flarum-ext-id-slug",
+    "packagistUrl": "https://packagist.org/packages/pipecraft/flarum-ext-id-slug",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "22f49891e353741fa0f4c19e74bb7ef70094756c",
+            "archive_commit": "1618f66d999e8a39a31521412ec36cff184f2a2d",
+            "released": "2021-09-04T20:52:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "124805a6ce544bcb5d27383f6ea6ddbe250940f9",
+            "archive_commit": "0391ba337fe24ed906b2c4db81f8caf0e43ed124",
+            "released": "2021-09-07T16:45:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

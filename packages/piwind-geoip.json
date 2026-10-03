@@ -1,0 +1,19 @@
+{
+    "package": "piwind/geoip",
+    "upstream": "https://github.com/piwind/flarum-geoip",
+    "packagistUrl": "https://packagist.org/packages/piwind/geoip",
+    "versions": [
+        {
+            "version": "v1.6.0",
+            "tag": "archive/v1.6.0",
+            "upstream_commit": "d4fb6315cf10ce69c066ac2309c6cfaa55b9be26",
+            "archive_commit": "8b868dd76fb9774d6b5a70ebf6dcbc56f61ded69",
+            "released": "2025-05-31T04:30:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

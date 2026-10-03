@@ -1,0 +1,19 @@
+{
+    "package": "pescu25/spanish",
+    "upstream": "https://github.com/pescu25/flarum-ext-spanish",
+    "packagistUrl": "https://packagist.org/packages/pescu25/spanish",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": "archive/v0.1.0-beta.4",
+            "upstream_commit": "251289077ae3891f9891163d1113f28a64faa69e",
+            "archive_commit": "54510bf1c7ad9af34538af3a5e758921f220191c",
+            "released": "2015-11-10T08:42:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

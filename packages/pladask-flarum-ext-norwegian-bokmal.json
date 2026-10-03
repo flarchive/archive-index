@@ -1,0 +1,67 @@
+{
+    "package": "pladask/flarum-ext-norwegian-bokmal",
+    "upstream": "https://github.com/pladask/flarum-ext-norwegian-bokmal",
+    "packagistUrl": "https://packagist.org/packages/pladask/flarum-ext-norwegian-bokmal",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.5.0",
+            "tag": "archive/v0.1.0-beta.5.0",
+            "upstream_commit": "a3166eb40ab6c76e41de2a29800ba4115b929c10",
+            "archive_commit": "abb1b7943162ee36e1a5318220a04c0c152d319b",
+            "released": "2016-05-04T02:24:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.2",
+            "tag": "archive/v0.1.0-beta.5.2",
+            "upstream_commit": "a5af1822c67b2f9afc7367eed1b7155c1d7abb29",
+            "archive_commit": "ce233437140f2faac52152f41b712f10d9aea13e",
+            "released": "2016-05-04T02:47:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.3",
+            "tag": "archive/v0.1.0-beta.5.3",
+            "upstream_commit": "5889f72a4f822fbe22976376c6784be98245c3d0",
+            "archive_commit": "999f94abe6fa6b6d1c13883cba975fedc2c19650",
+            "released": "2016-05-07T16:46:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.4",
+            "tag": "archive/v0.1.0-beta.5.4",
+            "upstream_commit": "1730f293ee8d0f7fb62f402d21004589470b5b93",
+            "archive_commit": "a89eacbcb4f07e387ad5331bac06f37ce27aefc7",
+            "released": "2016-05-07T18:39:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5.5",
+            "tag": "archive/v0.1.0-beta.5.5",
+            "upstream_commit": "a9a6032380b9957975080f0e62324ba7ccdf5acd",
+            "archive_commit": "25a3342a90a95c378b90acce1310bc546353977c",
+            "released": "2016-05-07T21:11:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
