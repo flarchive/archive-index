@@ -1,0 +1,19 @@
+{
+    "package": "justoverclock/simple-calendar-widget",
+    "upstream": "https://github.com/justoverclockl/simple-calendar-widget",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/simple-calendar-widget",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "980040e9e8c69d939134ec7c1f1d0032c343b6d5",
+            "archive_commit": "9b744ace78079242b3ad64928a81df6214bc1513",
+            "released": "2021-08-16T10:07:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

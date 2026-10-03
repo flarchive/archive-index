@@ -1,0 +1,31 @@
+{
+    "package": "justoverclock/last-tweet",
+    "upstream": "https://github.com/justoverclockl/last-tweet",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/last-tweet",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7efea31032b93be8a03aa34d69650a28fa23021e",
+            "archive_commit": "b1e66b6cc3c853d050fff425523136e9fb62f554",
+            "released": "2021-08-04T09:17:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "07831df6cfd68b534e7020744f4059f872a8a12e",
+            "archive_commit": "c8b9078773c1a3eca0a8078d78b73d9dbd9f9efe",
+            "released": "2021-08-04T10:18:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

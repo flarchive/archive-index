@@ -1,0 +1,115 @@
+{
+    "package": "justoverclock/theaudiodb-api",
+    "upstream": "https://github.com/justoverclockl/theaudiodb-api",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/theaudiodb-api",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ecf01412fe4a0fe8c04ceadbb92432fc70bf6a7d",
+            "archive_commit": "83fdea78f2ecc523e9990e4c795d3204bfe5f580",
+            "released": "2021-11-09T11:34:23+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "3d31fb825f62e93a498ef9e6b490ec5448b39357",
+            "archive_commit": "f9c3b4625e62f0eceddc4be8ebc58c50ba47944b",
+            "released": "2021-11-09T11:44:46+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "a0a25385ce12809b5e6a1933bde379787a8d0649",
+            "archive_commit": "7c0b069aa7752993fc9338a9ec0d288d50be5078",
+            "released": "2021-11-09T15:36:39+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "5f549b726c018038a65bf6f2692a4439a8b6fb60",
+            "archive_commit": "9db5b6de721468c6fbc1e6f6b3e730ea01eb6d3a",
+            "released": "2021-11-10T10:27:18+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "a62d3b8f18de77ec1e04d6a49747253301916c0a",
+            "archive_commit": "5570e687fe80819651ef0717571035d69cc41150",
+            "released": "2021-11-13T11:20:49+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "300d91adee42dab4872062c8952bebcb8ade5876",
+            "archive_commit": "533bae747a5dc6552a58d081f9432e66a5022f05",
+            "released": "2021-11-29T21:56:21+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.6",
+            "tag": "archive/v0.1.6",
+            "upstream_commit": "434a5c93dbd14ca9c28679284011535042d3f871",
+            "archive_commit": "2485bde91cb7e2941d64dfee2d3cf1f4fc7e3e19",
+            "released": "2021-12-04T12:44:21+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.7",
+            "tag": "archive/v0.1.7",
+            "upstream_commit": "391437e5c5354f8c72cdeccb0bdf090359f23ee7",
+            "archive_commit": "30a9d67e48ff46e588bfbefc46093d55266cac14",
+            "released": "2023-02-04T00:12:00+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "1c413f24a9d9d9cd77f980d05ff8630f3163a0fe",
+            "archive_commit": "beb5ce8e19e49aa68ae4f9a15bee009022415a64",
+            "released": "2023-02-04T23:05:14+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

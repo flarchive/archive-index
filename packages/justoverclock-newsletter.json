@@ -1,0 +1,31 @@
+{
+    "package": "justoverclock/newsletter",
+    "upstream": "https://github.com/justoverclockl/newsletter",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/newsletter",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5099caeff7cea9204a4c3372067016b0c7d8621b",
+            "archive_commit": "cb4eecb1143f7d995ef4ad11796f9ec4bbe7ce75",
+            "released": "2024-12-06T22:41:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "9917406ebfa20bbe0e33d9d909eb26246a49271e",
+            "archive_commit": "2984dd6d7af86d594a7abc7a5d33fc0909fa8d0e",
+            "released": "2024-12-06T22:43:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

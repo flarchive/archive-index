@@ -1,0 +1,55 @@
+{
+    "package": "justoverclock/random-post",
+    "upstream": "https://github.com/justoverclockl/random-post",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/random-post",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "a08dc595685ba4c955b6442118a8ff7dfafde6a8",
+            "archive_commit": "50b625cb2094b486a6394ff0468f05869510a7c3",
+            "released": "2022-03-17T16:48:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "da38acf76ab0b50734fa78eb3c636da9f27b3b60",
+            "archive_commit": "ee0f06a06390066fed8db8914067cc59a53a0bb8",
+            "released": "2022-03-18T07:16:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "3af49640e1199e8ec12ead11afac5465bf2055a9",
+            "archive_commit": "cfb500afa328026e90a778b2d4b6c5053434880e",
+            "released": "2022-03-23T21:08:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "307fc2548e690f54424e4f267729d66971d5e724",
+            "archive_commit": "06aaebef4c34878561c7b3efbd74d8dc31aa63dd",
+            "released": "2022-03-23T21:17:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

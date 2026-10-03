@@ -1,0 +1,19 @@
+{
+    "package": "justoverclock/username-blacklist",
+    "upstream": "https://github.com/justoverclockl/username-blacklist",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/username-blacklist",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "5c7c6f741bf205b26f6bbc2c9b8330f06e82e4eb",
+            "archive_commit": "f449289934a972b2b3b9c7d8fd3aa5ae0939b5b7",
+            "released": "2021-07-23T16:38:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "justoverclock/popular-tags",
+    "upstream": "https://github.com/justoverclockl/popular-tags",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/popular-tags",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f43483f81f659c15133b26b8556f159e725116a9",
+            "archive_commit": "79f228bdcacb10d466dee90196631d0fdbb5520d",
+            "released": "2022-05-14T11:32:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "5cb84ef8bd1c2f6f691004b08a5aa92974c4cba2",
+            "archive_commit": "c276dc7eef0b5ef60572e070c5110335a16c0574",
+            "released": "2022-05-14T11:44:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "714541f5d318df2540fd96daf8ccdc0ea47db8ea",
+            "archive_commit": "61b1bbdd098f2e81d0607f3b876b71ba3116512c",
+            "released": "2022-06-15T21:32:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "1d5da57324f65020bf5fc4bc454b8caca99fd147",
+            "archive_commit": "b7a913abf52a57396a16e1837cde9375cfb5f587",
+            "released": "2022-06-26T17:49:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

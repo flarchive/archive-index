@@ -1,0 +1,79 @@
+{
+    "package": "justoverclock/last-registered-users",
+    "upstream": "https://github.com/justoverclockl/last-registered-users",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/last-registered-users",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "bae8394eeef7400839e5a9206b3dd5109427cb7c",
+            "archive_commit": "a0b7e66d32dc684b925903532216152195cb2c2d",
+            "released": "2021-09-12T20:59:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "0c09266ef3128b7b81897c5052218f879f943c8f",
+            "archive_commit": "01d1044f5ca4e014f1429ca4809fb672a89f14a3",
+            "released": "2021-09-13T14:06:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "dcaaf72fcc9f544b8163e971c11f7f848cd6f7e5",
+            "archive_commit": "70c9664dcc4c043ac06b8b6bbd46e599ddc3a459",
+            "released": "2021-09-16T07:16:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "c85fcebee3ad3fe638bb4d6b76467931ad0eefaf",
+            "archive_commit": "e3cafc581def139cea73dfb3a7517c3409c86be7",
+            "released": "2021-09-25T17:27:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "1f1fd93426f05c7d546832131d591c64f7926cc4",
+            "archive_commit": "2451158e2846f2dc97010027ac17548f8c0dd3bf",
+            "released": "2021-12-07T14:43:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "1470d9f5ecef02ffba457c67955d12b17f84a6db",
+            "archive_commit": "cfe231dabd13dd197438a7e5afc422cd4cb17d5d",
+            "released": "2022-04-04T22:37:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

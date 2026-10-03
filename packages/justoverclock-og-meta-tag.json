@@ -1,0 +1,19 @@
+{
+    "package": "justoverclock/og-meta-tag",
+    "upstream": "https://github.com/justoverclockl/og-meta-tag",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/og-meta-tag",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "870951511754014b09f35648552eff277d63b596",
+            "archive_commit": "ce696772d425325abacd84f7df7d383b82759fee",
+            "released": "2021-07-26T22:07:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

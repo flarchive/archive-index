@@ -1,0 +1,55 @@
+{
+    "package": "justoverclock/staff-members-widget",
+    "upstream": "https://github.com/justoverclockl/staff-member-widget",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/staff-members-widget",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "51f3e73cb28264566680abcf681b855cf08c78f3",
+            "archive_commit": "c054eb8285fd2146c65bbe970688502bfa6aeaac",
+            "released": "2022-09-21T12:53:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "0706bbd32e6876399c2aaf6a5727870b9a5f8263",
+            "archive_commit": "f1093cffab24e6150d4486acf7044df9d78aa47a",
+            "released": "2022-09-21T13:00:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "3cf48301b49da6214c00a1bb429980e325422332",
+            "archive_commit": "98833483e89ad8df8aa7fb80254505a58869e5e7",
+            "released": "2022-09-21T13:54:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "125cb3ac3c58f1a2fb29f77a8fc6a9c158dfa623",
+            "archive_commit": "3b6f15892c0f712d53a6d7ed08e0828124184975",
+            "released": "2022-09-21T19:56:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
