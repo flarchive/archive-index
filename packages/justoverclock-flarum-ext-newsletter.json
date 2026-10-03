@@ -1,0 +1,55 @@
+{
+    "package": "justoverclock/flarum-ext-newsletter",
+    "upstream": "https://github.com/justoverclockl/flarum-ext-newsletter",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/flarum-ext-newsletter",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c5a79eb535e01a7d4ad6cc31d46a60c298f296f0",
+            "archive_commit": "7f218232cd1e0dd00fec732131e35ceaa1008a3d",
+            "released": "2021-05-08T09:25:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "8016bf522a0ed61820b28b521fc42547b2a29c4b",
+            "archive_commit": "40165ebfd857a3edfc8b26c2cb99a14d6bd6887c",
+            "released": "2021-05-08T15:14:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "d50958b770b3adb2a901d4ecc39687bcaab1a614",
+            "archive_commit": "830f0f7ab95d4cdb96af29f93f01fecac5d186c3",
+            "released": "2021-05-08T22:47:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "43f341b2d2b284521f3af198f6bef11fbc1d272f",
+            "archive_commit": "bb0f745440c1a6a0023022b24a8e85e65c09f085",
+            "released": "2021-06-26T16:26:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

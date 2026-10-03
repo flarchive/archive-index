@@ -1,0 +1,55 @@
+{
+    "package": "justoverclock/flarum-ext-pwgen",
+    "upstream": "https://github.com/justoverclockl/flarum-ext-pwgen",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/flarum-ext-pwgen",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7087842857c11d5cf1bbd51d3c7fcbb472d5608c",
+            "archive_commit": "0462111fe5311bd01b1e4d810489594051d82cd8",
+            "released": "2021-05-03T10:56:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "87ad4d825de684b86d306e16fe9003c57e701a49",
+            "archive_commit": "f22594d70b58aaae8deaa4b8bf3676a87dd2486f",
+            "released": "2021-05-05T08:02:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "184566e12ac8725c3646a2f6756dcb672fb41eff",
+            "archive_commit": "56c9870c7685f49525ff16ee105cb1cf438c2b3b",
+            "released": "2021-06-05T18:24:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b365edf95877a9288a5e475258a855c6d6cc20a4",
+            "archive_commit": "7fba97bbe20efcf1b7cd58d779f97a353b3821c2",
+            "released": "2022-04-11T08:07:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

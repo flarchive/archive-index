@@ -1,0 +1,19 @@
+{
+    "package": "justoverclock/flarum-ext-twitchmoji",
+    "upstream": "https://github.com/justoverclockl/flarum-ext-twitchmoji",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/flarum-ext-twitchmoji",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f40fd8ac57c4fc4c6328bac9b4336ac0181a10db",
+            "archive_commit": "910683ca576c7162364e7c96de02f22cd323ec70",
+            "released": "2021-06-26T07:18:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

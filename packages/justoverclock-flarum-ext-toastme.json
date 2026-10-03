@@ -1,0 +1,31 @@
+{
+    "package": "justoverclock/flarum-ext-toastme",
+    "upstream": "https://github.com/justoverclockl/flarum-ext-toastme",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/flarum-ext-toastme",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "64e87cb7460d84f32eafdc18595c74531a00ff7c",
+            "archive_commit": "0e73bac7342c783bf1f94314a8cf7f2e73eb11da",
+            "released": "2021-05-04T16:23:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "4da41bb2c3700943c99b5f2c53657e1276a301e5",
+            "archive_commit": "49f09115412f6635527987fb02fe97a57a8cba96",
+            "released": "2021-05-17T20:55:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

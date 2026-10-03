@@ -1,0 +1,43 @@
+{
+    "package": "justoverclock/image-gallery",
+    "upstream": "https://github.com/justoverclockl/image-gallery",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/image-gallery",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7580e74f5261f3ca1e6c6fc7330c468852532b66",
+            "archive_commit": "e83ec748347177cff6ca5ff62fda87e2cd7302bf",
+            "released": "2021-07-19T12:37:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "5af1306e94a9d740255de9651f05ffa58b8b2584",
+            "archive_commit": "594d911d30c8b0bda730ddb0e65f485097f1a4a2",
+            "released": "2021-07-19T22:26:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "5d8b091df872add1dcc57220c5f76c7a963f6da1",
+            "archive_commit": "29a0d4972c2e60713e03c623ba5446eefb9500d5",
+            "released": "2021-07-20T16:46:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

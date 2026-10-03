@@ -1,0 +1,31 @@
+{
+    "package": "justoverclock/header-slideshow",
+    "upstream": "https://github.com/justoverclockl/header-slideshow",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/header-slideshow",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "266fbf6136960d20c22ae65a780d98bdb768116e",
+            "archive_commit": "0eb77d150120bebd6851a1aa0ba2d429b6510053",
+            "released": "2021-07-17T15:24:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "11b523da7eaa7a39dc1e2b0bc8e9c947b7ba57f3",
+            "archive_commit": "037336e8bc655d78397e65e790f2255039923e60",
+            "released": "2021-07-19T09:06:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

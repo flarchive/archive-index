@@ -1,0 +1,91 @@
+{
+    "package": "justoverclock/igdb-api",
+    "upstream": "https://github.com/justoverclockl/igdb-api",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/igdb-api",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "13a2b4bb0037877d156a3bd3cfc84ffef49c0262",
+            "archive_commit": "756a2cd954b7ac111cbd633142e56407791fedf0",
+            "released": "2021-10-03T22:37:39+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "0ad2d9e4cd1789b3af66f17986edc5898d8f69a8",
+            "archive_commit": "5c8f6c8ce0b505710ec03b160e2749c9ac72d52a",
+            "released": "2021-10-04T10:13:45+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "53e1d3897d4ebc76aacbedbbaee6b1d844a1d355",
+            "archive_commit": "e3fb76f7d050b856b3e82d679b143f5f37937ea3",
+            "released": "2021-10-04T10:45:20+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "915b9750256f6db03b54473f7b9b3e65edc548cc",
+            "archive_commit": "7ee91966daa54cf47151d507c1683fe70da928d1",
+            "released": "2021-10-04T10:50:28+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "3ce018a945ea3a5b078f2cb59be5013ee566613a",
+            "archive_commit": "88f95fb89292d194bb94e71220f1a76f24b1663d",
+            "released": "2023-07-18T15:52:57+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "8eb9b4064d3b9b1464a860a2bbef3730a316f3e5",
+            "archive_commit": "972e15bb878acfb9e5e4ed3525acffe993c08942",
+            "released": "2023-07-18T15:55:48+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.6",
+            "tag": "archive/v0.1.6",
+            "upstream_commit": "3e31e95479a9ba7ca1ff9e226f1d3c2d7c11576f",
+            "archive_commit": "eb8781dd408a26d97e35ef5c2378e3eea04d2462",
+            "released": "2024-01-24T15:32:48+00:00",
+            "archived": "2026-10-03",
+            "license": "0BSD",
+            "flarum": "^1.8.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

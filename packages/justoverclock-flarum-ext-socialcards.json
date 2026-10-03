@@ -1,0 +1,43 @@
+{
+    "package": "justoverclock/flarum-ext-socialcards",
+    "upstream": "https://github.com/justoverclockl/flarum-ext-socialcards",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/flarum-ext-socialcards",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "4f8d3854b9ea791f8d90dba70a9fe3fb6a519f12",
+            "archive_commit": "603a7ec40d07a30bdd7df20628bf0dbbaa26cd90",
+            "released": "2021-04-27T18:23:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "634b8c1881a4d50a267943c165baf75a0a255ec8",
+            "archive_commit": "cea28a83c3dda1e45028e1117bc5864d5bc9c5ed",
+            "released": "2021-04-29T17:45:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c2369cebff9c7d419cf886bf36b79617e1a30398",
+            "archive_commit": "b2da72a4656f65a70639fc3f503a2a0dfce90d00",
+            "released": "2021-06-05T18:18:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

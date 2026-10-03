@@ -1,0 +1,19 @@
+{
+    "package": "justoverclock/justblab",
+    "upstream": "https://github.com/justoverclockl/justblab",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/justblab",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "a977781570da47d028fdece3254ad0b8d458721b",
+            "archive_commit": "957ccd8e7ec583ccb995fa05df3bd8215e3202ed",
+            "released": "2022-03-11T18:34:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

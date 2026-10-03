@@ -1,0 +1,43 @@
+{
+    "package": "justoverclock/flarum-ext-newsfeed",
+    "upstream": "https://github.com/justoverclockl/flarum-ext-newsfeed",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/flarum-ext-newsfeed",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b5729b04df34a05010a735dd74c476757d1b8df1",
+            "archive_commit": "1cf50b6a7abc136e3a0ea0f67cbce9b134e90727",
+            "released": "2021-05-12T15:26:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "32891b6b69829d97876341e7fc9fab3fbd8b9454",
+            "archive_commit": "fca63e74f01943eb38cd8ae929f7f3d27c38f0ec",
+            "released": "2021-07-16T20:18:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "ba4dab77c4e58e8a71b6a18110cad2e49f0b8941",
+            "archive_commit": "41d8b221f343f26f1a00f86dfc3d1ea13e4b69b2",
+            "released": "2021-09-22T07:20:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

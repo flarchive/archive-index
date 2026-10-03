@@ -1,0 +1,103 @@
+{
+    "package": "justoverclock/geo-weather",
+    "upstream": "https://github.com/justoverclockl/geo-weather",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/geo-weather",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "00dba09a1b5cc63e984b72a55cf7f825329e8814",
+            "archive_commit": "8361ac81e456da0a5a03e857f22b30a127f4e6a5",
+            "released": "2021-08-01T11:35:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "caa8c22697987629f79e0cd812f2457037177677",
+            "archive_commit": "abed61ffe3a743b9c7affdfd6927416704e485c5",
+            "released": "2021-08-01T15:12:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "d4ea503b8647c9fa2496805a5eadbd02f22c02af",
+            "archive_commit": "6d21303cb7a9d9ccd933df502b0240d452a48da1",
+            "released": "2021-08-01T15:13:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "bdd7d9913b6e3806b0c5cbe4c6074e744bc84c1c",
+            "archive_commit": "3e78989c90afb944b845220f2c68bb5075ed858c",
+            "released": "2021-08-01T15:22:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "e78cc54cb149b4c2a5b719142ed89001c79c0c3c",
+            "archive_commit": "623f489361992f6067451fd6b76fb6bb98e70015",
+            "released": "2021-08-02T23:07:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "bf10d3f1e10a8f8bd91f85db9312773eb2ff0065",
+            "archive_commit": "6f4ba321398f3cdbd130c3755cb5d7370d1f7e0d",
+            "released": "2021-08-05T12:19:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.6",
+            "tag": "archive/v0.1.6",
+            "upstream_commit": "81d108be6cec2c9170cd23ba989c68cb088c74a3",
+            "archive_commit": "59479ca5599025571fce9fff0d3dbff74026874d",
+            "released": "2021-08-09T20:55:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.7",
+            "tag": "archive/v0.1.7",
+            "upstream_commit": "618cdf26e8d6d2ff1d92a437ddfb60149b8822ca",
+            "archive_commit": "0e56866815d3848b844c9afbebfde6ebcd8201bc",
+            "released": "2021-08-11T11:43:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

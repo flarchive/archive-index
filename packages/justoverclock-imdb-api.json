@@ -1,0 +1,43 @@
+{
+    "package": "justoverclock/imdb-api",
+    "upstream": "https://github.com/justoverclockl/imdb-api",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/imdb-api",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "44778bc7f664df1aa3fefafb87f7086000600be6",
+            "archive_commit": "b1f5c03c032f8a0ba1be268ffff6a921ef521d5c",
+            "released": "2021-09-28T09:55:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "fdb267b22e59911787db52d6a6a1d78a5ae7b696",
+            "archive_commit": "cfdaef9630c8d6063d10babfc4dfd335ab7c708b",
+            "released": "2021-09-28T15:17:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "a498fb2a28f2a38e992debacc734fbcf748c9700",
+            "archive_commit": "d3fe69e04a14b5a881c21593423240220b70e48f",
+            "released": "2021-12-24T09:56:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
