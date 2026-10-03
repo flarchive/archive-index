@@ -1,0 +1,31 @@
+{
+    "package": "flagrow/direct-links",
+    "upstream": "https://github.com/flagrow/direct-links",
+    "packagistUrl": "https://packagist.org/packages/flagrow/direct-links",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c2e306815bb70eec19537a9e6f35a80bd2e9075e",
+            "archive_commit": "cd2eed73e0e3d4bc3729f0ba15a7c8e53368ffc4",
+            "released": "2018-05-25T16:01:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "23255b44e750221832f74339677f334d5d1a3d34",
+            "archive_commit": "82f7b0467c55347e41d8b71d62aa01aa47c49fba",
+            "released": "2018-12-07T20:50:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

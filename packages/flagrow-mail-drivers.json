@@ -1,0 +1,19 @@
+{
+    "package": "flagrow/mail-drivers",
+    "upstream": "https://github.com/flagrow/mail-drivers",
+    "packagistUrl": "https://packagist.org/packages/flagrow/mail-drivers",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "79aabea170aad44e59ce2a50ab5f0c53e940b1d9",
+            "archive_commit": null,
+            "released": "2018-05-05T22:23:33+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

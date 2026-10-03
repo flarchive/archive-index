@@ -1,0 +1,31 @@
+{
+    "package": "flagrow/flarum-ext-latex",
+    "upstream": "https://github.com/flagrow/flarum-ext-latex",
+    "packagistUrl": "https://packagist.org/packages/flagrow/flarum-ext-latex",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "cc50631d6d26e89ba12c1c872ece78d9957c142c",
+            "archive_commit": "d2b988f75c6b23c7f2a104080e2a5538034d8b26",
+            "released": "2016-01-14T08:53:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "4db38817d26cb5e3a7e8a0b53f042c61d14af606",
+            "archive_commit": "22d8d0d770ad9b854db8341cf6e662e810689843",
+            "released": "2016-04-01T19:50:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

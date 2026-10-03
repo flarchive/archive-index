@@ -1,0 +1,55 @@
+{
+    "package": "flagrow/fonts",
+    "upstream": "https://github.com/flagrow/fonts",
+    "packagistUrl": "https://packagist.org/packages/flagrow/fonts",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "beffaa577bb1fa75d9a7439e9e31c13703f46d2c",
+            "archive_commit": "c965024cd6a91a8d45c52d2b30dad70642cb45ed",
+            "released": "2017-07-05T03:14:47+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "44bc791000508ae18e416aa59064b629ef5cac8d",
+            "archive_commit": "6749fceb72b4c5e2ee53e98c0f2fceb7bf62b103",
+            "released": "2017-07-27T15:56:49+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "ad319e6f3ef0aeb748ec8e5178c1009c6d842a92",
+            "archive_commit": "5f5713ae25b379a3377b4ade551f7e1577496111",
+            "released": "2017-08-24T17:06:42+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "02b45bff8e07afe1015910e6e44fe00aad90e812",
+            "archive_commit": "293186c392c6e3527b7399572f27b0107ed5c328",
+            "released": "2018-12-09T20:38:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

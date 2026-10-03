@@ -1,0 +1,31 @@
+{
+    "package": "flagrow/passport",
+    "upstream": "https://github.com/flagrow/passport",
+    "packagistUrl": "https://packagist.org/packages/flagrow/passport",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "6a1bfd14f8fec95510a2af32f1fe8f1626db22de",
+            "archive_commit": "7c2e92194800c9e1f9dd18a1d53a0ea135446135",
+            "released": "2017-03-17T22:33:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0-beta",
+            "tag": "archive/v0.2.0-beta",
+            "upstream_commit": "ac3b4ea88e9ebfa52810d3a280d9f2b18e8c6466",
+            "archive_commit": "eb1a3dc82e9052b4f72bff19c57696425147e6ec",
+            "released": "2018-11-05T21:41:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

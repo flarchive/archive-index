@@ -1,0 +1,19 @@
+{
+    "package": "flagrow/canned-messages",
+    "upstream": "https://github.com/flagrow/canned-messages",
+    "packagistUrl": "https://packagist.org/packages/flagrow/canned-messages",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "45c67026dd02238cbeb845e445b76f9cd87cf0f0",
+            "archive_commit": "6a1cdff710072ecc3d462cbd87a05bebb31d0455",
+            "released": "2018-03-27T18:09:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
