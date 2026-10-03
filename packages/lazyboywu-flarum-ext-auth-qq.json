@@ -1,0 +1,31 @@
+{
+    "package": "lazyboywu/flarum-ext-auth-qq",
+    "upstream": "https://github.com/lazyboywu/flarum-ext-auth-qq",
+    "packagistUrl": "https://packagist.org/packages/lazyboywu/flarum-ext-auth-qq",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "9b9dbae8277fcf0c14ac2007a3d4b731ecabd1e0",
+            "archive_commit": "67596a4948f590447319d04760ecc75cad0227d6",
+            "released": "2016-02-01T09:33:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "285ba94daa8a95acee9fac591bc6cb4271e405d2",
+            "archive_commit": "67ff8654779528ed208066946a0347ad62e03fd4",
+            "released": "2016-02-02T06:48:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

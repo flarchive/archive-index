@@ -1,0 +1,55 @@
+{
+    "package": "laravelrs/flarum-ext-serbian-latin",
+    "upstream": "https://github.com/laravelrs/flarum-ext-serbian-latin",
+    "packagistUrl": "https://packagist.org/packages/laravelrs/flarum-ext-serbian-latin",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6bc65c6926cd0c7de2629fcb7b379cdd3a74ee15",
+            "archive_commit": "f60361fd208bce8690baf73e759afb2dafc8d4b8",
+            "released": "2016-03-13T13:34:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "76eb16eb6962924865008c87be16839409bfa889",
+            "archive_commit": "ab65fe04707cd545411a4429aa02cc6e2e3ad7c9",
+            "released": "2016-03-16T01:42:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "92bfcb6150c2dadca5aef1300e58f89f672fc0c7",
+            "archive_commit": "df41b12f0680a68b279ed1244a62de2e9073ba59",
+            "released": "2016-03-18T14:53:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "9e5bcfe3023a49eae14f84f1aba723eeb7b4ddbe",
+            "archive_commit": "24aab0960486ad34fcd43c715158d93f62b4acfc",
+            "released": "2016-03-20T15:58:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

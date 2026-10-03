@@ -1,0 +1,19 @@
+{
+    "package": "laitouaigre/symbols",
+    "upstream": "https://github.com/laitouaigre/flarum-symbols",
+    "packagistUrl": "https://packagist.org/packages/laitouaigre/symbols",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "e9d44411b198a94b9ddceaa22d4aea6215be63ed",
+            "archive_commit": "715e20e3ad215ffa04d6814fb2cb607fb7c55824",
+            "released": "2025-08-16T22:33:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

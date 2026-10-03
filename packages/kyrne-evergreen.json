@@ -1,0 +1,127 @@
+{
+    "package": "kyrne/evergreen",
+    "upstream": "https://github.com/KyrneDev/Evergreen",
+    "packagistUrl": "https://packagist.org/packages/kyrne/evergreen",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "9004c4799f187f2cd48d1c7807119a2aae7af91e",
+            "archive_commit": "9229e6ac44be666b00e520493b4f7a18f0b11a1b",
+            "released": "2020-07-30T01:59:51+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "fd6dbe451eb7e490af9966a2394b577ea72afefa",
+            "archive_commit": "6a7b7a025d25f46ce3a7cfc4c2dacd7f64e66eea",
+            "released": "2020-07-31T01:19:45+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "9fcc73d1097c3b618e1ac4c2d62ccb7ce6c6be59",
+            "archive_commit": "a3a50f9ffb213216937fb6ff013c9683df4901ef",
+            "released": "2020-08-13T00:31:52+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "6b4d974b1ab8e39989e12be4c3b5b154df838ec3",
+            "archive_commit": "adfc66b549490ad263b70d1162eef9c8726f6599",
+            "released": "2020-08-17T06:35:49+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "df390fdb5eb05ee18f415d97c9e6066585317eb9",
+            "archive_commit": "3e90fc352edc011d4d2f3a63699524c5fd81550b",
+            "released": "2020-08-17T06:40:37+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "a345a4efd246e4374043f5ae75013500ffe4c230",
+            "archive_commit": "e09ba4665a0ad195ec8150cbb11e52d5b298ae6b",
+            "released": "2020-08-19T01:37:52+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.6",
+            "tag": "archive/v0.1.6",
+            "upstream_commit": "7ece18644fbbad368e74d10095742f1825c78f93",
+            "archive_commit": "7a6fce35f8fb943778b0597735100b07619dd901",
+            "released": "2020-09-01T01:54:04+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.7",
+            "tag": "archive/v0.1.7",
+            "upstream_commit": "82628d902c5534f13ad168665cf64221ea1a3eb2",
+            "archive_commit": "bb5b67cca6c95f95294e290807913453aabef6df",
+            "released": "2020-09-01T02:01:56+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.8",
+            "tag": "archive/v0.1.8",
+            "upstream_commit": "5ee870f6d94ea5fdd0fb52a08fbe81f00a1edd04",
+            "archive_commit": "7359e0ac9bd1c3f6bb4653f8a3ce5e54e2f41ee8",
+            "released": "2020-11-20T02:00:42+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "9f398726a157713fbbaf91eb8c6540422369cbae",
+            "archive_commit": "ba3cf5c7bb7d1b8000e668fcbf313dd26dddc4f3",
+            "released": "2021-07-12T20:20:37+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "lawaxi/level-ranks",
+    "upstream": "https://github.com/Lawaxi/level-rank",
+    "packagistUrl": "https://packagist.org/packages/lawaxi/level-ranks",
+    "versions": [
+        {
+            "version": "10.3",
+            "tag": "archive/v10.3",
+            "upstream_commit": "7c0883e9d8f33d37c48b3c7b1eaeff013ff6ad67",
+            "archive_commit": "949b12267d12e829bdbd06712728cc2b8987cc55",
+            "released": "2022-08-25T14:16:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "10.4",
+            "tag": "archive/v10.4",
+            "upstream_commit": "2f7fbe30769ad5862ef363e4a98d6a7f3df97468",
+            "archive_commit": "33f358cac5022d2db26c9ca118e4dca3c357e905",
+            "released": "2022-08-25T18:56:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "10.5.2",
+            "tag": "archive/v10.5.2",
+            "upstream_commit": "cb63c6a822e0bc61ff4b6f05e520bd92f5b2e4b7",
+            "archive_commit": "41023b5e116b2c557c8fbd751dc1ae6e00951a52",
+            "released": "2022-08-29T14:48:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

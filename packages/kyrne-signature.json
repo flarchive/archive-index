@@ -1,0 +1,31 @@
+{
+    "package": "kyrne/signature",
+    "upstream": "https://github.com/KyrneDev/signature",
+    "packagistUrl": "https://packagist.org/packages/kyrne/signature",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "588719ae6de249dcad7451da8d6e037331a169c9",
+            "archive_commit": "f333c5544d266dd45b8554bfc048ff19cf3b537b",
+            "released": "2021-02-20T17:58:27+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "d9df31bf81252bbbbb7045ac900b5cc9a10e5d7b",
+            "archive_commit": "2f0d05fe964d6ad9569ed5b0947219d1b67f1422",
+            "released": "2021-02-25T23:12:57+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

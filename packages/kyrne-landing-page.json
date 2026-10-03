@@ -1,0 +1,55 @@
+{
+    "package": "kyrne/landing-page",
+    "upstream": "https://github.com/KyrneDev/landing-page",
+    "packagistUrl": "https://packagist.org/packages/kyrne/landing-page",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "3f25d2113eaddf4564ddc264f5ed714ccb008545",
+            "archive_commit": "8dacf8959fd00ff815b001bf756d322ea623e384",
+            "released": "2016-06-10T09:12:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.2",
+            "tag": "archive/v0.1.0-beta.2",
+            "upstream_commit": "fe48a1bfd663796c8feef064dc76d75b95d065f0",
+            "archive_commit": "3a773d8ba0cc94dab865a9edade8e51fae678a2b",
+            "released": "2017-06-23T10:07:04+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": "archive/v0.1.0-beta.4",
+            "upstream_commit": "ea72ba2912ae5aa325021ca9a2aa84b02e8aa369",
+            "archive_commit": "22d754d3fb9f69d0936025cf302e1f87ff865b38",
+            "released": "2020-07-28T21:47:06+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": "archive/v0.1.0-beta.7",
+            "upstream_commit": "a7f6a8beefd63d1b2b689d11e15a66cdb739f0ec",
+            "archive_commit": "11a3c165d567e9c06026295d62dd766f92a16e1c",
+            "released": "2020-08-23T22:09:38+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

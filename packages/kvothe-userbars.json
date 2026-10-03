@@ -1,0 +1,19 @@
+{
+    "package": "kvothe/userbars",
+    "upstream": "https://github.com/oaklinq/flarum-ext-userbars",
+    "packagistUrl": "https://packagist.org/packages/kvothe/userbars",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ed81e890dd91cf2d715de39444d2ead79d95e3ca",
+            "archive_commit": "f2e2c89189480d5c05d62fcaee1c1b421f5ce4f4",
+            "released": "2019-04-01T10:14:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

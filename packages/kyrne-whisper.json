@@ -1,0 +1,67 @@
+{
+    "package": "kyrne/whisper",
+    "upstream": "https://github.com/KyrneDev/whisper",
+    "packagistUrl": "https://packagist.org/packages/kyrne/whisper",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "8bc84aad6b60586a9006510c78d7460edf7f8968",
+            "archive_commit": "0f425354d8fbf78514786f9db543735b7f14bc1b",
+            "released": "2021-07-21T21:23:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e5dbaba840623034fa773406b9d57eea17e5f950",
+            "archive_commit": "0466fe2126f8dd521e49dfc365d2a305cc8737ad",
+            "released": "2021-07-22T13:20:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "28c226825c9d79fb20d583a3ebd109fb4d0efaae",
+            "archive_commit": "de67ab27ceaaabe36933279d6a34bb2cd0373243",
+            "released": "2021-07-22T22:50:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "af7dbb919c458d4c3a25c0335216b2f496789dac",
+            "archive_commit": "d7032c94a62a6a6302fe64eabe96d838a39c29fb",
+            "released": "2021-07-27T16:47:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "7396c7ecc8766e3ed4f64569d53fd13c06716b67",
+            "archive_commit": "7576ab8e00502d8dd6bb25d1250f112fcd948e73",
+            "released": "2021-12-07T23:56:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

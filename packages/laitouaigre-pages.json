@@ -1,0 +1,31 @@
+{
+    "package": "laitouaigre/pages",
+    "upstream": "https://github.com/laitouaigre/flarum-pages",
+    "packagistUrl": "https://packagist.org/packages/laitouaigre/pages",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0f167c303185b2d607878501ad4206034e6b11fd",
+            "archive_commit": "f455dc259214546eb8b24b884a3b595b77ef60fb",
+            "released": "2025-08-16T15:15:19+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "8003a33846f4f5e2d29f6e5aa3fc766a1aaa3f86",
+            "archive_commit": "130d6012c146c5c94ca84ff048969807103cf3dc",
+            "released": "2025-08-16T17:09:39+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

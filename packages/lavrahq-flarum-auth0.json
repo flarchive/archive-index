@@ -1,0 +1,31 @@
+{
+    "package": "lavrahq/flarum-auth0",
+    "upstream": "https://github.com/lavrahq/flarum-auth0",
+    "packagistUrl": "https://packagist.org/packages/lavrahq/flarum-auth0",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "07ceb613bb4ead4086b98f07272a7a008fbbad22",
+            "archive_commit": "8c43ccc0e14ad18b3c7963fe7260190deec07e32",
+            "released": "2019-12-19T20:38:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "35b6c00aac02460913a8d36984cacde7eff904c7",
+            "archive_commit": "1340d712426ad56820060e746f8f25e4eb30d6f8",
+            "released": "2019-12-19T22:00:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "kvothe/spoiler-bbcode",
+    "upstream": "https://github.com/oaklinq/flarum-ext-spoiler-bbcode",
+    "packagistUrl": "https://packagist.org/packages/kvothe/spoiler-bbcode",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6130ed671a7731584e085376581f1491e22d4a69",
+            "archive_commit": "e3451d649653f6f4276a388620cf7b791fd487a4",
+            "released": "2019-02-22T18:32:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

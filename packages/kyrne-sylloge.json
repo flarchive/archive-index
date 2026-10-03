@@ -1,0 +1,67 @@
+{
+    "package": "kyrne/sylloge",
+    "upstream": "https://github.com/KyrneDev/Sylloge",
+    "packagistUrl": "https://packagist.org/packages/kyrne/sylloge",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "cf2bced070ce0873b10a0fe638d7624ed816a452",
+            "archive_commit": "e9217d521651929769468df5e6c9f831ad3a0375",
+            "released": "2020-07-28T23:43:43+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "114087cc59f6fedc2a05872d49911eab5d0c8a26",
+            "archive_commit": "153828937cf42f99e92d8ce562838eb7127c3021",
+            "released": "2020-07-29T18:17:46+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "d471f2bfd840d1b6d9da9e97213718b27052d4bc",
+            "archive_commit": "44ddabb360f05313650bc5158f03578c52e4a123",
+            "released": "2020-07-29T18:50:25+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "128632dd33485f29b7ec508aeef7c417220d75c2",
+            "archive_commit": "a05808166c752ff38bbeacf58e629294ae130860",
+            "released": "2020-07-29T19:38:04+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "07ab36964fdf944b0fccbed99961c1309168df43",
+            "archive_commit": "a33f644ca622b3f62045e2525f01af5a45cb48e2",
+            "released": "2020-08-17T06:13:59+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta-13",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
