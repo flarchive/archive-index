@@ -1,0 +1,31 @@
+{
+    "package": "luuhai48/flarum-tinker",
+    "upstream": "https://github.com/luuhai48/flarum-tinker",
+    "packagistUrl": "https://packagist.org/packages/luuhai48/flarum-tinker",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "01cda69954c02e3b5230479f47174ca93cc92ff5",
+            "archive_commit": "4a5b3e5132f9c71d8362ba7d4990852b53c0d897",
+            "released": "2020-11-08T10:41:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "e62d680c697c66fe73eff5fe0b636466e9877b44",
+            "archive_commit": "471e5867e8ecfa790d6678736c713e0b9d77d09e",
+            "released": "2020-11-25T12:54:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "luceos/flarum-ext-staff-badge",
+    "upstream": "https://github.com/luceos/flarum-ext-staff-badge",
+    "packagistUrl": "https://packagist.org/packages/luceos/flarum-ext-staff-badge",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "04f2f93cd43b180da133f75435121a0fc176eed5",
+            "archive_commit": "f69e5253f8e2b7fd1f2ebda0f1c3604ea9b6faf2",
+            "released": "2022-03-19T16:37:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

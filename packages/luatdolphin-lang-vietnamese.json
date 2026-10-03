@@ -1,0 +1,115 @@
+{
+    "package": "luatdolphin/lang-vietnamese",
+    "upstream": "https://github.com/luatdolphin/lang-vietnamese",
+    "packagistUrl": "https://packagist.org/packages/luatdolphin/lang-vietnamese",
+    "versions": [
+        {
+            "version": "0.1.0-beta.10",
+            "tag": "archive/v0.1.0-beta.10",
+            "upstream_commit": "bbde9b2168c442ce4a85f418129b19bc7304aa70",
+            "archive_commit": "ed25d3871f150c0340903277ae1f9de095180aae",
+            "released": "2019-09-25T03:33:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.11",
+            "tag": "archive/v0.1.0-beta.11",
+            "upstream_commit": "a6e0f88a270da63afe4e98194c5f298860e7edfe",
+            "archive_commit": "0f646c59365c3429a9603f127d52df4f2563a6d0",
+            "released": "2019-12-23T10:22:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.11.1",
+            "tag": "archive/v0.1.0-beta.11.1",
+            "upstream_commit": "73030ed707352832127486653c22dcdbadc89fb2",
+            "archive_commit": "5366d651781149e70cf499133faeb0cfe29fde95",
+            "released": "2019-12-23T12:28:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.12",
+            "tag": "archive/v0.1.0-beta.12",
+            "upstream_commit": "c7eb908e7c09a4ca3fde77c2724df12d5a88acf2",
+            "archive_commit": "14568aebb49a4bc801227474202e8ef9c93ae7b8",
+            "released": "2020-04-08T05:22:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.13",
+            "tag": "archive/v0.1.0-beta.13",
+            "upstream_commit": "615494961c9f4a631c2ea26afabccf0f4df7f191",
+            "archive_commit": "09f57a0815b2f66cfa39e3a39f4d738d71ecdee2",
+            "released": "2020-06-01T04:33:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.13.1",
+            "tag": "archive/v0.1.0-beta.13.1",
+            "upstream_commit": "133fc85b6d0e422d649bbc2079f0f433d1903f8f",
+            "archive_commit": "7b71cd6af03b88b1b41af37203a183d053b12eb4",
+            "released": "2020-07-09T11:13:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.14",
+            "tag": "archive/v0.1.0-beta.14",
+            "upstream_commit": "a1e1d6473d036e0a0f404ad4a759bcde59a6a2b4",
+            "archive_commit": "54b6cac7804a0f3fd1865a3ac1bb22e1acf373e9",
+            "released": "2020-12-21T08:25:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.10",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.18",
+            "tag": "archive/v0.1.0-beta.18",
+            "upstream_commit": "ccf552461926fd377c164b4b6e436fed1356f31f",
+            "archive_commit": "332739745580b563eff668b8a532fa794844876a",
+            "released": "2021-07-06T09:21:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.9",
+            "tag": "archive/v0.1.0-beta.9",
+            "upstream_commit": "f54308a34483dcd93395a3f9bb6d334bf12b9255",
+            "archive_commit": "196d180e82b204ab0a74b09298cfa2e2f2acc16c",
+            "released": "2019-09-19T05:00:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

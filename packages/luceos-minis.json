@@ -1,0 +1,19 @@
+{
+    "package": "luceos/minis",
+    "upstream": "https://github.com/luceos/flarum-ext-minis",
+    "packagistUrl": "https://packagist.org/packages/luceos/minis",
+    "versions": [
+        {
+            "version": "0.1-beta.1",
+            "tag": "archive/v0.1-beta.1",
+            "upstream_commit": "9a622cc67c23eb2ff4c78a95dc2811dae5c2c07d",
+            "archive_commit": "7238b0bc229688f5d7bf01692846b736d492363b",
+            "released": "2024-08-19T09:46:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

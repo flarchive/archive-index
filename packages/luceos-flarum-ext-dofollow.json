@@ -1,0 +1,31 @@
+{
+    "package": "luceos/flarum-ext-dofollow",
+    "upstream": "https://github.com/luceos/flarum-ext-dofollow",
+    "packagistUrl": "https://packagist.org/packages/luceos/flarum-ext-dofollow",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "b195ef15510708897f0d0a3d1e7522da80809356",
+            "archive_commit": "1cc9243db0e4346bcdfca7af94e5cc533bd186c5",
+            "released": "2022-07-13T19:07:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.4.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "7b7bf14cdd8b8aa9eff650631a69eea0ab80c323",
+            "archive_commit": "2ad1005b91a987dd784f15a5a082397d84ab321a",
+            "released": "2026-04-17T06:47:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^v2.0.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

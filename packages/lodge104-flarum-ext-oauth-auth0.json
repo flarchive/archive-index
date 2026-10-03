@@ -1,0 +1,43 @@
+{
+    "package": "lodge104/flarum-ext-oauth-auth0",
+    "upstream": "https://github.com/Lodge104/flarum-ext-oauth-auth0",
+    "packagistUrl": "https://packagist.org/packages/lodge104/flarum-ext-oauth-auth0",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": null,
+            "upstream_commit": "9a5c0bf2ad9f13bedc95f179dc60d05359d3689f",
+            "archive_commit": null,
+            "released": "2022-10-19T18:40:46+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": null,
+            "upstream_commit": "afd7913d5eed10a4f03ae501235a3bdd23d8a25b",
+            "archive_commit": null,
+            "released": "2022-10-19T20:29:59+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": null,
+            "upstream_commit": "4d81a6354c2e7a466a9faf13aa7b59d5bd91386f",
+            "archive_commit": null,
+            "released": "2022-10-19T22:17:33+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

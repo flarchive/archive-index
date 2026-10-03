@@ -1,0 +1,31 @@
+{
+    "package": "luuhai48/avatar-support",
+    "upstream": "https://github.com/luuhai48/avatar-support",
+    "packagistUrl": "https://packagist.org/packages/luuhai48/avatar-support",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6d69fe82919db64c4470fd115b7dd4c750ad19fb",
+            "archive_commit": "e419c7681c13d17290f2fe8b407ad3a7d7140f56",
+            "released": "2020-12-11T16:21:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8f23109c60965f16b519e73f09b5324399084130",
+            "archive_commit": "a5693b4a9946bd058106e79f2995ae3e086817ad",
+            "released": "2020-12-20T15:09:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

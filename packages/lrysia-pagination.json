@@ -1,0 +1,43 @@
+{
+    "package": "lrysia/pagination",
+    "upstream": "https://github.com/lrysia/flarum-pagination",
+    "packagistUrl": "https://packagist.org/packages/lrysia/pagination",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9033beba4f1d5430d26264a622ee93b202468b8d",
+            "archive_commit": "b9cdadc7dad12b668dc73e28f1070057636139e1",
+            "released": "2023-02-19T16:18:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "c7c3c2f6fba0a65d06187140430f36ee6122db5e",
+            "archive_commit": "6492ac9e23de7a2a4e87f9709024876b2c1c7f5e",
+            "released": "2023-02-23T10:44:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "057763af4ddff63c873bba5e1850c366d9f6227b",
+            "archive_commit": "60cb2bd830d66dfa840de7ffc3d98f53410b0a1e",
+            "released": "2023-02-23T15:42:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

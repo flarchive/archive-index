@@ -1,0 +1,31 @@
+{
+    "package": "luuhai48/oauth-linkedin",
+    "upstream": "https://github.com/luuhai48/oauth-linkedin",
+    "packagistUrl": "https://packagist.org/packages/luuhai48/oauth-linkedin",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c93cd6b63e6a83f4cd588f732ad953921a7b45a2",
+            "archive_commit": "eafdc886dec157a09f2f9962cf46d6445f18379f",
+            "released": "2020-12-06T13:59:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "5c6213f6b1667e3eb20c3ec07c6777fbd2e013b3",
+            "archive_commit": "4b9b703c9159bf2e6fc8176a624ca92531b612b7",
+            "released": "2021-01-24T14:56:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "liyanqwq/flarum-cravatar",
+    "upstream": "https://github.com/liyanqwq/flarum-cravatar",
+    "packagistUrl": "https://packagist.org/packages/liyanqwq/flarum-cravatar",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "433712d8993410d2c09a23e2e15815a4a401a9ed",
+            "archive_commit": "3f1dba80e81ce2f46c2772c91ec7ab2e244b0ad8",
+            "released": "2022-03-12T01:33:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

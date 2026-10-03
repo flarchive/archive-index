@@ -1,0 +1,31 @@
+{
+    "package": "luuhai48/oauth-google",
+    "upstream": "https://github.com/luuhai48/oauth-google",
+    "packagistUrl": "https://packagist.org/packages/luuhai48/oauth-google",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8e60dd675eb320b58f4bbcd67d0caa5732228dd9",
+            "archive_commit": "c6ba07f19a7d136847383e663fd98fed5f94bbc8",
+            "released": "2020-11-15T15:57:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "8e98ad5278f2295ad5ac1432a731e75a20665ecb",
+            "archive_commit": "849d7756ea19f2186b1af30a2431a9b87092d274",
+            "released": "2020-12-08T14:58:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "luzzardik/flarum-third-party-login-only",
+    "upstream": "https://github.com/luzzardik/flarum-third-party-login-only",
+    "packagistUrl": "https://packagist.org/packages/luzzardik/flarum-third-party-login-only",
+    "versions": [
+        {
+            "version": "2.0.10",
+            "tag": "archive/v2.0.10",
+            "upstream_commit": "26ff0b3da157f699b51874b7c62077f0da94756a",
+            "archive_commit": "814c0f62fa9587be42d52b03af2ec65d2f4e3ce3",
+            "released": "2026-07-29T11:28:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.8",
+            "tag": "archive/v2.0.8",
+            "upstream_commit": "2dfa05b2e2e310fffb1b91e3ea34ca73917ef336",
+            "archive_commit": "c33eeaada0c6f8d783bb04d45dc8b50a6a818c30",
+            "released": "2026-07-29T11:18:52+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.9",
+            "tag": "archive/v2.0.9",
+            "upstream_commit": "d585b184f1626265ec974ad107278b7d1df0bfdc",
+            "archive_commit": "c0d0781f6b447112a88c21ebfbd4160ff1df5f8b",
+            "released": "2026-07-29T11:22:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

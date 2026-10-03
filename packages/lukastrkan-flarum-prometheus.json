@@ -1,0 +1,19 @@
+{
+    "package": "lukastrkan/flarum-prometheus",
+    "upstream": "https://github.com/lukastrkan/flarum-prometheus",
+    "packagistUrl": "https://packagist.org/packages/lukastrkan/flarum-prometheus",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "f18330d5013fc7f5afaf7384974179c764e2f8af",
+            "archive_commit": "24e5c6b2fd4a39da90e83fcc269e706003f0bbc5",
+            "released": "2026-09-23T07:22:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

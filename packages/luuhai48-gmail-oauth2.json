@@ -1,0 +1,19 @@
+{
+    "package": "luuhai48/gmail-oauth2",
+    "upstream": "https://github.com/luuhai48/gmail-oauth2",
+    "packagistUrl": "https://packagist.org/packages/luuhai48/gmail-oauth2",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "82364ef0e40f461e9a6272826f597bb03a92b226",
+            "archive_commit": "8b466cb2370d06e4a28e5fbd9a0529b286175572",
+            "released": "2022-01-15T06:01:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
