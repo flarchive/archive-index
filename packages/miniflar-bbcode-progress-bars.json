@@ -1,0 +1,31 @@
+{
+    "package": "miniflar/bbcode-progress-bars",
+    "upstream": "https://github.com/miniflar/bbcode-progress-bars",
+    "packagistUrl": "https://packagist.org/packages/miniflar/bbcode-progress-bars",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e9ec3e97ca8f07b4e0f6c313132251935e225c51",
+            "archive_commit": "6b03e35d360f9c7aee383fbbeb086dcbdb9e1b8f",
+            "released": "2021-08-20T03:30:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "c3ba3094401392dd6169afc3ee6f2f9eba8b1bbf",
+            "archive_commit": "949cedb35e5b18044d7a4a90f569e4aaf52cdbfa",
+            "released": "2021-08-20T13:12:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

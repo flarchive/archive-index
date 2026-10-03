@@ -1,0 +1,19 @@
+{
+    "package": "mingcns/flarum-tags",
+    "upstream": "https://github.com/mingcns/flarum-tags",
+    "packagistUrl": "https://packagist.org/packages/mingcns/flarum-tags",
+    "versions": [
+        {
+            "version": "v1.8.0",
+            "tag": "archive/v1.8.0",
+            "upstream_commit": "45cfb339e1ebd9f0204070f7f271c00282d20694",
+            "archive_commit": "739e2e3f7a29612efd09a036151b37487a5ff47e",
+            "released": "2023-05-20T15:08:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

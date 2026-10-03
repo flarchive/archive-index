@@ -1,0 +1,31 @@
+{
+    "package": "migratetoflarum/recalculate-meta",
+    "upstream": "https://github.com/migratetoflarum/recalculate-meta",
+    "packagistUrl": "https://packagist.org/packages/migratetoflarum/recalculate-meta",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d8aa077593cf1002a8122b08310314f10e08ddd2",
+            "archive_commit": "4177e85bb3fa5a060cf8a89a95aefd5d1d8bcb1b",
+            "released": "2020-10-26T17:21:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "4203a359146926b4ce16b61109affcaaa139d3bd",
+            "archive_commit": "a56bfbd26637e348ba6c144094a238f5ff8a81e7",
+            "released": "2021-04-16T19:19:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

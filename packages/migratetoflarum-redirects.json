@@ -1,0 +1,31 @@
+{
+    "package": "migratetoflarum/redirects",
+    "upstream": "https://github.com/migratetoflarum/redirects",
+    "packagistUrl": "https://packagist.org/packages/migratetoflarum/redirects",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "9f03b1ead3fb5b418881987de8d9d0b977c30996",
+            "archive_commit": "eff3f36e9979d87fce449d694371329eaa2333c2",
+            "released": "2018-01-24T00:47:57+00:00",
+            "archived": "2026-10-03",
+            "license": "mit",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "c161aaef102341597a5a3644b23a5f1f2ac64ede",
+            "archive_commit": "33db423603172863d6ac2a4f7e7d6d51a8ad095c",
+            "released": "2018-10-14T12:51:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

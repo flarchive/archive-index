@@ -1,0 +1,31 @@
+{
+    "package": "migratetoflarum/renumber-posts",
+    "upstream": "https://github.com/migratetoflarum/renumber-posts",
+    "packagistUrl": "https://packagist.org/packages/migratetoflarum/renumber-posts",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "099e971a986419735c9616a9a13988def8c17ad3",
+            "archive_commit": "5374e9307296d19fae2bc9948e6237923561b3ee",
+            "released": "2020-10-29T20:42:20+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "868ccd6574509ee731d07ed250d97c8a9c01caf5",
+            "archive_commit": "894655d1a9f799fe34bde0ab6890e796a5a9a0e2",
+            "released": "2021-04-16T19:15:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

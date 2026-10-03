@@ -1,0 +1,55 @@
+{
+    "package": "migratetoflarum/vbulletin-redirects",
+    "upstream": "https://github.com/migratetoflarum/vbulletin-redirects",
+    "packagistUrl": "https://packagist.org/packages/migratetoflarum/vbulletin-redirects",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7d55c34210c04261b0b5e149c1993feaf1f7478f",
+            "archive_commit": "bedf647991bb3f369fd2b8edbd4adbf06bd08319",
+            "released": "2018-04-03T23:52:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e4e4cb1bb6f97d838139241180bf8ca5e95b97fa",
+            "archive_commit": "c1b45229fbc80e57bbe242c4ee6ed79ff103e9fc",
+            "released": "2018-04-05T00:56:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "4325c7a709d14cfd89c962b2d831ab36dc996bd8",
+            "archive_commit": "0e6847cbf70e906e69f6694784b0de223e157006",
+            "released": "2018-04-05T01:45:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "85591dcfa59eb568778b13b49f05b025939c64f4",
+            "archive_commit": "377b02717064225b2b94665bc00ce1910137b541",
+            "released": "2018-11-29T14:49:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

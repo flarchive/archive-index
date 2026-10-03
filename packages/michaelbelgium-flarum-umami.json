@@ -1,0 +1,19 @@
+{
+    "package": "michaelbelgium/flarum-umami",
+    "upstream": "https://github.com/MichaelBelgium/flarum-umami",
+    "packagistUrl": "https://packagist.org/packages/michaelbelgium/flarum-umami",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e9f4f0d08b969c529ac10d286adb4c58c40e7232",
+            "archive_commit": "1d386a9b82e459f4ed194059645bcabe36a21c1f",
+            "released": "2024-06-29T21:14:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT-Modern-Variant",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

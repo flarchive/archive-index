@@ -1,0 +1,31 @@
+{
+    "package": "mickmelon/flarum-ext-coloured-usernames",
+    "upstream": "https://github.com/MickMelon/flarum-ext-coloured-usernames",
+    "packagistUrl": "https://packagist.org/packages/mickmelon/flarum-ext-coloured-usernames",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "7d6195987a425ab2769b078afd8405cdff148c50",
+            "archive_commit": "9674d63728a53292a2285e8223dc8a698d4a74d4",
+            "released": "2019-12-30T15:23:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "151f238d824c87afbc18eb8b38f7bffa4e68ce84",
+            "archive_commit": "8d7aa0b51095ac19aaddd2e7bc27c3163544c682",
+            "released": "2021-07-20T19:34:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

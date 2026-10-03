@@ -1,0 +1,31 @@
+{
+    "package": "migratetoflarum/itemlist-order",
+    "upstream": "https://github.com/migratetoflarum/itemlist-order",
+    "packagistUrl": "https://packagist.org/packages/migratetoflarum/itemlist-order",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "584fa281018c78b4dea6d72df5e3b2f8d0b94410",
+            "archive_commit": "aaf9d8b66fec828ce3daa4a50eeac5d9f91e51d2",
+            "released": "2019-06-23T22:09:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.0-beta.2",
+            "tag": "archive/v0.1.0-beta.2",
+            "upstream_commit": "0d30795e77673688453aeaaf5ae8d5c030a248fd",
+            "archive_commit": "ec0ef7a476d019eccb6664f5beac080b72fe5548",
+            "released": "2019-06-30T18:41:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

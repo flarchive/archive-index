@@ -1,0 +1,31 @@
+{
+    "package": "miniflar/admin-notepad-widget",
+    "upstream": "https://github.com/miniflar/admin-notepad-widget",
+    "packagistUrl": "https://packagist.org/packages/miniflar/admin-notepad-widget",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6e5bab549632528f612ce6fe1251d7a293c1ab75",
+            "archive_commit": "8c4138faff279ad15d0472b4a4b5796f13e44c18",
+            "released": "2021-05-06T05:39:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "79147c6d9b3dab83985945d5135285f1f17121da",
+            "archive_commit": "353afd1eceac08ed22ad95f7d47a8f7cce654f4a",
+            "released": "2021-06-05T21:46:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

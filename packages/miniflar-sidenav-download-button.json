@@ -1,0 +1,79 @@
+{
+    "package": "miniflar/sidenav-download-button",
+    "upstream": "https://github.com/miniflar/sidenav-download-button",
+    "packagistUrl": "https://packagist.org/packages/miniflar/sidenav-download-button",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "78c2555f2b6b204329ebba1ff86a6b6d9b7f7971",
+            "archive_commit": "1637356f521b53860f9e430498c0ca8c42d08ed1",
+            "released": "2021-05-02T22:47:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "3009610dd730cb57b89741e5d7ae27bd6d060868",
+            "archive_commit": "87066cc2e52d92d385ff8960f2bf4214244a15a4",
+            "released": "2021-05-03T00:50:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "4259d30b29b4fd3dabd6ea9b99116ca4d11028dc",
+            "archive_commit": "702800b1a966cfd363ef1e65cf38901a4db8c16f",
+            "released": "2021-05-06T02:02:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "5f21a492503cf02484d2f5ceebe2e41f559fde0e",
+            "archive_commit": "0929e869ddaed27ebbc934b22b2e1e98b5747c24",
+            "released": "2021-05-08T16:16:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "de046de372e30fb5e06e721dd886578e835ab767",
+            "archive_commit": "2c9a16070bc67242a1aa285ce72fb288d25b3adf",
+            "released": "2021-06-05T22:48:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "9d136091b7bcb6b6e86d6532aa0ccc080f1ff56f",
+            "archive_commit": "ce43330039fc731a07d4298e6a1600a1f0f9aa6e",
+            "released": "2021-08-06T01:33:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
