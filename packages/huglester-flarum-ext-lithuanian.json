@@ -1,0 +1,43 @@
+{
+    "package": "huglester/flarum-ext-lithuanian",
+    "upstream": "https://github.com/huglester/flarum-ext-lithuanian",
+    "packagistUrl": "https://packagist.org/packages/huglester/flarum-ext-lithuanian",
+    "versions": [
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "f60951b99bde44f8ab38b8ecb1d85001004c4944",
+            "archive_commit": "78de51024c83ae96e010cbd65703527bfb9ad087",
+            "released": "2019-02-11T10:00:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "47def0dc7b7ba7478638267af8822256d350376c",
+            "archive_commit": "98086ed1bbe0a6074257100c000a1ed55ffa8d72",
+            "released": "2019-02-11T10:31:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.7",
+            "tag": "archive/v1.0.7",
+            "upstream_commit": "9942a95e6e0b7ad0993aa9d66964978517cff729",
+            "archive_commit": "ebbe5b36552a0f86ccaa3a112dac30eb27db93be",
+            "released": "2019-02-11T14:29:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "johnhearfield/flarum-ext-landing-page",
+    "upstream": "https://github.com/johnhearfield/flarum-ext-landing-page",
+    "packagistUrl": "https://packagist.org/packages/johnhearfield/flarum-ext-landing-page",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "3f25d2113eaddf4564ddc264f5ed714ccb008545",
+            "archive_commit": "22258a8eb7c34384acd01cd3d9cd34f8b5bb7405",
+            "released": "2016-06-10T09:12:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.2",
+            "tag": "archive/v0.1.0-beta.2",
+            "upstream_commit": "fe48a1bfd663796c8feef064dc76d75b95d065f0",
+            "archive_commit": "dede84b83b24017d6b51460099e9422c41f748a1",
+            "released": "2017-06-23T10:07:04+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "gitzaai/v2mobileui",
+    "upstream": "https://github.com/gitzaai/v2mobileui",
+    "packagistUrl": "https://packagist.org/packages/gitzaai/v2mobileui",
+    "versions": [
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "fda49ac7dcbdd58056a618d05878d121de5ae704",
+            "archive_commit": "767004027a9b9bbd18930dc0acda420376b0b3c0",
+            "released": "2026-05-04T02:48:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

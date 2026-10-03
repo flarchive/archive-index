@@ -1,0 +1,43 @@
+{
+    "package": "jsthon/flarum-ext-simplified-chinese",
+    "upstream": "https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese",
+    "packagistUrl": "https://packagist.org/packages/jsthon/flarum-ext-simplified-chinese",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": "archive/v0.1.0-beta.4",
+            "upstream_commit": "aebd06ac1a13e6286141938d198ead0823f0671f",
+            "archive_commit": "c3cf2f8ac1db6f0fb3989d2b68f9fd6913138136",
+            "released": "2015-12-01T07:46:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "archive/v0.1.0-beta.5",
+            "upstream_commit": "3b2ae7142f77b0eda343d0d25553d3f2bfe20976",
+            "archive_commit": "8e4829710d3b6fb2cae1eee2097b069680f2f8d4",
+            "released": "2016-04-09T10:34:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": "archive/v0.1.0-beta.7",
+            "upstream_commit": "d61c54219caa8a121f07e8893e4f1a8cea7437f5",
+            "archive_commit": "9a0a211f02a449078b21e178c51816f1e35e480d",
+            "released": "2017-08-03T13:29:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "justoverclock/best-answer-badge",
+    "upstream": "https://github.com/justoverclockl/best-answer-badge",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/best-answer-badge",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c0ca0af3f20458cda095759ad7795adbb0c49af2",
+            "archive_commit": "61cbbd62e3d3b63eebd53e67d184ec1c35dc90f6",
+            "released": "2022-07-23T09:47:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

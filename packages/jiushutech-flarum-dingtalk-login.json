@@ -1,0 +1,43 @@
+{
+    "package": "jiushutech/flarum-dingtalk-login",
+    "upstream": "https://github.com/jiushutech/flarum-dingtalk-login",
+    "packagistUrl": "https://packagist.org/packages/jiushutech/flarum-dingtalk-login",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "90784a69c562f82052b60e4eebf1135552a5aeb3",
+            "archive_commit": "70cedf90c0bd31ef79ac0b2c60320eae5abeb43d",
+            "released": "2026-02-02T21:35:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "a8f305d207f9b581533d593ee5d6defad22006ed",
+            "archive_commit": "bc7088962294779d3e90e3b49418fdfa68b4709b",
+            "released": "2026-02-04T19:16:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "f68c106f8c7db70d36ef25453e3bbfa8b89794ed",
+            "archive_commit": "999efcec3268874793d538e2dde3cf7de31f7e51",
+            "released": "2026-02-05T17:30:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "jiushutech/flarum-dingtalk-webhook",
+    "upstream": "https://github.com/jiushutech/flarum-dingtalk-webhook",
+    "packagistUrl": "https://packagist.org/packages/jiushutech/flarum-dingtalk-webhook",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "99887197694f88b459d414e6335fa5c38fe1db88",
+            "archive_commit": "3cb1bc022bcd08d52045dc65323d5a76bec8165f",
+            "released": "2026-02-01T21:35:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

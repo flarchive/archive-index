@@ -1,0 +1,19 @@
+{
+    "package": "justoverclock/be-active-user-indicator",
+    "upstream": "https://github.com/justoverclockl/active-user-indicator",
+    "packagistUrl": "https://packagist.org/packages/justoverclock/be-active-user-indicator",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "e53862a2b4ec3eefa45c4cd8887a5b247cb4262c",
+            "archive_commit": "98f176ccc100ca512e15c03e1516824d9a354317",
+            "released": "2023-03-19T00:34:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

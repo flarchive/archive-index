@@ -1,0 +1,19 @@
+{
+    "package": "hucoding/hucoding-rtl",
+    "upstream": "https://github.com/Hucoding-yc/hucoding-rtl",
+    "packagistUrl": "https://packagist.org/packages/hucoding/hucoding-rtl",
+    "versions": [
+        {
+            "version": "v1",
+            "tag": "archive/v1",
+            "upstream_commit": "6c4254c3c15b66e53e933b098681467e389bea36",
+            "archive_commit": "69e94b545c3b2e77f439e7ab15ed27e8a0263b0d",
+            "released": "2021-04-05T03:08:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

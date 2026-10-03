@@ -1,0 +1,19 @@
+{
+    "package": "huseyinfiliz/simple-dark-mode",
+    "upstream": "https://github.com/huseyinfiliz/simple-dark-mode",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/simple-dark-mode",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "3d33829878787fba16ce9e1f9a41ce49d7db11ac",
+            "archive_commit": "619906ded1ef5175c3d4dba5646ed00be2d00742",
+            "released": "2026-07-08T09:03:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
