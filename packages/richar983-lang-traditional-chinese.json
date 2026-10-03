@@ -1,0 +1,55 @@
+{
+    "package": "richar983/lang-traditional-chinese",
+    "upstream": "https://github.com/richar983/lang-traditional-chinese",
+    "packagistUrl": "https://packagist.org/packages/richar983/lang-traditional-chinese",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "365e61f5b864317f0ab621621b9377a6e3e7818d",
+            "archive_commit": "6f59c38185de617d92b622a70dad86599125a640",
+            "released": "2021-06-09T15:12:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "bf61aa3d54aff170c01e61a123984c6800aeb641",
+            "archive_commit": "0ae6cdeda7bc508fa9f9e7fad5e25e3f110e0d19",
+            "released": "2021-06-13T08:45:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "2c7f210a27613a63a70c9951019d261d11cf6b93",
+            "archive_commit": "871ea8d6e8f50ad0895a7dc15ff7d2dfbe0dff5c",
+            "released": "2021-06-13T08:56:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "048b7e63a2c5284d6421388c8d4c4f54722dffba",
+            "archive_commit": "de0702714df584793f93bd64828dcab2486a453c",
+            "released": "2021-07-18T18:43:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "richsheep/flarum-elasticsearch",
+    "upstream": "https://github.com/Richsheep/flarum-elasticsearch",
+    "packagistUrl": "https://packagist.org/packages/richsheep/flarum-elasticsearch",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "315455eabfa51664b8f80de59ae2e40d928db46b",
+            "archive_commit": "d31e5cb05da3093c159fd4dbe6864d6e18ce3c7e",
+            "released": "2020-04-14T14:16:05+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "fc93dc548c54dad2ad32eafb922d4ca290e7eed9",
+            "archive_commit": "fc1d3f9469c55b924e16205cbc13878240df5a7c",
+            "released": "2021-07-13T07:02:47+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "cf90c6170a23831d0c66eece64acc69c671986e4",
+            "archive_commit": "40b95268cac4120711d4d1154a308a833e07a8ff",
+            "released": "2021-07-13T07:06:31+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

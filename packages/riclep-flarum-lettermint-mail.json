@@ -1,0 +1,55 @@
+{
+    "package": "riclep/flarum-lettermint-mail",
+    "upstream": "https://github.com/RicLeP/flarum-lettermint-mail",
+    "packagistUrl": "https://packagist.org/packages/riclep/flarum-lettermint-mail",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "fa763d4fe4ef86ecb8caedd368b1712f3562a86b",
+            "archive_commit": "06a5009e19b03a1e33e5c6557cb8e2131ef86701",
+            "released": "2026-04-14T09:14:31+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "6f8f46d09e551a5fcffb92f7b1fb940b97bb5731",
+            "archive_commit": "c4ee38d984dd38f457ce13966ad5156371ce27ca",
+            "released": "2026-04-14T15:00:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6f8f46d09e551a5fcffb92f7b1fb940b97bb5731",
+            "archive_commit": "9671d713a469bb1e0b06a9646c75a240e432f8a5",
+            "released": "2026-04-14T15:00:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "263c6d73d8b55b4e86a4abd89316798363ef6279",
+            "archive_commit": "6f8f8565a6dd7959b98ab1b47e02af43b17a144b",
+            "released": "2026-04-14T15:03:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

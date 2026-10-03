@@ -1,0 +1,55 @@
+{
+    "package": "s9e/flarum-ext-autoimage",
+    "upstream": "https://github.com/s9e/flarum-ext-autoimage",
+    "packagistUrl": "https://packagist.org/packages/s9e/flarum-ext-autoimage",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f542acad72b9bc8ed89b0e7068c597a15918f426",
+            "archive_commit": "57d9303ac7b52b49b24f3688501be74ae3952d91",
+            "released": "2016-07-31T11:56:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "85ef581bf5b8c37bfb8af0a181cc30f8f7eb5cda",
+            "archive_commit": "d9bd1e3588b29a47fd407ab988a8a8f90fd5c16d",
+            "released": "2016-07-31T13:01:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "146cedc4a668155c4c408b6c48455d5e5810d0de",
+            "archive_commit": "2a08677583f248488e11b27718e43f731553c2fe",
+            "released": "2016-07-31T13:45:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "b2ba3ed05d4df975b7b0ac39094c7f42d2625159",
+            "archive_commit": "0951cb96501aa2f1b3328587bc6275a81704b8ce",
+            "released": "2017-12-27T12:20:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

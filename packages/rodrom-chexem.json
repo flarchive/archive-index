@@ -1,0 +1,43 @@
+{
+    "package": "rodrom/chexem",
+    "upstream": "https://github.com/rodrom/chexem",
+    "packagistUrl": "https://packagist.org/packages/rodrom/chexem",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "1ac1ad7a40760bd904f7b52fc69e82effaa99215",
+            "archive_commit": "3301530437b3ab93ff8e0f67d93c8c49bbb26d3c",
+            "released": "2026-06-11T19:15:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e73404e771f7a0772b06a6c472f245bffdbecb55",
+            "archive_commit": "9989caee4a0d11ebb3eaa81411f62e2da574942e",
+            "released": "2026-06-11T20:11:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "ce182f459a3a20d7d1bf9b3f1055c825e735b31c",
+            "archive_commit": "8e352105b42711fb0d7c645349f1e0df74925e44",
+            "released": "2026-06-12T09:25:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

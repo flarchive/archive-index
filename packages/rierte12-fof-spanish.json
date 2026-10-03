@@ -1,0 +1,19 @@
+{
+    "package": "rierte12/fof-spanish",
+    "upstream": "https://github.com/rierte12/FOF-spanish",
+    "packagistUrl": "https://packagist.org/packages/rierte12/fof-spanish",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "aeb799208db6ea428f9f0a611ac53eddec4d4cdb",
+            "archive_commit": "b9698ef249e2e68826ce6847a2d67475a176d4c4",
+            "released": "2021-02-14T20:15:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

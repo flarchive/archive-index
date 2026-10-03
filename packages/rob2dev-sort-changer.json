@@ -1,0 +1,43 @@
+{
+    "package": "rob2dev/sort-changer",
+    "upstream": "https://github.com/Rob2dev/flarum-sort-changer",
+    "packagistUrl": "https://packagist.org/packages/rob2dev/sort-changer",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4cd26278e941b9ccd0108c73982d3a5294be3f30",
+            "archive_commit": "238fe71a609c972153ffdde5d50c04d510f3ddbb",
+            "released": "2026-08-30T12:15:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "6605d631b80e501b422b0ae4e3571e577870dbf9",
+            "archive_commit": "6c7b30730b7326a6d3433b02c6364e7432ba4a44",
+            "released": "2026-08-30T13:45:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "a824c4899cbd0af20c7425f97b995e5316a17546",
+            "archive_commit": "60db5a3e567eb5f026ff9b4d92f1889ae3c805cb",
+            "released": "2026-08-30T13:56:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "retechvn/flarum-tele-noti",
+    "upstream": "https://github.com/hotroit-retech-vn/flarum-tele-noti",
+    "packagistUrl": "https://packagist.org/packages/retechvn/flarum-tele-noti",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9a9329111d66b659a961a2b5b427880db4ddc4fe",
+            "archive_commit": "6d3cc1fb9abcab509b732cf1a39c5af5a2230faf",
+            "released": "2024-11-08T08:54:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

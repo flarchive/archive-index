@@ -1,0 +1,19 @@
+{
+    "package": "romanshul/flarum-emoji",
+    "upstream": "https://github.com/romanshul/flarum-emoji",
+    "packagistUrl": "https://packagist.org/packages/romanshul/flarum-emoji",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b0e4cffb6d362615cf7befd59257f50a3c6f8619",
+            "archive_commit": "f96526464b269850fd9b04ed7b783440ebd1f709",
+            "released": "2022-09-29T06:46:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

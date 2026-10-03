@@ -1,0 +1,43 @@
+{
+    "package": "romanshul/flarum-editor",
+    "upstream": "https://github.com/romanshul/flarum-editor",
+    "packagistUrl": "https://packagist.org/packages/romanshul/flarum-editor",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "74f30ad1d1b42c8fb23b28cf0ae87ad85a18637b",
+            "archive_commit": "2804c04395f9b9e84936ebb9cd63e9f64a6b3ffa",
+            "released": "2022-09-21T11:29:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "37e74b9038718f73f85f034e75d73317aff55f78",
+            "archive_commit": "d30b09d2fcd1018324e40475d3cb59902b355b30",
+            "released": "2022-09-21T11:32:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "af7a5f81af7d44690cb8c1bc368bb8a3a8665e0e",
+            "archive_commit": "a8fd80de3cf9dba36a97e8d5bb3680b25bb5934f",
+            "released": "2022-09-21T11:35:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
