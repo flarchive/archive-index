@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-featured-discussions",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-featured-discussions",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-featured-discussions",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ad6f7e826f7651924b96d3a44c88c9b4d2e98cda",
+            "archive_commit": "6c9538526843adcc8e66305727ff7b1cec5c5ba9",
+            "released": "2021-09-22T22:20:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

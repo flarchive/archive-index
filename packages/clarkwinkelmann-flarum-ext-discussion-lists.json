@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-discussion-lists",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-discussion-lists",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-discussion-lists",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ed3fc3402531d505e2b859f5bee00225f8602fa7",
+            "archive_commit": "341ba8d7ee78984fff5a1a3403853c15430e8cc0",
+            "released": "2022-08-30T13:27:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "90f757c9f3bc22f971028660e7ef03327892f2b0",
+            "archive_commit": "28bdd1b09e153b309bd6e5129d8a48f74ee116b7",
+            "released": "2024-11-01T21:28:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

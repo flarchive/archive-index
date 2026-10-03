@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-clippy",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-clippy",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-clippy",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c0504768ced626bd3f22a59d581b9636e7a0d0ce",
+            "archive_commit": "d08623febf1ff45db06d488c85de08a336d3f22b",
+            "released": "2021-03-28T19:45:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9051618df41d6e90532c5baec68e2d818f65f70c",
+            "archive_commit": "bcb405860f9dca2fae7e8d13d5ad46b0e72b8f50",
+            "released": "2021-06-11T02:26:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

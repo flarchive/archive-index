@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-editable-user-attributes",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-editable-user-attributes",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-editable-user-attributes",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ee804792f932267229c5524742e1a74b6fd932cd",
+            "archive_commit": "aa4d5a60010ea4c38227ffd64704d24a1215872b",
+            "released": "2022-04-19T14:00:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

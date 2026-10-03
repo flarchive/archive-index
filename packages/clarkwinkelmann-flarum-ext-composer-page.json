@@ -1,0 +1,43 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-composer-page",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-composer-page",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-composer-page",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c62fb66f5e6bfe5b11504c7dd9743a467c0b4d10",
+            "archive_commit": "e6c07828823f5c86273352970d1965ae2e53fbdd",
+            "released": "2022-09-08T00:57:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "210ba727f293b7a621f4b9ad4eef0a17e15ca670",
+            "archive_commit": "83ce32353871b10f45d71a1364e3df96d9a1d4b1",
+            "released": "2023-08-23T22:36:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "8660ee10ec261a84ab79743f94d43698591173c4",
+            "archive_commit": "02aca76ee39bcc3dd2f7d244161d815c36a7614e",
+            "released": "2023-10-02T20:37:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

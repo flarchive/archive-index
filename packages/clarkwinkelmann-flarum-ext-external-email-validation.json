@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-external-email-validation",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-external-email-validation",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-external-email-validation",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9ec889bea2f8c31681237c9ab49f2b5dd688c74d",
+            "archive_commit": "44f7bc093d2668282328b34aa5064ef4c095f54b",
+            "released": "2021-06-21T15:03:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

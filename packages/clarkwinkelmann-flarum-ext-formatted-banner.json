@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-formatted-banner",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-formatted-banner",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-formatted-banner",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e2dd043d88d81bc3384f6ee625adae1de3cb49ea",
+            "archive_commit": "113592b8973a2a45808ec7cb5a18d0645932d724",
+            "released": "2022-07-04T10:06:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

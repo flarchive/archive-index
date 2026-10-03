@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-discussion-open-position",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-discussion-open-position",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-discussion-open-position",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d2f5ee6047df9ac7a9ac58ce7ec26313b2bbac32",
+            "archive_commit": "4e5b6b0777aa0b385d314ee047baa4d8cd2c666c",
+            "released": "2022-07-04T10:10:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "d417d6781fd7d31ad51dc2bcccc2ef3069e4e8fc",
+            "archive_commit": "c3fdab92d551c26ed5cb8da7ca36f5fd3497077b",
+            "released": "2022-12-05T22:34:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

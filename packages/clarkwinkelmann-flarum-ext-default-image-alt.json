@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-default-image-alt",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-default-image-alt",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-default-image-alt",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "28adcf6a82844189c0931d263d46d9aa3d70c965",
+            "archive_commit": "674f7130658e5aaf2a8785ef26c4efc026723a48",
+            "released": "2022-04-14T00:38:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0316157a95e67edafaa93ab8337e82efde757eee",
+            "archive_commit": "311b766880036ab449b28c2f5fdfcfd66876c5f1",
+            "released": "2022-04-14T00:42:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

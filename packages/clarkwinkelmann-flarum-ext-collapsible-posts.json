@@ -1,0 +1,43 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-collapsible-posts",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-collapsible-posts",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-collapsible-posts",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1458451c89844d059139389d0cb433c10b9c7cf7",
+            "archive_commit": "3718f95ae78a56bcf916bb68ad573096eb4aaeeb",
+            "released": "2021-11-17T18:43:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "138461185152ccf5f6751d39061eec8c53ed250e",
+            "archive_commit": "b72d5582f0cc2d9b874bd9f80bc2ed15e42b4f53",
+            "released": "2024-02-05T17:28:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "77ae61bab18370e7b3a1aec9fd13d48d45e874e1",
+            "archive_commit": "d202cee1215f66b5ba5afccf38b86a4af6fec1a1",
+            "released": "2024-08-07T17:41:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

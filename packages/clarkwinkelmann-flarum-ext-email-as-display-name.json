@@ -1,0 +1,55 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-email-as-display-name",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-email-as-display-name",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-email-as-display-name",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "212e9f031e1f97f8d9808d60bb8ecfe7b5f002bb",
+            "archive_commit": "6e1ef802209ea8e741fef45c74105ebb1dc51439",
+            "released": "2020-01-22T22:13:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "52ccba58a547bdf0215b3429359aead515f606fd",
+            "archive_commit": "eeba6c3f2f8fb317fe01b761eaf72fda18ecf044",
+            "released": "2020-03-10T21:45:10+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "a69af096b8e377fb5fc6059bc8cf3702a45b19af",
+            "archive_commit": "0fd29b380067bc60bf7cd49923aa23e565ea0c04",
+            "released": "2021-04-16T17:19:34+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "e67dac26ef99fe0ab61b29693b61abb29b98deab",
+            "archive_commit": "8d418416c4b69a5addf2bc9b3b3c5c386904a5ce",
+            "released": "2021-06-17T23:10:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-email-whitelist",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-email-whitelist",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-email-whitelist",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f505908af11ca6e93be98c08161ca75051f42dad",
+            "archive_commit": "ccf33e02ecf9e24568d442d7bfec61ca6d3adb74",
+            "released": "2021-08-01T15:35:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

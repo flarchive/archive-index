@@ -1,0 +1,31 @@
+{
+    "package": "clarkwinkelmann/flarum-ext-colorful-borders",
+    "upstream": "https://github.com/clarkwinkelmann/flarum-ext-colorful-borders",
+    "packagistUrl": "https://packagist.org/packages/clarkwinkelmann/flarum-ext-colorful-borders",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "dc3bc5d30dee1befba7cf98311929d6cadfdaa7a",
+            "archive_commit": "a084f8e1554ee1e8f545ef01e8b6d2c5c292b01d",
+            "released": "2020-04-01T01:40:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "885ba9bfb5b0c61d45134e8c2304586c6d5e2aac",
+            "archive_commit": "d2888feaa77bbd9a6c9501048c992eb0c5a18b1d",
+            "released": "2022-04-01T17:16:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
