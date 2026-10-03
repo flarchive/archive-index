@@ -1,0 +1,55 @@
+{
+    "package": "peopleinside/flarum-ext-admin-css",
+    "upstream": "https://github.com/PeopleInside/flarum-ext-admin-css",
+    "packagistUrl": "https://packagist.org/packages/peopleinside/flarum-ext-admin-css",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "64d6b22d20600f543b0a1d25028d681c04f32e00",
+            "archive_commit": "3321ee731551b59d5769efb05d38e429b7a82dc3",
+            "released": "2026-08-24T18:54:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "a89d45362b793de8a059c5ad07d09c588a421e12",
+            "archive_commit": "c8ae933417db52a266dee2d7d4bae5b89e16c7dd",
+            "released": "2026-08-24T19:08:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "e0d6ccad8a1a7285b5c5c96c5d3e9d35d174136e",
+            "archive_commit": "72569ae44faa457472d9c8f002860f3b3fcc2ced",
+            "released": "2026-08-24T19:36:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "2b15f725c048a9b8236270fa154a1974bb8caed9",
+            "archive_commit": "f7e38eb9e02a1be1625080b4f816b768e8a9d685",
+            "released": "2026-09-29T08:17:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

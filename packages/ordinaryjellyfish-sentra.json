@@ -1,0 +1,115 @@
+{
+    "package": "ordinaryjellyfish/sentra",
+    "upstream": "https://github.com/OrdinaryJellyfish/sentra",
+    "packagistUrl": "https://packagist.org/packages/ordinaryjellyfish/sentra",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "95c219dc9cfcb6523d3d399402154502d2b19e52",
+            "archive_commit": "22025eb043d19a930ddbdb109841b06bf0791469",
+            "released": "2025-02-17T09:39:01+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-or-later",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "41fab13c1daddb43b86995c4650fec14361fb10d",
+            "archive_commit": "f44dd360a239a3383ebc142caf08208bc31613ac",
+            "released": "2025-02-17T13:11:19+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-or-later",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "2bb9ef14aa1279bc9b62108f43de61ee41d7f613",
+            "archive_commit": "175ece00fbd6eab14825ead82cd4a45696de02da",
+            "released": "2025-03-05T15:47:50+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-or-later",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "4ed236f5169868e5f00a5d89af6c4b82d1904369",
+            "archive_commit": "6fc5916fecf28530c469d549fbb4929b1eabd3c2",
+            "released": "2025-03-05T16:33:22+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-or-later",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "2634c14d95e4b0be3ad9a7b9b87a617b6a7079b8",
+            "archive_commit": "5749aaa4fcf109f04f80bd916025bec071afac75",
+            "released": "2025-03-05T20:25:16+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-or-later",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.3",
+            "tag": "archive/v0.2.3",
+            "upstream_commit": "2b681d31d3cefd8f6462764376f6fc8082333629",
+            "archive_commit": "f317a4dd5c659288f36ad9a4c9e00254f52b5f82",
+            "released": "2025-03-05T20:39:10+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-or-later",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "00d74c5e47e223a27fc1c614fedc067325932ca7",
+            "archive_commit": "10cd2579c38044244d13f8add9a1ea8c04b1e062",
+            "released": "2025-03-05T21:33:57+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-or-later",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "archive/v0.3.1",
+            "upstream_commit": "8bb7d07b80a5f357e635bf4da21158e882a57c14",
+            "archive_commit": "b3613bdb32b2e4a1d4139c2a3bd2ee48c7824df9",
+            "released": "2025-03-06T18:08:35+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-or-later",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.2",
+            "tag": "archive/v0.3.2",
+            "upstream_commit": "d5470096fb7d3475b955d867eb1c7acc25d2711b",
+            "archive_commit": "7576a59c5704e4faa2901742ac0eb1cad65b5858",
+            "released": "2025-03-06T18:11:56+00:00",
+            "archived": "2026-10-03",
+            "license": "LGPL-3.0-or-later",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

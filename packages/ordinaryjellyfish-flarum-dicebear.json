@@ -1,0 +1,43 @@
+{
+    "package": "ordinaryjellyfish/flarum-dicebear",
+    "upstream": "https://github.com/OrdinaryJellyfish/flarum-dicebear",
+    "packagistUrl": "https://packagist.org/packages/ordinaryjellyfish/flarum-dicebear",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3b3f81ee465181f3a709bd36e20d113fe15d5888",
+            "archive_commit": "c63563627fd9bd35e72364203698be063f325f57",
+            "released": "2025-02-19T00:02:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "284e7e39975b80c52642960e5d1d72a83b0e77ac",
+            "archive_commit": "6e043ae0f03c57d39246e0f0f905d484a66d040e",
+            "released": "2025-02-19T17:35:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "dae6376957575838b639e87f2bec5521c915ce95",
+            "archive_commit": "006c4ee2721c43eb8bc64b8bad9a66cb264a6121",
+            "released": "2025-02-19T18:02:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

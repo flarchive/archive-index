@@ -1,0 +1,19 @@
+{
+    "package": "per3evere/flarum-ext-simplified-chinese",
+    "upstream": "https://github.com/persevereVon/flarum-ext-simplified-chinese",
+    "packagistUrl": "https://packagist.org/packages/per3evere/flarum-ext-simplified-chinese",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.6",
+            "tag": "archive/v0.1.0-beta.6",
+            "upstream_commit": "76c86caee824e7faa706ed3be7a2e1501e944ede",
+            "archive_commit": "1a327492ccc10b54dedf211bf722877acd363d68",
+            "released": "2016-11-10T07:31:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

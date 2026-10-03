@@ -1,0 +1,31 @@
+{
+    "package": "persianfla/rtl",
+    "upstream": "https://github.com/persianfla/rtl",
+    "packagistUrl": "https://packagist.org/packages/persianfla/rtl",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "656d644daae10da9a5e2d49ad3311083b407c3b3",
+            "archive_commit": "54a222ea9c1443a29234a57a9ded530998f6203b",
+            "released": "2019-03-31T11:00:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "8344f98e50e47d86044577afa8a4f04504dad621",
+            "archive_commit": "3ebd379954c05a6caebad5b98778d8cfcbef3755",
+            "released": "2019-08-21T05:02:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

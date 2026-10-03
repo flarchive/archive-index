@@ -1,0 +1,67 @@
+{
+    "package": "penguinseven/flarum-ext-simplified-chinese",
+    "upstream": "https://github.com/penguinseven/flarum-ext-simplified-chinese",
+    "packagistUrl": "https://packagist.org/packages/penguinseven/flarum-ext-simplified-chinese",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": "archive/v0.1.0-beta.4",
+            "upstream_commit": "aebd06ac1a13e6286141938d198ead0823f0671f",
+            "archive_commit": "6259ecc0aa1b74a7ccb2af6c62ba5d603c2c959e",
+            "released": "2015-12-01T07:46:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "archive/v0.1.0-beta.5",
+            "upstream_commit": "3b2ae7142f77b0eda343d0d25553d3f2bfe20976",
+            "archive_commit": "87418d3478100e450dfadc8c3bb3d287e0f4ed4e",
+            "released": "2016-04-09T10:34:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": "archive/v0.1.0-beta.7",
+            "upstream_commit": "d61c54219caa8a121f07e8893e4f1a8cea7437f5",
+            "archive_commit": "63fbfbf6f294fbd1bcfde6bc4c7c29074e15b523",
+            "released": "2017-08-03T13:29:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.9",
+            "tag": "archive/v0.1.0-beta.9",
+            "upstream_commit": "163331f28d490a5e05524df6d95c5d1898ce48d5",
+            "archive_commit": "d314d1826296c6e9459700be8af05750ef9669ae",
+            "released": "2019-09-12T02:52:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.9.3",
+            "tag": "archive/v0.1.0-beta.9.3",
+            "upstream_commit": "fa017e0b299047ef5edcbcf431b04d7d0851d6f8",
+            "archive_commit": "e796eeb1656e39f41b927eea9d0ccb590b68b6f8",
+            "released": "2021-07-07T05:46:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

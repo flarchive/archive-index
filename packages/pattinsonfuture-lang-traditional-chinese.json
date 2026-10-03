@@ -1,0 +1,43 @@
+{
+    "package": "pattinsonfuture/lang-traditional-chinese",
+    "upstream": "https://github.com/pattinsonfuture/lang-traditional-chinese",
+    "packagistUrl": "https://packagist.org/packages/pattinsonfuture/lang-traditional-chinese",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "365e61f5b864317f0ab621621b9377a6e3e7818d",
+            "archive_commit": "82fe30b290b1d6f6cdb6a08b5ab5658d85769aad",
+            "released": "2021-06-09T15:12:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "bf61aa3d54aff170c01e61a123984c6800aeb641",
+            "archive_commit": "8904f1d2973c2024ef8cafe35fd1781848f8c4d3",
+            "released": "2021-06-13T08:45:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "2c7f210a27613a63a70c9951019d261d11cf6b93",
+            "archive_commit": "18244dc6b85b4a39810e4b90aed4cf459b5f1347",
+            "released": "2021-06-13T08:56:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

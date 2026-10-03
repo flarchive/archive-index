@@ -1,0 +1,31 @@
+{
+    "package": "oxid-support/sic-public-tag",
+    "upstream": "https://github.com/oxid-support/sic-public-tag",
+    "packagistUrl": "https://packagist.org/packages/oxid-support/sic-public-tag",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "62d950bb3f6807af547c033c8f4f4ca7eff4b60c",
+            "archive_commit": null,
+            "released": "2021-02-02T15:10:44+00:00",
+            "archived": null,
+            "license": "GPL-3.0-or-later",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1.0",
+            "tag": null,
+            "upstream_commit": "2aeb01b83a4c12203ec5b5da8f68cb37352df299",
+            "archive_commit": null,
+            "released": "2021-05-10T10:07:15+00:00",
+            "archived": null,
+            "license": "GPL-3.0-or-later",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "package": "peruguitar/flarum-ext-user-portrait",
+    "upstream": "https://github.com/Anexsoft/peruguitar-flarum-ext-user-portrait",
+    "packagistUrl": "https://packagist.org/packages/peruguitar/flarum-ext-user-portrait",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "ecf05c95a379fd7ed2222462e8a7a8358d8b8770",
+            "archive_commit": null,
+            "released": "2023-02-15T16:05:46+00:00",
+            "archived": null,
+            "license": "CC-BY-NC-ND-2.0",
+            "flarum": "^1.2.0",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "0d10a18c0b91df2c5423b6f665bf4d1bff02f3e7",
+            "archive_commit": null,
+            "released": "2023-02-15T23:24:20+00:00",
+            "archived": null,
+            "license": "CC-BY-NC-ND-2.0",
+            "flarum": "^1.2.0",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": null,
+            "upstream_commit": "81487791396c5783f82fb1d308da59c6c9c6a6da",
+            "archive_commit": null,
+            "released": "2023-02-16T04:05:24+00:00",
+            "archived": null,
+            "license": "CC-BY-NC-ND-2.0",
+            "flarum": "^1.2.0",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": null,
+            "upstream_commit": "bf9123038c3001f0000248fed338ce1fc5d4e404",
+            "archive_commit": null,
+            "released": "2023-02-16T14:18:28+00:00",
+            "archived": null,
+            "license": "CC-BY-NC-ND-2.0",
+            "flarum": "^1.2.0",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "7f007653a921a003d2c22556ec58af967b189251",
+            "archive_commit": "e1b07c8ea6b978f02cd86504d0e879a8becddae4",
+            "released": "2023-02-17T13:24:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

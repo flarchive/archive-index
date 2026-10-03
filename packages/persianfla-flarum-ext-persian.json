@@ -1,0 +1,19 @@
+{
+    "package": "persianfla/flarum-ext-persian",
+    "upstream": "https://github.com/persianfla/flarum-ext-persian",
+    "packagistUrl": "https://packagist.org/packages/persianfla/flarum-ext-persian",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "38ebe5dc24be598a653eda1bc14212c51897f310",
+            "archive_commit": "6799d2a2ded95cb7e3e99123e240145f88ee1cff",
+            "released": "2019-03-30T08:36:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
