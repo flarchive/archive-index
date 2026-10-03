@@ -1,0 +1,19 @@
+{
+    "package": "ffans/community-notes",
+    "upstream": "https://github.com/FFans/community-notes",
+    "packagistUrl": "https://packagist.org/packages/ffans/community-notes",
+    "versions": [
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "a648bc8d7176b88346bdb17d2d373548f00ab2a6",
+            "archive_commit": "84a05e325d2cf96e1e6f0718b1bc42422be407af",
+            "released": "2026-09-29T12:08:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

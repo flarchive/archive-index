@@ -1,0 +1,55 @@
+{
+    "package": "ffans/ip-location",
+    "upstream": "https://github.com/FFans/ip-location",
+    "packagistUrl": "https://packagist.org/packages/ffans/ip-location",
+    "versions": [
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "50b1c8fa05c95bf4221bcaa0d41eeb87fee1863f",
+            "archive_commit": "66bc874e014d4cfd50a85b3f9ce4c974856bf47a",
+            "released": "2026-08-27T14:47:02+00:00",
+            "archived": "2026-10-03",
+            "license": "(MIT AND Apache-2.0)",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.2",
+            "tag": "archive/v2.0.0-beta.2",
+            "upstream_commit": "0dfb5d55948674d691dc01c5618b679062f9963c",
+            "archive_commit": "8321efdfc799968563145f277ff9d3255526a1cf",
+            "released": "2026-08-27T15:09:34+00:00",
+            "archived": "2026-10-03",
+            "license": "(MIT AND Apache-2.0)",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.3",
+            "tag": "archive/v2.0.0-beta.3",
+            "upstream_commit": "92ca47e754052ce5b2f25a9681d33ee27790f002",
+            "archive_commit": "2dc312565ab9ea345db8fa24891da530ac077d53",
+            "released": "2026-09-09T13:29:43+00:00",
+            "archived": "2026-10-03",
+            "license": "(MIT AND Apache-2.0)",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.4",
+            "tag": "archive/v2.0.0-beta.4",
+            "upstream_commit": "a4f4d8d44d792b196a6176f1ab65c4996dedb0cf",
+            "archive_commit": "942466249db760f1cc3afa7b72df7ab1f54bad44",
+            "released": "2026-09-09T17:07:12+00:00",
+            "archived": "2026-10-03",
+            "license": "(MIT AND Apache-2.0)",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

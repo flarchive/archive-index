@@ -1,0 +1,43 @@
+{
+    "package": "fixer112/flarum-frontpage",
+    "upstream": "https://github.com/fixer112/flarum-frontpage",
+    "packagistUrl": "https://packagist.org/packages/fixer112/flarum-frontpage",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "42669b48be69ee2f18cc86411208fcc9f002ecbd",
+            "archive_commit": "94432005fe144b661a8235982f5568361b9811a0",
+            "released": "2018-05-02T08:07:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "8faa31822e6a1d811605565ae258193357cdae30",
+            "archive_commit": "7eac5ad79c8ae474ccaa76739c5d87e7e1e5b10a",
+            "released": "2018-05-02T19:36:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "0aacf95ca2bed6069d33305c900761952047a1b0",
+            "archive_commit": "6b9a9efd07ec5de2239fb7a48d9593bbd2f9c75c",
+            "released": "2018-05-09T12:10:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

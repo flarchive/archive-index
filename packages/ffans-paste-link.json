@@ -1,0 +1,19 @@
+{
+    "package": "ffans/paste-link",
+    "upstream": "https://github.com/FFans/paste-link",
+    "packagistUrl": "https://packagist.org/packages/ffans/paste-link",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "89c24c6573d22143ae2acd8aa3434f5e72893761",
+            "archive_commit": "a319c8a52d519cbe6e6838f57022844e82a07e7b",
+            "released": "2026-09-30T11:01:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

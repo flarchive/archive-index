@@ -1,0 +1,55 @@
+{
+    "package": "flagrow/affiliation-links",
+    "upstream": "https://github.com/flagrow/affiliation-links",
+    "packagistUrl": "https://packagist.org/packages/flagrow/affiliation-links",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0684d2861fe254e74eef59e06394a4e7f5d2443b",
+            "archive_commit": "631effd10d2dc99daf575ed4cdfc0948cb491a89",
+            "released": "2018-05-23T12:26:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "cf96653fb15a68356ece4d69046cc9d2c1cb538e",
+            "archive_commit": "9e372222ce71b5fa3debe6cc2961d0a07f4ec2ee",
+            "released": "2018-05-23T12:50:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "7f5e758e2e054c860f3f93e567221c9411edf02e",
+            "archive_commit": "395b2a4d9a14a8ee5e31796eb949f60f5388b2b5",
+            "released": "2019-02-18T13:04:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "7fb230cdebf28381bab94359da73bb7d6f01ee56",
+            "archive_commit": "26ddacf1344328db35f975157f4546f03842b278",
+            "released": "2019-11-01T14:47:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 < 0.1.0-beta.11",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

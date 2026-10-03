@@ -1,0 +1,31 @@
+{
+    "package": "ffans/link-guard",
+    "upstream": "https://github.com/FFans/link-guard",
+    "packagistUrl": "https://packagist.org/packages/ffans/link-guard",
+    "versions": [
+        {
+            "version": "v1.0.0-beta.1",
+            "tag": "archive/v1.0.0-beta.1",
+            "upstream_commit": "26499e7f6e65963a84b74ca61690dd242e6cdd2e",
+            "archive_commit": "9cac1280de719c8dd4b2012134d7eb4f147fd9af",
+            "released": "2026-09-26T15:16:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "964221e8d23d2b8e431f18eef3c31409835a3eef",
+            "archive_commit": "15fda45b92d35c457327c201f0c6a5677d14306a",
+            "released": "2026-09-26T15:17:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

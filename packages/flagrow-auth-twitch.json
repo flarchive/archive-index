@@ -1,0 +1,19 @@
+{
+    "package": "flagrow/auth-twitch",
+    "upstream": "https://github.com/flagrow/auth-twitch",
+    "packagistUrl": "https://packagist.org/packages/flagrow/auth-twitch",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "63a2271274ad7d9ae93474f052242d6f8e656c8e",
+            "archive_commit": "b190b56b91c8cbede77789231a6824338d4c3a93",
+            "released": "2018-02-06T15:38:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

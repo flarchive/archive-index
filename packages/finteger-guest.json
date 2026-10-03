@@ -1,0 +1,43 @@
+{
+    "package": "finteger/guest",
+    "upstream": "https://github.com/finteger/guest",
+    "packagistUrl": "https://packagist.org/packages/finteger/guest",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "9f848826ed24ffae5cd7954c85fdf9077dd79932",
+            "archive_commit": null,
+            "released": "2023-03-10T17:33:31+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.0",
+            "tag": null,
+            "upstream_commit": "40adefef047f1e2eb31df3fb47e53232ce30197f",
+            "archive_commit": null,
+            "released": "2023-03-10T17:23:02+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.3",
+            "tag": null,
+            "upstream_commit": "a568e027ebe1761cadfe9965c23d3bb78d57f712",
+            "archive_commit": null,
+            "released": "2023-03-10T17:53:53+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

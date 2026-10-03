@@ -1,0 +1,79 @@
+{
+    "package": "ffans/clipboardjs",
+    "upstream": "https://github.com/FFans/clipboardjs",
+    "packagistUrl": "https://packagist.org/packages/ffans/clipboardjs",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.15",
+            "tag": "archive/v0.1.0-beta.15",
+            "upstream_commit": "9a889c92f13d2cfd3b6602668ee86ab4c42bbf00",
+            "archive_commit": "5704d8870340c9f833b597ee600ce40f0526838b",
+            "released": "2021-03-11T05:08:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.15.3",
+            "tag": "archive/v0.1.0-beta.15.3",
+            "upstream_commit": "b4a09da0b9ca7138fd31f1e6f3abc4e093f40ba6",
+            "archive_commit": "32654272dd59caaa575d1761798a8be7977b4138",
+            "released": "2021-03-11T14:55:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.16",
+            "tag": "archive/v0.1.0-beta.16",
+            "upstream_commit": "d31a681f905f0231319f65e717c275e7767830e6",
+            "archive_commit": "e72e90e2ee9054ab8924f9a9c65e8186c04301a4",
+            "released": "2021-03-16T13:22:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.16.1",
+            "tag": "archive/v0.1.0-beta.16.1",
+            "upstream_commit": "e8f07bc04937933a9765ff1c8fbea41a940948be",
+            "archive_commit": "23d4ca14027906f7eb93527743eec9f5568ed319",
+            "released": "2021-04-04T06:59:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.16 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1ce4e1daeaa4e92e4afbb5d960825fe6ca1893a6",
+            "archive_commit": "71f4191722458a508b757a2076d86a46d194d0a8",
+            "released": "2021-08-21T06:44:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "df4cfe88417429b7fb61b34102306c13f62c7ffd",
+            "archive_commit": "70247aeba64e55a66761b5ef175ce96e2b36487f",
+            "released": "2026-08-30T11:52:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

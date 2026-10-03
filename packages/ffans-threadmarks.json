@@ -1,0 +1,55 @@
+{
+    "package": "ffans/threadmarks",
+    "upstream": "https://github.com/FFans/threadmarks",
+    "packagistUrl": "https://packagist.org/packages/ffans/threadmarks",
+    "versions": [
+        {
+            "version": "v1.0.0-beta.1",
+            "tag": "archive/v1.0.0-beta.1",
+            "upstream_commit": "99724b89792cc96bb4b887d34a1391ac29d7d4b1",
+            "archive_commit": "f615f18375659abb16ba9edd146ab377aad6725d",
+            "released": "2026-09-14T08:09:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.19",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0-beta.2",
+            "tag": "archive/v1.0.0-beta.2",
+            "upstream_commit": "9eb40127a86e94e1f44265666f1a2c272128819d",
+            "archive_commit": "94a837de16e0fec6c6a5b2c2f949cc8fdf8c62b0",
+            "released": "2026-09-16T14:05:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.19",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "f9865f583839679819a7e74017617c3fb4a2519d",
+            "archive_commit": "76e51a842e09a1407be372613732e08337159562",
+            "released": "2026-09-14T08:08:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0-beta.2",
+            "tag": "archive/v2.0.0-beta.2",
+            "upstream_commit": "f0bfb4295d1cbc536ecdedfa82a5286cecd933c4",
+            "archive_commit": "749073d396b1baf1ebd70e349723e4872542d1b7",
+            "released": "2026-09-16T14:24:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

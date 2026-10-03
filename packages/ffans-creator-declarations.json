@@ -1,0 +1,79 @@
+{
+    "package": "ffans/creator-declarations",
+    "upstream": "https://github.com/FFans/creator-declarations",
+    "packagistUrl": "https://packagist.org/packages/ffans/creator-declarations",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "67ce04b867ace6b5f2b3c9633cf7f5febf097674",
+            "archive_commit": "1c106e34ab87b789813fd1c9f613db9679873fae",
+            "released": "2026-08-25T11:53:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "3d1e71cfaab7f317b0c3c46c2a5c19684d0591e1",
+            "archive_commit": "49a72c7966d6a2dd529926baddb68c2ad0de2553",
+            "released": "2026-08-29T08:39:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "72c5c88239b1a0393f30fcabe07fef44205f1ff2",
+            "archive_commit": "cd1662b81be4e2d78fdba67a8d929d0ceb217448",
+            "released": "2026-08-23T12:38:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "2f5157b1cc92b5b1ac84ff92a1be8f02133ce1de",
+            "archive_commit": "3cd103eccd40a90b794849b9f32902b71f21b558",
+            "released": "2026-08-23T13:58:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "a9a2a4b64a921c8d32d02e0c3559c434e011e598",
+            "archive_commit": "59fc5674516e9fc58486cfe365e778c24e14b06e",
+            "released": "2026-08-25T05:45:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.3",
+            "tag": "archive/v0.2.3",
+            "upstream_commit": "a0e9ae2c1edea667b55fecda81ac9a8ee26268ee",
+            "archive_commit": "700d650c21ddb4fc68615f0fb24c1038fec96ca0",
+            "released": "2026-08-29T08:38:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

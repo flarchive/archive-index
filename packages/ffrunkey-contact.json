@@ -1,0 +1,19 @@
+{
+    "package": "ffrunkey/contact",
+    "upstream": "https://github.com/ffRunKey/contact",
+    "packagistUrl": "https://packagist.org/packages/ffrunkey/contact",
+    "versions": [
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "6ad7a993ae3c822ecd87ca7cb8933fa0e5d70704",
+            "archive_commit": "fdfa2117381156e6334b47ac8144919038d8e44b",
+            "released": "2019-04-12T09:52:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
