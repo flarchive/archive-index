@@ -1,0 +1,19 @@
+{
+    "package": "bek/flarum-ext-turkish",
+    "upstream": "https://github.com/XEngine/flarum-ext-turkish",
+    "packagistUrl": "https://packagist.org/packages/bek/flarum-ext-turkish",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "458045666fa48cf8c2e9c5da21e7b041daa29393",
+            "archive_commit": null,
+            "released": "2017-04-18T16:04:51+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

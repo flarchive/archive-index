@@ -1,0 +1,31 @@
+{
+    "package": "bilgehanars/packman",
+    "upstream": "https://github.com/bilgehanars/packman",
+    "packagistUrl": "https://packagist.org/packages/bilgehanars/packman",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "97aef3659e71d4bf50ead51bf17f09d4b58870d3",
+            "archive_commit": "19027c0b86701a907b853d994b63fdf6fa35233f",
+            "released": "2023-03-22T16:27:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "cc2be889c8e80d0dc41b70773af0a3df9e812c89",
+            "archive_commit": "396b0df0467b11b390b297c4cfe8421dd776b84f",
+            "released": "2023-03-23T20:31:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

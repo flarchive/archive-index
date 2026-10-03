@@ -1,0 +1,31 @@
+{
+    "package": "betterflarum/messenger",
+    "upstream": "https://github.com/betterflarum/messenger",
+    "packagistUrl": "https://packagist.org/packages/betterflarum/messenger",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "5a5d49a2b08ea78c3822b2fa991f9f6c1242b519",
+            "archive_commit": "7157b1fddebfb1e916d56eee4854745be54d961c",
+            "released": "2025-07-16T19:07:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "2db6e2b6f6d51f59bb59726b103805422b2addd9",
+            "archive_commit": "d06cc0ed05ab3bb11489c464ce90cb0ee6481ab0",
+            "released": "2025-07-16T20:00:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

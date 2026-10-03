@@ -1,0 +1,31 @@
+{
+    "package": "beeta-dev/flarum-ext-webm",
+    "upstream": "https://github.com/Beeta-dev/flarum-ext-webm",
+    "packagistUrl": "https://packagist.org/packages/beeta-dev/flarum-ext-webm",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "764e2fa90d4cd89bd0dea595535de0c16bcc4bb1",
+            "archive_commit": "76bad34cb8c4453495c80eaf7081c3557d343bcd",
+            "released": "2016-07-22T18:35:42+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "b0f3f4057c69de0e4baac139db13eecaa2730b2d",
+            "archive_commit": "5b6a328efc91c1c553683f8c932944ff1240fda2",
+            "released": "2016-07-22T20:22:38+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

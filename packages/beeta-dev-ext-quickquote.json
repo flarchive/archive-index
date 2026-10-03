@@ -1,0 +1,19 @@
+{
+    "package": "beeta-dev/ext-quickquote",
+    "upstream": "https://github.com/Beeta-dev/ext-quickquote",
+    "packagistUrl": "https://packagist.org/packages/beeta-dev/ext-quickquote",
+    "versions": [
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "5f7c01bd3297bae6854b550f16ab7b30a13a5bd8",
+            "archive_commit": "bf8f88c7ccb603e8d24ac85e9a92278ab4626572",
+            "released": "2016-10-16T22:52:33+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

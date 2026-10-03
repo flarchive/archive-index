@@ -1,0 +1,19 @@
+{
+    "package": "bepro/lang-polish",
+    "upstream": "https://github.com/bepropl/lang-polish",
+    "packagistUrl": "https://packagist.org/packages/bepro/lang-polish",
+    "versions": [
+        {
+            "version": "0.8.1.0",
+            "tag": "archive/v0.8.1.0",
+            "upstream_commit": "94dbcaa59de2827f3ccb1783a37434e6b88432b5",
+            "archive_commit": "5384e67b01ffbdd0175fcbe31141633f30ebfb6f",
+            "released": "2018-12-21T12:06:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

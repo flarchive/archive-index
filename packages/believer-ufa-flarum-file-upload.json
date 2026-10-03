@@ -1,0 +1,19 @@
+{
+    "package": "believer-ufa/flarum-file-upload",
+    "upstream": "https://github.com/believer-ufa/flarum-file-upload",
+    "packagistUrl": "https://packagist.org/packages/believer-ufa/flarum-file-upload",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": null,
+            "upstream_commit": "2435bb7b1bdfd4641072090235e7a9e2a828a472",
+            "archive_commit": null,
+            "released": "2016-06-03T05:45:45+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

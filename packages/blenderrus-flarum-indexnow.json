@@ -1,0 +1,19 @@
+{
+    "package": "blenderrus/flarum-indexnow",
+    "upstream": "https://github.com/BlenderRUS/flarum-indexnow",
+    "packagistUrl": "https://packagist.org/packages/blenderrus/flarum-indexnow",
+    "versions": [
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "c2936743171b0a74caf013cd6d89dacc3b7497bb",
+            "archive_commit": "4c630f98e45e6297f6a3208e7e6994c1c23718c3",
+            "released": "2026-09-27T22:20:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

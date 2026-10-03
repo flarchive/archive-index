@@ -1,0 +1,19 @@
+{
+    "package": "beeta-dev/ext-userinfo",
+    "upstream": "https://github.com/Beeta-dev/ext-userinfo",
+    "packagistUrl": "https://packagist.org/packages/beeta-dev/ext-userinfo",
+    "versions": [
+        {
+            "version": "0.3.3",
+            "tag": "archive/v0.3.3",
+            "upstream_commit": "46e21a5d5af0448cacef30ded2aed6e594eff07c",
+            "archive_commit": "434e951773b01813051e5a786768b79212480ab7",
+            "released": "2016-07-22T21:40:13+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

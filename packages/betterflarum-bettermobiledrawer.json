@@ -1,0 +1,19 @@
+{
+    "package": "betterflarum/bettermobiledrawer",
+    "upstream": "https://github.com/betterflarum/bettermobiledrawer",
+    "packagistUrl": "https://packagist.org/packages/betterflarum/bettermobiledrawer",
+    "versions": [
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "8eac5596016f97454fe1aa037561aa224d5b335c",
+            "archive_commit": "beefa052dfc835b57dae0fbe72039d1cd5b3dcbc",
+            "released": "2023-11-11T09:24:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

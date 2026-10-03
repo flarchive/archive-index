@@ -1,0 +1,31 @@
+{
+    "package": "berteltorp/danish",
+    "upstream": "https://github.com/berteltorp/Flarum-da-DK",
+    "packagistUrl": "https://packagist.org/packages/berteltorp/danish",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "cb39004bc5432db4b804fb4ea04ce6f803d49fdc",
+            "archive_commit": "ec0a33bdc144bf07f0171a29ca53c46677e44891",
+            "released": "2016-03-12T13:28:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "62e9b4ffb7b1b13ce451cdef21ee0372b373628c",
+            "archive_commit": "dabcbc54edf20b5f3093c63c3066ff56e2d606ff",
+            "released": "2016-05-07T18:55:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
