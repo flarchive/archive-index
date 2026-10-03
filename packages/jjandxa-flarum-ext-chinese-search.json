@@ -1,0 +1,139 @@
+{
+    "package": "jjandxa/flarum-ext-chinese-search",
+    "upstream": "https://github.com/jjandxa/flarum-ext-chinese-search",
+    "packagistUrl": "https://packagist.org/packages/jjandxa/flarum-ext-chinese-search",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "3b5b823450199c5417bf7007f55d9e6874bb7340",
+            "archive_commit": "310b5c25be038a8fc377f2e3bffe241e6e12dcc2",
+            "released": "2017-10-15T08:56:56+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.10",
+            "tag": "archive/v0.0.10",
+            "upstream_commit": "a0ee637a5f5e5103020072dfa3ca835c8f73057a",
+            "archive_commit": "88307d33edb718a7e26cdc68f53bb78c8548eda8",
+            "released": "2021-01-14T07:25:15+00:00",
+            "archived": "2026-10-03",
+            "license": "apache-2.0",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.11",
+            "tag": "archive/v0.0.11",
+            "upstream_commit": "31ee4e70e25f388d5dfa844d616c24da09e6cc87",
+            "archive_commit": "25e8b66bd41745d62c9c971acdb4bbb30526110d",
+            "released": "2021-01-22T07:01:57+00:00",
+            "archived": "2026-10-03",
+            "license": "apache-2.0",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "cc82f91bdaa48bbdf71c8f3cc10072d13eb486d3",
+            "archive_commit": "7b8ba7d79b0a3994f559057bcfd32113f4c39986",
+            "released": "2017-10-15T12:26:42+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "9913475ba174165d571bae7bce7a1717213d94bc",
+            "archive_commit": "ed8734d58ca3f75f15cd5bd32b36b578fd885f43",
+            "released": "2017-10-17T08:51:23+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "1e925605adbdeea1ee2ea9262cd977d06e7496d8",
+            "archive_commit": "64136abcd7a765cf0b253ba333478021fc6b46be",
+            "released": "2018-08-11T16:41:56+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.5",
+            "tag": "archive/v0.0.5",
+            "upstream_commit": "0e54b17745b07ebbc25d31bf19cdd4ba555b3ae8",
+            "archive_commit": "fafb580ff1a88e3c0bd565b12928b8f59eba5291",
+            "released": "2018-08-12T09:04:44+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.6",
+            "tag": "archive/v0.0.6",
+            "upstream_commit": "24401bce4701df40626959cc27bb5ba99614ffaa",
+            "archive_commit": "7d2ac52cf7071e7c244c8036fc9406a46a6c899d",
+            "released": "2018-08-12T10:41:41+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.7",
+            "tag": "archive/v0.0.7",
+            "upstream_commit": "ad80679c08fb2060ee41b7e8668f39639e401f4e",
+            "archive_commit": "4c37b5a2acc4904ed7116773dc7ece37952bda03",
+            "released": "2018-08-12T12:27:52+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.8",
+            "tag": "archive/v0.0.8",
+            "upstream_commit": "0ee6436c940987c376068c5e9fe4135f1bf8ed1d",
+            "archive_commit": "9e67646fd8ed8ae797dd706e132e6d0018ba6aa1",
+            "released": "2019-01-22T16:11:06+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.9",
+            "tag": "archive/v0.0.9",
+            "upstream_commit": "d579ce28a068faab3aa7e89c7e73d2a0eb98addd",
+            "archive_commit": "6bcfd869d36a4997215b18a84d96536542829241",
+            "released": "2019-12-29T13:50:54+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

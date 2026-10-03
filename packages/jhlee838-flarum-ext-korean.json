@@ -1,0 +1,31 @@
+{
+    "package": "jhlee838/flarum-ext-korean",
+    "upstream": "https://github.com/jhlee838/flarum-ext-korean",
+    "packagistUrl": "https://packagist.org/packages/jhlee838/flarum-ext-korean",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0851171ebd8a3e98b9c3d7bb9f98ac9b797565ad",
+            "archive_commit": "c5b415b73b5b062e6111b34f90b8d2d6e036fb8a",
+            "released": "2021-10-01T08:06:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "3587875e4f3c1684230c0e4cca69aab3454ec3e9",
+            "archive_commit": "5434eb1a389f090475a51d6cfca4f014be56d795",
+            "released": "2021-10-01T08:19:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

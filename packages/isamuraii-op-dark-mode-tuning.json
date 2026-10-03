@@ -1,0 +1,43 @@
+{
+    "package": "isamuraii/op-dark-mode-tuning",
+    "upstream": "https://github.com/iSamuraii/op-dark-mode-tuning",
+    "packagistUrl": "https://packagist.org/packages/isamuraii/op-dark-mode-tuning",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "09528cfd69b89b772aa1a8dc1b30fafb55eedb9c",
+            "archive_commit": "0eec855523a668cc7b789e242c1cd593ee0d87ae",
+            "released": "2021-03-07T12:14:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "fa48d412531e976afd72a76392e3e049fd0cd1aa",
+            "archive_commit": "6d3cdf29fa5e3d6fa71354aaeb6a8706f6a8d003",
+            "released": "2021-03-16T08:59:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.14",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "d603e85cb6a4355a16d70e0055158b655f801d50",
+            "archive_commit": "77f68101dca62c2dda5fba2a630db5a2e811da94",
+            "released": "2021-06-14T07:59:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "package": "issyrocks12/flarum-ext-users-list",
+    "upstream": "https://github.com/issyrocks12/flarum-ext-users-list",
+    "packagistUrl": "https://packagist.org/packages/issyrocks12/flarum-ext-users-list",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "dd8d6126ac57674963aa2d04c67eab873aec9956",
+            "archive_commit": "59ecaf32a83e0d50507697b48b187237f55640ae",
+            "released": "2016-08-18T14:27:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "ed9b1a02832fb00031ab1c0030b18071751464c4",
+            "archive_commit": "bd55c918b342be24c05494dc165f5bd7cbb8fb81",
+            "released": "2016-09-16T08:42:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "67c55c2181243717cc266434ececa984fe6ea102",
+            "archive_commit": "d5b9e9d8247fdca83af3544f0dcf3bdf2a9cdfc5",
+            "released": "2017-02-27T19:35:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "752248aa0d93d5548767d02ce70d2055c9ba6e5b",
+            "archive_commit": "1ff7ad5e0ed90978b1120025d282459c76019d5c",
+            "released": "2017-02-27T19:47:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "e01bcaf56dc3b62c14ae8c907748912178608632",
+            "archive_commit": "ccef724490124f9c279ec3f49bcc08377683363f",
+            "released": "2017-03-01T06:26:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "61995f8e8783b37cd30276dfba1a22a763596437",
+            "archive_commit": "258cf17d125dfccc193fe15f9461b57a6636765b",
+            "released": "2017-03-02T01:33:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "d86eacf9b44466db3b445eb9dcb3da5cb9072cb8",
+            "archive_commit": "f6e4c2093eb8f8fa598a1e4b27a2c7a5824f44df",
+            "released": "2017-03-03T19:43:22+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.2.1",
+            "tag": "archive/v0.2.2.1",
+            "upstream_commit": "959417c6ce15140b96891f8b24def54467f5f90a",
+            "archive_commit": "9a0821feea1da00d4d59ae931100940841edf16b",
+            "released": "2017-03-03T20:42:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

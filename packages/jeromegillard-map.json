@@ -1,0 +1,115 @@
+{
+    "package": "jeromegillard/map",
+    "upstream": "https://github.com/JeromeGillard/flarum-map",
+    "packagistUrl": "https://packagist.org/packages/jeromegillard/map",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "0710a23f53196602f7600c9ac1338a3e78f0d3e1",
+            "archive_commit": "fa8bff07e9199195b60adeb0020891a3f8349f44",
+            "released": "2022-10-08T18:15:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "3df4598758d6c0d5f87da4973e7ac774757ff41d",
+            "archive_commit": "46f38da110007f25a47d0029adbabc55001e6341",
+            "released": "2022-10-10T12:07:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "b37ad0633b0471e7663d1f21f1a4662298d702b6",
+            "archive_commit": "f114bccfda3f6686e8d882db3f4104de0ad3dd5e",
+            "released": "2022-10-11T19:14:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": null,
+            "upstream_commit": "d4cc9ec26bcf0365fb6b28c45a9c774d6357d466",
+            "archive_commit": null,
+            "released": "2022-10-31T22:01:40+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": null,
+            "upstream_commit": "cf15ea42ddcd8e196b27c74376f36a3cbfe6c74b",
+            "archive_commit": null,
+            "released": "2022-11-12T13:49:26+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": null,
+            "upstream_commit": "7f48588ea9d50842b6efce5dc706ce65042eb986",
+            "archive_commit": null,
+            "released": "2023-01-10T10:27:58+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.6",
+            "tag": null,
+            "upstream_commit": "075d31de9199f7486a6d60bcda7fd86bed64abc3",
+            "archive_commit": null,
+            "released": "2023-02-14T10:02:14+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.7",
+            "tag": null,
+            "upstream_commit": "467b190c7f9bac72437a8e5306279a7167805699",
+            "archive_commit": null,
+            "released": "2023-11-15T13:55:11+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.8.3",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.9",
+            "tag": null,
+            "upstream_commit": "f0d810a13beecd3014b586c438651f9c97df87e5",
+            "archive_commit": null,
+            "released": "2023-12-27T07:44:09+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.8.3",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

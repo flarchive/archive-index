@@ -1,0 +1,31 @@
+{
+    "package": "issyrocks12/flarum-ext-twofactor",
+    "upstream": "https://github.com/CDK2020/flarum-ext-twofactor",
+    "packagistUrl": "https://packagist.org/packages/issyrocks12/flarum-ext-twofactor",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "72959cee3bb1487c504593a602086165554a226d",
+            "archive_commit": "3bb7a1e2b9f14330da580551a4dec016f720cdab",
+            "released": "2017-03-20T05:08:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "cd706b43228d0168e1c6c73e87829428d21116b4",
+            "archive_commit": "fe5a6a7914cce2616f63f6d3e2a1b3191e8388c5",
+            "released": "2017-06-10T00:14:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

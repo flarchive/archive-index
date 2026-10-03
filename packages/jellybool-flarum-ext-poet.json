@@ -1,0 +1,43 @@
+{
+    "package": "jellybool/flarum-ext-poet",
+    "upstream": "https://github.com/JellyBool/flarum-ext-poet",
+    "packagistUrl": "https://packagist.org/packages/jellybool/flarum-ext-poet",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c1fbf5fbbe1ba28e8137109ca921e4b7229ed91c",
+            "archive_commit": "473cfe20622fcf0816d05451c5b848c80c5d221e",
+            "released": "2018-04-16T03:46:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "6dd44d1a0e4828bd5e68ebf0c1d05dd40955d805",
+            "archive_commit": "208dd26fd5ec4037cf6c005c2326d779e840125d",
+            "released": "2018-04-16T05:24:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "51570bad7fa4bc140a5c899bda743874e9053c11",
+            "archive_commit": "c268b602c2effc5eeaf3253a3ca7e91c35983fb2",
+            "released": "2018-04-16T08:03:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

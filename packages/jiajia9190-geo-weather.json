@@ -1,0 +1,19 @@
+{
+    "package": "jiajia9190/geo-weather",
+    "upstream": "https://github.com/jiajia9190/geo-weather",
+    "packagistUrl": "https://packagist.org/packages/jiajia9190/geo-weather",
+    "versions": [
+        {
+            "version": "1111",
+            "tag": "archive/v1111",
+            "upstream_commit": "fbe479509fae5c65501075a40213bd4898155bf3",
+            "archive_commit": "03fbf05beff1f6c1af11193524c6e73c0ab30c5c",
+            "released": "2022-12-10T11:33:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

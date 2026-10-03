@@ -1,0 +1,19 @@
+{
+    "package": "ithauaz/pages",
+    "upstream": "https://github.com/ithauaz/pages",
+    "packagistUrl": "https://packagist.org/packages/ithauaz/pages",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ad5bcf8e4543382453d282edd101cb23939a1adc",
+            "archive_commit": "8f015a1ed6530edb7f9cce5c6a686989e63a73c4",
+            "released": "2020-11-14T06:07:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

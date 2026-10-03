@@ -1,0 +1,31 @@
+{
+    "package": "jammerxd/tags",
+    "upstream": "https://github.com/jammerxd/tags",
+    "packagistUrl": "https://packagist.org/packages/jammerxd/tags",
+    "versions": [
+        {
+            "version": "v0.1.1-beta13",
+            "tag": "archive/v0.1.1-beta13",
+            "upstream_commit": "47c9ad5c7b7977ad58c4acf061bb1f1fd39ca456",
+            "archive_commit": "ea7d0db150386905b17035c27681f6e57d51239a",
+            "released": "2020-09-12T04:40:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2-beta13",
+            "tag": "archive/v0.1.2-beta13",
+            "upstream_commit": "c1b78469952b773586af435e92972838af83c8b1",
+            "archive_commit": "0ada2dc13fb1f89e871404e67da236bda90523eb",
+            "released": "2020-09-12T05:23:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

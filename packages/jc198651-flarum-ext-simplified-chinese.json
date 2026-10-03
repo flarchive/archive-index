@@ -1,0 +1,19 @@
+{
+    "package": "jc198651/flarum-ext-simplified-chinese",
+    "upstream": "https://github.com/jc198651/flarum-ext-simplified-chinese",
+    "packagistUrl": "https://packagist.org/packages/jc198651/flarum-ext-simplified-chinese",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.6",
+            "tag": "archive/v0.1.0-beta.6",
+            "upstream_commit": "693231eb13386948300a49957193118a46e02210",
+            "archive_commit": "f5ae8df062db249837ffd8dd8805f66d545608b3",
+            "released": "2016-12-27T07:44:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

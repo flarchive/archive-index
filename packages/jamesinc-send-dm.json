@@ -1,0 +1,79 @@
+{
+    "package": "jamesinc/send-dm",
+    "upstream": "https://github.com/jamesinc/send-dm",
+    "packagistUrl": "https://packagist.org/packages/jamesinc/send-dm",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "2a6fdb511f266626e44ddc1b9dde72fc8b70b1a1",
+            "archive_commit": "25818c4700387db39144dcd86659b4bd373bc14c",
+            "released": "2023-11-13T05:50:51+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "e9639017790982416916da710e8bdefa1558d14f",
+            "archive_commit": "f2a2ff1c1051db586b3814e0caa91c4c07b976f9",
+            "released": "2023-12-27T00:53:08+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "e9639017790982416916da710e8bdefa1558d14f",
+            "archive_commit": "23cc99b1941979c3b151015ebc95499ff0a92222",
+            "released": "2023-12-27T00:53:08+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "0ee874b1e34ddf208b36f2eea240a57acaea6d6a",
+            "archive_commit": "d7f45b693fde6d6c4d1870297738cd576d5e120c",
+            "released": "2023-12-27T01:39:08+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "d91fa52027b0b71bf44108c7a03cbe0ca8964877",
+            "archive_commit": "d4327777c2c62da6721ef6cf1c6ddca8a79c4a65",
+            "released": "2024-07-17T11:33:05+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "db54bf4bb8cf8de26ccc161342fcd37042c8f7b1",
+            "archive_commit": "8bb57b57d8cfd3c07b4ba56ef88baa87d47f6e4a",
+            "released": "2024-07-17T11:47:09+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

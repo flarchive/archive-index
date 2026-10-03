@@ -1,0 +1,19 @@
+{
+    "package": "ivampiresp/blomstra-search",
+    "upstream": "https://github.com/iVampireSP/flarum-ext-search",
+    "packagistUrl": "https://packagist.org/packages/ivampiresp/blomstra-search",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "ea606d976025a9d72d3408624ee9cd03f7f8dfe9",
+            "archive_commit": "3e7554aeb9ff600aad56fa1d69a88f07b6bb4d9d",
+            "released": "2024-09-25T16:51:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
