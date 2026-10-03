@@ -1,0 +1,43 @@
+{
+    "package": "ernestdefoe/tag-covers",
+    "upstream": "https://github.com/ernestdefoe/tag-covers",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/tag-covers",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "f40983e2c865c7cae8c424e8fc8b8a6eae34c02b",
+            "archive_commit": null,
+            "released": "2026-08-29T19:12:44+00:00",
+            "archived": null,
+            "license": "proprietary",
+            "flarum": "^2.0",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": null,
+            "upstream_commit": "8cf5035fc45caea823efea4cb9800251bb46d524",
+            "archive_commit": null,
+            "released": "2026-09-09T15:51:01+00:00",
+            "archived": null,
+            "license": "proprietary",
+            "flarum": "^2.0",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "7c23e2d8798bcd0ca288acd06dec57331893278b",
+            "archive_commit": "56003afe6e42a19243575cd2668cf091c70a67b4",
+            "released": "2026-09-23T18:17:16+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

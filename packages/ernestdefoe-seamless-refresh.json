@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/seamless-refresh",
+    "upstream": "https://github.com/ernestdefoe/seamless-refresh",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/seamless-refresh",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "cb60f21a753b48fa7a37396ffe8dce62e8619170",
+            "archive_commit": "c04d54d512c6ee3b47dee3063e862424886e33b9",
+            "released": "2026-07-08T17:18:24+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

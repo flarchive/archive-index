@@ -1,0 +1,43 @@
+{
+    "package": "ernestdefoe/since",
+    "upstream": "https://github.com/ernestdefoe/since",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/since",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a2c315907a1f09af5321c15f031aa6285cbfa3ac",
+            "archive_commit": "a420d4c235668293a403a02c52241924a9e9a585",
+            "released": "2026-09-12T19:46:30+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "ba3ab0d30e0c1cb755b89ed4260635aac642c947",
+            "archive_commit": "d586443acdf99ab281ea8aad38301c464f153d61",
+            "released": "2026-09-12T20:09:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "90ddc9d984b74588b41836df00ae2f0c7cf17642",
+            "archive_commit": "1f85b4c0063523414f51602092c51d8bcd0ad764",
+            "released": "2026-09-13T01:58:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

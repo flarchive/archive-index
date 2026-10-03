@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/opensearch",
+    "upstream": "https://github.com/ernestdefoe/opensearch",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/opensearch",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "499599b84a42f83a284c5f472949da183cba9292",
+            "archive_commit": "c28518a9fb465624e16b5fcf87645380a005126e",
+            "released": "2026-08-29T20:35:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

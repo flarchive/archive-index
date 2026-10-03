@@ -1,0 +1,43 @@
+{
+    "package": "ernestdefoe/ridge",
+    "upstream": "https://github.com/ernestdefoe/ridge",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/ridge",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8a8248c3a51828b837c5e4bcb8c03569fb7e0566",
+            "archive_commit": "2efbd6224d2a825839b8226f54767f5fab8c48e3",
+            "released": "2026-09-12T22:20:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b1b42e1af65ce461d7d5ac813671eb9d1d978baf",
+            "archive_commit": "571a00aedd98d6830fbf2972afc576a466bce1b7",
+            "released": "2026-09-12T22:40:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "6cbd5ca191e35bc884b2f2c0546ed201fffabb40",
+            "archive_commit": "52043c9776ba5f4862b39db9d522cd2d60f4ab7b",
+            "released": "2026-09-13T01:58:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

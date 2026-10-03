@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/mobile-tab",
+    "upstream": "https://github.com/ernestdefoe/mobiletab",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/mobile-tab",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "959f7e64537a4a520e8e0b8671073e77ec48a818",
+            "archive_commit": "7d2ed6da9d3023355350c71ab48bb3f9020473de",
+            "released": "2026-06-06T18:01:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "b973a2f22a1962452f5ee9c93769e69b21a5c60d",
+            "archive_commit": "8789a179e8434253b91c95a4a01831e08a84d321",
+            "released": "2026-09-12T17:27:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

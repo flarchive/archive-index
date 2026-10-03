@@ -1,0 +1,55 @@
+{
+    "package": "ernestdefoe/roleplay",
+    "upstream": "https://github.com/ernestdefoe/roleplay",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/roleplay",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b6166ee46a363c680f05669a2304e2317b22e8b1",
+            "archive_commit": "cecde13933fd0f6b2b515c24e7e8ea8c22f7c185",
+            "released": "2026-06-26T17:31:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "4996619caa9901f0527a4e5f1a90177cef6d990b",
+            "archive_commit": "60a8f28a6a53e0470c376b4ccd16ef44db05fadb",
+            "released": "2026-06-26T20:59:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "68d2693a3271db1a2fb58334db2cdf9e337e17c1",
+            "archive_commit": "14f2c24fe12e1fdee262749ac1dfeb46ff1c299a",
+            "released": "2026-06-27T19:30:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "a0c15bd3d474ff18cb30cb5cc0244c7b40da861d",
+            "archive_commit": "6aee1522239877b881dad9442bd87680fc355f4c",
+            "released": "2026-09-13T13:02:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
