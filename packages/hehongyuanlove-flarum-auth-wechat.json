@@ -1,0 +1,19 @@
+{
+    "package": "hehongyuanlove/flarum-auth-wechat",
+    "upstream": "https://github.com/Hehongyuanlove/flarum-ext-auth-wechat",
+    "packagistUrl": "https://packagist.org/packages/hehongyuanlove/flarum-auth-wechat",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "29de5716926eb6a0c898eb375b0ea4e21d32df15",
+            "archive_commit": "01791277695d5bb5348ebcba7b4b9880eb529784",
+            "released": "2023-04-13T07:15:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "package": "hehongyuanlove/flarum-points",
+    "upstream": "https://github.com/Hehongyuanlove/flarum-points",
+    "packagistUrl": "https://packagist.org/packages/hehongyuanlove/flarum-points",
+    "versions": [
+        {
+            "version": "v0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "3340fd26f5c249e027b0da2e2fcc579f778bfad0",
+            "archive_commit": "5dc3bd12022ac8f583753e6220b0e224d499989a",
+            "released": "2020-07-31T09:25:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "a6ef38d4d52a68833962a7609d4779c33cbc69fc",
+            "archive_commit": "9194ed46f36f46fc6d24f32710c0f54318de8afb",
+            "released": "2020-07-31T09:39:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

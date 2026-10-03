@@ -1,0 +1,19 @@
+{
+    "package": "hazanpro/flarum-ext-rtl",
+    "upstream": "https://github.com/hazanpro/flarum-ext-rtl",
+    "packagistUrl": "https://packagist.org/packages/hazanpro/flarum-ext-rtl",
+    "versions": [
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "4ab589f31d131262d8441f77553eaa0faa532973",
+            "archive_commit": "2fa1f83f597fa72caff79a76fcb33b09a5708ffc",
+            "released": "2016-05-16T00:03:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

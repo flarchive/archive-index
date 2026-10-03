@@ -1,0 +1,19 @@
+{
+    "package": "hd3d/change-default-sort-order",
+    "upstream": "https://github.com/HD3D1/change-default-sort-order",
+    "packagistUrl": "https://packagist.org/packages/hd3d/change-default-sort-order",
+    "versions": [
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "8f483a8404baa3b6efb39c303fa0389822e0c3fa",
+            "archive_commit": "a08d502d8b8ee35769660c9f8cdf012eb2c13222",
+            "released": "2023-09-06T20:33:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

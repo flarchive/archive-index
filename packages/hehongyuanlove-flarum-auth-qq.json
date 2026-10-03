@@ -1,0 +1,31 @@
+{
+    "package": "hehongyuanlove/flarum-auth-qq",
+    "upstream": "https://github.com/Hehongyuanlove/flarum-auth-qq",
+    "packagistUrl": "https://packagist.org/packages/hehongyuanlove/flarum-auth-qq",
+    "versions": [
+        {
+            "version": "1.3.5",
+            "tag": "archive/v1.3.5",
+            "upstream_commit": "d1dd290a0324ec6ef334339009d4334321b0b854",
+            "archive_commit": "f036085ffed442aa4db4844fb3b62ac286b53c02",
+            "released": "2022-09-21T01:04:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.5.1",
+            "tag": "archive/v2.5.1",
+            "upstream_commit": "696cf72efecee2917e7ab0036deae57c382646e4",
+            "archive_commit": "23d5d727a69ff188dd73c4744ca4dd85cde12a0b",
+            "released": "2023-04-13T02:37:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

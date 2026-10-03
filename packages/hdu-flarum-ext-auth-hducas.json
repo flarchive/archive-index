@@ -1,0 +1,55 @@
+{
+    "package": "hdu/flarum-ext-auth-hducas",
+    "upstream": "https://github.com/HDUAAA/flarum-ext-auth-hducas",
+    "packagistUrl": "https://packagist.org/packages/hdu/flarum-ext-auth-hducas",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "2103fa765e5d93db30f541e9b064833c563dbc2d",
+            "archive_commit": "648e28871ecf0c3a4c327ec3047577adb5d60dd2",
+            "released": "2018-10-10T02:09:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "fde0ad0fc331a557126aeebd7a4205d7cf3c7a10",
+            "archive_commit": "289e1d90df623de054008fec844c295d3b1294d2",
+            "released": "2018-10-10T02:17:53+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "97cf865c92406e6633bbf838dde28104a484f76f",
+            "archive_commit": "fdefe8d304c6f8e891e5b60981d30d2a9bb51574",
+            "released": "2018-10-12T13:39:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "cdc82de81a08db8988fc62453fd3d03490da7c69",
+            "archive_commit": "6c9a4edc2bf3f5e580ecfa5f8787731d027080cc",
+            "released": "2018-10-13T09:37:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

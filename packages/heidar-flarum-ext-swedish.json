@@ -1,0 +1,19 @@
+{
+    "package": "heidar/flarum-ext-swedish",
+    "upstream": "https://github.com/heidarKadkhoda/flarum-ext-swedish",
+    "packagistUrl": "https://packagist.org/packages/heidar/flarum-ext-swedish",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": null,
+            "upstream_commit": "c5eb45391836f22307a64405944a0548e900928b",
+            "archive_commit": null,
+            "released": "2017-07-23T22:23:46+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

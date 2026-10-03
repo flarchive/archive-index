@@ -1,0 +1,55 @@
+{
+    "package": "hikarilan/flarum-passkey-login",
+    "upstream": "https://github.com/shaokeyibb/flarum-passkey-login",
+    "packagistUrl": "https://packagist.org/packages/hikarilan/flarum-passkey-login",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "ecfe355dd0e72690a07e6e1491f846aa3375b83c",
+            "archive_commit": "f077cdf10afa45ab2ac05c04e0ad61cf742f1383",
+            "released": "2023-11-24T04:56:18+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "dc024685ffccb55e06cb4d2c88a12509c905fc03",
+            "archive_commit": "650e7e1d0b03e94eed762bca0434f8678970e25d",
+            "released": "2023-11-26T09:18:25+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.8.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "272832ab9247fe89e5fc487e826cc3940f86bfe4",
+            "archive_commit": "61a432db4e84dfbf9923c0352e19988515ae99d1",
+            "released": "2023-11-26T09:30:39+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.8.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "132ccc069270c25f05ec10f53853c72eca2bc753",
+            "archive_commit": "a71cae96224b1fb4c6e45dcabf9b4b05c6c52b6d",
+            "released": "2024-07-18T14:43:29+00:00",
+            "archived": "2026-10-03",
+            "license": "Apache-2.0",
+            "flarum": "^1.8.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

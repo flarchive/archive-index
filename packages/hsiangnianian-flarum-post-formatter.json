@@ -1,0 +1,67 @@
+{
+    "package": "hsiangnianian/flarum-post-formatter",
+    "upstream": "https://github.com/HsiangNianian/flarum-post-formatter",
+    "packagistUrl": "https://packagist.org/packages/hsiangnianian/flarum-post-formatter",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "7c2437d9094060058a07df1fbabb99019303d4fa",
+            "archive_commit": "da1142372970c54012c669c2bc8455106964fb60",
+            "released": "2023-02-17T08:14:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "3205c5d5f01c49702b373d7b4c9a17782a845305",
+            "archive_commit": "2346a1d96a26f805e729a351a8cb29d1a8cddfb5",
+            "released": "2023-02-17T08:52:04+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "ba10616257863f386f9d715ef6ae0e205b4da030",
+            "archive_commit": "d0e9db487f03ef5da4ecc41817b26481b34468bc",
+            "released": "2023-02-17T08:54:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "26ac9241ee666eaea2064c9d0ebe6744f7884903",
+            "archive_commit": "554e46773251ef49bbd4e5f3e09820d3cf677ed8",
+            "released": "2023-02-17T09:02:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.5",
+            "tag": "archive/v0.0.5",
+            "upstream_commit": "62c9888abf048311fee856bef747028fcfc9e9c0",
+            "archive_commit": "55d5c9eb026ccd14b1db1f68de8e835fcafd9ce2",
+            "released": "2023-05-19T05:15:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

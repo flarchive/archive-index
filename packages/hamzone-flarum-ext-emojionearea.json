@@ -1,0 +1,31 @@
+{
+    "package": "hamzone/flarum-ext-emojionearea",
+    "upstream": "https://github.com/HamZone/flarum-ext-emojionearea",
+    "packagistUrl": "https://packagist.org/packages/hamzone/flarum-ext-emojionearea",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "40f5db7854dc1df2f7ce55ce040ecd85bb0df35f",
+            "archive_commit": "bfb56c79d26a194a926ef23e6d0e15fe4f064f4a",
+            "released": "2022-08-15T08:23:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "7d19b9f9c8a70be46d509fee0adba741df784d1b",
+            "archive_commit": "a54bfc22444897ca2c2df806e76f045ea984f6b4",
+            "released": "2022-08-15T09:12:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

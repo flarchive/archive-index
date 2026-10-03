@@ -1,0 +1,31 @@
+{
+    "package": "hazbin/rank-badges",
+    "upstream": "https://github.com/HazbinFoundation/Rank-Badges",
+    "packagistUrl": "https://packagist.org/packages/hazbin/rank-badges",
+    "versions": [
+        {
+            "version": "v0.0.1-alpha1",
+            "tag": "archive/v0.0.1-alpha1",
+            "upstream_commit": "16f76d8093fd64867689fa556b98d45d3b4c9ab6",
+            "archive_commit": "f5a6a316aeb84800c3fc8bbc3001382d06ce5f03",
+            "released": "2024-05-30T10:55:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "dbcc525c117ad3be529e310872046d215b71d28e",
+            "archive_commit": "11a4d30899dfe024dccaa9b9ab6889d31eb7059e",
+            "released": "2024-05-30T12:40:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "hamzone/lang-traditional-chinese",
+    "upstream": "https://github.com/HamZone/lang-traditional-chinese",
+    "packagistUrl": "https://packagist.org/packages/hamzone/lang-traditional-chinese",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "ae3ee48818ec72cc178a58ab041ebd837a7f1e7b",
+            "archive_commit": "38c744d31034f13ccf648d6dc751589b524a4f6f",
+            "released": "2022-09-04T04:19:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

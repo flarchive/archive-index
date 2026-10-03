@@ -1,0 +1,55 @@
+{
+    "package": "hospital-clinico-puq/customizations",
+    "upstream": "https://github.com/Wence95/customizations",
+    "packagistUrl": "https://packagist.org/packages/hospital-clinico-puq/customizations",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9649f15674c149a34f4352c86b4da7683fe261f8",
+            "archive_commit": "1de012082bddd7288ce2e74da6597bd787c812ad",
+            "released": "2024-12-18T00:30:18+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "54e81f21e8b885f74dedb8e3e010ce85e7e6e597",
+            "archive_commit": "2b86a13368cfad2b6c12270492f616a944308b18",
+            "released": "2024-12-19T07:25:40+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "30c5aa93657a2cb562189e91f97898f0607df079",
+            "archive_commit": "976e45d0296f11a2a13f6e21d210dd911f558506",
+            "released": "2024-12-19T07:33:02+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "6d9add01727db948b402a1f21442a9e6b5819cb0",
+            "archive_commit": "f0c067ac9923191b6b2fbd54ca77aa824ec2fcda",
+            "released": "2024-12-19T07:39:02+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

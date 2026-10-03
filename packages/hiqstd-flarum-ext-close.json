@@ -1,0 +1,19 @@
+{
+    "package": "hiqstd/flarum-ext-close",
+    "upstream": "https://github.com/HiQStd/flarum-ext-close",
+    "packagistUrl": "https://packagist.org/packages/hiqstd/flarum-ext-close",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "29d3e86e71c26bd97cb17b44e050b086bb49191b",
+            "archive_commit": "27d21718b71637edb4e0a2a1521dd08406a34345",
+            "released": "2019-10-16T22:26:33+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

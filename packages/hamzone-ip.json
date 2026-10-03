@@ -1,0 +1,19 @@
+{
+    "package": "hamzone/ip",
+    "upstream": "https://github.com/HamZone/flarum-ext-ip-addr",
+    "packagistUrl": "https://packagist.org/packages/hamzone/ip",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "50b2d5bb985b91f3844410c5dfb48ae10f287e1a",
+            "archive_commit": "14d795de4b61092f0e8c8860c653c66295996991",
+            "released": "2023-03-27T07:07:56+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

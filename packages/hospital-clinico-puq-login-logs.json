@@ -1,0 +1,19 @@
+{
+    "package": "hospital-clinico-puq/login-logs",
+    "upstream": "https://github.com/Wence95/login-logs",
+    "packagistUrl": "https://packagist.org/packages/hospital-clinico-puq/login-logs",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8bab3bebddefc5831cdd68d5b7a80ba4cfa85c78",
+            "archive_commit": "032c2b526db24bf806bf4647070bea04b27070b9",
+            "released": "2024-12-17T10:17:14+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

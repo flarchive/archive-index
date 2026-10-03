@@ -1,0 +1,43 @@
+{
+    "package": "haolee/flarum-ext-simplified-chinese",
+    "upstream": "https://github.com/haozi3156666/flarum-ext-simplified-chinese",
+    "packagistUrl": "https://packagist.org/packages/haolee/flarum-ext-simplified-chinese",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": "archive/v0.1.0-beta.4",
+            "upstream_commit": "aebd06ac1a13e6286141938d198ead0823f0671f",
+            "archive_commit": "be127950fad539cffabf7b4a7a9cfc0019f63f2e",
+            "released": "2015-12-01T07:46:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "archive/v0.1.0-beta.5",
+            "upstream_commit": "3b2ae7142f77b0eda343d0d25553d3f2bfe20976",
+            "archive_commit": "9bfffd10b9844b1bafed0c72cd97c9f615661019",
+            "released": "2016-04-09T10:34:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.7",
+            "tag": "archive/v0.1.0-beta.7",
+            "upstream_commit": "d61c54219caa8a121f07e8893e4f1a8cea7437f5",
+            "archive_commit": "889000537b8bb70aad56928044dd85988985f7ad",
+            "released": "2017-08-03T13:29:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.7",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
