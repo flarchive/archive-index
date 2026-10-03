@@ -1,0 +1,19 @@
+{
+    "package": "eclickhu/webhooks",
+    "upstream": "https://github.com/eclickhu/webhooks",
+    "packagistUrl": "https://packagist.org/packages/eclickhu/webhooks",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "d49c18daa6356be1399506d23ba01879ff736326",
+            "archive_commit": "814262029afab2ad8f59b6e5e9547c76178bcc2e",
+            "released": "2024-02-19T12:57:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

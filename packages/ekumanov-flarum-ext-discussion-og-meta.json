@@ -1,0 +1,19 @@
+{
+    "package": "ekumanov/flarum-ext-discussion-og-meta",
+    "upstream": "https://github.com/ekumanov/flarum-ext-discussion-og-meta",
+    "packagistUrl": "https://packagist.org/packages/ekumanov/flarum-ext-discussion-og-meta",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3ab408480d6da30dc663c437231b3a4284b6df06",
+            "archive_commit": "dfedacd1d0505bafde232145954a9a5791fbeccf",
+            "released": "2026-05-16T11:34:23+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0@beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "package": "ejin/ejin-custom",
+    "upstream": "https://github.com/johnlewissims/ejin-custom",
+    "packagistUrl": "https://packagist.org/packages/ejin/ejin-custom",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "4081aecf18b7698ff8c0ca282b8f40b5e4979965",
+            "archive_commit": "83e72167771b6ef5649341423f82e694ba671e78",
+            "released": "2020-07-10T17:03:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "24bcd52295150f559dfefc142cb5e4cb72a9d81a",
+            "archive_commit": "658bedade2105e512b928c9e02701ee391271910",
+            "released": "2020-07-10T18:54:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "174f5bcb1b81a29978c7090f2278dd1d1441cb59",
+            "archive_commit": "b56934db165c6b03dafba0de3b668866061bcd19",
+            "released": "2020-07-10T22:01:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "174f5bcb1b81a29978c7090f2278dd1d1441cb59",
+            "archive_commit": "6828c249467cc62ecc65c58d453d5844668da348",
+            "released": "2020-07-10T22:01:06+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "bea930a7260a340a2dab203b207758bd9caac5c0",
+            "archive_commit": "12db2125ba02c08a898aca3bbb04085fbcedf328",
+            "released": "2020-07-10T22:08:26+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.6",
+            "tag": "archive/v0.1.6",
+            "upstream_commit": "5167e0df4739ec2d3199c84ce57a3d72b79055f4",
+            "archive_commit": "859b67426f9bb1dd966521ffba8f35d191a97d2b",
+            "released": "2020-07-13T14:09:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.7",
+            "tag": "archive/v0.1.7",
+            "upstream_commit": "5167e0df4739ec2d3199c84ce57a3d72b79055f4",
+            "archive_commit": "ff4ac30d72df58f328ec4df6603e986209803d81",
+            "released": "2020-07-13T14:09:55+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

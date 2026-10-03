@@ -1,0 +1,91 @@
+{
+    "package": "ejin/discussion-delete-settings",
+    "upstream": "https://github.com/johnlewissims/discussion-delete-settings",
+    "packagistUrl": "https://packagist.org/packages/ejin/discussion-delete-settings",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "b9b38aa03723e11d31f3a731b7e7f4db30414f6e",
+            "archive_commit": "beb07ffcd7d86c9bb1ed5c73057ffb1690631aad",
+            "released": "2020-06-05T13:55:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b9b38aa03723e11d31f3a731b7e7f4db30414f6e",
+            "archive_commit": "4fa2acfda5196cffbc8e8541bacc04be4fd2a6e6",
+            "released": "2020-06-05T13:55:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "c2e01e7c3055135c621984811dddf51216c05ab0",
+            "archive_commit": "97d4bbd37af963bee0e1ad01eccf9a9d2b32d5d6",
+            "released": "2020-06-05T14:07:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "c2e01e7c3055135c621984811dddf51216c05ab0",
+            "archive_commit": "815809f03db9904f275335ae9fa85db82f5b3c64",
+            "released": "2020-06-05T14:07:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "d54edabff9c5531d51d42b3638151465deb09f59",
+            "archive_commit": "3e0c0a134337b3f4afb88f91eb02a7b3fdcd3e99",
+            "released": "2020-06-15T19:08:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "d54edabff9c5531d51d42b3638151465deb09f59",
+            "archive_commit": "abf42ce3929c5effa8befe7f2d0f537e0e4206a6",
+            "released": "2020-06-15T19:08:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.6",
+            "tag": "archive/v0.1.6",
+            "upstream_commit": "d54edabff9c5531d51d42b3638151465deb09f59",
+            "archive_commit": "b52a75f9170f132682a82f6a66ba442468d13545",
+            "released": "2020-06-15T19:08:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "ekumanov/flarum-add-menu-actions",
+    "upstream": "https://github.com/ekumanov/flarum-add-menu-actions",
+    "packagistUrl": "https://packagist.org/packages/ekumanov/flarum-add-menu-actions",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "708b26297196cd9ded0c232bc90f04c1182f5285",
+            "archive_commit": "7204b73600f566fe57e4442bd4f0c53f8d3fca15",
+            "released": "2023-12-30T14:04:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "07d5d2bcc7bb1ba24882866edcbc66ed8465f83c",
+            "archive_commit": "267567d53d70c92bea698deeebaaa7f0ea915d68",
+            "released": "2023-12-30T14:28:13+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "0cdb2f240e946b98134a6909a0faf908971798df",
+            "archive_commit": "06152818415b075ca21800530f8f84621ccbbf7e",
+            "released": "2023-12-30T14:51:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "117bb2fbaee386b74e19d6c1621609871b4e0b2e",
+            "archive_commit": "32299456b5fa77ecb6b974c143fa1a6b943b50b1",
+            "released": "2024-01-02T12:02:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

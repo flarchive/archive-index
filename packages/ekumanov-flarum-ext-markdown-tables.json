@@ -1,0 +1,55 @@
+{
+    "package": "ekumanov/flarum-ext-markdown-tables",
+    "upstream": "https://github.com/ekumanov/flarum-ext-markdown-tables",
+    "packagistUrl": "https://packagist.org/packages/ekumanov/flarum-ext-markdown-tables",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "baa54f17346001faee7659d94ae5bda81fad1eb6",
+            "archive_commit": "3e663fd60734f63c79007a9d52e8d66d9abd535c",
+            "released": "2026-04-30T17:36:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0@beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "64b4076e17baa5903ada7449b68c4bf8151d0a37",
+            "archive_commit": "6a319193b9f6793a44ff662a186665c2dd4ec276",
+            "released": "2026-04-30T20:33:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0@beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "f9ca2e01d458fb055439eb96189ab3d983b23606",
+            "archive_commit": "edc1ff7ef943b350005b3808c0d3d27cbad1803d",
+            "released": "2026-04-30T21:10:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0@beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "c9b5473711d46e177979275375c67f472d91fca5",
+            "archive_commit": "559cb4717ac397ff027725332c575fc3a2e79abd",
+            "released": "2026-09-24T15:15:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0@beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

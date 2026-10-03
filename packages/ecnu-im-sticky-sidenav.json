@@ -1,0 +1,55 @@
+{
+    "package": "ecnu-im/sticky-sidenav",
+    "upstream": "https://github.com/ECNU-Forum/sticky-sidenav",
+    "packagistUrl": "https://packagist.org/packages/ecnu-im/sticky-sidenav",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "28ffd4f2727fd7ad115618f6ba3e40d044c853e9",
+            "archive_commit": "711da277f9dd0850957fdbe0bc28da8adec9b04d",
+            "released": "2022-04-11T12:09:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "b337416904e6dfa51b37882af273505dd373749c",
+            "archive_commit": "bd35cb70561ccc8e33056e06af2f9897634bd6d5",
+            "released": "2022-04-11T12:48:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8586f7379a0c17fffaa93c3e2a7baf0cf2f42979",
+            "archive_commit": "9aa028d54a93f89807d24386f67b9d34f026e119",
+            "released": "2022-04-11T13:29:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "4def68954e27881da05f86303ecba42f36801151",
+            "archive_commit": "21aaee39acb2517001c7506a190a7b60eabce3c6",
+            "released": "2022-05-02T12:29:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

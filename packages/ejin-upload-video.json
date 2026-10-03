@@ -1,0 +1,67 @@
+{
+    "package": "ejin/upload-video",
+    "upstream": "https://github.com/johnlewissims/upload-video",
+    "packagistUrl": "https://packagist.org/packages/ejin/upload-video",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "119de749b1230160bc7bc81aa15b793ad224335c",
+            "archive_commit": "fcf01d0b8f5a182da018f968b32645f74dc188e0",
+            "released": "2020-05-24T18:53:44+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "77818640f3b3a3b09d346f62ebe639c6fc6b10b9",
+            "archive_commit": "2e3ded584014f939b224c824dffe1e614e0ec2cb",
+            "released": "2020-05-24T18:59:01+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "1e3de127740119ab40b1bd15d7b9fb9210af7263",
+            "archive_commit": "ea7724b20b586f27715fda08b2c2779c3ead3aa5",
+            "released": "2020-05-24T19:02:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "90636e26658a9f4d5ea582d82e74231ab08a65fa",
+            "archive_commit": "2e8b19c219cd7b24f33c2beb3687fa2472fd5e04",
+            "released": "2020-05-27T21:25:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "60657cfe7bf0439def6058b93a02cdce62751537",
+            "archive_commit": "9b7e903acb4ffdd775757baee4c647b321032e44",
+            "released": "2020-05-27T22:06:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

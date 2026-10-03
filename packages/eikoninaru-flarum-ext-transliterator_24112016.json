@@ -1,0 +1,43 @@
+{
+    "package": "eikoninaru/flarum-ext-transliterator_24112016",
+    "upstream": "https://github.com/eikoninaru/flarum-ext-transliterator_24112016",
+    "packagistUrl": "https://packagist.org/packages/eikoninaru/flarum-ext-transliterator_24112016",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "71a423c9d3e2c0b8813d79a7ba25780ab69c7006",
+            "archive_commit": "3504f160489c06c1b9dd47ab811948e6af63bf6c",
+            "released": "2016-09-11T20:11:11+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "a62859c168e970004d16db7e577e8f1320d4ba43",
+            "archive_commit": "6d3483ca70c98ac7f7e346883ad07f08c1e83b7f",
+            "released": "2016-09-11T21:58:51+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "9a2ebf949e406f4cc1449d6b3597bf8536721e9f",
+            "archive_commit": "33936d4bf2004fa5f9bc985944c4da31191426ed",
+            "released": "2016-09-17T10:26:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
