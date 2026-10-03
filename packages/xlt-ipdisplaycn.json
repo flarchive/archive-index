@@ -1,0 +1,19 @@
+{
+    "package": "xlt/ipdisplaycn",
+    "upstream": "https://github.com/XiaoLuoTian189/ipdisplay-cn",
+    "packagistUrl": "https://packagist.org/packages/xlt/ipdisplaycn",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "fa79036347b89558d16b8468694429ae9f76e56d",
+            "archive_commit": "49b74468a5a7aae5a53a4569b297dbb248d91839",
+            "released": "2025-11-19T08:49:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.7.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

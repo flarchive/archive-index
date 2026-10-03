@@ -1,0 +1,43 @@
+{
+    "package": "xsoft-ict/mason-tag",
+    "upstream": "https://github.com/xsoft-ict/fof-mason-tag",
+    "packagistUrl": "https://packagist.org/packages/xsoft-ict/mason-tag",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "36c0333afd211127b14302eb388364200453bfe0",
+            "archive_commit": "5812892d078ae9f21ec1f55ba11a4f28af28d455",
+            "released": "2023-04-10T09:45:14+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "c8ce4c66b3c1574cdb9db0a650ef42550c5b39db",
+            "archive_commit": "1d0f9f2d61d8d25c032736e95664c1523e0a0d0d",
+            "released": "2023-05-02T06:26:50+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "ca47c783aff9751448aae65e2131b2c34f521d61",
+            "archive_commit": "5e8ae90c234c3511919754cb3b16561745cdbc7c",
+            "released": "2023-05-02T06:32:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

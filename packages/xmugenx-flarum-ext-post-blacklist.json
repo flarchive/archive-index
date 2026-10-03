@@ -1,0 +1,67 @@
+{
+    "package": "xmugenx/flarum-ext-post-blacklist",
+    "upstream": "https://github.com/xmugenx/flarum-ext-post-blacklist",
+    "packagistUrl": "https://packagist.org/packages/xmugenx/flarum-ext-post-blacklist",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "da438d1d565161ed895b3432153a9033c828729e",
+            "archive_commit": "eee9c9cfd830f77b9a3dc8d395d2cb5bfded2fd1",
+            "released": "2019-10-21T15:30:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "6e1c76092a21312d57e8cb41d0834742ec527547",
+            "archive_commit": "4e79307dc2cb15d33e97f7a5f153d218e8846b41",
+            "released": "2019-10-21T17:06:17+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "5bf843fbf286616fca328b8a2081280e25676387",
+            "archive_commit": "c2616911d70d50133cdb07aa9de31847dc53a864",
+            "released": "2019-10-21T22:44:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "e0b9656ac6d137c498b5e177b03b86155d325602",
+            "archive_commit": "094f7f4d4841bd2f8a1aa50ac0e8c6ec4d1924f3",
+            "released": "2019-10-24T15:59:28+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "f914520b391eac9c4a1101e7b274d0f582d6a434",
+            "archive_commit": "af8cdee06b995a96adc787cc14d171cd0b6de1a9",
+            "released": "2019-10-24T16:10:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.10 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

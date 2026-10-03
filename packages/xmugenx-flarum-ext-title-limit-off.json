@@ -1,0 +1,31 @@
+{
+    "package": "xmugenx/flarum-ext-title-limit-off",
+    "upstream": "https://github.com/xmugenx/flarum-ext-title-off",
+    "packagistUrl": "https://packagist.org/packages/xmugenx/flarum-ext-title-limit-off",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "027b8950d67ed1ec8f24862fa46d6d16c4685c0b",
+            "archive_commit": "797985abddec23936c4e47771f2e2b45b55cb285",
+            "released": "2019-10-17T16:56:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1.2",
+            "tag": "archive/v0.1.1.2",
+            "upstream_commit": "a2ac750d5af3b1e2e572e25a707e288848fbb67e",
+            "archive_commit": "e48cb8b4fa6b6adecd67030912d9948c135a5bf6",
+            "released": "2019-10-18T00:17:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

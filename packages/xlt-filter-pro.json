@@ -1,0 +1,19 @@
+{
+    "package": "xlt/filter-pro",
+    "upstream": "https://github.com/XiaoLuoTian189/filter-pro",
+    "packagistUrl": "https://packagist.org/packages/xlt/filter-pro",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "74af4a6c1cac2992d88af1f7ea670e116366725b",
+            "archive_commit": "bdb96b53f232d0d011e9fa87e0c07442ebc8abeb",
+            "released": "2025-11-19T08:14:58+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

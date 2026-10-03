@@ -1,0 +1,55 @@
+{
+    "package": "xrh0905/oauth-microsoft",
+    "upstream": "https://github.com/xrh0905/flarum-ext-oauth-microsoft",
+    "packagistUrl": "https://packagist.org/packages/xrh0905/oauth-microsoft",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "1a4c7c9affb28c856cdbebb7e527bf0027b027b5",
+            "archive_commit": "c41116c039660207bdd653558369e019a6ac0633",
+            "released": "2023-05-27T03:13:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "22fbe28467f56ea2421a23643b6c5212ce590520",
+            "archive_commit": "e759c1e7e2aef4aea8e23b72f02cb99bfe03f2f1",
+            "released": "2023-06-03T12:10:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "64c5485de28b7ccfdc54114f1c3096387d451a7a",
+            "archive_commit": "d4113bcb7da4e50722b13309e696c081455eeb5c",
+            "released": "2023-07-31T10:42:18+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "53ef4722d59e9153a0c3f60640a8b53b5da46fb0",
+            "archive_commit": "d8306f67daea58c5fc1eda85f5c786af53259cfe",
+            "released": "2026-04-09T17:25:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

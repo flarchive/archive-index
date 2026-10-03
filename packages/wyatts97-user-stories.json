@@ -1,0 +1,55 @@
+{
+    "package": "wyatts97/user-stories",
+    "upstream": "https://github.com/wyatts97/user-stories",
+    "packagistUrl": "https://packagist.org/packages/wyatts97/user-stories",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9abce0a51a98b5d94fdf37f63bccaa79b05c4a55",
+            "archive_commit": "926b3105dc35d5609ef87d2480056c73de97aff0",
+            "released": "2026-05-16T19:52:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "d86f555c599c86c3a9a18fc8dae4420ddd5d421d",
+            "archive_commit": "6ca6095d0e54a95fbb750b06cfe2194d24d52eb9",
+            "released": "2026-05-16T20:51:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "26795cd31b21775ac1019f9acc0eccf4410610d5",
+            "archive_commit": "5a36870474bad5dfd3a8c6d04dad87c60a681c2c",
+            "released": "2026-05-16T20:56:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "9d57ff358b467f66a2099256efe213ebd277fee0",
+            "archive_commit": "91976d0dd0acc3c433adab10624230845687737a",
+            "released": "2026-05-17T19:24:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

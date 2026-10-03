@@ -1,0 +1,19 @@
+{
+    "package": "xuandung38/flarum-lang-vn",
+    "upstream": "https://github.com/xuandung38/flarum-lang-vn",
+    "packagistUrl": "https://packagist.org/packages/xuandung38/flarum-lang-vn",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d38d59d6f6df7384c8c90734dfd9d7db2d2a81fa",
+            "archive_commit": "7ea46dceca16b9a6a332f3accfdfc4e6ed1aba96",
+            "released": "2021-06-15T12:23:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "xxb5724/catch-the-fish",
+    "upstream": "https://github.com/Xiaoxiaobai5724/catch-the-fish",
+    "packagistUrl": "https://packagist.org/packages/xxb5724/catch-the-fish",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c7ba61dfa29900567f41c1cdc2d8e2bc3f9382be",
+            "archive_commit": "5e6033c1d21ac61058c48844d84421a6e7b58f05",
+            "released": "2026-07-30T16:26:46+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

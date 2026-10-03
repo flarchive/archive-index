@@ -1,0 +1,31 @@
+{
+    "package": "wylzn/team-list",
+    "upstream": "https://github.com/wylzn/team-list",
+    "packagistUrl": "https://packagist.org/packages/wylzn/team-list",
+    "versions": [
+        {
+            "version": "v1",
+            "tag": null,
+            "upstream_commit": "2143a1b61b601b68028ed4c4dbae42d64114d741",
+            "archive_commit": null,
+            "released": "2024-10-30T16:51:15+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.1",
+            "tag": null,
+            "upstream_commit": "273d49dcaddeb0db482689391c2494e2ba9028ec",
+            "archive_commit": null,
+            "released": "2024-10-30T17:54:48+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

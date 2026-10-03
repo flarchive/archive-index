@@ -1,0 +1,31 @@
+{
+    "package": "xiaoxiaobai5724/flarum-theme-switch",
+    "upstream": "https://github.com/Xiaoxiaobai5724/flarum-theme-switch",
+    "packagistUrl": "https://packagist.org/packages/xiaoxiaobai5724/flarum-theme-switch",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "feda2551a51657d0b34d1f7e51f67d7d79cd675a",
+            "archive_commit": "004ed21deff779f75eebd92040093464c2f61485",
+            "released": "2025-08-31T07:49:45+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "81a2d7893602391d1f0e3de0c71e1aa2b266508e",
+            "archive_commit": "eee2f0dfa3d0eb4665948a4a6f6c723898e772d8",
+            "released": "2025-08-31T08:13:32+00:00",
+            "archived": "2026-10-03",
+            "license": null,
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

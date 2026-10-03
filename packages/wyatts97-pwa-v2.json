@@ -1,0 +1,31 @@
+{
+    "package": "wyatts97/pwa-v2",
+    "upstream": "https://github.com/wyatts97/pwa-v2",
+    "packagistUrl": "https://packagist.org/packages/wyatts97/pwa-v2",
+    "versions": [
+        {
+            "version": "v2.1.1",
+            "tag": "archive/v2.1.1",
+            "upstream_commit": "5d139606fb2aa41edb64f6bf085cdc7c9032fef0",
+            "archive_commit": "140bdcbd9646add2f9de2a10eb0bec4cfaf8e9e9",
+            "released": "2026-05-13T16:29:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.1.2",
+            "tag": "archive/v2.1.2",
+            "upstream_commit": "5fbc49bc0fc02e8869fdb82b894d183722b7823b",
+            "archive_commit": "f86c9ff81fa27f53d28bcf938d9a012e6050dc13",
+            "released": "2026-05-13T16:45:49+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

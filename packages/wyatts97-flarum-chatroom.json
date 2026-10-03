@@ -1,0 +1,19 @@
+{
+    "package": "wyatts97/flarum-chatroom",
+    "upstream": "https://github.com/wyatts97/flarum-chatroom",
+    "packagistUrl": "https://packagist.org/packages/wyatts97/flarum-chatroom",
+    "versions": [
+        {
+            "version": "v1.3.7",
+            "tag": "archive/v1.3.7",
+            "upstream_commit": "49c5e696470cfefa40e1c28d9274ac97bcd52d1a",
+            "archive_commit": "295aa458cc8b161bc812e7461886ad0fbf27421b",
+            "released": "2026-05-24T03:52:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": ">=2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

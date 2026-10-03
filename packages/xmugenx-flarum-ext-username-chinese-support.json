@@ -1,0 +1,43 @@
+{
+    "package": "xmugenx/flarum-ext-username-chinese-support",
+    "upstream": "https://github.com/xmugenx/flarum-ext-username-chinese-support",
+    "packagistUrl": "https://packagist.org/packages/xmugenx/flarum-ext-username-chinese-support",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "e31956667103a7d6550c37b17fc6615b3b2d8bb7",
+            "archive_commit": "14e7c6c7b9f65a8a6f1eaf860092211028b3eeeb",
+            "released": "2019-10-17T20:53:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "de11fe6ddba8928a5fdec0ede49de355978b7007",
+            "archive_commit": "00cd7428b9c42fbb03ddd402553d9e4a1a025bd0",
+            "released": "2019-10-17T21:11:32+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1.1",
+            "tag": "archive/v0.1.1.1",
+            "upstream_commit": "2726ae6632b0132cb3750c165327d59488309c87",
+            "archive_commit": "d0706ed884ec98f807b7b5c37c1d9d817e45825d",
+            "released": "2019-10-17T21:29:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
