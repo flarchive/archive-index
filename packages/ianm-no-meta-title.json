@@ -1,0 +1,55 @@
+{
+    "package": "ianm/no-meta-title",
+    "upstream": "https://github.com/imorland/no-meta-title",
+    "packagistUrl": "https://packagist.org/packages/ianm/no-meta-title",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "04bfbb313afcde613a2f1bc9fc7e5ff0e375d7ff",
+            "archive_commit": "52ebf94e2ec7f65742985df4fa421bbfdb8b2357",
+            "released": "2021-06-27T15:01:03+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "60762eee35e4b3e679734323d3d0419cbd202f5a",
+            "archive_commit": "3a640779617e285ae1a5a9e468dc01c0fb19e838",
+            "released": "2021-06-27T15:50:12+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "5da2338ad66edeb6f9fb2052a3393db8ae432b7e",
+            "archive_commit": "62d5462bd5e39352d81bb39085d8a6b590bca21a",
+            "released": "2022-06-08T21:26:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "ccb4b260c9c4250127c3f8a8d55e1b0dc7e5d946",
+            "archive_commit": "d8769c57cca2a7ae4160fe9af2addaac09f0d7fc",
+            "released": "2022-08-12T20:14:09+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

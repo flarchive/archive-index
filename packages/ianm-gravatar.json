@@ -1,0 +1,67 @@
+{
+    "package": "ianm/gravatar",
+    "upstream": "https://github.com/imorland/gravatar",
+    "packagistUrl": "https://packagist.org/packages/ianm/gravatar",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "2f4050e79b1cf0044652fa5a68618b91ffc5a1b0",
+            "archive_commit": "747b1fdbdc3e3d8e0f5027ef43f8ce878606302a",
+            "released": "2021-06-28T10:06:05+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "00fda107954b6b8e8c4ca849757872c942cbc268",
+            "archive_commit": "f851573b7f22fea66a8ee77fd6a4d554ba56cd3d",
+            "released": "2021-06-28T12:13:41+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "d4d7fa9a941a952e98bdc764cc5e323a1ca8a670",
+            "archive_commit": "8935e4cb06172f680c785b442d4607ac9d69d8fd",
+            "released": "2021-06-28T14:44:15+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "642e9a18d5e0cb304a192720ffacabdab9fb4069",
+            "archive_commit": "3956ecfe9564f3cf7124ee23f0710e8acaa86b16",
+            "released": "2022-05-20T00:23:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "ff68f5ba93e63b0dd44b8ebc55e0ce48429c4ee8",
+            "archive_commit": "774d14fd962466ef55a1cb73bc70a0c0d4f2e8ba",
+            "released": "2023-11-14T09:47:07+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

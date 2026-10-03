@@ -1,0 +1,31 @@
+{
+    "package": "huseyinfiliz/pickem",
+    "upstream": "https://github.com/huseyinfiliz/pickem",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/pickem",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "f2af3846b7424d8684618d6c3e035e7962e55263",
+            "archive_commit": "b846ceef28a3b69cc0411b482ecaf284ed3461fc",
+            "released": "2025-11-20T11:38:29+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.5",
+            "tag": "archive/v1.5",
+            "upstream_commit": "50ffac8d17ec9f60bef95384887efd9cc2919b67",
+            "archive_commit": "c1c37af3213da01be6b17e60334d278cf0c2f925",
+            "released": "2025-11-24T08:56:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

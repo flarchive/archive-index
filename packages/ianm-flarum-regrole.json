@@ -1,0 +1,43 @@
+{
+    "package": "ianm/flarum-regrole",
+    "upstream": "https://github.com/imorland/flarum-regrole",
+    "packagistUrl": "https://packagist.org/packages/ianm/flarum-regrole",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "a989209f7b4e38d201edb1b8fb472d0456fec7d9",
+            "archive_commit": "3ed4803de8004ff63d641c0b75d2912e6af21f2c",
+            "released": "2021-01-04T15:48:08+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "5aec3f35e6b7de8da19b2f19301c5025b39ddaf4",
+            "archive_commit": "6610d754380d40fbf5d38ed244ac18c7ed4c6aee",
+            "released": "2021-03-28T16:47:42+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ddc54ca9b46c6c52a8ad726e3bc847507d14337e",
+            "archive_commit": "8ba6762eb38bce3ff19f7c52cc7848d3c68b5930",
+            "released": "2021-06-03T14:38:25+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

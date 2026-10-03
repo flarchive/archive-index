@@ -1,0 +1,19 @@
+{
+    "package": "huseyinfiliz/private-profile-plus",
+    "upstream": "https://github.com/huseyinfiliz/private-profile-plus",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/private-profile-plus",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "f06f8d1da315cc5aeb86d21250c9bfc28a507590",
+            "archive_commit": null,
+            "released": "2026-02-17T10:55:20+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

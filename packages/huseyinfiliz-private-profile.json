@@ -1,0 +1,31 @@
+{
+    "package": "huseyinfiliz/private-profile",
+    "upstream": "https://github.com/huseyinfiliz/private-profile",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/private-profile",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "56560c1386ebd8aad0d5a63c541a481912329cb5",
+            "archive_commit": "1db6fdd2feeb568fe6bcddccd9a4fe18790cabf3",
+            "released": "2025-02-05T17:43:19+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "44896469fdabecd3370c40bfb717e0f58e51be59",
+            "archive_commit": "2ddc67b7f2746ebb40eca784667798f4a64467c0",
+            "released": "2025-02-07T13:40:37+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

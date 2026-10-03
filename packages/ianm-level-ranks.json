@@ -1,0 +1,43 @@
+{
+    "package": "ianm/level-ranks",
+    "upstream": "https://github.com/imorland/level-ranks",
+    "packagistUrl": "https://packagist.org/packages/ianm/level-ranks",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "39b6873c7e09ae64f7623529c05603161faceaaf",
+            "archive_commit": "77ebbd3a927abfee01288364a0a5f2c510ec6375",
+            "released": "2021-06-23T18:06:40+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "9726fc39c476b92da27a836a99f7a76f1ffefe1e",
+            "archive_commit": "afe16fefca7e1036a44b18469eb5c7d3827dbf0f",
+            "released": "2022-06-08T22:52:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "680c0e08daf1b2dd419d43822b86b892c100188e",
+            "archive_commit": "8d222c69e73aa7b61011bec983a42b830ea1dafc",
+            "released": "2023-11-14T09:30:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

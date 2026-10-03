@@ -1,0 +1,55 @@
+{
+    "package": "huseyinfiliz/rewind",
+    "upstream": "https://github.com/huseyinfiliz/rewind",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/rewind",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "6babf665c7d2d7290f19ad82fc574c187817beee",
+            "archive_commit": "647119100045ff45b71aa57cb17b3a239c8ea8aa",
+            "released": "2026-04-09T12:12:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "1510ac39c52ff8dc7a746d1e3101c4da726e6bb5",
+            "archive_commit": "a8b66f08ba503629a6d8fd3bbce931880e1739a7",
+            "released": "2026-09-15T13:25:38+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.1",
+            "tag": "archive/v2.1.1",
+            "upstream_commit": "84203cbc51915019bfd2635a089ca4ccdd1d368b",
+            "archive_commit": "59eadd8e38cc9c33149193a6cd61f2c724d1f02c",
+            "released": "2026-09-30T15:31:45+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.1.2",
+            "tag": "archive/v2.1.2",
+            "upstream_commit": "abcd49bee0f4cd1f96e80a482c8cd3fe3e85b504",
+            "archive_commit": "5da636a4fed8260dc7e358c50613471e8ba60326",
+            "released": "2026-09-30T20:55:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

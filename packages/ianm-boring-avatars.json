@@ -1,0 +1,103 @@
+{
+    "package": "ianm/boring-avatars",
+    "upstream": "https://github.com/imorland/flarum-ext-boring-avatars",
+    "packagistUrl": "https://packagist.org/packages/ianm/boring-avatars",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "7795904a3348dfa2681cc589357310587345f9f2",
+            "archive_commit": "f33864a34572b9d87ab8c1aacc85eeaa480aea0f",
+            "released": "2024-01-19T08:46:48+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0-beta.1",
+            "tag": "archive/v1.0.0-beta.1",
+            "upstream_commit": "c8d0cef92a3d6ab0af8003f68e71bd762988e636",
+            "archive_commit": "65d6cb1555b9aded7e58839f737ae8de6774d890",
+            "released": "2024-01-16T10:20:59+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0-beta.2",
+            "tag": "archive/v1.0.0-beta.2",
+            "upstream_commit": "c9b4ed17b93c69ca4fd31bf01417d2b34f41151c",
+            "archive_commit": "8645ac775378ef099a6e7dcc6b2e5e775bb02fce",
+            "released": "2024-01-18T11:22:57+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0-beta.3",
+            "tag": "archive/v1.0.0-beta.3",
+            "upstream_commit": "54e91e58ae05a375f8843915bbfae7a7ec0712af",
+            "archive_commit": "2974f1248f18ca40cb9c15c2071b458becf8d06b",
+            "released": "2024-01-18T11:39:39+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.0-beta.4",
+            "tag": "archive/v1.0.0-beta.4",
+            "upstream_commit": "60004b0ad66e151f38a0a6d861b946d639b99ac8",
+            "archive_commit": "515bb8bb1f00fd935cbd93da7d564b0dfd59c2be",
+            "released": "2024-01-18T15:21:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "4cc4917f8ae0c504fa40697983cdf0df4ba674d1",
+            "archive_commit": "9a4488ee5d855f31583a739c5fb09d8d6356eace",
+            "released": "2024-11-03T14:34:02+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "archive/v2.0.0-beta.1",
+            "upstream_commit": "36dbc8926312cffa1eb6790690a0d60d47ced841",
+            "archive_commit": "24fa1fdd36de2c43c0b39782fc13c26b7172a5b8",
+            "released": "2025-11-02T19:51:21+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "archive/v2.0.0-beta.2",
+            "upstream_commit": "cee5177ae9d0a23d657fef30195b9366a0b8292b",
+            "archive_commit": "e7d1f3c43843234345650f11f647d344a08b77e3",
+            "released": "2026-04-11T16:32:27+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

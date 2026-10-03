@@ -1,0 +1,55 @@
+{
+    "package": "huseyinfiliz/traderfeedback",
+    "upstream": "https://github.com/huseyinfiliz/traderfeedback",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/traderfeedback",
+    "versions": [
+        {
+            "version": "v1",
+            "tag": "archive/v1",
+            "upstream_commit": "2d2a4f9d8ddcbdb8242559eaf382c9369a4f69b3",
+            "archive_commit": "b99fdd625130c30411dd2f5b993bcb374c3c0cf1",
+            "released": "2025-10-03T12:30:36+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2",
+            "tag": "archive/v2",
+            "upstream_commit": "c2ff6871ac5b9ef16732bb18b139e9013ed22774",
+            "archive_commit": "c559d5cc997234bc9adad8c78e1a06e8fa536bee",
+            "released": "2025-10-13T11:38:00+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.1",
+            "tag": "archive/v2.1",
+            "upstream_commit": "4a946e6fa4a3fb7cd4f97af93a267a4ab2fc4736",
+            "archive_commit": "9c81232208789f622e89cf08f0ea5b2c99bed7d6",
+            "released": "2025-10-14T08:49:47+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.2",
+            "tag": "archive/v2.2",
+            "upstream_commit": "43e4f726ab9317be8a2ac6ff0e8fa892941fa655",
+            "archive_commit": "3f9282583e9240642ae437eac2b52ec31e863d16",
+            "released": "2026-09-14T13:50:43+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

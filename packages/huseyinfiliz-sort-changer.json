@@ -1,0 +1,31 @@
+{
+    "package": "huseyinfiliz/sort-changer",
+    "upstream": "https://github.com/huseyinfiliz/sort-changer",
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/sort-changer",
+    "versions": [
+        {
+            "version": "v1",
+            "tag": "archive/v1",
+            "upstream_commit": "ac4fed0ab3ed90857e13e8764838e16bb90cb43f",
+            "archive_commit": "1043b86984e38def3f0aa735a2234b827b4f6fad",
+            "released": "2025-08-29T13:48:35+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2",
+            "tag": "archive/v2",
+            "upstream_commit": "ebdae0d80450db14962d4bdee5846041cd72f683",
+            "archive_commit": "2176703170f32766357ce62cc119ee51b7c8152d",
+            "released": "2026-01-20T10:20:54+00:00",
+            "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.8.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
