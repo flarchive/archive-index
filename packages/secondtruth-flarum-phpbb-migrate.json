@@ -1,0 +1,8 @@
+{
+    "package": "secondtruth/flarum-phpbb-migrate",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/secondtruth/flarum-phpbb-migrate",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

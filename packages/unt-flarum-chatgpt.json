@@ -1,0 +1,97 @@
+{
+    "package": "unt/flarum-chatgpt",
+    "upstream": "https://gitee.com/cdalj/flarum-chatgpt",
+    "packagistUrl": "https://packagist.org/packages/unt/flarum-chatgpt",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "6a0aac38d9968f39c4dd9bed44308ffb1a3814a3",
+            "released": "2025-02-21T05:45:51+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.5",
+            "browse_url": "https://packagist.org/packages/unt/flarum-chatgpt"
+        },
+        {
+            "version": "v0.5.0",
+            "tag": "v0.5.0",
+            "upstream_commit": "d884772bc763271ef5a29015a6e25d9c189fca3c",
+            "released": "2024-09-08T08:54:45+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.5",
+            "browse_url": "https://packagist.org/packages/unt/flarum-chatgpt"
+        },
+        {
+            "version": "v0.4.0",
+            "tag": "v0.4.0",
+            "upstream_commit": "db54bf607fa29ff49baa66ee9652246a033b3622",
+            "released": "2023-11-28T14:22:14+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/unt/flarum-chatgpt"
+        },
+        {
+            "version": "v0.3.0",
+            "tag": "v0.3.0",
+            "upstream_commit": "4b285eacf76ad26309b1d5c966a1a542b2ebac90",
+            "released": "2023-08-26T08:57:35+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/unt/flarum-chatgpt"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "v0.2.0",
+            "upstream_commit": "1bc2284be0e6aeeeab040118af777f429b2353cb",
+            "released": "2023-03-28T15:56:04+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/unt/flarum-chatgpt"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "v0.1.0",
+            "upstream_commit": "d9f24bea9092b6e7f96aad42ce507725b09e40fd",
+            "released": "2023-03-12T16:12:26+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/unt/flarum-chatgpt"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "v0.0.2",
+            "upstream_commit": "d5400c10922a7109d6f36afafc54d0fa38bc0cf8",
+            "released": "2023-03-12T10:12:30+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/unt/flarum-chatgpt"
+        },
+        {
+            "version": "v0.0.1",
+            "tag": "v0.0.1",
+            "upstream_commit": "cccfa0227309ed1555e256b113c472692880deca",
+            "released": "2023-03-12T05:29:48+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/unt/flarum-chatgpt"
+        }
+    ]
+}

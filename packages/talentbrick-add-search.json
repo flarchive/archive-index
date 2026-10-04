@@ -1,0 +1,64 @@
+{
+    "package": "talentbrick/add-search",
+    "upstream": "https://github.com/talentbrick/add-search",
+    "packagistUrl": "https://packagist.org/packages/talentbrick/add-search",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (proprietary). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "2.0.2",
+            "tag": "2.0.2",
+            "upstream_commit": "dc144d979d12542b600d3761b4362d23da11a9e0",
+            "released": "2022-08-18T12:48:23+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/talentbrick/add-search/tree/2.0.2"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "2.0.1",
+            "upstream_commit": "34ba52e2eaeb4aeffcea104960749373dcb1cfd9",
+            "released": "2021-07-20T07:06:40+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/talentbrick/add-search/tree/2.0.1"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "e9ec66d35e67f70c6698aad7bc653a616d259e5c",
+            "released": "2021-07-20T05:28:41+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/talentbrick/add-search/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "2c2047ac2cd7a851f364e54f39ac24eac44b152a",
+            "released": "2021-07-20T04:09:06+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/talentbrick/add-search/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "f41c09a4ac8d1f580965cb699c873e58e9876b1c",
+            "released": "2021-07-19T14:07:07+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/talentbrick/add-search/tree/1.0.0"
+        }
+    ]
+}

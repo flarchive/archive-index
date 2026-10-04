@@ -1,0 +1,108 @@
+{
+    "package": "fof/bbcode-details",
+    "upstream": "https://github.com/FriendsOfFlarum/bbcode-details",
+    "packagistUrl": "https://packagist.org/packages/fof/bbcode-details",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "c4d1bf4d4e6f98b77ccb215706ceb1d56acc6a08",
+            "released": "2026-01-31T21:31:33+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "ec267964be7c51ceb91f7b9313dca01489d956e1",
+            "released": "2023-11-12T16:18:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "e62e48c3ec28512670649f8bacaf3ab4d5fb690e",
+            "released": "2023-03-15T09:44:44+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "2adde9eb846cd64d60a3e6068dfbde938f865569",
+            "released": "2022-07-01T10:56:19+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/1.1.0"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "8df41767af44be8697dc08d4c41bd4600871512e",
+            "released": "2021-05-29T17:06:51+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/1.0.0"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "3b397747d5ba50ae7db2d3e9d5d6d91b65166112",
+            "released": "2021-03-19T11:49:08+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/0.3.0"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "2f72f8a2ab5f118291e9b3d48824578a161530bb",
+            "released": "2020-12-15T09:40:21+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "10bd9411b392a79b6e842fec6517de0992f8cd69",
+            "released": "2020-12-08T16:43:20+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/0.2.0"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "d9e5ef7d9b893cf9357b14c386a324c2e07f92af",
+            "released": "2019-02-07T00:55:15+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/0.1.0"
+        }
+    ]
+}

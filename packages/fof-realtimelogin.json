@@ -1,0 +1,75 @@
+{
+    "package": "fof/realtimelogin",
+    "upstream": "https://github.com/FriendsOfFlarum/realtimelogin",
+    "packagistUrl": "https://packagist.org/packages/fof/realtimelogin",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "7c02cb82aaf18d5d719cfc92f7709071ba46a3b4",
+            "released": "2023-08-21T20:24:52+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimelogin/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "926a31be6aebfa1706a3e13693e6a993d56bcf3b",
+            "released": "2021-06-28T19:30:55+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimelogin/tree/1.0.0"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "5359599a30e329d50f8342114f8912ba71a6504c",
+            "released": "2020-12-15T13:33:43+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimelogin/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "af5e4f30cba87303609e6f8ced3dd74527842b1d",
+            "released": "2020-12-08T17:35:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimelogin/tree/0.2.0"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "aeaa3203191c2701c4fa218dbcd96f2ade71d407",
+            "released": "2020-03-24T22:42:04+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.11",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimelogin/tree/0.1.1"
+        },
+        {
+            "version": "0.1",
+            "tag": "0.1",
+            "upstream_commit": "3b2880e5e8351a27a8fa2e01c0a12db60c29e103",
+            "released": "2020-03-24T22:12:24+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.11",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimelogin/tree/0.1"
+        }
+    ]
+}

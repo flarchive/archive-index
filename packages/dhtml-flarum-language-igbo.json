@@ -1,0 +1,20 @@
+{
+    "package": "dhtml/flarum-language-igbo",
+    "upstream": "https://github.com/dhtml/flarum-language-igbo",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-igbo",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "440154d298f00f72c65a1bb5e181ae8f8f8c906e",
+            "released": "2024-06-20T09:29:35+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-igbo/tree/0.0.1"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "package": "xypp/flarum-fingerprint-recorder",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/xypp/flarum-fingerprint-recorder",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

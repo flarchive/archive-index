@@ -1,0 +1,86 @@
+{
+    "package": "flarum/auth-facebook",
+    "upstream": "https://github.com/flarum/auth-facebook",
+    "packagistUrl": "https://packagist.org/packages/flarum/auth-facebook",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.13",
+            "tag": "v0.1.0-beta.13",
+            "upstream_commit": "434acf36b882b9deb0f6f1f1c1d03ad33d3e0936",
+            "released": "2020-05-01T11:08:43+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.13",
+            "browse_url": "https://github.com/flarum/auth-facebook/tree/v0.1.0-beta.13"
+        },
+        {
+            "version": "v0.1.0-beta.12",
+            "tag": "v0.1.0-beta.12",
+            "upstream_commit": "3c5b351603f581669a4ef8c63a6ddb2c6a0511bf",
+            "released": "2020-03-03T12:22:43+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.12",
+            "browse_url": "https://github.com/flarum/auth-facebook/tree/v0.1.0-beta.12"
+        },
+        {
+            "version": "v0.1.0-beta.9",
+            "tag": "v0.1.0-beta.9",
+            "upstream_commit": "1852a42b39722a97694db782e55b3184a213c692",
+            "released": "2019-06-24T10:03:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.9",
+            "browse_url": "https://github.com/flarum/auth-facebook/tree/v0.1.0-beta.9"
+        },
+        {
+            "version": "v0.1.0-beta.8",
+            "tag": "v0.1.0-beta.8",
+            "upstream_commit": "f266439277a6b5412d777007894ff0619ef5cc1f",
+            "released": "2018-11-21T08:23:48+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/flarum/auth-facebook/tree/v0.1.0-beta.8"
+        },
+        {
+            "version": "v0.1.0-beta.6",
+            "tag": "v0.1.0-beta.6",
+            "upstream_commit": "ac3591b7a32b7c6788620e80f48359ffc51d71a2",
+            "released": "2016-10-19T10:42:20+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/flarum/auth-facebook/tree/v0.1.0-beta.6"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "v0.1.0-beta.5",
+            "upstream_commit": "059d7b29b67c7b379c62830f3943b474d8f5d03c",
+            "released": "2016-03-29T08:12:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.5",
+            "browse_url": "https://github.com/flarum/auth-facebook/tree/v0.1.0-beta.5"
+        },
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": "v0.1.0-beta.3",
+            "upstream_commit": "9537a51f475e3f2f8491019f9d5c3514954ec9da",
+            "released": "2015-11-02T23:32:30+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.3",
+            "browse_url": "https://github.com/flarum/auth-facebook/tree/v0.1.0-beta.3"
+        }
+    ]
+}

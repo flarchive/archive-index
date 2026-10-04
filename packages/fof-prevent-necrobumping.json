@@ -1,0 +1,218 @@
+{
+    "package": "fof/prevent-necrobumping",
+    "upstream": "https://github.com/FriendsOfFlarum/prevent-necrobumping",
+    "packagistUrl": "https://packagist.org/packages/fof/prevent-necrobumping",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "5a487fed359fbb8f0b83841121dc5fac41847a4c",
+            "released": "2025-11-27T00:23:46+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "1.2.1",
+            "upstream_commit": "531fdcc4c57caca0ffb561d85b0166375b3fdb6f",
+            "released": "2025-05-13T05:34:18+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/1.2.1"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "74fc5168d207b8de331279cea63726d027e36b87",
+            "released": "2025-05-09T12:33:57+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/1.2.0"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "af357907619f4a6a7ef4d04225b30d5aad636ff9",
+            "released": "2023-11-12T11:18:45+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "c1f43f1459e26f8b57509f8a78a237629d55d22a",
+            "released": "2023-03-15T09:37:57+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "131f357c8cdbf95f57c2491f4c8a1bc6ccadbd7e",
+            "released": "2022-07-01T11:43:25+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/1.1.0"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "8253bed1590bfd05aaeb37e5792c2bb6038a91ee",
+            "released": "2021-09-09T12:14:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "5abefcde5da8c573044e73184464ae887dca1417",
+            "released": "2021-05-23T16:47:06+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/1.0.0"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "0.5.0",
+            "upstream_commit": "3f47eef3121e0e8ed5bc40179fe092214ab360ef",
+            "released": "2021-03-18T18:20:01+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.5.0"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "b7df1805e4a4f8ca754a495e16baa4a00e88b320",
+            "released": "2020-12-16T19:41:05+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.4.0"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "844cf7a65d50b07f27a624d2e2341bac6822fc85",
+            "released": "2020-10-10T22:03:00+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.3.0"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "cfe4580e570bf38b5cbaf9584e61dfd96f2212b9",
+            "released": "2020-05-25T14:08:42+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "3c07e588f321f6d366c56c12e1b2c0e7093ebed0",
+            "released": "2019-10-23T21:33:01+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.2.0"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "0.1.5",
+            "upstream_commit": "dae6aef7bb149c8161029244089c1cd2624e5ad5",
+            "released": "2019-09-19T23:09:14+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.1.5"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "0.1.4",
+            "upstream_commit": "dc67d5d11508e76592cf38fde93314cfaef2cf8a",
+            "released": "2019-08-31T22:22:31+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.1.4"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "0.1.3",
+            "upstream_commit": "429605daf62e8cd107d262ce24ddc2915635f655",
+            "released": "2019-03-19T21:07:54+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.1.3"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "0.1.2",
+            "upstream_commit": "0830f2d67893fcd21853a6517da3afac193ae80b",
+            "released": "2019-03-08T08:13:00+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.1.2"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "93c0002a8697f6fab592cce843200f65814694d4",
+            "released": "2019-01-20T16:31:16+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "04bf5033fc71f0c18c5219494899c95ec606766f",
+            "released": "2019-01-03T23:27:58+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/prevent-necrobumping/tree/0.1.0"
+        }
+    ]
+}

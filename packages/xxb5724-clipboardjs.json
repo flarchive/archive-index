@@ -1,0 +1,20 @@
+{
+    "package": "xxb5724/clipboardjs",
+    "upstream": "https://git.parlz.com/Xiaoxiaobai5724/clipboardjs",
+    "packagistUrl": "https://packagist.org/packages/xxb5724/clipboardjs",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "2.0.0",
+            "upstream_commit": "06f4c006b5a206d55040cf3d736d2ad08868855d",
+            "released": "2026-07-29T19:06:47+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^2.0.0",
+            "browse_url": "https://packagist.org/packages/xxb5724/clipboardjs"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "package": "fof/formatting",
+    "upstream": "https://github.com/FriendsOfFlarum/formatting",
+    "packagistUrl": "https://packagist.org/packages/fof/formatting",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "84e85012d355c49f493cf666e6ecf0ae707c4950",
+            "released": "2026-02-15T21:02:40+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "92b5e38ec28eebf153f298dd5dbaa8c73d6ed641",
+            "released": "2025-11-10T22:03:00+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "4064879aa5dafbb37365b53bc763f5a8094c0681",
+            "released": "2025-10-30T11:13:53+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/1.1.1"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "68806e46b7d9ff99af0fe6c9359c9242c0e813ca",
+            "released": "2025-09-02T13:32:29+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "2.x-dev",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "fbb510838f744d1a5fcf8b226a03486cb09e06fb",
+            "released": "2025-04-03T21:08:37+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/1.1.0"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "ff7d2e59aec1f2e3374ea897e14d3fac8b8946ae",
+            "released": "2023-03-15T11:26:45+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/1.0.3"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "fd46d22c443af40293af1ecd2697065c96c18c23",
+            "released": "2021-11-06T15:42:57+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "814a1b825cda12a67763462c0ab7a453bd0a162f",
+            "released": "2021-09-09T08:34:30+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "cc854a6cb5705c71948699cde843c43e26364822",
+            "released": "2021-05-17T13:56:43+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/1.0.0"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "834a5bcdf1e500dfcec958a2b12e79feefc938ca",
+            "released": "2021-03-16T11:04:38+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.4.0"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "0.3.1",
+            "upstream_commit": "31c6da0645a1f2cd6e50260835b4c66b95e70510",
+            "released": "2020-12-18T21:57:19+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.3.1"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "09fabe16df3fcd33533ff0fb7ffd74eba7c8b777",
+            "released": "2020-12-16T09:55:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.3.0"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "6c9f557823a5b9998d7ff18a033692a5ca27afd2",
+            "released": "2020-10-07T23:52:01+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.2.0"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "0.1.5",
+            "upstream_commit": "8a59cf8149945ccedaa5692f907ec7f7113d132b",
+            "released": "2020-06-20T11:29:24+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.1.5"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "0.1.4",
+            "upstream_commit": "19bd9b3d1ab773c442b1023daf19c1b7a1d688ea",
+            "released": "2019-12-06T20:18:19+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.1.4"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "0.1.3",
+            "upstream_commit": "c2a6675d9bef42ae5a075510d34bafeb756c86fa",
+            "released": "2019-12-02T20:38:24+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.1.3"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "0.1.2",
+            "upstream_commit": "a6108aebc499cd8a119fed5976cd3550f8f2aa25",
+            "released": "2018-12-10T16:23:30+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.1.2"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "811333e45c5557db5bbd1b4aed52edce85268845",
+            "released": "2018-12-08T14:40:49+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "2c0a5e147acd5760cdd266d179aadbe6fed4beaa",
+            "released": "2018-11-29T21:06:53+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/formatting/tree/0.1.0"
+        }
+    ]
+}

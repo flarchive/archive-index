@@ -1,0 +1,251 @@
+{
+    "package": "fof/recaptcha",
+    "upstream": "https://github.com/FriendsOfFlarum/recaptcha",
+    "packagistUrl": "https://packagist.org/packages/fof/recaptcha",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "5b31f5cb67b699e2a277d3c5d73d186a47f374b6",
+            "released": "2026-06-22T21:07:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-rc.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "1.3.6",
+            "tag": "1.3.6",
+            "upstream_commit": "3f6dd706ab7beb85197bba06048e9d92edcf8fad",
+            "released": "2026-05-30T15:50:51+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.6.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.3.6"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "4857900f3c7edac9e531acf10f25117f28f5cea0",
+            "released": "2026-04-18T21:27:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.3.5",
+            "tag": "1.3.5",
+            "upstream_commit": "273dd08375dfdf47925c5633318d809fa5e57271",
+            "released": "2025-08-10T18:58:53+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.6.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.3.5"
+        },
+        {
+            "version": "1.3.4",
+            "tag": "1.3.4",
+            "upstream_commit": "ab7eb4a4d13cf203e82306e1fa625d77919817bf",
+            "released": "2024-02-24T18:06:43+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.6.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.3.4"
+        },
+        {
+            "version": "1.3.3",
+            "tag": "1.3.3",
+            "upstream_commit": "47357ebe95d42d9b0ddb29fefd4c2461c98a3b3b",
+            "released": "2024-02-21T16:15:29+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.6.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.3.3"
+        },
+        {
+            "version": "1.3.2",
+            "tag": "1.3.2",
+            "upstream_commit": "841ebc022ed553ebe682649877ce9d84d5da367e",
+            "released": "2024-01-14T01:41:25+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.6.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.3.2"
+        },
+        {
+            "version": "1.3.1",
+            "tag": "1.3.1",
+            "upstream_commit": "7737a607c007cfc598052fcc4078229816a91beb",
+            "released": "2023-11-12T21:56:13+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.6.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.3.1"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "1.3.0",
+            "upstream_commit": "edd07f35ffdd3b378bf2d95aecca889713177bdd",
+            "released": "2023-08-14T17:11:06+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.6.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.3.0"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "1.2.1",
+            "upstream_commit": "bdbc8ac4c9abf535a147fe7b51f0081ab293bd25",
+            "released": "2023-07-01T16:27:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.6.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.2.1"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "b39a5c428f1cf8570b10d223a1d3ea8302a434b9",
+            "released": "2023-06-27T10:57:18+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.6.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.2.0"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "f7fdca39992ac699ff29ded33e044246aece0e01",
+            "released": "2023-03-15T10:53:12+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "9036fd1d9d8664698a1d24c57be5e421671dd165",
+            "released": "2022-04-28T07:31:50+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.1.0"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "2f94cf3737b12a368f4def6c075a921a4668cc4b",
+            "released": "2021-06-03T19:56:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/1.0.0"
+        },
+        {
+            "version": "0.3.2",
+            "tag": "0.3.2",
+            "upstream_commit": "5ca302b819c6f74370df5dc98588fd79acd2c375",
+            "released": "2021-04-08T20:05:11+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/0.3.2"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "0.3.1",
+            "upstream_commit": "38d95cd2acefed91d8e48a6093537e8e45f7352c",
+            "released": "2021-01-03T17:55:36+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/0.3.1"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "88acb408ca448421cad7b7f7ea549e20e61f9cd2",
+            "released": "2020-12-16T10:39:20+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/0.3.0"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "1c2e6d1819da708a68e88e9011ae0daf805989b3",
+            "released": "2020-12-08T23:57:50+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "361537685c47268f4e86c9d0c8806424a02fc4e4",
+            "released": "2020-11-07T00:30:08+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/0.2.0"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "0.1.2",
+            "upstream_commit": "0ecda4be258520903a87a2ae9878b66beb6cd64a",
+            "released": "2020-03-04T21:46:27+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/0.1.2"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "7e73bbdbe3bff21202fdd7e0b250ab7e9fb2d5a6",
+            "released": "2019-07-17T14:37:22+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "f947d4946670ec5dd21218d9dc75b143bc262f08",
+            "released": "2019-01-11T01:23:13+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/recaptcha/tree/0.1.0"
+        }
+    ]
+}

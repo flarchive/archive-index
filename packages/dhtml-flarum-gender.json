@@ -1,0 +1,42 @@
+{
+    "package": "dhtml/flarum-gender",
+    "upstream": "https://github.com/dhtml/flarum-gender",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-gender",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.0.2",
+            "tag": "v0.0.2",
+            "upstream_commit": "2851b8ada2024f121045c4a1d20d9ffbef87cadc",
+            "released": "2024-07-10T04:30:20+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-gender/tree/v0.0.2"
+        },
+        {
+            "version": "v0.0.1",
+            "tag": "v0.0.1",
+            "upstream_commit": "63a6221708315fa3a1c3d3069fe31b2d1eb0a29d",
+            "released": "2024-07-10T04:29:33+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-gender/tree/v0.0.1"
+        },
+        {
+            "version": "v0.0.0",
+            "tag": "v0.0.0",
+            "upstream_commit": "7918f026bae70abfba4857cf5b9e5174feb10e70",
+            "released": "2024-07-10T02:33:08+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-gender/tree/v0.0.0"
+        }
+    ]
+}

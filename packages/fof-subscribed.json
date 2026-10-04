@@ -1,0 +1,273 @@
+{
+    "package": "fof/subscribed",
+    "upstream": "https://github.com/FriendsOfFlarum/subscribed",
+    "packagistUrl": "https://packagist.org/packages/fof/subscribed",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "4a8cd2f66d297cc3263944117039a100e3e485ba",
+            "released": "2026-03-13T20:26:51+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.1.5",
+            "tag": "1.1.5",
+            "upstream_commit": "058e47c0d59bca2d4b3696eba46b22a61b119265",
+            "released": "2026-03-13T18:41:37+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.1.5"
+        },
+        {
+            "version": "1.1.4",
+            "tag": "1.1.4",
+            "upstream_commit": "7177bb55c7439654c5176711c40db9549d67d72c",
+            "released": "2023-11-12T13:11:32+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.1.4"
+        },
+        {
+            "version": "1.1.3",
+            "tag": "1.1.3",
+            "upstream_commit": "a4c0e56189b0a089b3c30c44a3f42bface0238dc",
+            "released": "2023-03-15T11:07:01+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.1.3"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "029999e8e0809bc2ca253c4979c511fd1302cc90",
+            "released": "2022-05-23T19:53:43+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "724b1c1dea172d7e83416353d711beb8c499bfec",
+            "released": "2022-05-13T21:16:09+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "8d834bc93feb6cc77de1ad28087c328dafcd1e92",
+            "released": "2022-03-25T11:37:50+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.1.0"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "dc1072c0d9b37beb09f50e91601320b2d37f1433",
+            "released": "2022-03-25T08:50:17+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.0.3"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "e2675a8e2cc46719d36f7ea5adda7e995e8df668",
+            "released": "2021-12-12T15:57:46+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "be01ea2b2259733c5e59b970e8bb6172243982bc",
+            "released": "2021-11-26T01:53:32+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "afb303223604447746556f95411498fb48eedc03",
+            "released": "2021-05-20T07:48:56+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/1.0.0"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "0.5.0",
+            "upstream_commit": "6914fe3c1cc21120cbfaca019a53cf2817abe539",
+            "released": "2021-03-24T02:10:12+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.5.0"
+        },
+        {
+            "version": "0.4.1",
+            "tag": "0.4.1",
+            "upstream_commit": "7089655d2721e68bd31e98e2ffd4a10bc6c01adf",
+            "released": "2020-12-21T17:37:14+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.4.1"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "78c725ddc6f231a94a482f42c07f6237e7283e7b",
+            "released": "2020-12-16T10:07:32+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.4.0"
+        },
+        {
+            "version": "0.2.4",
+            "tag": "0.2.4",
+            "upstream_commit": "e9e5b94e9914fa113e7b46443bad229079ef2ea3",
+            "released": "2020-12-10T11:59:31+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.13",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.2.4"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "0.3.1",
+            "upstream_commit": "f98294f010e9c60ef04a5d021c903cc661bc7f37",
+            "released": "2020-12-10T11:48:13+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.3.1"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "dab1bdd2b3ff9288aa5815f974ea6b1b4102ed23",
+            "released": "2020-11-09T21:30:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.3.0"
+        },
+        {
+            "version": "0.2.3",
+            "tag": "0.2.3",
+            "upstream_commit": "4948adb8d87b719fb7aa3d331fc7602909bd5dfb",
+            "released": "2019-11-02T21:09:26+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.9",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.2.3"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "0.2.2",
+            "upstream_commit": "37f1154f9dcf5ad4a30fd1c72fdfd147f1e919d0",
+            "released": "2019-11-02T15:33:48+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.9",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.2.2"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "a6568f3a663c8f5ab2f81f68589ae8b4cf4b0ca0",
+            "released": "2019-11-02T14:36:08+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.9",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "b89ff2c01441538d0dfb10a92db6f5b89896e4b4",
+            "released": "2019-10-31T23:41:02+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.9",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.2.0"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "cc086c8838ce5d15c302ba3f174cf3c02cb7cfbe",
+            "released": "2019-09-22T17:51:53+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.9",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "647c0a6de7b2dbb13350358e2a30e46eb10f8501",
+            "released": "2019-07-31T19:30:43+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.9",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.1.0"
+        },
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "0.1.0-beta.1",
+            "upstream_commit": "9444687969672192f8c0be9c13c983c55d2580a4",
+            "released": "2017-08-02T12:01:32+00:00",
+            "license": "mit",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.1.0-beta.1"
+        }
+    ]
+}

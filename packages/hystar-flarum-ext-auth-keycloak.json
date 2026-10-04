@@ -1,0 +1,163 @@
+{
+    "package": "hystar/flarum-ext-auth-keycloak",
+    "upstream": "https://gitee.com/AEXDragon/flarum-ext-auth-keycloak",
+    "packagistUrl": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.0.6",
+            "tag": "1.0.0.6",
+            "upstream_commit": "f2402812b3bf7a514aba7d8a703fd389f9a40ffe",
+            "released": "2021-12-14T08:33:25+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.1",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "1.0.0.5",
+            "tag": "1.0.0.5",
+            "upstream_commit": "05ad79e7887dc2720f8ad7d810586adbd932c7e1",
+            "released": "2021-12-13T03:25:53+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.1",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "1.0.0.4",
+            "tag": "1.0.0.4",
+            "upstream_commit": "655235146603445779397e6686cbd96e47796da9",
+            "released": "2021-10-17T12:44:03+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.1",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "1.0.0.3",
+            "tag": "1.0.0.3",
+            "upstream_commit": "b4d947d83581d66cf6e10b71d4c4400e6d7a0093",
+            "released": "2021-06-21T10:39:05+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "1.0.0.2",
+            "tag": "1.0.0.2",
+            "upstream_commit": "9336ed47e18ecb8801b7b6231afb47c8ba37314b",
+            "released": "2021-06-10T11:28:10+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "94fd6a5222be10afecb36c9baac1f68c64d6094c",
+            "released": "2021-06-10T06:06:47+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "0.1.0-beta.16-1",
+            "tag": "0.1.0-beta.16-1",
+            "upstream_commit": "1c196571b92696c0cdd6b0df261c2bb1d87ea15d",
+            "released": "2021-06-08T20:37:19+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "0.1.0-beta.15-1",
+            "tag": "0.1.0-beta.15-1",
+            "upstream_commit": "22cc57e492ffa6f3dea51bfe399278a37c68cbb3",
+            "released": "2021-06-08T20:06:00+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "0.1.0-beta.8.1-6",
+            "tag": "0.1.0-beta.8.1-6",
+            "upstream_commit": "eaf721a53bbc2204ae7f1c9f4f4565d6e71354e4",
+            "released": "2021-06-07T21:46:51+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.5",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "0.1.0-beta.8.1-5",
+            "tag": "0.1.0-beta.8.1-5",
+            "upstream_commit": "8d4c0501bda2eb8e640c936d087e471fb5df897b",
+            "released": "2020-04-23T08:46:55+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.5",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "0.1.0-beta.8.1-4",
+            "tag": "0.1.0-beta.8.1-4",
+            "upstream_commit": "fc1f16f8df0e4f73de6460c1c63545656c50d18c",
+            "released": "2020-04-21T19:31:55+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.5",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "0.1.0-beta.8.1-3",
+            "tag": "0.1.0-beta.8.1-3",
+            "upstream_commit": "aafb33d7d2faede38b5e334688605ee927f1d80a",
+            "released": "2019-10-03T06:41:58+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.5",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "0.1.0-beta.8.1-2",
+            "tag": "0.1.0-beta.8.1-2",
+            "upstream_commit": "809dd30a94a392ad6432b2a91ec12b1f1310f326",
+            "released": "2019-09-01T12:09:23+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.5",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        },
+        {
+            "version": "0.1.0-beta.8.1",
+            "tag": "0.1.0-beta.8.1",
+            "upstream_commit": "026b6da4e5261a38b232fe0d90cb9fd604a9dc1f",
+            "released": "2019-02-18T18:58:34+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.5",
+            "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
+        }
+    ]
+}

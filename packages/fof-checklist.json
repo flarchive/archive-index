@@ -1,0 +1,31 @@
+{
+    "package": "fof/checklist",
+    "upstream": "https://github.com/FriendsOfFlarum/checklist",
+    "packagistUrl": "https://packagist.org/packages/fof/checklist",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "a3ffe746ce4c9dc7a16881cd467594b715d00659",
+            "released": "2026-04-03T23:06:11+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/checklist/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "017b123eedb3c9298f3fd6b397d326b34743211f",
+            "released": "2026-04-03T20:19:17+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/checklist/tree/1.0.0"
+        }
+    ]
+}

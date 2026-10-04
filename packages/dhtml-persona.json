@@ -1,0 +1,141 @@
+{
+    "package": "dhtml/persona",
+    "upstream": "https://github.com/dhtml/persona",
+    "packagistUrl": "https://packagist.org/packages/dhtml/persona",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.0.11",
+            "tag": "v0.0.11",
+            "upstream_commit": "860d38edfb25c00ec1cc95e9336c160a8d8491b4",
+            "released": "2024-07-10T13:06:29+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.11"
+        },
+        {
+            "version": "v0.0.10",
+            "tag": "v0.0.10",
+            "upstream_commit": "90b95bea1aa0b41e869c9c69c8e76a807d30929d",
+            "released": "2024-07-10T09:24:29+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.10"
+        },
+        {
+            "version": "v0.0.9",
+            "tag": "v0.0.9",
+            "upstream_commit": "87e4b20cf1edada3b1dcd42914bf7dd7e1aac918",
+            "released": "2024-07-10T09:22:31+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.9"
+        },
+        {
+            "version": "v0.0.8",
+            "tag": "v0.0.8",
+            "upstream_commit": "6ced16c454ba0949bec6ce612033036afd22b35e",
+            "released": "2024-07-10T01:48:54+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.8"
+        },
+        {
+            "version": "v0.0.7",
+            "tag": "v0.0.7",
+            "upstream_commit": "da3d85544f5bf0934e88301794c8554bbd7fbd83",
+            "released": "2024-07-09T13:09:57+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.7"
+        },
+        {
+            "version": "v0.0.6",
+            "tag": "v0.0.6",
+            "upstream_commit": "b1eb2147c435c3fb74b03e556b49d9c69a26602b",
+            "released": "2024-07-09T13:07:54+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.6"
+        },
+        {
+            "version": "v0.0.5",
+            "tag": "v0.0.5",
+            "upstream_commit": "8ad2e10e6eddeac2c98637d2ce31d13b02716bf9",
+            "released": "2024-07-09T12:34:49+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.5"
+        },
+        {
+            "version": "v0.0.4",
+            "tag": "v0.0.4",
+            "upstream_commit": "040ff7041f2b820e586396827cf7ccab811b0bca",
+            "released": "2024-07-09T12:30:26+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.4"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "v0.0.3",
+            "upstream_commit": "ceaa378e268eb6e894932d6df20bbeab2d70387b",
+            "released": "2024-07-09T09:59:30+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.3"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "v0.0.2",
+            "upstream_commit": "6dfc4dca420e0d2f7728e585ec358ca343fd9029",
+            "released": "2024-07-09T09:54:36+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.2"
+        },
+        {
+            "version": "v0.0.1",
+            "tag": "v0.0.1",
+            "upstream_commit": "5136d8ff8021a87ec322f43929be884d3fd4fc6c",
+            "released": "2024-07-07T20:19:32+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.1"
+        },
+        {
+            "version": "v0.0.0",
+            "tag": "v0.0.0",
+            "upstream_commit": "cb1e2eae6916f75ca55d62d3b1844fa2a445e975",
+            "released": "2024-07-07T20:17:23+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/persona/tree/v0.0.0"
+        }
+    ]
+}

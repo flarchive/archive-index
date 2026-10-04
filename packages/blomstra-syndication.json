@@ -1,0 +1,42 @@
+{
+    "package": "blomstra/syndication",
+    "upstream": "https://github.com/blomstra/syndication",
+    "packagistUrl": "https://packagist.org/packages/blomstra/syndication",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (CECILL-B). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.4.1",
+            "tag": "1.4.1",
+            "upstream_commit": "93283f488fcdffd932656376195362f7b72c9893",
+            "released": "2024-10-10T10:45:11+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/blomstra/syndication/tree/1.4.1"
+        },
+        {
+            "version": "1.4.0",
+            "tag": "1.4.0",
+            "upstream_commit": "d8f6d32113c3a06de342b79729d60a6e49afd7c6",
+            "released": "2024-09-26T10:45:24+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/blomstra/syndication/tree/1.4.0"
+        },
+        {
+            "version": "1.3.3",
+            "tag": "1.3.3",
+            "upstream_commit": "3467e4377416f3c2948c224c00a8a16a3a459f57",
+            "released": "2023-09-18T09:54:39+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/blomstra/syndication/tree/1.3.3"
+        }
+    ]
+}

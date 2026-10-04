@@ -1,0 +1,75 @@
+{
+    "package": "crachecode/flarum-import-fluxbb",
+    "upstream": "https://gitlab.com/ubuntu-fr/code/flarum-import-fluxbb",
+    "packagistUrl": "https://packagist.org/packages/crachecode/flarum-import-fluxbb",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-3.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "5701c3a5bca4d86a2b2e3c8a87c72e4ce8a61475",
+            "released": "2021-12-02T14:22:29+00:00",
+            "license": "GPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "browse_url": "https://packagist.org/packages/crachecode/flarum-import-fluxbb"
+        },
+        {
+            "version": "1.1.3",
+            "tag": "1.1.3",
+            "upstream_commit": "4925b9dc74ea8649f76537913c4acf82693bfdbe",
+            "released": "2021-05-01T14:45:51+00:00",
+            "license": "GPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "browse_url": "https://packagist.org/packages/crachecode/flarum-import-fluxbb"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "986cc4a65907ef7e3c0e301f70a0c27f24a50754",
+            "released": "2021-04-24T19:26:33+00:00",
+            "license": "GPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "browse_url": "https://packagist.org/packages/crachecode/flarum-import-fluxbb"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "a7c7f9bb7f264abff3919e7da5b37237e102d943",
+            "released": "2021-04-18T10:52:40+00:00",
+            "license": "GPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "browse_url": "https://packagist.org/packages/crachecode/flarum-import-fluxbb"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "022989240bc075ad52d0f2ca1787dc1186bb9ee6",
+            "released": "2021-04-18T10:36:17+00:00",
+            "license": "GPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "browse_url": "https://packagist.org/packages/crachecode/flarum-import-fluxbb"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "77ca1adce098070126897c6fc734173f4bfec87a",
+            "released": "2021-04-17T08:51:01+00:00",
+            "license": "GPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.16 <=0.1.0",
+            "browse_url": "https://packagist.org/packages/crachecode/flarum-import-fluxbb"
+        }
+    ]
+}

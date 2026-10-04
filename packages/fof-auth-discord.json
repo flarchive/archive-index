@@ -1,0 +1,53 @@
+{
+    "package": "fof/auth-discord",
+    "upstream": "https://github.com/FriendsOfFlarum/auth-discord",
+    "packagistUrl": "https://packagist.org/packages/fof/auth-discord",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "0.1.3",
+            "tag": "0.1.3",
+            "upstream_commit": "1a77f68cbffa31a4fc4f62ca585e670399b010ca",
+            "released": "2019-07-14T14:36:25+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/auth-discord/tree/0.1.3"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "0.1.2",
+            "upstream_commit": "04f542d73dfd81dcb38f1afb266f293dc8a6d271",
+            "released": "2019-06-13T19:45:15+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/auth-discord/tree/0.1.2"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "5dcc42e140353e89b0270872137a5e1bffb50059",
+            "released": "2019-05-28T20:21:29+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/auth-discord/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "12875be824c9f3d3b675b63c057cc225e2acff45",
+            "released": "2019-05-27T20:56:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/auth-discord/tree/0.1.0"
+        }
+    ]
+}

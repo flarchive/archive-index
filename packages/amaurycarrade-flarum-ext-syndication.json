@@ -1,0 +1,108 @@
+{
+    "package": "amaurycarrade/flarum-ext-syndication",
+    "upstream": "https://github.com/AmauryCarrade/flarum-ext-syndication",
+    "packagistUrl": "https://packagist.org/packages/amaurycarrade/flarum-ext-syndication",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (CECILL-B). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.3.1",
+            "tag": "v0.3.1",
+            "upstream_commit": "829c0752675119931b3574fa7cf6b8d7e398f793",
+            "released": "2019-10-16T00:33:50+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.10",
+            "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.3.1"
+        },
+        {
+            "version": "v0.3.0",
+            "tag": "v0.3.0",
+            "upstream_commit": "52bc1dafccc19d4df9394d0ca0ca4d1108290dde",
+            "released": "2019-10-15T01:16:45+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.10",
+            "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.3.0"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "v0.2.0",
+            "upstream_commit": "3d74000fc1aeb89cbf7855f6bc51445061fde937",
+            "released": "2019-03-23T15:26:27+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.2.0"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": "v0.1.5",
+            "upstream_commit": "88fd56c6cc850e66d45b59c4cddea337d89cd728",
+            "released": "2016-12-07T12:52:34+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.1.5"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "v0.1.4",
+            "upstream_commit": "6385f65912687cfd23406375f257b3b3da698f42",
+            "released": "2016-12-07T12:18:56+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.1.4"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "v0.1.3",
+            "upstream_commit": "9f4a72a436ee4f9f57b1efcf5c15e8165b6fe255",
+            "released": "2016-12-06T14:10:21+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.1.3"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "v0.1.2",
+            "upstream_commit": "e383fdcf05231c1cbbe20ed6db96d8d40d45bacd",
+            "released": "2016-12-06T13:46:16+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.1.2"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "v0.1.1",
+            "upstream_commit": "43c823ce4744c500507a60f47ce75cb38f6569a8",
+            "released": "2016-12-06T13:24:13+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.1.1"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "v0.1.0",
+            "upstream_commit": "b42d6643a8535c549bb85da24d4ce36f7140009f",
+            "released": "2016-12-06T12:28:07+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.1.0"
+        }
+    ]
+}

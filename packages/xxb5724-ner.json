@@ -1,0 +1,20 @@
+{
+    "package": "xxb5724/ner",
+    "upstream": "https://git.parlz.com/Xiaoxiaobai5724/ner",
+    "packagistUrl": "https://packagist.org/packages/xxb5724/ner",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (Unknown). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "2.0.0",
+            "upstream_commit": "13b20e21d239b516e44ae182e37bc1623a39a958",
+            "released": "2026-07-27T09:00:43+00:00",
+            "license": "",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^2.0",
+            "browse_url": "https://packagist.org/packages/xxb5724/ner"
+        }
+    ]
+}

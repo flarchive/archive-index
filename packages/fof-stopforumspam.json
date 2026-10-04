@@ -1,0 +1,273 @@
+{
+    "package": "fof/stopforumspam",
+    "upstream": "https://github.com/FriendsOfFlarum/stopforumspam",
+    "packagistUrl": "https://packagist.org/packages/fof/stopforumspam",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "1.2.4",
+            "tag": "1.2.4",
+            "upstream_commit": "660fec618276a3de0a784fdfe49c2970b24d98b7",
+            "released": "2023-11-12T09:44:07+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/1.2.4"
+        },
+        {
+            "version": "1.2.3",
+            "tag": "1.2.3",
+            "upstream_commit": "5c80fc939ba93e6b427c76fd6655b00c319c19db",
+            "released": "2022-11-02T00:49:58+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/1.2.3"
+        },
+        {
+            "version": "1.2.2",
+            "tag": "1.2.2",
+            "upstream_commit": "d476935e4dfb5a6f90837f179085a762acae31fa",
+            "released": "2022-10-28T08:29:04+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/1.2.2"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "1.2.1",
+            "upstream_commit": "96ee05b385f9b7861601bd51027a4867c0136a49",
+            "released": "2022-05-26T19:53:33+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/1.2.1"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "ea55ab95a10a98f28bde090a080da19b9be162aa",
+            "released": "2022-02-07T23:46:48+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/1.2.0"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "74fcece57258910141904f877d3b21954ee4f722",
+            "released": "2021-10-15T08:36:47+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "5ae3fdbf246b456c5b5c39869b651ed8c930cb26",
+            "released": "2021-09-14T12:12:08+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/1.1.0"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "6bc018f1b1d842743f28315ed8a39b99d5d49d20",
+            "released": "2021-05-26T19:09:29+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/1.0.0"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "0.5.0",
+            "upstream_commit": "e98af2ea1633bc948995c9f9ced8abfa3ce5bfd1",
+            "released": "2021-03-18T22:33:54+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.5.0"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "517b99e5d901fcca399bf309ec764c0f99315d95",
+            "released": "2020-12-16T10:42:09+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.4.0"
+        },
+        {
+            "version": "0.3.2",
+            "tag": "0.3.2",
+            "upstream_commit": "d055731299bbd889c416573d1536309c31bd067a",
+            "released": "2020-12-04T18:49:29+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.3.2"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "0.3.1",
+            "upstream_commit": "1cb438e0019bf28e0fc2dcb2527645d049816392",
+            "released": "2020-11-05T11:07:47+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.3.1"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "a0276547272d3b445df283d597a268a117058b90",
+            "released": "2020-11-04T22:17:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.3.0"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "0.2.2",
+            "upstream_commit": "9bda6c768d508cfe97b5399d50aca3dac3d9728e",
+            "released": "2020-05-04T18:32:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.2.2"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "ec0e1b82f15a7c559cd5ae15b66066ef5549db12",
+            "released": "2019-12-02T20:21:56+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.10",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "533405fcae1d68b2045eb77b02086edb538f3f90",
+            "released": "2019-09-16T22:19:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.10",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.2.0"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "0.1.5",
+            "upstream_commit": "e1cb7fb2ea17b9c6a8a4422ad9914cd10c5b41a0",
+            "released": "2019-01-14T21:53:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.1.5"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "0.1.4",
+            "upstream_commit": "f17556a1ee0085fb257c3d08e1239572c86c945f",
+            "released": "2018-12-04T00:03:45+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.1.4"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "0.1.3",
+            "upstream_commit": "9aacb1075c62f4652eaecb1301fd26b68ded1245",
+            "released": "2018-12-02T21:17:32+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.1.3"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "0.1.2",
+            "upstream_commit": "e328b7cf0cd13578aff29b20c6e1b18741f5be81",
+            "released": "2018-12-02T06:32:10+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.1.2"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "354d0599a8ed9fba174566338d5ee6fdfaac92ca",
+            "released": "2018-10-23T14:17:02+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "14343b9f5ad961206e330819bccbb0273fc120d0",
+            "released": "2018-10-21T08:24:49+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.1.0"
+        },
+        {
+            "version": "0.1.0-beta.2",
+            "tag": "0.1.0-beta.2",
+            "upstream_commit": "c3f80bc6fb86be08526a5693ca22ccbed370579d",
+            "released": "2018-09-16T21:43:45+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-7",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.1.0-beta.2"
+        },
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "0.1.0-beta.1",
+            "upstream_commit": "b9396e54ec94710e535b3f08331b010cd474cd84",
+            "released": "2018-09-16T21:42:03+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-7",
+            "browse_url": "https://github.com/FriendsOfFlarum/stopforumspam/tree/0.1.0-beta.1"
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "package": "dhtml/cpages",
+    "upstream": "https://github.com/dhtml/cpages",
+    "packagistUrl": "https://packagist.org/packages/dhtml/cpages",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.0.21",
+            "tag": "v0.0.21",
+            "upstream_commit": "97d0b0190001ae256fb032dcd4c200885ade9e12",
+            "released": "2024-08-02T19:10:53+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.21"
+        },
+        {
+            "version": "v0.0.20",
+            "tag": "v0.0.20",
+            "upstream_commit": "d54475f0eb039a50e4587fbeb15c4c2cff70e54f",
+            "released": "2024-08-02T18:59:51+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.20"
+        },
+        {
+            "version": "v0.0.19",
+            "tag": "v0.0.19",
+            "upstream_commit": "ed95991db531a3ece98be6bdb56fad7aae86c1d6",
+            "released": "2024-08-02T18:46:31+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.19"
+        },
+        {
+            "version": "v0.0.18",
+            "tag": "v0.0.18",
+            "upstream_commit": "105914c7820dfab4ca656334c30397a5c25dad92",
+            "released": "2024-08-02T18:43:59+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.18"
+        },
+        {
+            "version": "v0.0.17",
+            "tag": "v0.0.17",
+            "upstream_commit": "b97a2f85a70cb995cb0001bd04ff528f6e71ac0f",
+            "released": "2024-07-27T11:28:50+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.17"
+        },
+        {
+            "version": "v0.0.16",
+            "tag": "v0.0.16",
+            "upstream_commit": "f84089971d8ba9d0f3b8adba8e02b3974f5d9340",
+            "released": "2024-07-26T13:44:23+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.16"
+        },
+        {
+            "version": "v0.0.15",
+            "tag": "v0.0.15",
+            "upstream_commit": "8fd3202e47450c99e64dcc391141048d4453d41f",
+            "released": "2024-07-26T13:42:20+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.15"
+        },
+        {
+            "version": "v0.0.14",
+            "tag": "v0.0.14",
+            "upstream_commit": "293182bfbbbd7889e17bf0e69f7a466a14a04615",
+            "released": "2024-07-26T13:23:59+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.14"
+        },
+        {
+            "version": "v0.0.13",
+            "tag": "v0.0.13",
+            "upstream_commit": "2c0b2af26d08206339433a80a9770ea876805dbe",
+            "released": "2024-07-26T13:22:47+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.13"
+        },
+        {
+            "version": "v0.0.12",
+            "tag": "v0.0.12",
+            "upstream_commit": "9379e9b1dd2f87f691b3da045fe0b47e3bff62d9",
+            "released": "2024-07-26T13:19:43+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.12"
+        },
+        {
+            "version": "v0.0.11",
+            "tag": "v0.0.11",
+            "upstream_commit": "2f8c3b70c258d6451c2d291ec40fe83c807d9dfc",
+            "released": "2024-07-26T13:15:02+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.11"
+        },
+        {
+            "version": "v0.0.10",
+            "tag": "v0.0.10",
+            "upstream_commit": "b0c26e2644327171817795c6a8a7bbd6fc8d204b",
+            "released": "2024-07-26T13:03:00+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.10"
+        },
+        {
+            "version": "v0.0.9",
+            "tag": "v0.0.9",
+            "upstream_commit": "759c1aac017f9016321334c86384e8c683d70ec1",
+            "released": "2024-07-26T13:00:03+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.9"
+        },
+        {
+            "version": "v0.0.8",
+            "tag": "v0.0.8",
+            "upstream_commit": "fac8d36ba8c3d65ad0c717ed4551897f3324b7d3",
+            "released": "2024-07-26T12:17:45+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.8"
+        },
+        {
+            "version": "v0.0.7",
+            "tag": "v0.0.7",
+            "upstream_commit": "411f9c057ce648b77ef48276af13122c35278646",
+            "released": "2024-07-26T11:48:13+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.7"
+        },
+        {
+            "version": "v0.0.6",
+            "tag": "v0.0.6",
+            "upstream_commit": "aeb3b41cdf2f338fda68388d55e501666db5b775",
+            "released": "2024-07-26T11:40:13+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.6"
+        },
+        {
+            "version": "v0.0.5",
+            "tag": "v0.0.5",
+            "upstream_commit": "5e222fc5e091dc730df7847612938c5974b1f4ed",
+            "released": "2024-07-26T11:33:01+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.5"
+        },
+        {
+            "version": "v0.0.4",
+            "tag": "v0.0.4",
+            "upstream_commit": "dc753d713886b54da466419b0fbc54ccd6d52fec",
+            "released": "2024-07-26T11:06:26+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.4"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "v0.0.3",
+            "upstream_commit": "a5dfc0876b2122fd7b0619997628e987423e17a7",
+            "released": "2024-07-26T10:21:44+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.3"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "v0.0.2",
+            "upstream_commit": "47cb7ff6219e7c71db98c615fb7f20dde426e65f",
+            "released": "2024-07-26T08:50:38+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.2"
+        },
+        {
+            "version": "v0.0.1",
+            "tag": "v0.0.1",
+            "upstream_commit": "9937c7c1794ba2ea14423df49eae7db16f47aedf",
+            "released": "2024-07-25T22:48:14+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.1"
+        },
+        {
+            "version": "v0.0.0",
+            "tag": "v0.0.0",
+            "upstream_commit": "9a619656f968e954e2aa860b25a6d7fc7cd61894",
+            "released": "2024-07-25T22:30:35+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.0"
+        }
+    ]
+}

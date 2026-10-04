@@ -1,0 +1,163 @@
+{
+    "package": "ianm/syndication",
+    "upstream": "https://github.com/imorland/syndication",
+    "packagistUrl": "https://packagist.org/packages/ianm/syndication",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (CECILL-B). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "5538b01cca3de85e0b11ce444c4d058adba2e75b",
+            "released": "2026-04-20T20:36:32+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/imorland/syndication/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.3.5",
+            "tag": "1.3.5",
+            "upstream_commit": "16288f25a2f533c871fb41dabe68abb43cd48d59",
+            "released": "2026-04-20T19:50:27+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.3",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.3.5"
+        },
+        {
+            "version": "1.3.4",
+            "tag": "1.3.4",
+            "upstream_commit": "a7d9616680d20359271fa6f811cc40a28bf9173b",
+            "released": "2023-12-20T21:18:09+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.3",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.3.4"
+        },
+        {
+            "version": "1.3.3",
+            "tag": "1.3.3",
+            "upstream_commit": "ae70a6b06de0de4e4e0fdf0121b1c2003f845c67",
+            "released": "2023-11-14T09:22:25+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.3",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.3.3"
+        },
+        {
+            "version": "1.3.2",
+            "tag": "1.3.2",
+            "upstream_commit": "ea8ea9c677bb23c234c0b7a84eb5d1d874a226f8",
+            "released": "2023-09-12T19:12:14+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.3.2"
+        },
+        {
+            "version": "1.3.1",
+            "tag": "1.3.1",
+            "upstream_commit": "5c5117ddd7ee5de81d58ee0d0acbd1f3fcc64f4b",
+            "released": "2023-03-15T13:24:49+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.3.1"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "1.3.0",
+            "upstream_commit": "8d3b3d8af671e211764f9ffdd3050e2884a0b156",
+            "released": "2023-02-01T12:37:02+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.3.0"
+        },
+        {
+            "version": "1.2.2",
+            "tag": "1.2.2",
+            "upstream_commit": "262d3927c01449076cc9f562c962cf7e1b2552ad",
+            "released": "2022-08-12T10:02:17+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.2.2"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "1.2.1",
+            "upstream_commit": "14d80eebdea1d46d124b97c06c5dd126ae2633f9",
+            "released": "2022-06-22T21:16:09+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.2.1"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "978f1279e4e1a58b74371eab8054dee5d4315a79",
+            "released": "2022-06-08T20:42:23+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.2.0"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "a922c4dd78afb26b9e7586cbac2e64c22255cb4f",
+            "released": "2022-01-25T10:11:56+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.1.0"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "603f900587eb3c1d08585e2a51421c341b214b26",
+            "released": "2021-07-06T20:34:11+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0.2",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "ad59c74c6e2fdab13d6e88f8a5215252f9c2f1e5",
+            "released": "2021-06-10T10:08:38+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0.2",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "f26d6d20d6b5352927a59305d2ef3bc47eaf0de1",
+            "released": "2021-06-10T08:45:05+00:00",
+            "license": "CECILL-B",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0.2",
+            "browse_url": "https://github.com/imorland/syndication/tree/1.0.0"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "package": "fof/realtimedate",
+    "upstream": "https://github.com/FriendsOfFlarum/realtimedate",
+    "packagistUrl": "https://packagist.org/packages/fof/realtimedate",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "65fb3dcab6875f0c58880fa265e3b415c07279ad",
+            "released": "2021-03-24T21:08:59+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimedate/tree/0.3.0"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "55c7e9a57846914d6fba8568d6ff335c1b7aafb7",
+            "released": "2020-12-15T13:27:06+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimedate/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "cd57251c269418f885727593af89c2f60a158eed",
+            "released": "2020-12-08T16:10:11+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimedate/tree/0.2.0"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "0.1.3",
+            "upstream_commit": "7455bc363469f30f2ca86aa71936e5b71fe10f1d",
+            "released": "2020-07-08T22:21:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.11",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimedate/tree/0.1.3"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "0.1.2",
+            "upstream_commit": "99946e6a34bc5cb134d6308d37415516bc5613a2",
+            "released": "2020-03-26T04:40:20+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.11",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimedate/tree/0.1.2"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "4e5e3db9bac45cc679745af338f9a9a4ab121d2d",
+            "released": "2020-03-24T20:21:54+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.11",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimedate/tree/0.1.1"
+        },
+        {
+            "version": "0.1",
+            "tag": "0.1",
+            "upstream_commit": "18b32e9a4985502c6b1a6fe62dc09ebb1e212e2a",
+            "released": "2020-03-24T06:55:20+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.11",
+            "browse_url": "https://github.com/FriendsOfFlarum/realtimedate/tree/0.1"
+        }
+    ]
+}

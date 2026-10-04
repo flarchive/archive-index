@@ -1,0 +1,20 @@
+{
+    "package": "dhtml/flarum-language-hindi",
+    "upstream": "https://github.com/dhtml/flarum-language-hindi",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-hindi",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "fcef7898baed513a82859eb7049030cc16991bf5",
+            "released": "2024-06-20T09:21:28+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-hindi/tree/0.0.1"
+        }
+    ]
+}

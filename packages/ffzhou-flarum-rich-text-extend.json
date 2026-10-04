@@ -1,0 +1,20 @@
+{
+    "package": "ffzhou/flarum-rich-text-extend",
+    "upstream": "https://gitee.com/zhouweijie/flarum-rich-text-extend",
+    "packagistUrl": "https://packagist.org/packages/ffzhou/flarum-rich-text-extend",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "v0.1.0",
+            "upstream_commit": "8df78345b333e95f496213e13b9e6c1189dbd76b",
+            "released": "2021-04-15T09:33:11+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://packagist.org/packages/ffzhou/flarum-rich-text-extend"
+        }
+    ]
+}

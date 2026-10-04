@@ -1,0 +1,42 @@
+{
+    "package": "quademu/flarum-tinker",
+    "upstream": "https://git.quademu.com/external/flarum-tinker",
+    "packagistUrl": "https://packagist.org/packages/quademu/flarum-tinker",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v1.1.1",
+            "tag": "v1.1.1",
+            "upstream_commit": "184f8f61993225c4545c5d41fce52222a2c539be",
+            "released": "2021-06-01T21:34:17+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0.0",
+            "browse_url": "https://packagist.org/packages/quademu/flarum-tinker"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "v1.1.0",
+            "upstream_commit": "e62d680c697c66fe73eff5fe0b636466e9877b44",
+            "released": "2020-11-25T12:54:31+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://packagist.org/packages/quademu/flarum-tinker"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "v1.0.0",
+            "upstream_commit": "01cda69954c02e3b5230479f47174ca93cc92ff5",
+            "released": "2020-11-08T10:41:59+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.13",
+            "browse_url": "https://packagist.org/packages/quademu/flarum-tinker"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "package": "wanecho/mobile-tab",
+    "upstream": "https://gitee.com/echo886/mobile-tab",
+    "packagistUrl": "https://packagist.org/packages/wanecho/mobile-tab",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "2.0.4",
+            "tag": "2.0.4",
+            "upstream_commit": "db7a5ac7042b11ab3763d6cebc9e719779230aa9",
+            "released": "2023-05-13T02:00:04+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7",
+            "browse_url": "https://packagist.org/packages/wanecho/mobile-tab"
+        },
+        {
+            "version": "2.0.3",
+            "tag": "2.0.3",
+            "upstream_commit": "18864be293399964d2efc9495d0ee605868961e1",
+            "released": "2023-05-12T13:14:23+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7",
+            "browse_url": "https://packagist.org/packages/wanecho/mobile-tab"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "2.0.2",
+            "upstream_commit": "6bf8e717f01abcbef0df369dfa736d7174027e9c",
+            "released": "2023-05-11T16:29:38+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2",
+            "browse_url": "https://packagist.org/packages/wanecho/mobile-tab"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "2.0.1",
+            "upstream_commit": "4df986be4f390ea91c74bc8996303e20d01e5c27",
+            "released": "2023-05-11T16:18:33+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2",
+            "browse_url": "https://packagist.org/packages/wanecho/mobile-tab"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "2.0.0",
+            "upstream_commit": "8cd0e7ef224c688a9fa1428539fdfcd02a9c99d9",
+            "released": "2023-05-06T04:36:50+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2",
+            "browse_url": "https://packagist.org/packages/wanecho/mobile-tab"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "8cd0e7ef224c688a9fa1428539fdfcd02a9c99d9",
+            "released": "2023-05-06T04:36:50+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2",
+            "browse_url": "https://packagist.org/packages/wanecho/mobile-tab"
+        }
+    ]
+}

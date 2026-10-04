@@ -1,0 +1,20 @@
+{
+    "package": "dhtml/flarum-language-bengali",
+    "upstream": "https://github.com/dhtml/flarum-language-bengali",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-bengali",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "160b3d30d4e5a7909767a227c1933ae66dfc0e38",
+            "released": "2024-06-20T03:36:08+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-bengali/tree/0.0.1"
+        }
+    ]
+}

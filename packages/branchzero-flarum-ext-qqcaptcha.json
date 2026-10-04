@@ -1,0 +1,8 @@
+{
+    "package": "branchzero/flarum-ext-qqcaptcha",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/branchzero/flarum-ext-qqcaptcha",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

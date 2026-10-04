@@ -1,0 +1,229 @@
+{
+    "package": "floxum/flarum-ext-oidc",
+    "upstream": "https://1x.ax/floxum/library/flarum/extensions/oidc",
+    "packagistUrl": "https://packagist.org/packages/floxum/flarum-ext-oidc",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.20",
+            "tag": "1.20",
+            "upstream_commit": "3ac8d43492934cb320b9b2602bca14d4d3e414c8",
+            "released": "2026-07-07T07:04:36+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.19",
+            "tag": "1.19",
+            "upstream_commit": "a7787ca837209dff69efd20ac4a047fb3e066262",
+            "released": "2026-07-07T06:42:22+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.18",
+            "tag": "1.18",
+            "upstream_commit": "b5e6183f0b3eb47a4d0ed69fca5d4882c3780cb1",
+            "released": "2026-04-16T13:08:17+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.17",
+            "tag": "1.17",
+            "upstream_commit": "299e8cb09342d0a25319abeb6a8f7b27f8fe57a6",
+            "released": "2026-04-16T12:52:23+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.16",
+            "tag": "1.16",
+            "upstream_commit": "3cd068e2aedffe0cd2047a186de43b68f6185174",
+            "released": "2026-04-16T12:14:49+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.15",
+            "tag": "1.15",
+            "upstream_commit": "b3601d1f7703c55575b5ed73ccb08022834b3a3d",
+            "released": "2026-04-09T05:06:29+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.14",
+            "tag": "1.14",
+            "upstream_commit": "b5da0827bac9b58884b92d2fba7b5923b0379ed9",
+            "released": "2026-04-08T10:23:25+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.13",
+            "tag": "1.13",
+            "upstream_commit": "58e7602c03e3411aa826b9fe4c1cff73e8a77915",
+            "released": "2026-02-12T08:23:46+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.12",
+            "tag": "1.12",
+            "upstream_commit": "4a70ffed3576c96fdf002df694fe6a35fb7a40af",
+            "released": "2026-01-25T05:49:54+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.11",
+            "tag": "1.11",
+            "upstream_commit": "49949f6c8446066b63ae13d3ab3aef0c3fea2f35",
+            "released": "2026-01-24T19:09:57+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.10",
+            "tag": "1.10",
+            "upstream_commit": "408c40d6bac71bdd78ae334e36249958396c2563",
+            "released": "2026-01-24T18:54:30+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.9",
+            "tag": "1.9",
+            "upstream_commit": "a1d60c027ef0117433e8dc80aa0b346d5be6373d",
+            "released": "2026-01-24T18:44:43+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.8",
+            "tag": "1.8",
+            "upstream_commit": "14b2cb96c28d47efb73eb4470ab64837d8b6d7fe",
+            "released": "2026-01-24T18:27:38+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.7",
+            "tag": "1.7",
+            "upstream_commit": "d29299b960da67c254140b6ff20e6f15f8c0af5c",
+            "released": "2026-01-24T18:15:18+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.6",
+            "tag": "1.6",
+            "upstream_commit": "a5982ff31510988798860cd9a57a807fcd82e3bf",
+            "released": "2026-01-23T06:36:40+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.5",
+            "tag": "1.5",
+            "upstream_commit": "752406665e6651620274386cd98b5a0d28120295",
+            "released": "2026-01-23T05:41:25+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.4",
+            "tag": "1.4",
+            "upstream_commit": "d53270bf8009bf11da1f97c4f4fd40319202839e",
+            "released": "2026-01-23T05:30:14+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.3",
+            "tag": "1.3",
+            "upstream_commit": "30c162d733d2c7fc7dc4b6234844bf585f7ead96",
+            "released": "2026-01-23T05:08:12+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.2",
+            "tag": "1.2",
+            "upstream_commit": "e19bd5cb515186d1d5e3775cc052234fef26ad72",
+            "released": "2026-01-23T05:06:55+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        },
+        {
+            "version": "1.0",
+            "tag": "1.0",
+            "upstream_commit": "499337e29cacd988dc9d20ebdddc4564ca0f368b",
+            "released": "2026-01-22T18:32:14+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "1.8.*",
+            "browse_url": "https://packagist.org/packages/floxum/flarum-ext-oidc"
+        }
+    ]
+}

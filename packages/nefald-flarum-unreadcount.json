@@ -1,0 +1,42 @@
+{
+    "package": "nefald/flarum-unreadcount",
+    "upstream": "http://git.nefald.fr/monnierant/nefald-unreadcount",
+    "packagistUrl": "https://packagist.org/packages/nefald/flarum-unreadcount",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.3-beta",
+            "tag": "0.0.3-beta",
+            "upstream_commit": "60b1d0dff5658d833664c571382011205430b518",
+            "released": "2015-11-12T10:58:35+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.3",
+            "browse_url": "https://packagist.org/packages/nefald/flarum-unreadcount"
+        },
+        {
+            "version": "0.0.2-beta",
+            "tag": "0.0.2-beta",
+            "upstream_commit": "94c0cffedeb4fa3d7960f070f68d7ee3550f0eda",
+            "released": "2015-11-12T10:37:40+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.3",
+            "browse_url": "https://packagist.org/packages/nefald/flarum-unreadcount"
+        },
+        {
+            "version": "0.0.1-beta",
+            "tag": "0.0.1-beta",
+            "upstream_commit": "c59385e9c7e203f7665e456714d7c4d2a9bf4bfe",
+            "released": "2015-11-12T09:55:15+00:00",
+            "license": "",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.3",
+            "browse_url": "https://packagist.org/packages/nefald/flarum-unreadcount"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "package": "fof/pwa",
+    "upstream": "https://github.com/FriendsOfFlarum/pwa",
+    "packagistUrl": "https://packagist.org/packages/fof/pwa",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "1.2.1",
+            "tag": "1.2.1",
+            "upstream_commit": "4794a68c89746900a4e996ca046d6acfe6fdb040",
+            "released": "2026-09-16T10:40:49+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/1.2.1"
+        },
+        {
+            "version": "2.0.0-beta.6",
+            "tag": "2.0.0-beta.6",
+            "upstream_commit": "e1f806fe89765c3a0c2fe7e9298e24fd8fe6ca33",
+            "released": "2026-09-16T10:24:09+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-rc.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/2.0.0-beta.6"
+        },
+        {
+            "version": "2.0.0-beta.5",
+            "tag": "2.0.0-beta.5",
+            "upstream_commit": "9d3360959cfce6a6e85f62c974dc417a10b6a4e1",
+            "released": "2026-09-15T14:22:18+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-rc.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/2.0.0-beta.5"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "f65e7293df07f7b4ca4c536feee2c477a270a2a1",
+            "released": "2026-09-04T21:08:36+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/1.2.0"
+        },
+        {
+            "version": "2.0.0-beta.4",
+            "tag": "2.0.0-beta.4",
+            "upstream_commit": "1759688634d905e58ca216a0c9d7cfe1c191b0b2",
+            "released": "2026-09-03T12:39:13+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-rc.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/2.0.0-beta.4"
+        },
+        {
+            "version": "2.0.0-beta.3",
+            "tag": "2.0.0-beta.3",
+            "upstream_commit": "072452e4f3751cf134f32726bb05d9e08e7aa896",
+            "released": "2026-08-27T16:11:11+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-rc.5",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/2.0.0-beta.3"
+        },
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "87bc341b0af527bae6c11fb5dff3eeeb776d9163",
+            "released": "2026-08-26T14:30:29+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-rc.5",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "d1c80749180605499121fcfaff1693b0245b90cd",
+            "released": "2026-08-17T12:53:52+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-rc.5",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "a939798b07ee27021a999df805bc5f2954f9b6c7",
+            "released": "2026-08-14T15:40:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/1.1.0"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "5e89e759bf38ad12c8ff4ceef0d89acb75f0fe1b",
+            "released": "2026-08-13T13:57:45+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "535303480c3f267d1191909b1d76fa443f06aef4",
+            "released": "2026-08-13T13:44:38+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/pwa/tree/1.0.0"
+        }
+    ]
+}

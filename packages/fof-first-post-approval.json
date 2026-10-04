@@ -1,0 +1,31 @@
+{
+    "package": "fof/first-post-approval",
+    "upstream": "https://github.com/FriendsOfFlarum/first-post-approval",
+    "packagistUrl": "https://packagist.org/packages/fof/first-post-approval",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "2755eb9c24b7c4b577ce64900ffc70842a691773",
+            "released": "2026-08-16T14:23:19+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/first-post-approval/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "74ad6027346cebbbb96490a0de466c4cc3102827",
+            "released": "2026-08-16T13:09:52+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/first-post-approval/tree/1.0.0"
+        }
+    ]
+}

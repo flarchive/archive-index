@@ -1,0 +1,64 @@
+{
+    "package": "fof/photoswipe",
+    "upstream": "https://github.com/FriendsOfFlarum/photoswipe",
+    "packagistUrl": "https://packagist.org/packages/fof/photoswipe",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "v2.0.0-beta.2",
+            "tag": "v2.0.0-beta.2",
+            "upstream_commit": "801c0667f7ce006ecdf37860f05fb20e2e116350",
+            "released": "2026-05-14T13:51:48+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^v2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/photoswipe/tree/v2.0.0-beta.2"
+        },
+        {
+            "version": "v2.0.0-beta.1",
+            "tag": "v2.0.0-beta.1",
+            "upstream_commit": "f19035c1dc5e76709f8813e74ef306c6376c28c8",
+            "released": "2026-04-21T11:05:42+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^v2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/photoswipe/tree/v2.0.0-beta.1"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "v1.0.2",
+            "upstream_commit": "c1b9324c8657cf0500195ec8620a089a2b3fd977",
+            "released": "2026-04-21T08:12:09+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/photoswipe/tree/v1.0.2"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "v1.0.1",
+            "upstream_commit": "7bce790cf0aa531faf51def74a6ecbd66f245138",
+            "released": "2026-04-20T21:44:57+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/photoswipe/tree/v1.0.1"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "v1.0.0",
+            "upstream_commit": "b78ebee2c521cbe16ca2b3ab697a1751a030ea8b",
+            "released": "2026-04-20T21:35:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/photoswipe/tree/v1.0.0"
+        }
+    ]
+}

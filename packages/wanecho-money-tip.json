@@ -1,0 +1,20 @@
+{
+    "package": "wanecho/money-tip",
+    "upstream": "https://gitee.com/echo886/flarum-money-tip",
+    "packagistUrl": "https://packagist.org/packages/wanecho/money-tip",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "d30e35bb6e7bd9aa87033e33ce7f32f7c0e2ee10",
+            "released": "2023-05-15T15:17:45+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2",
+            "browse_url": "https://packagist.org/packages/wanecho/money-tip"
+        }
+    ]
+}

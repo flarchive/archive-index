@@ -1,0 +1,8 @@
+{
+    "package": "forumez/supabase-auth",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/forumez/supabase-auth",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

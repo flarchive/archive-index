@@ -1,0 +1,31 @@
+{
+    "package": "wanecho/showfloor",
+    "upstream": "https://gitee.com/echo886/flarum-showfloor",
+    "packagistUrl": "https://packagist.org/packages/wanecho/showfloor",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "ebacb222855a3734f71760a5b14ae863fdb289d1",
+            "released": "2023-04-30T04:56:25+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/showfloor"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "16413d42aca0a21cb71254f0c2f3396bad1df887",
+            "released": "2023-04-30T04:50:24+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/showfloor"
+        }
+    ]
+}

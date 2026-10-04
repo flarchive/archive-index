@@ -1,0 +1,8 @@
+{
+    "package": "alter/flarum-ext-chat",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/alter/flarum-ext-chat",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

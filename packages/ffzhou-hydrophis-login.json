@@ -1,0 +1,64 @@
+{
+    "package": "ffzhou/hydrophis-login",
+    "upstream": "https://gitee.com/zhouweijie/flarum-hydrophis-login",
+    "packagistUrl": "https://packagist.org/packages/ffzhou/hydrophis-login",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (Motosoto). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.1.4",
+            "tag": "v0.1.4",
+            "upstream_commit": "1dcaf71cb415f69034282fa738fbc29e99841f64",
+            "released": "2021-06-03T06:33:56+00:00",
+            "license": "Motosoto",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://packagist.org/packages/ffzhou/hydrophis-login"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "v0.1.3",
+            "upstream_commit": "64f2ce7b6b9e2e3409f239ac7f98d63c87f2dff4",
+            "released": "2021-04-07T06:58:31+00:00",
+            "license": "Motosoto",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://packagist.org/packages/ffzhou/hydrophis-login"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "v0.1.2",
+            "upstream_commit": "9264cda2725826fcb856f85113e23d62542da3bb",
+            "released": "2021-03-31T09:23:28+00:00",
+            "license": "Motosoto",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://packagist.org/packages/ffzhou/hydrophis-login"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "v0.1.1",
+            "upstream_commit": "eb0e25ba594da25b2440c225d38661fbb63c8eb2",
+            "released": "2021-03-29T07:34:00+00:00",
+            "license": "Motosoto",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://packagist.org/packages/ffzhou/hydrophis-login"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "v0.1.0",
+            "upstream_commit": "7ec2a7669176e062169f35b683fa80c58a8a6dca",
+            "released": "2021-03-26T10:03:43+00:00",
+            "license": "Motosoto",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://packagist.org/packages/ffzhou/hydrophis-login"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "dhtml/flarum-language-amharic",
+    "upstream": "https://github.com/dhtml/flarum-language-amharic",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-amharic",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "98da4deee87c8a20535004cd76dd7fe551507a83",
+            "released": "2024-06-20T03:23:43+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-amharic/tree/0.0.1"
+        }
+    ]
+}

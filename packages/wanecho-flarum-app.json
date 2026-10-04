@@ -1,0 +1,119 @@
+{
+    "package": "wanecho/flarum-app",
+    "upstream": "https://gitee.com/echo886/flarum-app",
+    "packagistUrl": "https://packagist.org/packages/wanecho/flarum-app",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.9",
+            "tag": "1.0.9",
+            "upstream_commit": "ae40027f672390db345871f13d7a42d897e29683",
+            "released": "2023-06-22T18:03:03+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        },
+        {
+            "version": "1.0.8",
+            "tag": "1.0.8",
+            "upstream_commit": "6fa0b859749d809b408149900606e71280fe30ac",
+            "released": "2023-05-25T16:31:28+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        },
+        {
+            "version": "1.0.7",
+            "tag": "1.0.7",
+            "upstream_commit": "e1ab80cb1e1f59699aafd5467de8bf4a086b22ab",
+            "released": "2023-05-25T15:43:31+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "1.0.6",
+            "upstream_commit": "999d883172ac8b87b06739115ade568a4f22b2b3",
+            "released": "2023-05-24T14:04:52+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "1.0.5",
+            "upstream_commit": "d43e8ae4a16c11b984fea528b53839a15356173f",
+            "released": "2023-05-24T12:49:03+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "1.0.4",
+            "upstream_commit": "4bd34994803a4837de00e9843e0942fb6fafc52c",
+            "released": "2023-05-23T16:10:13+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "454b95656f6f477826b9ce759462e7df0308df96",
+            "released": "2023-05-23T15:41:32+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "0bfa2bd210d67a021f6c5e0d89b0632a1cadae4a",
+            "released": "2023-05-22T18:57:52+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "27ab330a30039cc91c444e7d1333db8a2ca5aad8",
+            "released": "2023-05-20T08:16:18+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "30cff44f45bb22b285395d2e2c9ea2a0b4a80dad",
+            "released": "2023-05-20T08:06:22+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
+        }
+    ]
+}

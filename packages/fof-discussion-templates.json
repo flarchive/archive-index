@@ -1,0 +1,31 @@
+{
+    "package": "fof/discussion-templates",
+    "upstream": "https://github.com/FriendsOfFlarum/discussion-templates",
+    "packagistUrl": "https://packagist.org/packages/fof/discussion-templates",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "6cda5c45a760b773cb351ce5ea1ac0849f390c19",
+            "released": "2025-12-24T00:44:12+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/discussion-templates/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "34ad9435c07677cba90b2b6579a1a5f0de9273d1",
+            "released": "2025-12-24T00:00:47+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/discussion-templates/tree/1.0.0"
+        }
+    ]
+}

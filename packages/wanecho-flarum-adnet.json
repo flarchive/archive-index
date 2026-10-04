@@ -1,0 +1,218 @@
+{
+    "package": "wanecho/flarum-adnet",
+    "upstream": "https://gitee.com/echo886/flarum-adnet",
+    "packagistUrl": "https://packagist.org/packages/wanecho/flarum-adnet",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.1.8",
+            "tag": "1.1.8",
+            "upstream_commit": "63ca9d2f360d461b4c488028ba8ce7cac5efb805",
+            "released": "2023-05-27T06:00:24+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.1.7",
+            "tag": "1.1.7",
+            "upstream_commit": "f0d1e53bc79b032452448f7d036fde71b8d7f577",
+            "released": "2023-05-27T04:16:23+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.1.6",
+            "tag": "1.1.6",
+            "upstream_commit": "e226f780abf08b6a8c1d0fa4390714fd178b70e3",
+            "released": "2023-05-27T02:30:11+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.1.5",
+            "tag": "1.1.5",
+            "upstream_commit": "7413270fe9d7af4326ce7acb03f5d337f3c2646e",
+            "released": "2023-05-26T12:33:02+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.1.4",
+            "tag": "1.1.4",
+            "upstream_commit": "155a5bbb96708666d091972556917db9afa376e3",
+            "released": "2023-05-26T11:42:10+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.1.3",
+            "tag": "1.1.3",
+            "upstream_commit": "f6e892e4a2e7ba4cf7ef279dbbd55bae341fc535",
+            "released": "2023-05-26T11:26:42+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "62cc6c3659fcf5372dc22afb24393074b640678f",
+            "released": "2023-05-25T14:50:25+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "2e1c5bcb7d563c336eee4221a226e4ac53162b26",
+            "released": "2023-05-25T12:29:42+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "5b0c3c28f31c86ad33a97f38aba361aa3aac6b2e",
+            "released": "2023-05-25T12:12:35+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.9",
+            "tag": "1.0.9",
+            "upstream_commit": "dafa3d29714422c413bb1bec0f1c53dd760463d3",
+            "released": "2023-05-25T11:34:49+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.8",
+            "tag": "1.0.8",
+            "upstream_commit": "b216e5cf02283171beb0554919ac88fad46d9b20",
+            "released": "2023-05-25T11:22:02+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.7",
+            "tag": "1.0.7",
+            "upstream_commit": "42f9b2744f90c2bf5249d7bf5f8de4fd94452028",
+            "released": "2023-05-22T18:52:38+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "1.0.6",
+            "upstream_commit": "cb7282728effae45198b854d4c475475082b4d45",
+            "released": "2023-05-22T16:32:18+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "1.0.5",
+            "upstream_commit": "c16802ba1337a4b452d8e57603551d927587f067",
+            "released": "2023-05-22T16:04:57+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "1.0.4",
+            "upstream_commit": "c16802ba1337a4b452d8e57603551d927587f067",
+            "released": "2023-05-22T16:04:57+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "cf855dd7e1874206d05fbec7788653fc461dfd6a",
+            "released": "2023-05-20T19:01:02+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "86f9a4a8aad0d0f3a816c4fa4a3c76f66df2e4da",
+            "released": "2023-05-20T18:23:26+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "0cb034c18612a12b5e8f1b9c2fabd751bfe1ae5a",
+            "released": "2023-05-20T12:02:12+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "0a143bf7ef3f17066247737fe593abd11f5c26c0",
+            "released": "2023-05-20T11:44:22+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
+        }
+    ]
+}

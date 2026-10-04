@@ -1,0 +1,207 @@
+{
+    "package": "fof/anti-spam",
+    "upstream": "https://github.com/FriendsOfFlarum/anti-spam",
+    "packagistUrl": "https://packagist.org/packages/fof/anti-spam",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-rc.5",
+            "tag": "2.0.0-rc.5",
+            "upstream_commit": "c699ae6078e3adcc28d5f4d01f6647f5ea17b701",
+            "released": "2026-09-02T16:13:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/2.0.0-rc.5"
+        },
+        {
+            "version": "2.0.0-rc.4",
+            "tag": "2.0.0-rc.4",
+            "upstream_commit": "c74533aa95e749ee070af6aaf2decd4e642f0a23",
+            "released": "2026-08-31T13:30:40+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/2.0.0-rc.4"
+        },
+        {
+            "version": "2.0.0-rc.3",
+            "tag": "2.0.0-rc.3",
+            "upstream_commit": "177bf2bef6ec369a91fbbbcbe947b5ddccdaff8d",
+            "released": "2026-08-29T20:46:39+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/2.0.0-rc.3"
+        },
+        {
+            "version": "2.0.0-rc.2",
+            "tag": "2.0.0-rc.2",
+            "upstream_commit": "08b640ee45836729fa4184010e2b823b5e263216",
+            "released": "2026-08-29T16:54:30+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/2.0.0-rc.2"
+        },
+        {
+            "version": "2.0.0-rc.1",
+            "tag": "2.0.0-rc.1",
+            "upstream_commit": "53fa6c28b42b948404d73a82b62781e265a5b99c",
+            "released": "2026-08-24T13:40:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/2.0.0-rc.1"
+        },
+        {
+            "version": "1.1.5",
+            "tag": "1.1.5",
+            "upstream_commit": "dd907168465dbda6e28b8d62e0dd189de5bf763e",
+            "released": "2026-07-13T13:48:31+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/1.1.5"
+        },
+        {
+            "version": "2.0.0-beta.3",
+            "tag": "2.0.0-beta.3",
+            "upstream_commit": "e1ece24a6f329d7cc48671762d5a22c47a6e9097",
+            "released": "2026-06-16T12:17:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/2.0.0-beta.3"
+        },
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "8d86c4d1afbc6112812b4498a1c1212fe28ce3da",
+            "released": "2026-01-24T12:49:50+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "a04b8cc27c0d5b6bf7845c23b585139c2f1c0347",
+            "released": "2025-12-20T17:16:53+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.1.4",
+            "tag": "1.1.4",
+            "upstream_commit": "bdde035f45c704dd3dbf9f2ee6abf6e37da09dad",
+            "released": "2025-10-17T20:40:01+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/1.1.4"
+        },
+        {
+            "version": "1.1.3",
+            "tag": "1.1.3",
+            "upstream_commit": "6551e2c77f166b0edf26144eda51869478998de3",
+            "released": "2025-01-07T13:34:36+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/1.1.3"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "5843f5f2bc137c32ea6538c1f82fa8e4ed3e3be3",
+            "released": "2023-12-08T11:07:02+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "a5a6c54d5075eaa8c6e6dbbfca7d480b94cc70c1",
+            "released": "2023-12-08T10:18:06+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "cfd89b6cd3c4acf1d9457079e4ebb02a1b01b2e3",
+            "released": "2023-12-03T19:34:37+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/1.1.0"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "5c78b8378c92ba84a71ecb039221898d8570eb2a",
+            "released": "2023-11-23T08:18:44+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/1.0.0"
+        },
+        {
+            "version": "0.1.0-beta.3",
+            "tag": "0.1.0-beta.3",
+            "upstream_commit": "5c78b8378c92ba84a71ecb039221898d8570eb2a",
+            "released": "2023-11-23T08:18:44+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/0.1.0-beta.3"
+        },
+        {
+            "version": "0.1.0-beta.2",
+            "tag": "0.1.0-beta.2",
+            "upstream_commit": "5544fec006dea3c677819f874fae4409863e4eaf",
+            "released": "2023-11-20T18:09:21+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/0.1.0-beta.2"
+        },
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "0.1.0-beta.1",
+            "upstream_commit": "a3b2cf1e994a3ed24aa167c0065623099eb16c71",
+            "released": "2023-11-17T22:13:29+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/0.1.0-beta.1"
+        }
+    ]
+}

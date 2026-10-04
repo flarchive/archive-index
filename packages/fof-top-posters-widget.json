@@ -1,0 +1,31 @@
+{
+    "package": "fof/top-posters-widget",
+    "upstream": "https://github.com/FriendsOfFlarum/top-posters-widget",
+    "packagistUrl": "https://packagist.org/packages/fof/top-posters-widget",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "b8e64fe51b3dfbc4528bd2f08184b31af5d8235f",
+            "released": "2026-04-13T16:42:18+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/top-posters-widget/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "a6c862dd3a1eb9abcc78ccd9987ad4ebaae5b45d",
+            "released": "2026-04-12T21:23:19+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/top-posters-widget/tree/1.0.0"
+        }
+    ]
+}

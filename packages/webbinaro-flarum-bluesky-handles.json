@@ -1,0 +1,53 @@
+{
+    "package": "webbinaro/flarum-bluesky-handles",
+    "upstream": "https://github.com/eddiewebb/flarum-bluesky-handles",
+    "packagistUrl": "https://packagist.org/packages/webbinaro/flarum-bluesky-handles",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "74c091681c9ebefb593c8f973a1f2fbce6a49bc2",
+            "released": "2024-11-28T11:48:28+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/eddiewebb/flarum-bluesky-handles/tree/1.0.3"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "a407136bac1e6377097b165bab7907340bdd69be",
+            "released": "2024-11-24T15:29:48+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/eddiewebb/flarum-bluesky-handles/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "492ccd0485e25dd994d785725b54c7458a55efa4",
+            "released": "2024-11-22T21:05:12+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/eddiewebb/flarum-bluesky-handles/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "4917115198f8a95c8172ef62ab01c7b8069ff154",
+            "released": "2024-11-22T20:33:31+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/eddiewebb/flarum-bluesky-handles/tree/1.0.0"
+        }
+    ]
+}

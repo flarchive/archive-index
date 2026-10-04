@@ -1,0 +1,8 @@
+{
+    "package": "zephyrisle/flarum-ai-audit",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/zephyrisle/flarum-ai-audit",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

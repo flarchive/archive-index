@@ -1,0 +1,20 @@
+{
+    "package": "dhtml/flarum-language-chinese",
+    "upstream": "https://github.com/dhtml/flarum-language-chinese",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-chinese",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "ab23690df416b1ebb325d09eed57c6fedf0a3893",
+            "released": "2024-06-20T04:07:43+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-chinese/tree/0.0.1"
+        }
+    ]
+}

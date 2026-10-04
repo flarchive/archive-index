@@ -1,0 +1,86 @@
+{
+    "package": "fof/badges",
+    "upstream": "https://github.com/FriendsOfFlarum/badges",
+    "packagistUrl": "https://packagist.org/packages/fof/badges",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "f47ac15cfb68deba5953ede28356cd2b4d8f0935",
+            "released": "2026-08-17T07:22:58+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://github.com/FriendsOfFlarum/badges/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "2683c952cce74654a6ad905317820d334c9a8120",
+            "released": "2026-03-25T08:04:07+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://github.com/FriendsOfFlarum/badges/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "1.0.5",
+            "upstream_commit": "92d54f0c5383653cc00e4cc0dd8d221545f89961",
+            "released": "2026-03-18T12:49:56+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/badges/tree/1.0.5"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "1.0.4",
+            "upstream_commit": "107407815563d447d5759bf7615dca76e5d1ce6d",
+            "released": "2026-02-25T09:38:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/badges/tree/1.0.4"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "1973e5d7495d0ae41f8a9489af4b001297e3de19",
+            "released": "2026-02-19T10:55:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/badges/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "3f29dfa7a32fd945805b10810735bd3beb7b041a",
+            "released": "2026-02-12T15:41:54+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/badges/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "d0e734934a915c74672cef5bc2ca015c07533a22",
+            "released": "2026-02-12T15:23:13+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/badges/tree/1.0.0"
+        }
+    ]
+}

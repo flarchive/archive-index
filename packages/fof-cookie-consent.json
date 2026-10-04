@@ -1,0 +1,185 @@
+{
+    "package": "fof/cookie-consent",
+    "upstream": "https://github.com/FriendsOfFlarum/cookie-consent",
+    "packagistUrl": "https://packagist.org/packages/fof/cookie-consent",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "6181522f6f735b382f87bffc0b1c27052d00a90d",
+            "released": "2026-08-27T19:53:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.1.3",
+            "tag": "1.1.3",
+            "upstream_commit": "05ba22fa548f37add7c327f0be3c20e85efdfcf2",
+            "released": "2024-02-15T08:44:16+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/1.1.3"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "ede6fe374e026f661e5db39a66ae8af25cf35b96",
+            "released": "2023-11-12T13:00:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "ed45d59556f17d1e36c31f62d10e5f2fb95e22b0",
+            "released": "2022-10-28T08:33:45+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "de0fa7e5ee286933798c5de3ee415acc1770bb6b",
+            "released": "2022-03-16T19:45:22+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/1.1.0"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "d6d91a5c08eaca0b0fed519b06d51d7c10227805",
+            "released": "2022-01-10T15:18:10+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "e750125e275363037199df650b9db34d7acee4e1",
+            "released": "2021-09-09T10:49:42+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "1d692f053c48a0b4471381a8dcdcffe6abb614e7",
+            "released": "2021-05-28T22:07:36+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/1.0.0"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "0.5.0",
+            "upstream_commit": "cc50a271bc32a5333e57eaa84b04a5a4a9d7f5df",
+            "released": "2021-03-19T11:35:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/0.5.0"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "ea01045106fe26ebbf98c6df4e994a44a6f0e823",
+            "released": "2020-12-18T23:13:07+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/0.4.0"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "25b18d0a893993e00ab3d15991198137db157139",
+            "released": "2020-12-18T15:00:09+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta-15",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/0.3.0"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "e04f3596b39344d8cf0eed7df662524b35283087",
+            "released": "2019-04-13T15:05:55+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/0.2.0"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "1c43faf62c9f650e4b5e0987b6ae1d0965ff0ee5",
+            "released": "2018-12-02T04:21:58+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/0.1.0"
+        },
+        {
+            "version": "0.1.0-beta3",
+            "tag": "0.1.0-beta3",
+            "upstream_commit": "f1491f5c31ebe05f21289ead29607f7dce8b7f23",
+            "released": "2018-04-22T12:46:52+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.7",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/0.1.0-beta3"
+        },
+        {
+            "version": "0.1.0-beta2",
+            "tag": "0.1.0-beta2",
+            "upstream_commit": "53c1f1d53540f8a7ded0400db7e35a4794238588",
+            "released": "2018-03-26T17:33:20+00:00",
+            "license": "Unlicense",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/0.1.0-beta2"
+        },
+        {
+            "version": "0.1.0-beta1",
+            "tag": "0.1.0-beta1",
+            "upstream_commit": "08610df817627924f524b067975a134b1681b117",
+            "released": "2018-03-23T02:46:41+00:00",
+            "license": "Unlicense",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/FriendsOfFlarum/cookie-consent/tree/0.1.0-beta1"
+        }
+    ]
+}

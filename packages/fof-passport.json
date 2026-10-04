@@ -1,0 +1,119 @@
+{
+    "package": "fof/passport",
+    "upstream": "https://github.com/FriendsOfFlarum/passport",
+    "packagistUrl": "https://packagist.org/packages/fof/passport",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "ae442f5d1d4f8dcf368ce1a8c0864868c0c83718",
+            "released": "2023-11-12T12:46:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "150f64bb61560fc35c29caafe2c8693dd124fc0e",
+            "released": "2023-03-15T12:24:52+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/1.1.0"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "d8712f5c32f6f5b932a310c0885af6db47ba4e15",
+            "released": "2021-06-03T15:19:27+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/1.0.0"
+        },
+        {
+            "version": "0.6.0",
+            "tag": "0.6.0",
+            "upstream_commit": "29a809ce08a167a2d1d674c128ef3fde5052c6b3",
+            "released": "2021-04-05T01:22:02+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/0.6.0"
+        },
+        {
+            "version": "0.5.1",
+            "tag": "0.5.1",
+            "upstream_commit": "62667e2ad7bea0ef790530e68e85f0be3b9db71c",
+            "released": "2021-02-24T13:08:01+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/0.5.1"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "0.5.0",
+            "upstream_commit": "1584285c7c77256dee7c025af1df8f50a33a0960",
+            "released": "2020-12-16T10:14:11+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/0.5.0"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "3dd242c6655ab73fa485c4b43c73e10a1a4803fe",
+            "released": "2020-11-07T19:05:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/0.4.0"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "e9235d315431010fe6ad679f555f664c81661afa",
+            "released": "2020-03-23T02:25:26+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/0.3.0"
+        },
+        {
+            "version": "0.2.0-beta",
+            "tag": "0.2.0-beta",
+            "upstream_commit": "ac3b4ea88e9ebfa52810d3a280d9f2b18e8c6466",
+            "released": "2018-11-05T21:41:26+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/0.2.0-beta"
+        },
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "0.1.0-beta.1",
+            "upstream_commit": "6a1bfd14f8fec95510a2af32f1fe8f1626db22de",
+            "released": "2017-03-17T22:33:42+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/FriendsOfFlarum/passport/tree/0.1.0-beta.1"
+        }
+    ]
+}

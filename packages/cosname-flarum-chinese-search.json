@@ -1,0 +1,8 @@
+{
+    "package": "cosname/flarum-chinese-search",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/cosname/flarum-chinese-search",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

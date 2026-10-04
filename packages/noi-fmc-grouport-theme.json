@@ -1,0 +1,20 @@
+{
+    "package": "noi-fmc/grouport-theme",
+    "upstream": "https://gitlab.com/noi95/grouport-flarum-theme",
+    "packagistUrl": "https://packagist.org/packages/noi-fmc/grouport-theme",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "a7a602aaf1a0513cc7cc5e324b2d1b66247ead1e",
+            "released": "2021-10-01T12:34:11+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://packagist.org/packages/noi-fmc/grouport-theme"
+        }
+    ]
+}

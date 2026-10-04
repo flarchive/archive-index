@@ -1,0 +1,207 @@
+{
+    "package": "fof/forum-statistics-widget",
+    "upstream": "https://github.com/FriendsOfFlarum/forum-statistics-widget",
+    "packagistUrl": "https://packagist.org/packages/fof/forum-statistics-widget",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "61901f8420cfc40240904a604b68cd07d7ae46db",
+            "released": "2026-04-14T07:34:25+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.3.2",
+            "tag": "1.3.2",
+            "upstream_commit": "fa2ff55c437a0558d43e02300f21b8a007bc69f4",
+            "released": "2026-04-14T07:07:07+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/1.3.2"
+        },
+        {
+            "version": "1.3.1",
+            "tag": "1.3.1",
+            "upstream_commit": "caa8f2730bf38b829a709d58b367169e5b970d90",
+            "released": "2026-04-12T22:01:18+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/1.3.1"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "1.3.0",
+            "upstream_commit": "13a9b0107e0307d8c132528b4b84d5be224616f2",
+            "released": "2026-04-12T21:02:56+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/1.3.0"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "1.2.1",
+            "upstream_commit": "21b444b2febb10a8dfc73f7d4b63b413d1e80356",
+            "released": "2023-11-22T11:41:31+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/1.2.1"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "2fe1c903ed177cc78d38da97a23610ca4e1e07d9",
+            "released": "2023-11-12T09:07:16+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/1.2.0"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "b592f31f78e827d09d5a02880ffa7bbb271eb5f9",
+            "released": "2023-03-15T11:43:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/1.1.0"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "3b00d7b185546fdabfa894ea6e81316d67b183d3",
+            "released": "2021-11-26T02:06:36+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "b76254eb211db792a91777b0ed36f88493b540ab",
+            "released": "2021-08-19T08:45:38+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "5f96f5102f3fa60ecf9e42948179ece32c4d71c1",
+            "released": "2021-05-25T15:33:40+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/1.0.0"
+        },
+        {
+            "version": "0.6.0",
+            "tag": "0.6.0",
+            "upstream_commit": "560bfe405806f5c094749c318dec0af82481e45b",
+            "released": "2021-03-21T19:22:50+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.16 <1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/0.6.0"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "0.5.0",
+            "upstream_commit": "41e9fbd62ea7f2f5a0f933894bb51cf4197b513a",
+            "released": "2021-03-16T04:57:31+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.16 <1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/0.5.0"
+        },
+        {
+            "version": "0.4.1",
+            "tag": "0.4.1",
+            "upstream_commit": "41e9fbd62ea7f2f5a0f933894bb51cf4197b513a",
+            "released": "2021-03-16T04:57:31+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.16 <1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/0.4.1"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "bfd2009753025d750fb9990b1ba3bc80f68a9871",
+            "released": "2020-12-16T10:36:33+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/0.4.0"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "cabbcaeced789df9f5cbddb1a5d28aa83a12a211",
+            "released": "2020-10-21T17:05:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/0.3.0"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "62f904407bb8207dd79f91c07dff158a99d5f26f",
+            "released": "2020-07-16T02:16:15+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/0.2.0"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "d2bc4ed3a8a2fc7e2e774f82f0e32d33ffcf80f1",
+            "released": "2019-12-28T23:07:09+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "512195b964d573da944a0b98a6c89cc81cf3bbff",
+            "released": "2019-12-28T06:04:19+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-statistics-widget/tree/0.1.0"
+        }
+    ]
+}

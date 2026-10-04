@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/steward",
+    "upstream": "https://github.com/ernestdefoe/steward",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/steward",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (proprietary). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "8a6729a4331b684dd211f1e99439493a75bf1490",
+            "released": "2026-09-02T20:46:55+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^2.0",
+            "browse_url": "https://github.com/ernestdefoe/steward/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "8a8e9b1df50a8d1d04e0ce1b241d1beb3c4bb8d3",
+            "released": "2026-09-02T20:03:44+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^2.0",
+            "browse_url": "https://github.com/ernestdefoe/steward/tree/1.0.0"
+        }
+    ]
+}

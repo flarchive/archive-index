@@ -1,0 +1,31 @@
+{
+    "package": "fof/news-widget",
+    "upstream": "https://github.com/FriendsOfFlarum/news-widget",
+    "packagistUrl": "https://packagist.org/packages/fof/news-widget",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "bfd9faf11e008ed310416e91f0d763fb5014c8af",
+            "released": "2026-04-13T17:48:50+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/news-widget/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "c10a4ffb9ef2e716cf95289601316b2d5394c455",
+            "released": "2026-04-12T21:25:13+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/news-widget/tree/1.0.0"
+        }
+    ]
+}

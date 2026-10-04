@@ -1,0 +1,20 @@
+{
+    "package": "nhiennn/flarum-ext-vietnamese",
+    "upstream": "https://gitlab.com/nhiennn/flarum-ext-vietnamese",
+    "packagistUrl": "https://packagist.org/packages/nhiennn/flarum-ext-vietnamese",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "1.0",
+            "upstream_commit": "bfd7a07ac5ff7fc32d473ade3c5a463ee15583a9",
+            "released": "2017-11-15T11:45:54+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0",
+            "browse_url": "https://packagist.org/packages/nhiennn/flarum-ext-vietnamese"
+        }
+    ]
+}

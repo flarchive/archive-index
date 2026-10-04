@@ -1,0 +1,8 @@
+{
+    "package": "funding/flarum-ext-funding-requests",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/funding/flarum-ext-funding-requests",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

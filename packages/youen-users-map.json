@@ -1,0 +1,53 @@
+{
+    "package": "youen/users-map",
+    "upstream": "https://gitea.youb.fr/youen/flarum-users-map-location",
+    "packagistUrl": "https://packagist.org/packages/youen/users-map",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "c75cf0a9c2aab7b614ad1bccffb2d620e38da866",
+            "released": "2024-07-02T19:57:50+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0.0",
+            "browse_url": "https://packagist.org/packages/youen/users-map"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "0.1.2",
+            "upstream_commit": "478a95a471064a411a93d53e9d687e6b1b5aa90a",
+            "released": "2022-02-08T08:46:34+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0.0",
+            "browse_url": "https://packagist.org/packages/youen/users-map"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "7e4ec49623725acf80aaafdd0da579ecf223067d",
+            "released": "2022-02-06T22:18:33+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0.0",
+            "browse_url": "https://packagist.org/packages/youen/users-map"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "04a61f64ae579246786034e50cd5f20344e4f147",
+            "released": "2022-02-05T14:48:21+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0.0",
+            "browse_url": "https://packagist.org/packages/youen/users-map"
+        }
+    ]
+}

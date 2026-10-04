@@ -1,0 +1,163 @@
+{
+    "package": "fof/spamblock",
+    "upstream": "https://github.com/FriendsOfFlarum/spamblock",
+    "packagistUrl": "https://packagist.org/packages/fof/spamblock",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "259c1966f9fecca1b90012807fb18745f091961c",
+            "released": "2023-11-16T08:27:02+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "1fa4d6157fd7772b6d3cedc6d0d52ed88495abf2",
+            "released": "2023-11-12T16:00:58+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "ee4842ea3305f32596cfac90bb5fdf015b0c7d94",
+            "released": "2022-11-02T00:13:11+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/1.1.0"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "93f1b9aa4418cec2dbf8c4dd2d1232f83a6e67b9",
+            "released": "2021-11-26T00:39:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "fc9759de5c5b6505a3db18bee9e20d6604eac007",
+            "released": "2021-09-23T15:07:13+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "6f16db581c7063d371301fc1798d9ab69e5804ae",
+            "released": "2021-05-26T18:44:37+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/1.0.0"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "0.5.0",
+            "upstream_commit": "41c80861c0373c4590e2ad49cd93a81b14a60a65",
+            "released": "2021-03-16T12:17:51+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/0.5.0"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "565cfa41d10f2eaea5a3e9c503e7db19e634e507",
+            "released": "2020-12-16T10:41:05+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/0.4.0"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "fc3a2a18efa7b521dfae176d8ba76bf18c0d0c7f",
+            "released": "2020-11-04T21:56:38+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/0.3.0"
+        },
+        {
+            "version": "0.2.2",
+            "tag": "0.2.2",
+            "upstream_commit": "d9219d1edff860875841da95d2fd8bdfd62a440e",
+            "released": "2020-05-04T18:45:30+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/0.2.2"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "febc3c5d34ad6122d8030bc0217124033f4f9b17",
+            "released": "2018-12-04T00:19:46+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "97e622f6adf7b92972011dac26e9e3b1a81604cf",
+            "released": "2018-12-03T23:32:52+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/0.2.0"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "v0.1.1",
+            "upstream_commit": "0b6b0683a5e3f878c33e49b850e356d0e3abb2be",
+            "released": "2018-12-02T21:12:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/v0.1.1"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "v0.1.0",
+            "upstream_commit": "2cde34f795c6d3e6c27193fa772d5cec6519c938",
+            "released": "2018-11-26T13:41:07+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta-8",
+            "browse_url": "https://github.com/FriendsOfFlarum/spamblock/tree/v0.1.0"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "package": "wanecho/mobilelogin",
+    "upstream": "https://gitee.com/echo886/flarum-mobilelogin",
+    "packagistUrl": "https://packagist.org/packages/wanecho/mobilelogin",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT-open-group). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.7",
+            "tag": "1.0.7",
+            "upstream_commit": "10f05f26b091a9f73972b2398194b86cd766dd42",
+            "released": "2023-05-27T17:34:09+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/mobilelogin"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "1.0.6",
+            "upstream_commit": "3c3e38cab8c6e00c8d9176c7a7aaf26e68c9bbbe",
+            "released": "2023-05-12T11:37:53+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/mobilelogin"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "1.0.5",
+            "upstream_commit": "4f3f001d8948909644e08bd05759ae24dc79988e",
+            "released": "2023-05-04T03:32:13+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/mobilelogin"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "v1.0.4",
+            "upstream_commit": "533f3bf9cac9a2e59cd9d7408ca026cbdaa41066",
+            "released": "2023-04-21T02:25:19+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/mobilelogin"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "v1.0.3",
+            "upstream_commit": "54746cb0428d3c96a825dfa829945d7a96a03a38",
+            "released": "2022-09-24T16:39:08+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/mobilelogin"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "v1.0.2",
+            "upstream_commit": "4f559bee8fa5d39f5b023bbc4288c33f8fda6d90",
+            "released": "2022-09-24T14:18:29+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/mobilelogin"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "v1.0.1",
+            "upstream_commit": "fbba7323604aff633481d22a8f046ad0416284ee",
+            "released": "2022-09-24T14:07:36+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/mobilelogin"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "v1.0.0",
+            "upstream_commit": "aa67b739e21dc07661c6c632e1782af7350dd4f6",
+            "released": "2022-09-24T13:16:00+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/mobilelogin"
+        }
+    ]
+}

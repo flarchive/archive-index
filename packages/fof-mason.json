@@ -1,0 +1,174 @@
+{
+    "package": "fof/mason",
+    "upstream": "https://github.com/FriendsOfFlarum/mason",
+    "packagistUrl": "https://packagist.org/packages/fof/mason",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "1.2.1",
+            "tag": "1.2.1",
+            "upstream_commit": "0c153937dd5bee4ff54abbc30e1ee929a3b10978",
+            "released": "2023-11-12T21:49:44+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/1.2.1"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "d1bb0af6c111f12e45cbc5476ddfc8feffd5d0aa",
+            "released": "2022-09-22T15:12:25+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/1.2.0"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "751b055103f2d3dd526b89ce342bbed342a82ce9",
+            "released": "2022-07-04T19:22:16+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/1.1.0"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "0e929aa1d9b58db00d77ede982a72058841f8be7",
+            "released": "2021-06-28T15:01:11+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "742c295d8b2c91eea806a8c1f072ef39c4611631",
+            "released": "2021-06-22T11:26:02+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/1.0.0"
+        },
+        {
+            "version": "0.5.1",
+            "tag": "0.5.1",
+            "upstream_commit": "bd26ba81010c2e3138262be782c7229f414a78c2",
+            "released": "2021-02-16T01:03:04+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.5.1"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "0.5.0",
+            "upstream_commit": "709928b70b1feecdbee787273886fffa59b42aca",
+            "released": "2021-02-15T18:39:02+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.5.0"
+        },
+        {
+            "version": "0.4.2",
+            "tag": "0.4.2",
+            "upstream_commit": "286e964243f4f47bb90006b46099e7cd99245bf7",
+            "released": "2020-11-08T16:46:53+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.4.2"
+        },
+        {
+            "version": "0.4.1",
+            "tag": "0.4.1",
+            "upstream_commit": "e326999be698c1b251a2ca068a93dbf26b6a08d3",
+            "released": "2020-08-04T23:36:05+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.4.1"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "51f27d18a1e7a9881d34a381f9f494f802113b58",
+            "released": "2020-07-31T16:39:26+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.4.0"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "0.3.1",
+            "upstream_commit": "50b7050edd9f2e3d317caf70909f72d7a8c93c52",
+            "released": "2019-05-04T20:01:49+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.3.1"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "bcc735e70806713a18b81293870a96faaf7f3eef",
+            "released": "2019-02-17T17:41:50+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.3.0"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "ee62c814f8e50d7d4e2f9ce0b22217fabff2d0de",
+            "released": "2017-10-24T14:24:33+00:00",
+            "license": "mit",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.7",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.2.0"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "5477b720f3a4af67f5c2e32b9de140dc93a112eb",
+            "released": "2017-10-05T19:40:23+00:00",
+            "license": "mit",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.7",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "c054cd83b631c544e909b33fd00c0080eb2ff3e8",
+            "released": "2017-10-05T17:21:32+00:00",
+            "license": "mit",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.7",
+            "browse_url": "https://github.com/FriendsOfFlarum/mason/tree/0.1.0"
+        }
+    ]
+}

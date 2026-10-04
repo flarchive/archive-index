@@ -1,0 +1,31 @@
+{
+    "package": "dhtml/aproko-content-pages",
+    "upstream": "https://github.com/dhtml/aproko-content-pages",
+    "packagistUrl": "https://packagist.org/packages/dhtml/aproko-content-pages",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "da2cffa5114f3fe32802ac270cf1221d404e9db1",
+            "released": "2024-06-11T18:54:04+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/aproko-content-pages/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "c41956d22a6a263ba00168be7f8dff09d20a5ba5",
+            "released": "2024-06-11T18:35:40+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/aproko-content-pages/tree/0.1.0"
+        }
+    ]
+}

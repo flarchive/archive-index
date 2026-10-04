@@ -1,0 +1,64 @@
+{
+    "package": "dhtml/flarum-language-arabic",
+    "upstream": "https://github.com/dhtml/flarum-language-arabic",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-arabic",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.5",
+            "tag": "0.0.5",
+            "upstream_commit": "35d9a455a75f535d9568c09980841a1746b0d830",
+            "released": "2024-06-20T03:34:15+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-arabic/tree/0.0.5"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "0.0.4",
+            "upstream_commit": "07aca7dc418f4f7efb81d0094f44deb0f4d6d5ce",
+            "released": "2024-06-20T03:02:48+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-arabic/tree/0.0.4"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "0.0.3",
+            "upstream_commit": "04543570b536c37095de3b622e464df53228c74a",
+            "released": "2024-06-20T02:57:19+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-arabic/tree/0.0.3"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "0.0.2",
+            "upstream_commit": "54c5335bde1f4c150fc1119d0090eb9bab374f66",
+            "released": "2024-06-20T02:48:18+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-arabic/tree/0.0.2"
+        },
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "d8c6d0b66f8a366a0bc3fe5afe4c39aba0ef03ea",
+            "released": "2024-06-20T02:42:53+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-arabic/tree/0.0.1"
+        }
+    ]
+}

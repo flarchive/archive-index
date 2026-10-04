@@ -1,0 +1,42 @@
+{
+    "package": "flarumtr/flarum-ext-mobile-search",
+    "upstream": "https://github.com/flarumtr/flarum-ext-mobile-search",
+    "packagistUrl": "https://packagist.org/packages/flarumtr/flarum-ext-mobile-search",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (proprietary). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v1.2",
+            "tag": "v1.2",
+            "upstream_commit": "da255c0f6ab4806e36c45244389683a69fb8529c",
+            "released": "2021-06-22T13:16:19+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/flarumtr/flarum-ext-mobile-search/tree/v1.2"
+        },
+        {
+            "version": "v1.1",
+            "tag": "v1.1",
+            "upstream_commit": "84e0fdc8ee1981f548fc78caaa18f167e20a6cd1",
+            "released": "2021-03-20T17:47:22+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "0.1.0-beta.16",
+            "browse_url": "https://github.com/flarumtr/flarum-ext-mobile-search/tree/v1.1"
+        },
+        {
+            "version": "v1.0",
+            "tag": "v1.0",
+            "upstream_commit": "139f263c1e4170e977abb45d6e290b0073391b34",
+            "released": "2021-03-05T17:50:29+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/flarumtr/flarum-ext-mobile-search/tree/v1.0"
+        }
+    ]
+}

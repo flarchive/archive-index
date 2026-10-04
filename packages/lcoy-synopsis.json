@@ -1,0 +1,42 @@
+{
+    "package": "lcoy/synopsis",
+    "upstream": "https://gitee.com/lcoy/Flarum_synopsis",
+    "packagistUrl": "https://packagist.org/packages/lcoy/synopsis",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v1.1.2",
+            "tag": "v1.1.2",
+            "upstream_commit": "86dbe658a3c990f0e44bbb3dc4a3608ac49a202e",
+            "released": "2026-05-31T01:42:48+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://packagist.org/packages/lcoy/synopsis"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "v1.1.1",
+            "upstream_commit": "895c5733450f2836b761cefc7166e87f45d65532",
+            "released": "2026-05-28T17:23:50+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://packagist.org/packages/lcoy/synopsis"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "3cde8d74373a26c0e6d66d2f3206d43ca06fcc71",
+            "released": "2026-05-28T15:11:39+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://packagist.org/packages/lcoy/synopsis"
+        }
+    ]
+}

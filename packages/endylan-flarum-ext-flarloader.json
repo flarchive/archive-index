@@ -1,0 +1,86 @@
+{
+    "package": "endylan/flarum-ext-flarloader",
+    "upstream": "https://gitlab.com/pulsarmc/flarum-ext-flarloader",
+    "packagistUrl": "https://packagist.org/packages/endylan/flarum-ext-flarloader",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (AGPL-3.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.1.0-beta.7",
+            "tag": "0.1.0-beta.7",
+            "upstream_commit": "eee592c1374d9d1fafea7e5a1f09e91b81e610d4",
+            "released": "2018-02-25T08:49:37+00:00",
+            "license": "AGPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/endylan/flarum-ext-flarloader"
+        },
+        {
+            "version": "0.1.0-beta.6",
+            "tag": "0.1.0-beta.6",
+            "upstream_commit": "5f2a5d4b3f4d9653ea3a6a2121334e75f8269074",
+            "released": "2018-02-25T08:24:19+00:00",
+            "license": "AGPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/endylan/flarum-ext-flarloader"
+        },
+        {
+            "version": "0.1.0-beta.5",
+            "tag": "0.1.0-beta.5",
+            "upstream_commit": "717ba8a0eca251d689d7d170e7a17e62e51f669c",
+            "released": "2018-02-25T08:20:16+00:00",
+            "license": "AGPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/endylan/flarum-ext-flarloader"
+        },
+        {
+            "version": "0.1.0-beta.4",
+            "tag": "0.1.0-beta.4",
+            "upstream_commit": "61ef431ee643bf40390c04c1cd23d506fc513265",
+            "released": "2018-02-25T07:59:51+00:00",
+            "license": "AGPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/endylan/flarum-ext-flarloader"
+        },
+        {
+            "version": "0.1.0-beta.3",
+            "tag": "0.1.0-beta.3",
+            "upstream_commit": "a753141bdc87f66b87b1d1bf2028580430e44298",
+            "released": "2018-02-25T07:53:28+00:00",
+            "license": "AGPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/endylan/flarum-ext-flarloader"
+        },
+        {
+            "version": "0.1.0-beta.2",
+            "tag": "0.1.0-beta.2",
+            "upstream_commit": "cdf19ba7e5bdbdba0d0f1006736b25cc89e4118f",
+            "released": "2018-02-25T07:43:15+00:00",
+            "license": "AGPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/endylan/flarum-ext-flarloader"
+        },
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "0.1.0-beta.1",
+            "upstream_commit": "b0cd3ecd8725e44d4a56ad3de7039b7901f66d67",
+            "released": "2018-02-25T07:35:09+00:00",
+            "license": "AGPL-3.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/endylan/flarum-ext-flarloader"
+        }
+    ]
+}

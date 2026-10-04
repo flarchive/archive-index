@@ -1,0 +1,31 @@
+{
+    "package": "wanecho/flarum-mediaembed",
+    "upstream": "https://gitee.com/echo886/flarum-mediaembed",
+    "packagistUrl": "https://packagist.org/packages/wanecho/flarum-mediaembed",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "d8b4ee99b0e512038ffd3239b5f089fa0b39753f",
+            "released": "2023-05-20T00:37:31+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-mediaembed"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "32aa5d253b0a2acd3f039825720ba5860d973c20",
+            "released": "2023-05-14T18:53:54+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/flarum-mediaembed"
+        }
+    ]
+}

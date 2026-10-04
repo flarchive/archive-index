@@ -1,0 +1,8 @@
+{
+    "package": "valtos/oidc-ss14",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/valtos/oidc-ss14",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

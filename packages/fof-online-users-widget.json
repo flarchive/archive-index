@@ -1,0 +1,75 @@
+{
+    "package": "fof/online-users-widget",
+    "upstream": "https://github.com/FriendsOfFlarum/online-users-widget",
+    "packagistUrl": "https://packagist.org/packages/fof/online-users-widget",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.5",
+            "tag": "2.0.0-beta.5",
+            "upstream_commit": "2bf9068c970b4da932b4200776e7b0aa824f7da4",
+            "released": "2026-08-18T07:49:10+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/online-users-widget/tree/2.0.0-beta.5"
+        },
+        {
+            "version": "2.0.0-beta.4",
+            "tag": "2.0.0-beta.4",
+            "upstream_commit": "13ded92a1316b36c9b16b30faf0fad64bfffb640",
+            "released": "2026-08-12T16:53:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/online-users-widget/tree/2.0.0-beta.4"
+        },
+        {
+            "version": "2.0.0-beta.3",
+            "tag": "2.0.0-beta.3",
+            "upstream_commit": "6fba676d2aa693a32b9d721ad7abcce04a5981a1",
+            "released": "2026-08-12T15:34:21+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/online-users-widget/tree/2.0.0-beta.3"
+        },
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "57d567eb742833b091637a857df7ac1df111f99f",
+            "released": "2026-04-14T22:39:59+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/online-users-widget/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "c1c14eb0a5218cfaf2c084622a925e1212b4d14b",
+            "released": "2026-04-12T23:26:49+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/online-users-widget/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "61699695afc8c4d0fb0eb7a616d0f51b54c75612",
+            "released": "2026-04-12T21:16:17+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/online-users-widget/tree/1.0.0"
+        }
+    ]
+}

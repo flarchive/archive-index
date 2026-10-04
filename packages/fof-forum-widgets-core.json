@@ -1,0 +1,53 @@
+{
+    "package": "fof/forum-widgets-core",
+    "upstream": "https://github.com/FriendsOfFlarum/forum-widgets-core",
+    "packagistUrl": "https://packagist.org/packages/fof/forum-widgets-core",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.3",
+            "tag": "2.0.0-beta.3",
+            "upstream_commit": "426000f0f269aab94b84630451ae3daac352bb1d",
+            "released": "2026-04-23T13:09:22+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-widgets-core/tree/2.0.0-beta.3"
+        },
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "ace200716871651580a5fc38357bbe3da778d3f9",
+            "released": "2026-04-12T23:21:09+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-widgets-core/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "fd148db24f62338bccb0e5b6504015890020d260",
+            "released": "2026-04-12T22:33:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-widgets-core/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "b5084447f69041fe0326a5a8bf3f5735c3f6f1ee",
+            "released": "2026-04-12T21:10:46+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/forum-widgets-core/tree/1.0.0"
+        }
+    ]
+}

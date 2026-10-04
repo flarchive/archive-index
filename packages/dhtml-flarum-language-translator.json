@@ -1,0 +1,262 @@
+{
+    "package": "dhtml/flarum-language-translator",
+    "upstream": "https://github.com/dhtml/flarum-language-translator",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-translator",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.1.3",
+            "tag": "1.1.3",
+            "upstream_commit": "1695b6a1853d0d7da90c488b56cc3f915dbf4533",
+            "released": "2024-06-30T10:32:49+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.1.3"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "1ff20d82e326b25d6c83fac400d761eccd92dfff",
+            "released": "2024-06-30T10:05:43+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "a1fad2d9cfda175c760478dbd16381fffb410632",
+            "released": "2024-06-30T09:18:39+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "fd6062c544f751c6aa00ddf1c2c091b2e57f73ff",
+            "released": "2024-06-28T23:48:15+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.1.0"
+        },
+        {
+            "version": "1.0.9",
+            "tag": "1.0.9",
+            "upstream_commit": "e3845056f39a2b08c5fd6ac00ceaff252be85313",
+            "released": "2024-06-28T23:08:13+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.9"
+        },
+        {
+            "version": "1.0.8",
+            "tag": "1.0.8",
+            "upstream_commit": "c90805c2d0ab962dec5265bc5cf2ec0072c891bb",
+            "released": "2024-06-28T22:50:15+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.8"
+        },
+        {
+            "version": "1.0.7",
+            "tag": "1.0.7",
+            "upstream_commit": "f0c535344c0429bcf44ff820146bd2bff24e3528",
+            "released": "2024-06-28T22:48:13+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.7"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "1.0.6",
+            "upstream_commit": "b60cb09482c6000d0a12a6803011163c31509f07",
+            "released": "2024-06-28T06:32:29+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.6"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "1.0.5",
+            "upstream_commit": "bb34babac1955dcff6b08900dace1693f6256e58",
+            "released": "2024-06-27T23:04:22+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.5"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "1.0.4",
+            "upstream_commit": "46002009cd20cb31b0b581c63019542607af4aaa",
+            "released": "2024-06-27T22:47:45+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.4"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "d1a89af41682b2986cbe5361970654dfacd8b2dd",
+            "released": "2024-06-27T22:38:12+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.3"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "f54689e3b8cb088082f701f5732bea3c05fcc1c0",
+            "released": "2024-06-27T22:22:39+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "70da79eefadefbb70816cbc6ab5ec8fb9d59b467",
+            "released": "2024-06-27T22:15:20+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "33992f98b3fd66e3018ee40283b0c213aaf0652d",
+            "released": "2024-06-27T21:10:28+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/1.0.0"
+        },
+        {
+            "version": "0.0.9",
+            "tag": "0.0.9",
+            "upstream_commit": "5974e8ed5730c623ba7efe3a17b7334431436188",
+            "released": "2024-06-27T21:01:50+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/0.0.9"
+        },
+        {
+            "version": "0.0.8",
+            "tag": "0.0.8",
+            "upstream_commit": "259842c45cc4adbaf9fd1506e89039d10fa98b14",
+            "released": "2024-06-27T09:13:43+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/0.0.8"
+        },
+        {
+            "version": "0.0.7",
+            "tag": "0.0.7",
+            "upstream_commit": "a6a83a91b0c8de91144e944f87a44ba44ff46a2c",
+            "released": "2024-06-27T08:52:57+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/0.0.7"
+        },
+        {
+            "version": "0.0.6",
+            "tag": "0.0.6",
+            "upstream_commit": "7367e8c49cc04ffc7bab8308e6ea8fa70e91d9c9",
+            "released": "2024-06-27T05:18:29+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/0.0.6"
+        },
+        {
+            "version": "0.0.5",
+            "tag": "0.0.5",
+            "upstream_commit": "b0d3cbb63c5cd7f0258e2433ce1b2e821d8e7743",
+            "released": "2024-06-27T03:45:02+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/0.0.5"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "0.0.4",
+            "upstream_commit": "f95aa28db2d62a73523a7259728fd4a654dd239f",
+            "released": "2024-06-26T19:56:39+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/0.0.4"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "0.0.3",
+            "upstream_commit": "0863024b547cc2dd9800867c345a8a8f86a5a6a9",
+            "released": "2024-06-24T21:47:10+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/0.0.3"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "0.0.2",
+            "upstream_commit": "c3041f36ae300729ed985193cdca12734dc88ca4",
+            "released": "2024-06-21T09:56:09+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/0.0.2"
+        },
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "d594d65351ee17553fdae1e74644efbf521e8c40",
+            "released": "2024-06-20T17:35:21+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-translator/tree/0.0.1"
+        }
+    ]
+}

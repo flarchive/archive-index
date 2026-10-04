@@ -1,0 +1,64 @@
+{
+    "package": "wanecho/showip",
+    "upstream": "https://gitee.com/echo886/flarum-showip",
+    "packagistUrl": "https://packagist.org/packages/wanecho/showip",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.5",
+            "tag": "0.0.5",
+            "upstream_commit": "972615167f1ca722e2fbe857dd1cc25051858908",
+            "released": "2023-05-12T16:16:38+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/showip"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "0.0.4",
+            "upstream_commit": "b57e4cf4f78e61781fddc803808a28bbf5ccbb5e",
+            "released": "2023-05-05T07:25:17+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/showip"
+        },
+        {
+            "version": "0.0.3",
+            "tag": "0.0.3",
+            "upstream_commit": "f3ec1e105caa687392b4f6cacf4fd6406baa6722",
+            "released": "2023-05-05T06:58:25+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/showip"
+        },
+        {
+            "version": "0.0.2",
+            "tag": "0.0.2",
+            "upstream_commit": "e69868739966f13c28c27c3327b1be6a004be4c1",
+            "released": "2023-05-04T14:15:25+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/showip"
+        },
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "0ad85b9d35df4b1f2b43e8d8096ddb809f412cc9",
+            "released": "2023-05-04T13:41:00+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/showip"
+        }
+    ]
+}

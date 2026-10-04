@@ -1,0 +1,8 @@
+{
+    "package": "cccraim/flarum-jh-login",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/cccraim/flarum-jh-login",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

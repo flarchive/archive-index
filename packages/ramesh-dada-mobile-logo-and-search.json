@@ -1,0 +1,75 @@
+{
+    "package": "ramesh-dada/mobile-logo-and-search",
+    "upstream": "https://github.com/ramesh-dada/mobile-logo-and-search",
+    "packagistUrl": "https://packagist.org/packages/ramesh-dada/mobile-logo-and-search",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (proprietary). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "8.1.2",
+            "tag": "8.1.2",
+            "upstream_commit": "b37098dd833fb91ab391d37d2fe83d20794e1bbe",
+            "released": "2021-07-14T06:32:16+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-logo-and-search/tree/8.1.2"
+        },
+        {
+            "version": "8.1.1",
+            "tag": "8.1.1",
+            "upstream_commit": "7f707553bede0096c2a4f4f794b946a4c55a3481",
+            "released": "2021-07-12T11:40:37+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-logo-and-search/tree/8.1.1"
+        },
+        {
+            "version": "8.0.2",
+            "tag": "8.0.2",
+            "upstream_commit": "7f707553bede0096c2a4f4f794b946a4c55a3481",
+            "released": "2021-07-12T11:40:37+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-logo-and-search/tree/8.0.2"
+        },
+        {
+            "version": "8.1.0",
+            "tag": "8.1.0",
+            "upstream_commit": "61094437eb4f97059a610b7d95986c96aa9b2688",
+            "released": "2021-07-12T09:31:55+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-logo-and-search/tree/8.1.0"
+        },
+        {
+            "version": "8.0.0",
+            "tag": "8.0.0",
+            "upstream_commit": "3729e98ebe52eb172e27d71ec5b1c272c75620e8",
+            "released": "2021-07-12T09:26:49+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-logo-and-search/tree/8.0.0"
+        },
+        {
+            "version": "7.1.11",
+            "tag": "7.1.11",
+            "upstream_commit": "8c60ef1f0a6d002f80af4a9814670708f7f3e3fd",
+            "released": "2021-07-11T06:14:58+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-logo-and-search/tree/7.1.11"
+        }
+    ]
+}

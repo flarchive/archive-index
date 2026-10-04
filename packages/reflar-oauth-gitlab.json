@@ -1,0 +1,20 @@
+{
+    "package": "reflar/oauth-gitlab",
+    "upstream": "https://gitlab.com/ReDevelopers/ReFlar/oauth-gitlab",
+    "packagistUrl": "https://packagist.org/packages/reflar/oauth-gitlab",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "0.1.0-beta.1",
+            "upstream_commit": "9bbe2f66599c94499b35fef4f943daec38895309",
+            "released": "2017-07-22T19:05:34+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/reflar/oauth-gitlab"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "package": "dhtml/flarum-language-swahili",
+    "upstream": "https://github.com/dhtml/flarum-language-swahili",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-swahili",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "9ec1a1340dfa6f390776c6df85c08bf65c901673",
+            "released": "2024-06-20T16:32:41+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-swahili/tree/0.0.1"
+        }
+    ]
+}

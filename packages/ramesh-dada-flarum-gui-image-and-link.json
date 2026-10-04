@@ -1,0 +1,108 @@
+{
+    "package": "ramesh-dada/flarum-gui-image-and-link",
+    "upstream": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link",
+    "packagistUrl": "https://packagist.org/packages/ramesh-dada/flarum-gui-image-and-link",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (proprietary). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "1.0",
+            "upstream_commit": "257e8b6e26f041e154dd5b7ca6fa8fe1c042d7b8",
+            "released": "2021-07-08T10:04:00+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/1.0"
+        },
+        {
+            "version": "0.8",
+            "tag": "0.8",
+            "upstream_commit": "86b51058a8fa239b492fc7bd80e59d4bb7e41111",
+            "released": "2021-07-08T09:04:40+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/0.8"
+        },
+        {
+            "version": "0.7",
+            "tag": "0.7",
+            "upstream_commit": "ca891ff9d6b56426ae63e7df305b07e4c6aede5d",
+            "released": "2021-07-08T07:48:21+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/0.7"
+        },
+        {
+            "version": "0.6",
+            "tag": "0.6",
+            "upstream_commit": "bfc07e6b44740b6eb19edffa562ee9fc4dccc045",
+            "released": "2021-07-08T07:32:11+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/0.6"
+        },
+        {
+            "version": "0.5",
+            "tag": "0.5",
+            "upstream_commit": "d40530991fd533cf6ed19d8160d0ea1829435f36",
+            "released": "2021-07-08T06:05:32+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/0.5"
+        },
+        {
+            "version": "0.4",
+            "tag": "0.4",
+            "upstream_commit": "91dfb3adc812a3080bcd56e440ce9b125909bc02",
+            "released": "2021-07-08T05:34:44+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/0.4"
+        },
+        {
+            "version": "0.3",
+            "tag": "0.3",
+            "upstream_commit": "074697d33690e85c6b3df76e4733c573db91b6a6",
+            "released": "2021-07-08T05:17:34+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/0.3"
+        },
+        {
+            "version": "0.2",
+            "tag": "0.2",
+            "upstream_commit": "0622c4e7e0f6a53efe783c1e5f29a35a2ae7ebec",
+            "released": "2021-07-08T04:45:56+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/0.2"
+        },
+        {
+            "version": "0.1",
+            "tag": "0.1",
+            "upstream_commit": "8c9f22aebe017c9b2d745e76560543176dadcf70",
+            "released": "2021-07-07T14:33:15+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/0.1"
+        }
+    ]
+}

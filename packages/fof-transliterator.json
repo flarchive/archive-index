@@ -1,0 +1,64 @@
+{
+    "package": "fof/transliterator",
+    "upstream": "https://github.com/FriendsOfFlarum/transliterator",
+    "packagistUrl": "https://packagist.org/packages/fof/transliterator",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "95e49e261fd900af5c0f5dbeddfc02e6aefd3fdb",
+            "released": "2020-12-16T10:43:31+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/transliterator/tree/0.3.0"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "ebdb4f540e3e0c2c283a17332fa064d7c66353f9",
+            "released": "2020-11-13T23:05:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/transliterator/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "c4480376debe62dd2dafe68fb4f0053fc1a73b19",
+            "released": "2019-08-25T13:23:20+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/transliterator/tree/0.2.0"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "c1f12e35f0f8de2a9f0af1b989c50e2fbc414e2c",
+            "released": "2018-12-20T20:49:40+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/transliterator/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "48e89c438e685ca21de1b0882fe0f077e9afebeb",
+            "released": "2018-12-18T00:37:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/transliterator/tree/0.1.0"
+        }
+    ]
+}

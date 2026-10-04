@@ -1,0 +1,31 @@
+{
+    "package": "fof/taxonomies",
+    "upstream": "https://github.com/FriendsOfFlarum/taxonomies",
+    "packagistUrl": "https://packagist.org/packages/fof/taxonomies",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "0.1.0-beta.2",
+            "tag": "0.1.0-beta.2",
+            "upstream_commit": "515847d2ee2dfb6315b97efc2850547a5f3cbb56",
+            "released": "2021-03-09T22:16:48+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/taxonomies/tree/0.1.0-beta.2"
+        },
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "0.1.0-beta.1",
+            "upstream_commit": "368711749bf9314c6e2baf02a05a744f68fae317",
+            "released": "2020-11-28T17:49:51+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/taxonomies/tree/0.1.0-beta.1"
+        }
+    ]
+}

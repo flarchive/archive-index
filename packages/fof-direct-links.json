@@ -1,0 +1,42 @@
+{
+    "package": "fof/direct-links",
+    "upstream": "https://github.com/FriendsOfFlarum/direct-links",
+    "packagistUrl": "https://packagist.org/packages/fof/direct-links",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "4000e4082f59b7b5d948b87ee88706d91388e7c4",
+            "released": "2026-08-16T10:03:37+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/direct-links/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "6eed7687e3e3b85dbdc8d4a6e9d2903ecea4b388",
+            "released": "2024-08-05T05:44:29+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/direct-links/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "22ee5102ed8761ae38e06d1db64baf74f91fb816",
+            "released": "2024-02-17T08:36:17+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/direct-links/tree/1.0.0"
+        }
+    ]
+}

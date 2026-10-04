@@ -1,0 +1,53 @@
+{
+    "package": "floxum/shrinkearn",
+    "upstream": "https://gitlab.com/floxum/commissions/flarum-ext-shrinkearn",
+    "packagistUrl": "https://packagist.org/packages/floxum/shrinkearn",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.3",
+            "tag": "1.3",
+            "upstream_commit": "d015e310d814911c896777c418e2bd00fb258026",
+            "released": "2026-04-15T16:10:55+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.0",
+            "browse_url": "https://packagist.org/packages/floxum/shrinkearn"
+        },
+        {
+            "version": "1.2",
+            "tag": "1.2",
+            "upstream_commit": "ad7705afde94a070a1067de2c73145bb14310697",
+            "released": "2026-04-15T15:49:55+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.0",
+            "browse_url": "https://packagist.org/packages/floxum/shrinkearn"
+        },
+        {
+            "version": "1.1",
+            "tag": "1.1",
+            "upstream_commit": "fb8f7950937fb3a1666af6f4c134231b84702865",
+            "released": "2026-04-15T13:47:26+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.0",
+            "browse_url": "https://packagist.org/packages/floxum/shrinkearn"
+        },
+        {
+            "version": "1.0",
+            "tag": "1.0",
+            "upstream_commit": "872070b288e3ac3ccbd3d2165d58efd76b238faf",
+            "released": "2026-04-15T13:04:56+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8.0",
+            "browse_url": "https://packagist.org/packages/floxum/shrinkearn"
+        }
+    ]
+}

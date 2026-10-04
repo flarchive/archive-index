@@ -1,0 +1,20 @@
+{
+    "package": "nodeloc/flarum-ext-bonus",
+    "upstream": "https://github.com/nodeloc/flarum-ext-bonus",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-ext-bonus",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (CC-BY-SA-4.0). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": "0.1",
+            "upstream_commit": "9d883d48ea0d4d23ee878c28efd64a074e33e4dd",
+            "released": "2025-01-28T13:01:22+00:00",
+            "license": "CC-BY-SA-4.0",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/nodeloc/flarum-ext-bonus/tree/0.1"
+        }
+    ]
+}

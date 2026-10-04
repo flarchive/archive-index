@@ -1,0 +1,20 @@
+{
+    "package": "junaid531/buttondalo",
+    "upstream": "https://github.com/athos2113/flarum-button-extension",
+    "packagistUrl": "https://packagist.org/packages/junaid531/buttondalo",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "v0.1.0",
+            "upstream_commit": "2912b8940f1d1283318d0c3ceec974c12cfa29cb",
+            "released": "2024-11-22T15:57:32+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/athos2113/flarum-button-extension/tree/v0.1.0"
+        }
+    ]
+}

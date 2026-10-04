@@ -1,0 +1,42 @@
+{
+    "package": "blomstra/fathom-analytics",
+    "upstream": "https://github.com/blomstra/flarum-ext-fathom-analytics",
+    "packagistUrl": "https://packagist.org/packages/blomstra/fathom-analytics",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT-CMU). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.0-beta.3",
+            "tag": "1.0.0-beta.3",
+            "upstream_commit": "802ac2f8cc467c5f9a8086e1851d32a29bbfb7e0",
+            "released": "2022-10-13T17:13:36+00:00",
+            "license": "MIT-CMU",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/blomstra/flarum-ext-fathom-analytics/tree/1.0.0-beta.3"
+        },
+        {
+            "version": "1.0.0-beta.2",
+            "tag": "1.0.0-beta.2",
+            "upstream_commit": "db4a3a8f7562c16af55c9e94cf137d041e5acbff",
+            "released": "2022-10-11T11:04:07+00:00",
+            "license": "MIT-CMU",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/blomstra/flarum-ext-fathom-analytics/tree/1.0.0-beta.2"
+        },
+        {
+            "version": "1.0.0-beta.1",
+            "tag": "1.0.0-beta.1",
+            "upstream_commit": "17236c5a460b3fe539807fa59f0d459896a791ab",
+            "released": "2022-10-03T09:59:35+00:00",
+            "license": "MIT-CMU",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/blomstra/flarum-ext-fathom-analytics/tree/1.0.0-beta.1"
+        }
+    ]
+}

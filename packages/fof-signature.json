@@ -1,0 +1,31 @@
+{
+    "package": "fof/signature",
+    "upstream": "https://github.com/FriendsOfFlarum/signature",
+    "packagistUrl": "https://packagist.org/packages/fof/signature",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "7ebc38e19dfb1e0516cfca8e566d899e9414b96f",
+            "released": "2026-06-04T11:35:00+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/signature/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "752eee18b627339392d1dc08d5678134c9524bdf",
+            "released": "2026-06-03T21:07:26+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/signature/tree/1.0.0"
+        }
+    ]
+}

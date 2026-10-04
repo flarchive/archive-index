@@ -1,0 +1,8 @@
+{
+    "package": "biggiechesetherat/flarum-chatgpt-proxy",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/biggiechesetherat/flarum-chatgpt-proxy",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

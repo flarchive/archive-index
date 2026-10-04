@@ -1,0 +1,20 @@
+{
+    "package": "dhtml/flarum-language-oromo",
+    "upstream": "https://github.com/dhtml/flarum-language-oromo",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-oromo",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "5c5be24a892f423ea0e7064f1ce5db34804b37c9",
+            "released": "2024-06-20T16:06:31+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-language-oromo/tree/0.0.1"
+        }
+    ]
+}

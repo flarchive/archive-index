@@ -1,0 +1,53 @@
+{
+    "package": "fof/s3-assets",
+    "upstream": "https://github.com/FriendsOfFlarum/s3-assets",
+    "packagistUrl": "https://packagist.org/packages/fof/s3-assets",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "1.0.0-beta.4",
+            "tag": "1.0.0-beta.4",
+            "upstream_commit": "d9324c05bac831358b1ba0c4c721686425a0994f",
+            "released": "2024-12-02T13:09:28+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/s3-assets/tree/1.0.0-beta.4"
+        },
+        {
+            "version": "1.0.0-beta.3",
+            "tag": "1.0.0-beta.3",
+            "upstream_commit": "27c54627b4dc510471d0f192dcb7ba15c5e5280b",
+            "released": "2024-11-25T14:11:45+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/s3-assets/tree/1.0.0-beta.3"
+        },
+        {
+            "version": "1.0.0-beta.2",
+            "tag": "1.0.0-beta.2",
+            "upstream_commit": "7c1f274ee55da8a8e08d5d5bc551cee729003aeb",
+            "released": "2024-11-23T09:05:46+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/FriendsOfFlarum/s3-assets/tree/1.0.0-beta.2"
+        },
+        {
+            "version": "1.0.0-beta.1",
+            "tag": "1.0.0-beta.1",
+            "upstream_commit": "de1e181922fe34aa15f53a939bac63a80a35deb6",
+            "released": "2024-11-22T14:57:59+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.3.1",
+            "browse_url": "https://github.com/FriendsOfFlarum/s3-assets/tree/1.0.0-beta.1"
+        }
+    ]
+}

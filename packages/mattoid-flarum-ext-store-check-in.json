@@ -1,0 +1,53 @@
+{
+    "package": "mattoid/flarum-ext-store-check-in",
+    "upstream": "https://github.com/Mattoids/flarum-ext-store-check-in",
+    "packagistUrl": "https://packagist.org/packages/mattoid/flarum-ext-store-check-in",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "7404f951b997029d00ae3f62ef0fe405deb35bfb",
+            "released": "2024-10-06T20:45:48+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/Mattoids/flarum-ext-store-check-in/tree/1.0.3"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "e397a4d6634bb66f1cf7b7d63ca9c1559e98d782",
+            "released": "2024-09-13T06:32:11+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/Mattoids/flarum-ext-store-check-in/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "86381f2a94984266d4e329107c4bc5d9160208c8",
+            "released": "2024-07-30T12:31:11+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/Mattoids/flarum-ext-store-check-in/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "81800f87599270d7eab8cea6e777758ea05a1b27",
+            "released": "2024-07-01T11:51:38+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/Mattoids/flarum-ext-store-check-in/tree/1.0.0"
+        }
+    ]
+}

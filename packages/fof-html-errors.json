@@ -1,0 +1,163 @@
+{
+    "package": "fof/html-errors",
+    "upstream": "https://github.com/FriendsOfFlarum/html-errors",
+    "packagistUrl": "https://packagist.org/packages/fof/html-errors",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "aab617dae1c06fdb5df0caad53176713ee07f887",
+            "released": "2026-03-13T07:26:41+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "d838758849472ec11fff8aed7ffa0958c9d1beab",
+            "released": "2023-11-12T12:15:04+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "98aec8c700e307f77ca3b50ae5d1c1dfa9416f40",
+            "released": "2023-03-15T10:19:38+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "75867bbda1986ceacb74aede29cf9a08396b43bb",
+            "released": "2022-05-26T19:19:09+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/1.1.0"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "13281c390da003fe61c3042f80cd6e8219d1f64b",
+            "released": "2021-05-25T13:31:01+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/1.0.0"
+        },
+        {
+            "version": "0.6.0",
+            "tag": "0.6.0",
+            "upstream_commit": "eca5b302218acd2b962f60ed96fd0bc5f862d4e2",
+            "released": "2021-04-04T23:29:54+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/0.6.0"
+        },
+        {
+            "version": "0.5.0",
+            "tag": "0.5.0",
+            "upstream_commit": "73bf2df87b4a88458d829fd874cc73dc625a908a",
+            "released": "2020-12-18T11:05:31+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/0.5.0"
+        },
+        {
+            "version": "0.4.1",
+            "tag": "0.4.1",
+            "upstream_commit": "e23c8cb8c32857eadd62cf8134853d194d78ac20",
+            "released": "2020-11-13T23:18:10+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/0.4.1"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "1615b90220c93f929ef879f92d468f3c4fa33623",
+            "released": "2020-05-06T20:55:19+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.12 <0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/0.4.0"
+        },
+        {
+            "version": "0.3.1",
+            "tag": "0.3.1",
+            "upstream_commit": "0c8c465cdc50c2f39d16bfa96861b1795a350424",
+            "released": "2019-12-20T20:11:10+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.13",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/0.3.1"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "2a04f814b69d7dbff8b542bfd9586e5305cada21",
+            "released": "2019-12-20T15:30:04+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": ">=0.1.0-beta.11 <0.1.0-beta.13",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/0.3.0"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "0ab11287e8a6a9a6ed0047212b6ff5c75b26ab5a",
+            "released": "2018-12-09T21:07:42+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/0.2.0"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "61b96fd931af89244133ebd3500f1317c3196572",
+            "released": "2018-04-05T01:16:18+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.7",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "ac761f15a2fe828e9ff9cfbcea0e4553de87199b",
+            "released": "2018-04-04T02:06:11+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.7",
+            "browse_url": "https://github.com/FriendsOfFlarum/html-errors/tree/0.1.0"
+        }
+    ]
+}

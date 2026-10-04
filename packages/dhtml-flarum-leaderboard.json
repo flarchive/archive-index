@@ -1,0 +1,42 @@
+{
+    "package": "dhtml/flarum-leaderboard",
+    "upstream": "https://github.com/dhtml/flarum-leaderboard",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-leaderboard",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.0.2",
+            "tag": "v0.0.2",
+            "upstream_commit": "21bb386c3a40c9631f483a4be53cbccc24d0e92f",
+            "released": "2024-07-10T20:18:43+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-leaderboard/tree/v0.0.2"
+        },
+        {
+            "version": "v0.0.1",
+            "tag": "v0.0.1",
+            "upstream_commit": "f7214fe358e5a17e1b951932433e340b9f3e4c62",
+            "released": "2024-07-10T19:29:47+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-leaderboard/tree/v0.0.1"
+        },
+        {
+            "version": "v0.0.0",
+            "tag": "v0.0.0",
+            "upstream_commit": "b3f5d17cc50d8688b806b217e9b8ea9ab22bb07c",
+            "released": "2024-07-10T18:51:19+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-leaderboard/tree/v0.0.0"
+        }
+    ]
+}

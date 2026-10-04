@@ -1,0 +1,185 @@
+{
+    "package": "reflar/user-management",
+    "upstream": "https://github.com/ReFlar/user-management",
+    "packagistUrl": "https://packagist.org/packages/reflar/user-management",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.1.5",
+            "tag": "0.1.5",
+            "upstream_commit": "81a4faa2e2046bc7c9a44c7fc2057f1e2e806a4f",
+            "released": "2018-05-15T19:49:34+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.5"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "0.1.4",
+            "upstream_commit": "df4bde55fb7420b252384a0926d1aaa8456ef9f3",
+            "released": "2017-08-05T10:52:07+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.4"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "0.1.3",
+            "upstream_commit": "17ec8b24368ef4e27a47f97d8fabdd3d41fc68f1",
+            "released": "2017-06-09T19:20:19+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.3"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "0.1.2",
+            "upstream_commit": "5682085c6a0dd81bb0d5ea450a31f0d04117bb0d",
+            "released": "2017-05-02T11:46:25+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.2"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "9517d693ae02e11852f9301398fe3fcab165b8f5",
+            "released": "2017-05-02T04:40:38+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "c84fde6507e7a1b8b192f0403051679058e021fc",
+            "released": "2017-05-01T20:07:21+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0"
+        },
+        {
+            "version": "0.1.0-beta.9",
+            "tag": "0.1.0-beta.9",
+            "upstream_commit": "31adac4bcb4783436b115642f364d0bfe46e18c1",
+            "released": "2017-04-19T19:44:47+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.9"
+        },
+        {
+            "version": "0.1.0-beta.8",
+            "tag": "0.1.0-beta.8",
+            "upstream_commit": "cac65f039f19b29c042c08ce87ba24b6a7fc4f14",
+            "released": "2017-04-18T19:21:46+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.8"
+        },
+        {
+            "version": "0.1.0-beta.7.2",
+            "tag": "0.1.0-beta.7.2",
+            "upstream_commit": "cac65f039f19b29c042c08ce87ba24b6a7fc4f14",
+            "released": "2017-04-18T19:21:46+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.7.2"
+        },
+        {
+            "version": "0.1.0-beta.7",
+            "tag": "0.1.0-beta.7",
+            "upstream_commit": "107fc5521c99b244e9138f66b836ac818f64d9e7",
+            "released": "2017-04-18T18:07:58+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.7"
+        },
+        {
+            "version": "0.1.0-beta.6",
+            "tag": "0.1.0-beta.6",
+            "upstream_commit": "6bdee5d0a634446b4a1ce90b2f03ee3930ba0b66",
+            "released": "2017-04-18T10:51:15+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.6"
+        },
+        {
+            "version": "0.1.0-beta.5",
+            "tag": "0.1.0-beta.5",
+            "upstream_commit": "f817e72ecdf5cd65ba1a6c48e532d586e4c3171d",
+            "released": "2017-04-09T09:30:54+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.5"
+        },
+        {
+            "version": "0.1.0-beta.4",
+            "tag": "0.1.0-beta.4",
+            "upstream_commit": "f564fff9ddf584154586d606c935d105f95b384a",
+            "released": "2017-04-09T04:46:27+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.4"
+        },
+        {
+            "version": "0.1.0-beta.3",
+            "tag": "0.1.0-beta.3",
+            "upstream_commit": "d0c558cfb63b708f61ee5efb8a314e4ff0f2454d",
+            "released": "2017-04-08T13:18:02+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.3"
+        },
+        {
+            "version": "0.1.0-beta.2",
+            "tag": "0.1.0-beta.2",
+            "upstream_commit": "cff05faca0b3b27499ff38fe8a94c36bf17d379a",
+            "released": "2017-04-08T11:27:21+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.2"
+        },
+        {
+            "version": "0.1.0-beta.1",
+            "tag": "0.1.0-beta.1",
+            "upstream_commit": "d32c36f0fa3e9f245772adb953c4a4deadd28c02",
+            "released": "2017-04-08T02:33:15+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/ReFlar/user-management/tree/0.1.0-beta.1"
+        }
+    ]
+}

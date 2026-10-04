@@ -1,0 +1,53 @@
+{
+    "package": "nodeloc/flarum-telegram-notification",
+    "upstream": "https://github.com/nodeloc/flarum-telegram-notification",
+    "packagistUrl": "https://packagist.org/packages/nodeloc/flarum-telegram-notification",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (CC-BY-ND-2.5). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.4",
+            "tag": "0.4",
+            "upstream_commit": "0b90f4850a58cafdc92e4b5587e2bec0b43e446d",
+            "released": "2025-01-21T05:37:50+00:00",
+            "license": "CC-BY-ND-2.5",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/nodeloc/flarum-telegram-notification/tree/0.4"
+        },
+        {
+            "version": "0.3",
+            "tag": "0.3",
+            "upstream_commit": "e70abb746f2b80f4ba5dc42d007d697a333f2b24",
+            "released": "2025-01-15T10:52:59+00:00",
+            "license": "CC-BY-ND-2.5",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/nodeloc/flarum-telegram-notification/tree/0.3"
+        },
+        {
+            "version": "0.2",
+            "tag": "0.2",
+            "upstream_commit": "0daf3bcf8d288ed36394f63fccfa17adbc397415",
+            "released": "2025-01-15T07:22:37+00:00",
+            "license": "CC-BY-ND-2.5",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/nodeloc/flarum-telegram-notification/tree/0.2"
+        },
+        {
+            "version": "0.1",
+            "tag": "0.1",
+            "upstream_commit": "6f59f9472e5bcccb4120b6879b4cd4be2c50f378",
+            "released": "2025-01-15T06:02:43+00:00",
+            "license": "CC-BY-ND-2.5",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/nodeloc/flarum-telegram-notification/tree/0.1"
+        }
+    ]
+}

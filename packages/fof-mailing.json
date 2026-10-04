@@ -1,0 +1,42 @@
+{
+    "package": "fof/mailing",
+    "upstream": "https://github.com/FriendsOfFlarum/mailing",
+    "packagistUrl": "https://packagist.org/packages/fof/mailing",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "a0c23cce9a868bd3b9e33c9405e5720568ea261f",
+            "released": "2026-08-12T09:45:43+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-rc.6 || 2.x-dev",
+            "browse_url": "https://github.com/FriendsOfFlarum/mailing/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "5b00badf552b2a393e738219822be2aaeacb6768",
+            "released": "2026-04-21T12:30:21+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/mailing/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "4af143829da25da488aac2eaa31932afa9f6679c",
+            "released": "2026-04-21T11:20:53+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/mailing/tree/1.0.0"
+        }
+    ]
+}

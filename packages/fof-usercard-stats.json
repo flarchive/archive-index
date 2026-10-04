@@ -1,0 +1,42 @@
+{
+    "package": "fof/usercard-stats",
+    "upstream": "https://github.com/FriendsOfFlarum/usercard-stats",
+    "packagistUrl": "https://packagist.org/packages/fof/usercard-stats",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-rc.1",
+            "tag": "2.0.0-rc.1",
+            "upstream_commit": "6c892948ce9436a81a48d105cc5fd0536dfd46eb",
+            "released": "2026-07-31T20:34:58+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/usercard-stats/tree/2.0.0-rc.1"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "5086a27b37933c9be56cf9d83715191b0b8b800f",
+            "released": "2026-04-03T16:01:07+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/usercard-stats/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "b1a05dad06003e7ca9ea9731fbb0af278c56954e",
+            "released": "2026-04-03T15:37:13+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/usercard-stats/tree/1.0.0"
+        }
+    ]
+}

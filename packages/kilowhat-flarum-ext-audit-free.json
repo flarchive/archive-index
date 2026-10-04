@@ -1,0 +1,152 @@
+{
+    "package": "kilowhat/flarum-ext-audit-free",
+    "upstream": "https://github.com/kilowhat/flarum-ext-audit-free",
+    "packagistUrl": "https://packagist.org/packages/kilowhat/flarum-ext-audit-free",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (proprietary). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.7.0",
+            "tag": "1.7.0",
+            "upstream_commit": "74ff82a59bd45a69d855f8f8bf48cfaa58d1fcc1",
+            "released": "2023-08-07T22:14:41+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.7.0"
+        },
+        {
+            "version": "1.6.0",
+            "tag": "1.6.0",
+            "upstream_commit": "01f23babb7249bd586e04c7b80b2c1dfb12129bc",
+            "released": "2022-12-15T19:31:24+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.6.0"
+        },
+        {
+            "version": "1.5.1",
+            "tag": "1.5.1",
+            "upstream_commit": "1dc5f2644bbf2461c3f86f0b1d299cb3aae7c7e4",
+            "released": "2022-03-22T15:58:11+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.5.1"
+        },
+        {
+            "version": "1.4.2",
+            "tag": "1.4.2",
+            "upstream_commit": "8a0b3ff2e04333dd269c59a34c42d8e23ebdcbb1",
+            "released": "2021-08-25T17:22:38+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.4.2"
+        },
+        {
+            "version": "1.4.1",
+            "tag": "1.4.1",
+            "upstream_commit": "29828da235022bec00153ede96e4c1d42c065444",
+            "released": "2021-07-21T17:32:56+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.4.1"
+        },
+        {
+            "version": "1.4.0",
+            "tag": "1.4.0",
+            "upstream_commit": "96d182c261326e577f9aa7e4ec020df7a3121253",
+            "released": "2021-06-03T01:51:32+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.4.0"
+        },
+        {
+            "version": "1.3.3",
+            "tag": "1.3.3",
+            "upstream_commit": "ad954b7bcda161ee7da16732976f55575df3e378",
+            "released": "2021-03-19T01:36:18+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.16 <0.1.0-beta.17",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.3.3"
+        },
+        {
+            "version": "1.3.2",
+            "tag": "1.3.2",
+            "upstream_commit": "ff5ca2a7b1641db42ce375850fc282b53754cad3",
+            "released": "2021-02-27T23:36:21+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.3.2"
+        },
+        {
+            "version": "1.3.1",
+            "tag": "1.3.1",
+            "upstream_commit": "f05c2f92341ff55cfa9adb57db3cae63b3d62702",
+            "released": "2020-12-29T01:29:59+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.15 <0.1.0-beta.16",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.3.1"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "1.3.0",
+            "upstream_commit": "8b9c92425a68dfbef5f009f8bc0fd5ca547e0f2e",
+            "released": "2020-10-20T21:51:51+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.3.0"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "1.2.1",
+            "upstream_commit": "2f38f9d1633d31dfcbd5f61447c3b9bdac7e90c2",
+            "released": "2020-07-11T12:32:01+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.2.1"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "298f07c1a7b6f5edf12e7bae254b9fb5436f0c38",
+            "released": "2020-07-10T22:33:53+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.2.0"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "d9af675ccf55eab541b7baa87b73b0ead5b3ca0d",
+            "released": "2020-07-09T15:11:10+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": ">=0.1.0-beta.13 <0.1.0-beta.14",
+            "browse_url": "https://github.com/kilowhat/flarum-ext-audit-free/tree/1.1.0"
+        }
+    ]
+}

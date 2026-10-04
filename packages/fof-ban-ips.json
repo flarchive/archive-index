@@ -1,0 +1,218 @@
+{
+    "package": "fof/ban-ips",
+    "upstream": "https://github.com/FriendsOfFlarum/ban-ips",
+    "packagistUrl": "https://packagist.org/packages/fof/ban-ips",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "710d4f1a2e7ef24b15b7481a503597c1891e97bb",
+            "released": "2026-07-08T15:34:37+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "50b79b0f52ba7c707d290db63b993199ebce36fd",
+            "released": "2026-06-03T20:12:44+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "1.2.0",
+            "upstream_commit": "c16a693c8f1ec5046760198a1ac31aab27b447c8",
+            "released": "2026-06-03T11:45:25+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/1.2.0"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "d1933a9dfe9fc66ddbb7208b42ad6dc13b7edddb",
+            "released": "2024-11-03T14:43:15+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/1.1.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "f80b48f8ff5ed55c04e78bc94a3dd0c5136cff5a",
+            "released": "2023-11-27T16:24:15+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "71a46ad3dcfa897bb7323f30e28cd4ce61d55210",
+            "released": "2023-10-31T09:51:03+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/1.1.0"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "bbf102c9de9932c978ad67cc6b6119ed7560a878",
+            "released": "2022-12-01T18:36:23+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/1.0.3"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "a7e1ac8613a990a693420cf94a8e21e61bd869a0",
+            "released": "2022-02-26T23:46:21+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "be159630b0f064413a8c9e6b05a8ae9a97cc5ece",
+            "released": "2022-02-26T22:06:03+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "c43866ca1720ff4a9a993c5d7a4d16c455d79e36",
+            "released": "2021-06-25T08:46:59+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/1.0.0"
+        },
+        {
+            "version": "0.4.0",
+            "tag": "0.4.0",
+            "upstream_commit": "41d64ec897495d39c17038c9abaae2c44e579fb4",
+            "released": "2020-12-16T10:27:59+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/0.4.0"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "cf3d98f82408091adce033d34f19b47a0b02b610",
+            "released": "2020-11-05T16:13:54+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/0.3.0"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "32ba15466a82a115b4f6a7d77f9a96f73667c53e",
+            "released": "2020-05-02T14:47:14+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.12",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/0.2.0"
+        },
+        {
+            "version": "0.1.5",
+            "tag": "0.1.5",
+            "upstream_commit": "d1d43ac3c348eef4995b7242c6ec866ef487acbe",
+            "released": "2019-10-16T23:25:54+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.10",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/0.1.5"
+        },
+        {
+            "version": "0.1.4",
+            "tag": "0.1.4",
+            "upstream_commit": "a5b70d1a480bab64102383eda40020d1b9edb6e1",
+            "released": "2019-10-16T23:20:52+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.10",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/0.1.4"
+        },
+        {
+            "version": "0.1.3",
+            "tag": "0.1.3",
+            "upstream_commit": "f9284c48a4b6cbcadf144aaaba9e39a9b2875484",
+            "released": "2019-10-16T22:56:21+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.10",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/0.1.3"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "0.1.2",
+            "upstream_commit": "910bf8ee628b52933ae5bc09b98cf77423c70d50",
+            "released": "2019-09-24T23:23:04+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.10",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/0.1.2"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "f7eb835582001b8211c169c9f1b55b941242f63c",
+            "released": "2019-09-23T21:28:31+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.10",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "0cec20878af2bdfb48a1b52c10d3e5a7a2726cc5",
+            "released": "2019-08-04T20:33:07+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/ban-ips/tree/0.1.0"
+        }
+    ]
+}

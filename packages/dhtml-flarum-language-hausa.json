@@ -1,0 +1,20 @@
+{
+    "package": "dhtml/flarum-language-hausa",
+    "upstream": "https://github.com/dhtml/flarum-language-hausa",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-language-hausa",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "6a09865b261bee1b303b2050ef581949d5d52927",
+            "released": "2024-06-20T09:15:03+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/dhtml/flarum-language-hausa/tree/0.0.1"
+        }
+    ]
+}

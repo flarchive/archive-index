@@ -1,0 +1,185 @@
+{
+    "package": "wanecho/uservip",
+    "upstream": "https://gitee.com/echo886/uservip",
+    "packagistUrl": "https://packagist.org/packages/wanecho/uservip",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT-open-group). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "1.1.5",
+            "tag": "1.1.5",
+            "upstream_commit": "6270e0f9761a7f47311c66e71143d4b6aae31c9a",
+            "released": "2023-04-29T09:25:25+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.1.4",
+            "tag": "1.1.4",
+            "upstream_commit": "40d0aeb636e8347ad25401051d4593d801d91764",
+            "released": "2023-04-29T08:09:36+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.1.3",
+            "tag": "1.1.3",
+            "upstream_commit": "915fa978724bf1f934581f9ebbaa762cfe3a71f7",
+            "released": "2023-04-29T06:27:34+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "2c9cacf94a45be05387a876b30aed8dc9c8e2d5d",
+            "released": "2023-04-29T05:02:54+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "22b3aa15cd0a57d1e70ef9cdc64fa5ecd639a51d",
+            "released": "2023-04-27T15:18:22+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "c6dce4bc6daed291906a414ffa57f155685124f5",
+            "released": "2023-04-27T01:30:46+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.9",
+            "tag": "1.0.9",
+            "upstream_commit": "8abab2e4574b9bc557d2caedaaaa9c8a9f296f79",
+            "released": "2023-04-27T01:11:40+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.8",
+            "tag": "1.0.8",
+            "upstream_commit": "2cda0178b5f73ddeb4eb2342349343311431fbca",
+            "released": "2023-04-27T01:02:33+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.7",
+            "tag": "1.0.7",
+            "upstream_commit": "d2334d1627f8d44f19f2fd7de3f93cc366a034ef",
+            "released": "2023-04-26T19:09:14+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "1.0.6",
+            "upstream_commit": "ed66764ce76365072a5a2876ed7eeb4e42f31a58",
+            "released": "2023-04-26T18:59:51+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "1.0.5",
+            "upstream_commit": "79facd02538de84fd98a24544c9888a41f24fd9b",
+            "released": "2023-04-26T18:53:25+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "1.0.4",
+            "upstream_commit": "2d361632c926f5f3ef39c312a2dfef130bb17542",
+            "released": "2023-04-26T18:50:23+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "79305748518b61e981677c8ef620916fc13d696c",
+            "released": "2023-04-26T18:04:05+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "a6e06c3da5d494d0fa42e2c59c0a456e03e80d6e",
+            "released": "2023-04-26T16:41:49+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "315f0e9380aa4bc2a91192ee364cb2bcdf8928d0",
+            "released": "2023-04-26T15:31:30+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "8a07fdc63854255dd329a61c0a94a401c825dc23",
+            "released": "2023-04-26T06:39:05+00:00",
+            "license": "MIT-open-group",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://packagist.org/packages/wanecho/uservip"
+        }
+    ]
+}

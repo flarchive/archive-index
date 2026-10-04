@@ -1,0 +1,42 @@
+{
+    "package": "fof/upgrade-advisor",
+    "upstream": "https://github.com/FriendsOfFlarum/upgrade-advisor",
+    "packagistUrl": "https://packagist.org/packages/fof/upgrade-advisor",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "a12599759fce2c31f2898ac4237299a2a45ba09f",
+            "released": "2026-09-30T13:25:26+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/upgrade-advisor/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "aad404c007c76030dcb3bf90dd90b301debb112e",
+            "released": "2026-07-01T18:33:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/upgrade-advisor/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "60ac972fe6f7a4e391ec1f418cbcd40599f45bb8",
+            "released": "2026-07-01T17:41:36+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/upgrade-advisor/tree/1.0.0"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "package": "fof/bbcode-tabs",
+    "upstream": "https://github.com/FriendsOfFlarum/bbcode-tabs",
+    "packagistUrl": "https://packagist.org/packages/fof/bbcode-tabs",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "9093f9bd3d18723d9e157a710e77d363e31e948d",
+            "released": "2026-05-20T21:04:38+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "1.0.4",
+            "upstream_commit": "1cd91beafc4db238141aec7b891ceea0669cf95b",
+            "released": "2026-04-05T15:44:55+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/1.0.4"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "7aa5099f99d2094d76a341d95b78a8b90dfd7c9d",
+            "released": "2023-03-15T11:31:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/1.0.3"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "74fb0ec51dc60542205c6c7f79ea5588d365adcc",
+            "released": "2022-03-14T20:44:00+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "b0c8b6f44722355c4ae6872c4a9088ca652158e8",
+            "released": "2021-11-26T01:21:33+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "a9745c222b406d7f9532a96f73dc1154c38e9171",
+            "released": "2021-05-24T23:05:38+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/1.0.0"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "a05ee2cbe5a2a74eb212debc03f6096c4fc370d8",
+            "released": "2021-03-19T11:56:57+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/0.3.0"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "b5bfeb27b5a98d88ab91847f68e4cc71688c343d",
+            "released": "2020-12-15T09:57:22+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "589a488b00c3545a56020663725eb4e04503d01d",
+            "released": "2020-12-08T17:16:42+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/0.2.0"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "0.1.1",
+            "upstream_commit": "8566d7219d82e59f6b3eec88da43ff90dadadc8d",
+            "released": "2019-08-14T20:13:11+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/0.1.1"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "eadd6b3c288d6f50fc16793259f13a1bf45984ab",
+            "released": "2019-08-14T20:10:18+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/bbcode-tabs/tree/0.1.0"
+        }
+    ]
+}

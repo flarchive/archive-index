@@ -1,0 +1,86 @@
+{
+    "package": "flarum/auth-github",
+    "upstream": "https://github.com/flarum/auth-github",
+    "packagistUrl": "https://packagist.org/packages/flarum/auth-github",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.13",
+            "tag": "v0.1.0-beta.13",
+            "upstream_commit": "d01b8349c49cf9807bdf9da86ff1d5f1a8d7c853",
+            "released": "2020-05-01T11:08:43+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.13",
+            "browse_url": "https://github.com/flarum/auth-github/tree/v0.1.0-beta.13"
+        },
+        {
+            "version": "v0.1.0-beta.12",
+            "tag": "v0.1.0-beta.12",
+            "upstream_commit": "28b2f0e6f96d7d8ea03723304d83cbf220dd3b72",
+            "released": "2020-03-03T12:23:55+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.12",
+            "browse_url": "https://github.com/flarum/auth-github/tree/v0.1.0-beta.12"
+        },
+        {
+            "version": "v0.1.0-beta.9",
+            "tag": "v0.1.0-beta.9",
+            "upstream_commit": "8723489c880c2cbea33c4b0596c7fb702d9b98d1",
+            "released": "2019-06-24T10:03:32+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.9",
+            "browse_url": "https://github.com/flarum/auth-github/tree/v0.1.0-beta.9"
+        },
+        {
+            "version": "v0.1.0-beta.8",
+            "tag": "v0.1.0-beta.8",
+            "upstream_commit": "bb749145fad46e85ba4739275b9ae4fa99e0c4e7",
+            "released": "2018-11-21T08:23:50+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/flarum/auth-github/tree/v0.1.0-beta.8"
+        },
+        {
+            "version": "v0.1.0-beta.6",
+            "tag": "v0.1.0-beta.6",
+            "upstream_commit": "14722724e5e0f8de3e5c115f8aa8d39118d05b1f",
+            "released": "2016-10-19T10:42:27+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://github.com/flarum/auth-github/tree/v0.1.0-beta.6"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "v0.1.0-beta.5",
+            "upstream_commit": "67e420b9fdb6689df807d5dd783083b2f9346ccc",
+            "released": "2016-03-29T08:13:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.5",
+            "browse_url": "https://github.com/flarum/auth-github/tree/v0.1.0-beta.5"
+        },
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": "v0.1.0-beta.3",
+            "upstream_commit": "d2c13b002cca5f03f878393efbf911206c5d473a",
+            "released": "2015-11-02T23:32:36+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.3",
+            "browse_url": "https://github.com/flarum/auth-github/tree/v0.1.0-beta.3"
+        }
+    ]
+}

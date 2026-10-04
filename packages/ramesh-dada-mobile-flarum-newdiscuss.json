@@ -1,0 +1,141 @@
+{
+    "package": "ramesh-dada/mobile-flarum-newdiscuss",
+    "upstream": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss",
+    "packagistUrl": "https://packagist.org/packages/ramesh-dada/mobile-flarum-newdiscuss",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (proprietary). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "7.2.1",
+            "tag": "7.2.1",
+            "upstream_commit": "82027c8741c400ffd3c3cc40a7867d8122bff21b",
+            "released": "2021-09-10T08:31:43+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.2.1"
+        },
+        {
+            "version": "7.2.0",
+            "tag": "7.2.0",
+            "upstream_commit": "47c5e7067e762659a6dcb9e2b2f55008b7c1b040",
+            "released": "2021-09-01T10:45:05+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.2.0"
+        },
+        {
+            "version": "7.1.20",
+            "tag": "7.1.20",
+            "upstream_commit": "af4a345ae21d8243e788be8aec3cdef68c24f83f",
+            "released": "2021-09-01T10:38:56+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.20"
+        },
+        {
+            "version": "7.1.19",
+            "tag": "7.1.19",
+            "upstream_commit": "7a30d19880679aa5fbd470ef8a4b25438b3bf58d",
+            "released": "2021-09-01T10:35:40+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.19"
+        },
+        {
+            "version": "7.1.18",
+            "tag": "7.1.18",
+            "upstream_commit": "ae0499e48b1bc3719c7bc1a180d0710cca0f41e7",
+            "released": "2021-09-01T10:28:11+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.18"
+        },
+        {
+            "version": "7.1.17",
+            "tag": "7.1.17",
+            "upstream_commit": "5fe2a89c0c68db459150e777318d312f0e13339a",
+            "released": "2021-07-21T08:33:51+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.17"
+        },
+        {
+            "version": "7.1.16",
+            "tag": "7.1.16",
+            "upstream_commit": "6de875ce106878e8cb20c848e3ccdeeba98e8498",
+            "released": "2021-07-21T07:43:35+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.16"
+        },
+        {
+            "version": "7.1.15",
+            "tag": "7.1.15",
+            "upstream_commit": "2a49d6e0e426732de48259b7badbd4c59c416859",
+            "released": "2021-07-21T07:22:58+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.15"
+        },
+        {
+            "version": "7.1.14",
+            "tag": "7.1.14",
+            "upstream_commit": "8cd4186bb514b8c716e2784893a302aeddaaf7b7",
+            "released": "2021-07-21T07:18:47+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.14"
+        },
+        {
+            "version": "7.1.13",
+            "tag": "7.1.13",
+            "upstream_commit": "a0dbc80cd41b74e109dbab5e51a7a30e683e760e",
+            "released": "2021-07-14T05:56:29+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.13"
+        },
+        {
+            "version": "7.1.12",
+            "tag": "7.1.12",
+            "upstream_commit": "372d09f4b96301e1a7e4a5124f815f01a6512227",
+            "released": "2021-07-14T05:44:16+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.12"
+        },
+        {
+            "version": "7.1.11",
+            "tag": "7.1.11",
+            "upstream_commit": "8c60ef1f0a6d002f80af4a9814670708f7f3e3fd",
+            "released": "2021-07-11T06:14:58+00:00",
+            "license": "proprietary",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0",
+            "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.11"
+        }
+    ]
+}

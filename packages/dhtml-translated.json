@@ -1,0 +1,108 @@
+{
+    "package": "dhtml/translated",
+    "upstream": "https://github.com/dhtml/translated",
+    "packagistUrl": "https://packagist.org/packages/dhtml/translated",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.0.8",
+            "tag": "v0.0.8",
+            "upstream_commit": "53c792842f21176a9e20e7bc649cb2f2522fdad4",
+            "released": "2024-07-29T10:00:47+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/translated/tree/v0.0.8"
+        },
+        {
+            "version": "v0.0.7",
+            "tag": "v0.0.7",
+            "upstream_commit": "d6c48e316cdfa00fc18fd559374bb0087ee81fcd",
+            "released": "2024-07-29T09:57:29+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/translated/tree/v0.0.7"
+        },
+        {
+            "version": "v0.0.6",
+            "tag": "v0.0.6",
+            "upstream_commit": "d48ce3f33116b9c002d2b2d524046ad29f1250fe",
+            "released": "2024-07-26T13:56:23+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/translated/tree/v0.0.6"
+        },
+        {
+            "version": "v0.0.5",
+            "tag": "v0.0.5",
+            "upstream_commit": "dc0bf86ee1794606306da8b4ac4e718a591437ec",
+            "released": "2024-07-26T13:42:46+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/translated/tree/v0.0.5"
+        },
+        {
+            "version": "v0.0.4",
+            "tag": "v0.0.4",
+            "upstream_commit": "ac7d7d815e0125973da5bcf1fdd3240c4e8607a9",
+            "released": "2024-07-26T10:10:33+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/translated/tree/v0.0.4"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "v0.0.3",
+            "upstream_commit": "a43637b03cc35f61185b9457bf445fcfbc058724",
+            "released": "2024-07-26T09:53:17+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/translated/tree/v0.0.3"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "v0.0.2",
+            "upstream_commit": "7577769ce4f24057d99604473d7a07142b5d8a85",
+            "released": "2024-07-26T08:55:16+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/translated/tree/v0.0.2"
+        },
+        {
+            "version": "v0.0.1",
+            "tag": "v0.0.1",
+            "upstream_commit": "3f245ca737fcc00b4a6970714bd2040d5ef319b0",
+            "released": "2024-07-26T08:50:49+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/translated/tree/v0.0.1"
+        },
+        {
+            "version": "v0.0.0",
+            "tag": "v0.0.0",
+            "upstream_commit": "9bd2831ad8c223c1d11849967f13e65b74353e1f",
+            "released": "2024-07-25T23:05:11+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/translated/tree/v0.0.0"
+        }
+    ]
+}

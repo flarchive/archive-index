@@ -1,0 +1,31 @@
+{
+    "package": "wanecho/money-leaderboard",
+    "upstream": "https://gitee.com/echo886/flarum-money-leaderboard",
+    "packagistUrl": "https://packagist.org/packages/wanecho/money-leaderboard",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (MIT). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.0.2",
+            "tag": "0.0.2",
+            "upstream_commit": "edd3cdfa52455af19d6b891101ae56cf3fafbe11",
+            "released": "2023-05-14T12:23:08+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/money-leaderboard"
+        },
+        {
+            "version": "0.0.1",
+            "tag": "0.0.1",
+            "upstream_commit": "fd0d27681598310cf718d0035fdd2ecfcdea4680",
+            "released": "2023-05-14T11:53:53+00:00",
+            "license": "MIT",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.7.0",
+            "browse_url": "https://packagist.org/packages/wanecho/money-leaderboard"
+        }
+    ]
+}

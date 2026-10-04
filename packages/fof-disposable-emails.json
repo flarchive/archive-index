@@ -1,0 +1,75 @@
+{
+    "package": "fof/disposable-emails",
+    "upstream": "https://github.com/FriendsOfFlarum/disposable-emails",
+    "packagistUrl": "https://packagist.org/packages/fof/disposable-emails",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "dcb59fb38d515224cd591d5772063312f0a60557",
+            "released": "2025-11-05T19:44:46+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://github.com/FriendsOfFlarum/disposable-emails/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "304cb670eb1b731f6108cc5e5401096e3c41ef2c",
+            "released": "2021-05-22T18:56:14+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/disposable-emails/tree/1.0.0"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "0.3.0",
+            "upstream_commit": "c1183a230ada5e46b4377b4c43a6141653cc42f2",
+            "released": "2021-03-18T22:53:53+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/disposable-emails/tree/0.3.0"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "0.2.1",
+            "upstream_commit": "048d8ac1fd4f09103ba2027092ee33359013c004",
+            "released": "2020-12-14T13:48:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/disposable-emails/tree/0.2.1"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "0.2.0",
+            "upstream_commit": "c5efecec2eac6b3ce533a8fe581c60b4d2fb94c5",
+            "released": "2020-11-07T17:15:30+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.14",
+            "browse_url": "https://github.com/FriendsOfFlarum/disposable-emails/tree/0.2.0"
+        },
+        {
+            "version": "0.1.0",
+            "tag": "0.1.0",
+            "upstream_commit": "013dbe01799e401e78475027483904d9a7152090",
+            "released": "2019-06-22T12:57:32+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/disposable-emails/tree/0.1.0"
+        }
+    ]
+}

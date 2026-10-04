@@ -1,0 +1,86 @@
+{
+    "package": "fof/rich-text",
+    "upstream": "https://github.com/FriendsOfFlarum/rich-text",
+    "packagistUrl": "https://packagist.org/packages/fof/rich-text",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.6",
+            "tag": "2.0.0-beta.6",
+            "upstream_commit": "1388fa8c7d892c775ab048cb50efadd1328847f8",
+            "released": "2026-06-19T07:57:16+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/rich-text/tree/2.0.0-beta.6"
+        },
+        {
+            "version": "2.0.0-beta.5",
+            "tag": "2.0.0-beta.5",
+            "upstream_commit": "df827e16c32a8a9af0cc4f75ca84b39adec73fa3",
+            "released": "2026-04-03T22:55:15+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/rich-text/tree/2.0.0-beta.5"
+        },
+        {
+            "version": "2.0.0-beta.4",
+            "tag": "2.0.0-beta.4",
+            "upstream_commit": "e9b2799f358d4d2262795c48064b15aaad7ec255",
+            "released": "2026-03-25T12:51:19+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://github.com/FriendsOfFlarum/rich-text/tree/2.0.0-beta.4"
+        },
+        {
+            "version": "2.0.0-beta.3",
+            "tag": "2.0.0-beta.3",
+            "upstream_commit": "da64e46d95d6b3c18b18432591a0d9431f7a474f",
+            "released": "2026-03-13T09:55:52+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://github.com/FriendsOfFlarum/rich-text/tree/2.0.0-beta.3"
+        },
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "058446e75d1b466557f7dd5f55d9a8d5c068b027",
+            "released": "2026-03-05T12:32:26+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://github.com/FriendsOfFlarum/rich-text/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "6d90d16f6b407c7beacf8a0ee83909a7807a8958",
+            "released": "2026-02-23T12:10:20+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0-beta",
+            "browse_url": "https://github.com/FriendsOfFlarum/rich-text/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "f48d059ef5cee089f61c0a88082c8a5bf1451316",
+            "released": "2026-02-20T10:34:16+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8.3",
+            "browse_url": "https://github.com/FriendsOfFlarum/rich-text/tree/1.0.0"
+        }
+    ]
+}

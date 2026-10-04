@@ -1,0 +1,31 @@
+{
+    "package": "tuxmain/opensearch",
+    "upstream": "https://framagit.org/ZettaScript/flarum-opensearch",
+    "packagistUrl": "https://packagist.org/packages/tuxmain/opensearch",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (AGPL-3.0-only). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "v1.0.0",
+            "upstream_commit": "764a24e6aa871f7fb5e4e26c88dc14fdaf490f72",
+            "released": "2021-05-27T11:40:02+00:00",
+            "license": "AGPL-3.0-only",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.0.0",
+            "browse_url": "https://packagist.org/packages/tuxmain/opensearch"
+        },
+        {
+            "version": "v0.1.0",
+            "tag": "v0.1.0",
+            "upstream_commit": "41b3f1cd3fa8d0663657ec7deecb8eedd093b903",
+            "released": "2021-05-25T10:37:21+00:00",
+            "license": "AGPL-3.0-only",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.15",
+            "browse_url": "https://packagist.org/packages/tuxmain/opensearch"
+        }
+    ]
+}

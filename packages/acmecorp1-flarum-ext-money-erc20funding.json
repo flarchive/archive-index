@@ -1,0 +1,8 @@
+{
+    "package": "acmecorp1/flarum-ext-money-erc20funding",
+    "upstream": "",
+    "packagistUrl": "https://packagist.org/packages/acmecorp1/flarum-ext-money-erc20funding",
+    "archive_status": "dev_only",
+    "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
+    "versions": []
+}

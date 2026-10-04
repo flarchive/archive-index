@@ -1,0 +1,86 @@
+{
+    "package": "riartem/flarum-ext-russian",
+    "upstream": "https://gitlab.com/riartem/flarum-ext-russian",
+    "packagistUrl": "https://packagist.org/packages/riartem/flarum-ext-russian",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-3.0). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "0.1.0-beta.6-6",
+            "tag": "0.1.0-beta.6-6",
+            "upstream_commit": "3c73b2b112b356f75c0115a5a51425638df3bb8a",
+            "released": "2017-07-05T23:05:03+00:00",
+            "license": "GPL-3.0",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/riartem/flarum-ext-russian"
+        },
+        {
+            "version": "0.1.0-beta.6-5",
+            "tag": "0.1.0-beta.6-5",
+            "upstream_commit": "e8ccde22659c56144810da484dc98a9829a214b4",
+            "released": "2017-07-05T22:02:57+00:00",
+            "license": "GPL-3.0",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/riartem/flarum-ext-russian"
+        },
+        {
+            "version": "0.1.0-beta.6-4",
+            "tag": "0.1.0-beta.6-4",
+            "upstream_commit": "50c829d35d8e2a1b1042c932f6376e92cb287c5a",
+            "released": "2017-07-05T20:24:08+00:00",
+            "license": "GPL-3.0",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/riartem/flarum-ext-russian"
+        },
+        {
+            "version": "0.1.0-beta.6-3",
+            "tag": "0.1.0-beta.6-3",
+            "upstream_commit": "84a82ef5ad96b90f5a6a3c5c5b7976836143a466",
+            "released": "2017-07-05T20:19:06+00:00",
+            "license": "GPL-3.0",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/riartem/flarum-ext-russian"
+        },
+        {
+            "version": "0.1.0-beta.6-2",
+            "tag": "0.1.0-beta.6-2",
+            "upstream_commit": "e7d70547eb6ec21de43eea5fd07dde247c8ce58a",
+            "released": "2017-01-21T13:04:55+00:00",
+            "license": "GPL-3.0",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/riartem/flarum-ext-russian"
+        },
+        {
+            "version": "0.1.0-beta.6-1",
+            "tag": "0.1.0-beta.6-1",
+            "upstream_commit": "b4d5f22d8022d4ca20431465a8bff548a7a6b4d4",
+            "released": "2017-01-05T21:19:21+00:00",
+            "license": "GPL-3.0",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.6",
+            "browse_url": "https://packagist.org/packages/riartem/flarum-ext-russian"
+        },
+        {
+            "version": "0.1.0-beta.5-1",
+            "tag": "0.1.0-beta.5-1",
+            "upstream_commit": "3ddf874a980e2ee095bc71884001f64465188c5e",
+            "released": "2016-03-29T18:12:03+00:00",
+            "license": "GPL-3.0",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^0.1.0-beta.5",
+            "browse_url": "https://packagist.org/packages/riartem/flarum-ext-russian"
+        }
+    ]
+}

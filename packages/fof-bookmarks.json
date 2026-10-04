@@ -1,0 +1,64 @@
+{
+    "package": "fof/bookmarks",
+    "upstream": "https://github.com/FriendsOfFlarum/bookmarks",
+    "packagistUrl": "https://packagist.org/packages/fof/bookmarks",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-rc.3",
+            "tag": "2.0.0-rc.3",
+            "upstream_commit": "4e1c9160ab265afe094426d186db90b8d5de7656",
+            "released": "2026-09-17T13:00:34+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bookmarks/tree/2.0.0-rc.3"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "967816c32d8ab770e138a0a15da1f7a38ecdf80f",
+            "released": "2026-09-17T12:59:32+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/bookmarks/tree/1.0.1"
+        },
+        {
+            "version": "2.0.0-rc.2",
+            "tag": "2.0.0-rc.2",
+            "upstream_commit": "0c5d2c65088f9ae3ab0250cae39cf61118bed278",
+            "released": "2026-08-03T20:07:35+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bookmarks/tree/2.0.0-rc.2"
+        },
+        {
+            "version": "2.0.0-rc.1",
+            "tag": "2.0.0-rc.1",
+            "upstream_commit": "4a00b48ba798bacee7c178e836506128197e1706",
+            "released": "2026-08-03T19:43:18+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/bookmarks/tree/2.0.0-rc.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "c8e7918a8755716bc4ecd4651192e255419b6b3e",
+            "released": "2026-08-03T13:05:15+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/bookmarks/tree/1.0.0"
+        }
+    ]
+}

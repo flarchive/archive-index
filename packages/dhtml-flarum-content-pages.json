@@ -1,0 +1,218 @@
+{
+    "package": "dhtml/flarum-content-pages",
+    "upstream": "https://github.com/dhtml/flarum-content-pages",
+    "packagistUrl": "https://packagist.org/packages/dhtml/flarum-content-pages",
+    "archive_status": "license_restricted",
+    "archive_notice": "Code archiving omitted due to copyright or license restrictions (GPL-1.0-or-later). Metadata and release history indexed via Packagist.",
+    "versions": [
+        {
+            "version": "v0.0.18",
+            "tag": "v0.0.18",
+            "upstream_commit": "a894ea713d1353b14336a9d62ab550c84c9ef499",
+            "released": "2024-07-25T21:32:55+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.18"
+        },
+        {
+            "version": "v0.0.17",
+            "tag": "v0.0.17",
+            "upstream_commit": "f189d68f5487e950b0d603ef271f3f0ff74024cb",
+            "released": "2024-07-25T21:31:28+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.17"
+        },
+        {
+            "version": "v0.0.16",
+            "tag": "v0.0.16",
+            "upstream_commit": "1ca007bed4088672b3514e8e79fdb5bc98031189",
+            "released": "2024-07-25T21:23:17+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.16"
+        },
+        {
+            "version": "v0.0.15",
+            "tag": "v0.0.15",
+            "upstream_commit": "38ce47e311a4040903e357439fd9eeab8d738e9a",
+            "released": "2024-07-25T20:38:09+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.15"
+        },
+        {
+            "version": "v0.0.14",
+            "tag": "v0.0.14",
+            "upstream_commit": "d7af394c3a6198f88de13dc80f78161a045f3441",
+            "released": "2024-07-25T20:06:36+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.14"
+        },
+        {
+            "version": "v0.0.13",
+            "tag": "v0.0.13",
+            "upstream_commit": "d1354447afcfe771b6e9cb5c331c5627eed2c3ab",
+            "released": "2024-07-25T15:01:33+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.13"
+        },
+        {
+            "version": "v0.0.12",
+            "tag": "v0.0.12",
+            "upstream_commit": "2d0f16f7cce56b8589e9aa51440085471190c0fe",
+            "released": "2024-07-25T13:42:30+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.12"
+        },
+        {
+            "version": "v0.0.11",
+            "tag": "v0.0.11",
+            "upstream_commit": "65840db09959d30251e1db5ab9bcb53714cbba84",
+            "released": "2024-07-25T13:36:19+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.11"
+        },
+        {
+            "version": "v0.0.10",
+            "tag": "v0.0.10",
+            "upstream_commit": "d23ff935e243fe14205977507c1f79584ccf62cf",
+            "released": "2024-07-25T13:22:18+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.10"
+        },
+        {
+            "version": "v0.0.9",
+            "tag": "v0.0.9",
+            "upstream_commit": "5e88bc08baae78aa1b4e7f40b08bd3d2a2d5bbed",
+            "released": "2024-07-25T13:19:57+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.9"
+        },
+        {
+            "version": "v0.0.8",
+            "tag": "v0.0.8",
+            "upstream_commit": "58fa1c7ee6d92780491ffdb8d0455654f7fb4f08",
+            "released": "2024-07-25T12:25:24+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.8"
+        },
+        {
+            "version": "v0.0.7",
+            "tag": "v0.0.7",
+            "upstream_commit": "a963aa5cbad9add35f7d37403027564d7e98e9c3",
+            "released": "2024-07-25T10:53:32+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.7"
+        },
+        {
+            "version": "v0.0.6",
+            "tag": "v0.0.6",
+            "upstream_commit": "c333e02b92b0f8c2c85cfd2749fc488e5f5d88d6",
+            "released": "2024-07-25T10:13:57+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.6"
+        },
+        {
+            "version": "v0.0.5",
+            "tag": "v0.0.5",
+            "upstream_commit": "83cae29d463a36f39204854a3fed31e9aaa424c9",
+            "released": "2024-07-24T17:47:24+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.5"
+        },
+        {
+            "version": "v0.0.4",
+            "tag": "v0.0.4",
+            "upstream_commit": "42c8b71003aed4c7a5eed8201f39e9f9444e8306",
+            "released": "2024-07-15T22:35:18+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.4"
+        },
+        {
+            "version": "v0.0.3",
+            "tag": "v0.0.3",
+            "upstream_commit": "86d617def4542d22ceab93dabda3e96926e24332",
+            "released": "2024-07-12T23:46:49+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.3"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "v0.0.2",
+            "upstream_commit": "a57aa5396025d20d0ff0e77e9e431d762f227d8d",
+            "released": "2024-07-10T20:59:15+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.2"
+        },
+        {
+            "version": "v0.0.1",
+            "tag": "v0.0.1",
+            "upstream_commit": "8984b79e049fab72b38d4a95a7b68d581156b69b",
+            "released": "2024-07-10T20:04:37+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.1"
+        },
+        {
+            "version": "v0.0.0",
+            "tag": "v0.0.0",
+            "upstream_commit": "785b5d3116867904386936f0af81b51fb4ad3928",
+            "released": "2024-07-10T09:44:53+00:00",
+            "license": "GPL-1.0-or-later",
+            "source": "metadata-only",
+            "status": "license_restricted",
+            "flarum": "^1.2.0",
+            "browse_url": "https://github.com/dhtml/flarum-content-pages/tree/v0.0.0"
+        }
+    ]
+}

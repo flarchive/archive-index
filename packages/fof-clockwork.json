@@ -1,0 +1,163 @@
+{
+    "package": "fof/clockwork",
+    "upstream": "https://github.com/FriendsOfFlarum/clockwork",
+    "packagistUrl": "https://packagist.org/packages/fof/clockwork",
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "versions": [
+        {
+            "version": "2.0.0-beta.3",
+            "tag": "2.0.0-beta.3",
+            "upstream_commit": "391e0b4cbdd58c400a932b0b41808cfd834346ec",
+            "released": "2026-08-27T08:11:54+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/2.0.0-beta.3"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "1.1.2",
+            "upstream_commit": "d691c2a339762f6920d2478bafc2f5af8c69f9dc",
+            "released": "2026-08-27T08:11:04+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/1.1.2"
+        },
+        {
+            "version": "2.0.0-beta.2",
+            "tag": "2.0.0-beta.2",
+            "upstream_commit": "02da61f8d557eec07acd66da3b5adc89dd2695e6",
+            "released": "2026-03-31T20:14:12+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/2.0.0-beta.2"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "1.1.1",
+            "upstream_commit": "8cd15386dedc8a7a72f3890270b0afc410e7bdf5",
+            "released": "2026-03-17T22:03:05+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/1.1.1"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "1.1.0",
+            "upstream_commit": "1ddee486c3e08d698d816ff3a3712af767d0b827",
+            "released": "2026-03-16T14:12:47+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.8",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/1.1.0"
+        },
+        {
+            "version": "2.0.0-beta.1",
+            "tag": "2.0.0-beta.1",
+            "upstream_commit": "782a45394525ac98dd5f4ed6f0a926cb3e4daa0d",
+            "released": "2026-03-13T07:46:04+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^2.0",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/2.0.0-beta.1"
+        },
+        {
+            "version": "1.0.5",
+            "tag": "1.0.5",
+            "upstream_commit": "07c9aeeb259d6b102cf3d8ce3b4315ec25ee1496",
+            "released": "2025-02-16T13:58:49+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.2",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/1.0.5"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "1.0.4",
+            "upstream_commit": "8c3e48395c3dbeaae9b80703a5881f5ea804ba91",
+            "released": "2023-11-20T11:10:44+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.2",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/1.0.4"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "1.0.3",
+            "upstream_commit": "aa5115ec1354f41d9af4eca1b854c933c3730b24",
+            "released": "2023-11-12T07:44:12+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.2",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/1.0.3"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "1.0.2",
+            "upstream_commit": "8d4aff91b0e146dc24b0c263e25e767342849f64",
+            "released": "2023-03-10T10:48:42+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.2",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/1.0.2"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "1.0.1",
+            "upstream_commit": "8c75555685fa8ee5040d86b9bf62703b27dce420",
+            "released": "2022-07-11T08:46:29+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.2",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/1.0.1"
+        },
+        {
+            "version": "1.0.0",
+            "tag": "1.0.0",
+            "upstream_commit": "1436b19acb812107bf7cf45e6b61f9b46f74eb8e",
+            "released": "2021-06-28T16:27:05+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^1.0.2",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/1.0.0"
+        },
+        {
+            "version": "0.2",
+            "tag": "0.2",
+            "upstream_commit": "a4b65921683a74b824352b13fef9d5e08208fe4d",
+            "released": "2021-04-13T18:38:47+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.16",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/0.2"
+        },
+        {
+            "version": "0.1",
+            "tag": "0.1",
+            "upstream_commit": "71154945963eefbe6032254c3dce7032535a6e0a",
+            "released": "2021-02-28T20:55:56+00:00",
+            "license": "MIT",
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "flarum": "^0.1.0-beta.12",
+            "browse_url": "https://github.com/FriendsOfFlarum/clockwork/tree/0.1"
+        }
+    ]
+}
