@@ -1,0 +1,19 @@
+{
+    "package": "zerosonesfun/flarum-bbcode-iframe",
+    "upstream": "https://github.com/zerosonesfun/flarum-bbcode-iframe",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-bbcode-iframe",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "23a66df401311cf387132c4fab27e2a412fe6dfa",
+            "archive_commit": null,
+            "released": "2022-03-06T12:14:13+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

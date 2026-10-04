@@ -1,0 +1,139 @@
+{
+    "package": "zerosonesfun/flarum-ext-link-previews",
+    "upstream": "https://github.com/zerosonesfun/flarum-ext-link-previews",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-ext-link-previews",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": null,
+            "upstream_commit": "3e7277192f251d3f79c7a29ef8c78956bbed51fd",
+            "archive_commit": null,
+            "released": "2019-11-02T07:23:12+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.2",
+            "tag": null,
+            "upstream_commit": "82a2265225be18859a81cbe084ccbe738e2b145e",
+            "archive_commit": null,
+            "released": "2019-11-02T08:41:36+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "ff4cd39e204fc41db0e47ccc316c89fda6b84da7",
+            "archive_commit": null,
+            "released": "2019-11-02T09:14:56+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1",
+            "tag": null,
+            "upstream_commit": "72c0249970f7d95148d68d4bb58125accb81b284",
+            "archive_commit": null,
+            "released": "2019-11-02T10:07:38+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.2",
+            "tag": null,
+            "upstream_commit": "e52b5f8a70e2130698ef558e00b96879f4e697c3",
+            "archive_commit": null,
+            "released": "2019-11-02T11:09:22+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.3",
+            "tag": null,
+            "upstream_commit": "cab1b7b4cefbbabb6826ac694c9b0421663a01f2",
+            "archive_commit": null,
+            "released": "2019-11-02T11:22:22+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.4",
+            "tag": null,
+            "upstream_commit": "cab1b7b4cefbbabb6826ac694c9b0421663a01f2",
+            "archive_commit": null,
+            "released": "2019-11-02T11:22:22+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.5",
+            "tag": null,
+            "upstream_commit": "e92be488c03e5c9bc20e8288d7b63f8f9075ba19",
+            "archive_commit": null,
+            "released": "2019-11-03T11:30:52+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.6",
+            "tag": null,
+            "upstream_commit": "320a7ea6f6f12b0135c22f809ff6127a50ff788a",
+            "archive_commit": null,
+            "released": "2019-11-03T11:50:43+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.7",
+            "tag": null,
+            "upstream_commit": "32a2d9f9b516758d5acaab3ac0bdff662e27e60c",
+            "archive_commit": null,
+            "released": "2019-11-03T12:01:30+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "2.0",
+            "tag": null,
+            "upstream_commit": "f202497aab778711d6f6d6b389c5266074f104cc",
+            "archive_commit": null,
+            "released": "2019-11-09T10:22:39+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

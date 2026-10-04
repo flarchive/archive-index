@@ -1,0 +1,43 @@
+{
+    "package": "zerosonesfun/collection",
+    "upstream": "https://github.com/zerosonesfun/collection",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/collection",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "987cc95665a3e361044ed3b10106f9b6d88dc6f2",
+            "archive_commit": null,
+            "released": "2021-12-14T22:47:41+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1",
+            "tag": null,
+            "upstream_commit": "aa2f1c2e4a3e9f0f5bcd967afd91d4d4c34615a6",
+            "archive_commit": null,
+            "released": "2021-12-15T15:58:37+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.2",
+            "tag": null,
+            "upstream_commit": "713597ebeaede538dd908a46346b1b823d81358f",
+            "archive_commit": null,
+            "released": "2021-12-15T16:20:29+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

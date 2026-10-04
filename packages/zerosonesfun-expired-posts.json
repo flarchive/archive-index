@@ -1,0 +1,55 @@
+{
+    "package": "zerosonesfun/expired-posts",
+    "upstream": "https://github.com/zerosonesfun/expired-posts",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/expired-posts",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": null,
+            "upstream_commit": "15dad734f8680388a6c203b4c7cba037fbccc4ac",
+            "archive_commit": null,
+            "released": "2021-05-14T00:50:03+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.2",
+            "tag": null,
+            "upstream_commit": "368e855ca858e836fdada13dfc7038d28121b7d3",
+            "archive_commit": null,
+            "released": "2021-05-16T01:16:37+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16 || ^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.3",
+            "tag": null,
+            "upstream_commit": "6bb8b9cb180807b5a42d359f6b5642d769647855",
+            "archive_commit": null,
+            "released": "2021-06-03T03:29:03+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16 || ^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.4",
+            "tag": null,
+            "upstream_commit": "46aa77476ca48c2bfff6dd3e2abd6e1a56610895",
+            "archive_commit": null,
+            "released": "2021-06-03T03:38:43+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

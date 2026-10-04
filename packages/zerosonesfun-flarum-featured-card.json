@@ -1,0 +1,55 @@
+{
+    "package": "zerosonesfun/flarum-featured-card",
+    "upstream": "https://github.com/zerosonesfun/flarum-featured-card",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-featured-card",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "4b46ef95c124ace99c18930fdaa1c3189b2e7018",
+            "archive_commit": null,
+            "released": "2021-06-02T23:24:12+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "888087a514f2326d32df637d77b04bc30f2a013d",
+            "archive_commit": null,
+            "released": "2021-06-04T03:31:00+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.2",
+            "tag": null,
+            "upstream_commit": "22daa1e1402e613d6770487bfd8634ac878b3940",
+            "archive_commit": null,
+            "released": "2021-06-21T12:30:46+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.3",
+            "tag": null,
+            "upstream_commit": "0533907cc36a8db84fd0bfe172ca10072add20d7",
+            "archive_commit": null,
+            "released": "2021-06-24T05:46:39+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "zerosonesfun/flarum-bbcode-space",
+    "upstream": "https://github.com/zerosonesfun/flarum-bbcode-space",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-bbcode-space",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "e13cc91040ee1b76eafb62fdd2bb280a57c33056",
+            "archive_commit": null,
+            "released": "2022-03-01T11:21:54+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

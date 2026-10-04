@@ -1,0 +1,43 @@
+{
+    "package": "zerosonesfun/flarum-bbcode-advanced-image",
+    "upstream": "https://github.com/zerosonesfun/flarum-bbcode-advanced-image",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-bbcode-advanced-image",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": null,
+            "upstream_commit": "45c0f6a73a6ea524c5fc81353eb6e14fb9d654ff",
+            "archive_commit": null,
+            "released": "2021-09-18T22:50:17+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.2",
+            "tag": null,
+            "upstream_commit": "2d4bc0354318027b626100eba6690fd7754e4d79",
+            "archive_commit": null,
+            "released": "2021-09-18T22:55:42+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.3",
+            "tag": null,
+            "upstream_commit": "6f61a48ae2d53a43da19948ba3388e5847fb3d92",
+            "archive_commit": null,
+            "released": "2021-09-18T23:03:51+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

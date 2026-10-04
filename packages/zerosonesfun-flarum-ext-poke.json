@@ -1,0 +1,43 @@
+{
+    "package": "zerosonesfun/flarum-ext-poke",
+    "upstream": "https://github.com/zerosonesfun/flarum-ext-poke",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-ext-poke",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "0ff5f28d96b4a34b51ef3c2b198a0a168ec82c31",
+            "archive_commit": null,
+            "released": "2019-09-21T15:30:31+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.1",
+            "tag": null,
+            "upstream_commit": "a39d9bd86a420d813e2e5c33496bf68540ee8465",
+            "archive_commit": null,
+            "released": "2019-09-21T15:32:20+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.2",
+            "tag": null,
+            "upstream_commit": "07a905c92cb00cf13856292d99841c1fc5aa3b9d",
+            "archive_commit": null,
+            "released": "2019-09-21T16:25:48+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}
