@@ -1,0 +1,67 @@
+{
+    "package": "zhihe/primary-posts",
+    "upstream": "https://github.com/echolocked/zhihe-primary-posts",
+    "packagistUrl": "https://packagist.org/packages/zhihe/primary-posts",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f8fbe02d7fc7f9db4155023fb44d7c14b0363c32",
+            "archive_commit": "4dcacfaf68b3731b69ae3e72fa2b8ca578614a89",
+            "released": "2025-07-31T15:26:41+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "f32b9e0ae71d167b73a96118727d71b66cf64ae4",
+            "archive_commit": "c1bb5a6ba24b16da083b1e380601fede739d409f",
+            "released": "2025-08-01T04:29:47+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "8187611ceb110c65140331e22106b9df2cdd8de7",
+            "archive_commit": "b317a81a53d9a68d32ae937677a6b30561d64338",
+            "released": "2025-08-01T04:32:02+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "0e3cd48623762b11d8f799a782507a345f6a203b",
+            "archive_commit": "db46a665653db95407e337dc99d077c2ae078c5a",
+            "released": "2025-08-02T03:49:48+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "4b4a829dfe15485ead2b8ce7b75ab9ebdca2a89e",
+            "archive_commit": "6379e6b7e1ee3bdafa51b0c745feec7c21e2eead",
+            "released": "2026-02-21T02:57:46+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

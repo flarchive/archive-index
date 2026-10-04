@@ -1,0 +1,19 @@
+{
+    "package": "zhishiq/flarum-redis",
+    "upstream": "https://github.com/ZhiShiQ/FlarumRedis",
+    "packagistUrl": "https://packagist.org/packages/zhishiq/flarum-redis",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.8.1",
+            "tag": "archive/v0.1.0-beta.8.1",
+            "upstream_commit": "4e44c293f638aeae2fa553b214309e965fe2e50b",
+            "archive_commit": "aef2a9cc9940123bbd8d054fcc8e46bdd5c933ff",
+            "released": "2019-01-31T09:30:48+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

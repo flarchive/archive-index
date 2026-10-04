@@ -1,0 +1,43 @@
+{
+    "package": "ziymed/lang-arabic",
+    "upstream": "https://github.com/ziymed/lang-arabic",
+    "packagistUrl": "https://packagist.org/packages/ziymed/lang-arabic",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": null,
+            "upstream_commit": "41b7ba9b66b4c472bdc28d95aa7e0e53ff038c86",
+            "archive_commit": null,
+            "released": "2019-08-31T20:10:38+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.1",
+            "tag": null,
+            "upstream_commit": "41b7ba9b66b4c472bdc28d95aa7e0e53ff038c86",
+            "archive_commit": null,
+            "released": "2019-08-31T20:10:38+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.2",
+            "tag": null,
+            "upstream_commit": "a1cfc6774d2a8960e99b945256ee618ed191aefd",
+            "archive_commit": null,
+            "released": "2020-01-27T20:40:24+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.9",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

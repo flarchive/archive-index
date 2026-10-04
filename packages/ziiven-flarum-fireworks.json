@@ -1,0 +1,31 @@
+{
+    "package": "ziiven/flarum-fireworks",
+    "upstream": "https://github.com/Ziiven/flarum-fireworks",
+    "packagistUrl": "https://packagist.org/packages/ziiven/flarum-fireworks",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c96690f1969d7eab8313b619816968f0a49fe56a",
+            "archive_commit": "d5ec643d20c0f40c4f0c6d1bbc7a953ecaa0c355",
+            "released": "2023-03-08T05:06:58+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "42147ee7c0b0ac93d1113585fdb25c00a1d7bd61",
+            "archive_commit": "ec893464fa5050f3dac3e1bf10d92e51438a8b42",
+            "released": "2023-03-08T05:11:57+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

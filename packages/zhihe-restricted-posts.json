@@ -1,0 +1,43 @@
+{
+    "package": "zhihe/restricted-posts",
+    "upstream": "https://github.com/echolocked/zhihe-restricted-posts",
+    "packagistUrl": "https://packagist.org/packages/zhihe/restricted-posts",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "bff2b4c0b37eed7c91d18a9d8c2c9d8eeba0775f",
+            "archive_commit": "52242cc6c5dc123ae7d1d2f1bbdae2973717acdb",
+            "released": "2025-08-12T02:07:11+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "4720e921b49129b003be4d3f1d1bc6458e0f7d3a",
+            "archive_commit": "e07d6eb4ed5e8afc3b321dd6b72094a9e95bc022",
+            "released": "2025-08-12T03:06:42+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "3f4385eab9dfe6398abbf39d86b774ddb41eec03",
+            "archive_commit": "59342b70f3d704a85e1e93d888cf758477fcdafd",
+            "released": "2026-02-21T02:57:49+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

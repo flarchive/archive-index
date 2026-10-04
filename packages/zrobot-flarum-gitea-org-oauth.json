@@ -1,0 +1,79 @@
+{
+    "package": "zrobot/flarum-gitea-org-oauth",
+    "upstream": "https://github.com/Nicotinamide/flarum-gitea-org",
+    "packagistUrl": "https://packagist.org/packages/zrobot/flarum-gitea-org-oauth",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "8a2d54914c9b0210704dd1370182361d6d76c2dd",
+            "archive_commit": "f1552588b8a6d3161004265ccc5642dfbcd42602",
+            "released": "2026-01-26T07:35:48+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "4640ddba926d7d243244bd50c89f7100a591f2f2",
+            "archive_commit": "60cf84dc59dcd8ca0ad9bc2b3ac517f74c991a09",
+            "released": "2026-01-26T10:14:49+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "8beb83e1592e4e8073ceedc18f48c005ad748c5b",
+            "archive_commit": "bd1719e9779f0a9cddb7be462e79f05430cd311f",
+            "released": "2026-01-26T13:10:53+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": "archive/v0.1.3",
+            "upstream_commit": "049cb3be616ad25bb49d495c9b9fb1103ed8d871",
+            "archive_commit": "1245048ba8d6ec2525da2543a0727e4f82266a1d",
+            "released": "2026-01-26T13:20:38+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "dc74652df6ebb963a934588e019bca65cfc7a30c",
+            "archive_commit": "f3b604d50b1e22900d40b7b9fe3e5f5d990da25e",
+            "released": "2026-01-26T13:38:57+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "a1649e5c99a84bd1ef05982eba05987309042445",
+            "archive_commit": "f1889987fa64e6232255cfea84328bc78c6270e2",
+            "released": "2026-01-26T14:05:01+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

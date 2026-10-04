@@ -1,0 +1,43 @@
+{
+    "package": "zhujia18/chevereto",
+    "upstream": "https://github.com/zhujia18/flarum-chevereto",
+    "packagistUrl": "https://packagist.org/packages/zhujia18/chevereto",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "bca78fa668c833629fbb93621e9accd675c0fce2",
+            "archive_commit": "1f65df33059f5d480bf49fa1a6e72e0e8ac5478e",
+            "released": "2020-04-01T11:57:59+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "04b5427fdba55e66a7767fc29227a10468a522d2",
+            "archive_commit": "08839ebec7f2cd23f0cd2efbf33e288c67c0e10c",
+            "released": "2020-04-04T17:27:05+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "2dd2e9e55fd7baa30a19febeefd59085f59f594a",
+            "archive_commit": "e997bdc5b126bed4180b875ce2cfa0e72676302e",
+            "released": "2020-05-06T06:42:57+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

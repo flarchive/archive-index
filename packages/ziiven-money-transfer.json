@@ -1,0 +1,103 @@
+{
+    "package": "ziiven/money-transfer",
+    "upstream": "https://github.com/Ziiven/ziven-money-transfer",
+    "packagistUrl": "https://packagist.org/packages/ziiven/money-transfer",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "2ff1d16397da5e927c7a5c2f51a494b153e5b077",
+            "archive_commit": "68ebab6b3b1390df4c35012b2fd9f36ab6330c45",
+            "released": "2022-12-19T11:48:25+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "306cad97469eb06db533acd5d62bc35fd0a96db2",
+            "archive_commit": "2fc7abd16ea79bbb5df0951ef57c01f4c82c6269",
+            "released": "2022-12-20T03:50:43+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "448d84ce221bf9e66e58b3b54f32424ca0505456",
+            "archive_commit": "288988ee82f8a50530757b95cea5ad20b48cdb9e",
+            "released": "2022-12-30T10:10:49+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "3f98034531c8fd309638df9ef8d3f85d10ce38d9",
+            "archive_commit": "f6de5b9ab60ba80a42667a0739147b14f544b1ab",
+            "released": "2022-12-30T10:39:52+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.2",
+            "tag": "archive/v0.2.2",
+            "upstream_commit": "a6f60772ab9cf5d1a4bd3e37a13a257d8f21e293",
+            "archive_commit": "4310ddaca0d5f365fa287b66a8ee6bd1a2e105bc",
+            "released": "2022-12-31T08:20:28+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.3",
+            "tag": "archive/v0.2.3",
+            "upstream_commit": "e6bfeb67a32bca872ef1da66e45733384e0eee55",
+            "archive_commit": "6978720af2035d0d84654de034c8b9618febb59e",
+            "released": "2022-12-31T09:31:57+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.4",
+            "tag": "archive/v0.2.4",
+            "upstream_commit": "647672ba7462c901477c7fb4fc619d3b08cacdb1",
+            "archive_commit": "0ff64a0099fb99099c4420f255e9978135951f4f",
+            "released": "2023-01-07T23:48:20+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.5",
+            "tag": "archive/v0.2.5",
+            "upstream_commit": "a5dabb7617c5f6a43d4657dca7996db7bdf02486",
+            "archive_commit": "36b47eab25b38600812da092a35f50bf673c17cf",
+            "released": "2023-01-10T15:02:47+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

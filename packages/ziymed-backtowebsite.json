@@ -1,0 +1,19 @@
+{
+    "package": "ziymed/backtowebsite",
+    "upstream": "https://github.com/ziymed/BackToWebsite",
+    "packagistUrl": "https://packagist.org/packages/ziymed/backtowebsite",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b2bcb5b028c2ebd12e203e243c0f8e9ff5bc947d",
+            "archive_commit": "bd369894a7e7c750ac0380ee9707236883a8915c",
+            "released": "2019-01-03T08:21:17+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta-8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "zouyonghao/flarum-es",
+    "upstream": "https://github.com/zouyonghao/flarum-elastic",
+    "packagistUrl": "https://packagist.org/packages/zouyonghao/flarum-es",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "666272814a6c74c329a6d054f77f86ec47f4fea2",
+            "archive_commit": "70c0597356f21c9c95ad425c5f17f306a81b67af",
+            "released": "2022-03-31T08:17:40+00:00",
+            "archived": "2026-10-04",
+            "license": "GPL-3.0",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

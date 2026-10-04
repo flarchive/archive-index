@@ -1,0 +1,19 @@
+{
+    "package": "zurtr/flarum-ext-onesignal",
+    "upstream": "https://github.com/Zurtr/flarum-ext-onesignal",
+    "packagistUrl": "https://packagist.org/packages/zurtr/flarum-ext-onesignal",
+    "versions": [
+        {
+            "version": "0.0.1-BETA",
+            "tag": "archive/v0.0.1-BETA",
+            "upstream_commit": "e9de89265befefd69bfb7239edc4cf8ea6d7189d",
+            "archive_commit": "319c110cb99e53b8909e57615d5133e17e8ad9e3",
+            "released": "2016-11-01T04:27:33+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

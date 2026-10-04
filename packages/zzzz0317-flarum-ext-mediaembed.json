@@ -1,0 +1,55 @@
+{
+    "package": "zzzz0317/flarum-ext-mediaembed",
+    "upstream": "https://github.com/zzzz0317/flarum-ext-mediaembed",
+    "packagistUrl": "https://packagist.org/packages/zzzz0317/flarum-ext-mediaembed",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "71dfb70a7889023d0cbbb6ddcc321645b2a13ff9",
+            "archive_commit": "1376a593fbcf8c7b7bcef547d4823001ed5346a0",
+            "released": "2018-05-11T04:12:42+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "bf768a418874838d5cbe36b4e3db5af13eaf4fbd",
+            "archive_commit": "83d1f4f89f43a196752140439f489e2efe93f3d4",
+            "released": "2018-08-06T05:03:43+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1.a",
+            "tag": "archive/v0.1.1.a",
+            "upstream_commit": "f770b5b09cd72a97222fc55409b25ff62dd476f9",
+            "archive_commit": "a80dbc4d21a2962f1a002a73b74fb9815531b96c",
+            "released": "2018-08-06T03:20:46+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "213536171bb324ac844867584199b102f172a997",
+            "archive_commit": "6fedc7fc700bbb6e1960e60f151f6557a2a58b7a",
+            "released": "2018-08-06T05:33:11+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

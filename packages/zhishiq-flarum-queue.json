@@ -1,0 +1,19 @@
+{
+    "package": "zhishiq/flarum-queue",
+    "upstream": "https://github.com/ZhiShiQ/FlarumQueue",
+    "packagistUrl": "https://packagist.org/packages/zhishiq/flarum-queue",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.8.1",
+            "tag": "archive/v0.1.0-beta.8.1",
+            "upstream_commit": "70168db74c308f46a9aa9abf1843a7cd69e6432a",
+            "archive_commit": "5d6331e476f02392d57657e1b1bdc090f8c950db",
+            "released": "2019-01-31T09:30:48+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
