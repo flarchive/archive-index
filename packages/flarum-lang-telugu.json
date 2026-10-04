@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "c54253cfb0f5d1f8c8734cf1ad1a043462ad4b09",
-            "archive_commit": "663a2314e85c6a27973f5d47ec9433c9ce46235b",
             "released": "2026-09-30T07:51:51+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.4",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/telugu/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "51ae98e5bc41f66dfb097897356338e0128d436e",
-            "archive_commit": "d978dc1d2c1aac2146948de91807de279e76ac17",
             "released": "2026-09-30T07:57:17+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/telugu/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

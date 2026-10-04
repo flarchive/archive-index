@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "2bdbb293233c233eea2b65e72e8bf976bc767a66",
-            "archive_commit": "66b184257b3b452999e499a685c8c9a740e2da7b",
             "released": "2026-09-30T07:42:21+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.6",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/kannada/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "31aa3d1c89c056bed39c6e1a679d7110f25bc4ab",
-            "archive_commit": "11f80acf350bd7ae50020f78bd57f6ab2ee59024",
             "released": "2026-09-30T07:48:01+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/kannada/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

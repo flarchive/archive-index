@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "c0af30d3a58deb84c68918ee6a0c5216f4fe70b4",
-            "archive_commit": "c162081bd8faf692ced49cba032ca299696475cf",
             "released": "2026-09-30T07:24:09+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.6",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/asturian/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "d49e44f64fe3c8c666a28e913914ebde1969c987",
-            "archive_commit": "d8d7d31fa67616558260f866fb15d74b77af86dc",
             "released": "2026-09-30T07:30:38+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/asturian/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

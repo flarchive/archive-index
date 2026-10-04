@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "701f4108c36fd7c2f9a1c39aa47a86237ef1f42e",
-            "archive_commit": "bda06124039f30bf256da65d0a6da2698ff88a4e",
             "released": "2026-09-30T07:46:14+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.6",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/norwegian-bokmal/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "ff2ce06d22b39a57dff6ee76f1b9edb1cf5b510d",
-            "archive_commit": "5d0b7946dd87628cf8fe0dcfe23a6494dffd7cb4",
             "released": "2026-09-30T07:51:25+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/norwegian-bokmal/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

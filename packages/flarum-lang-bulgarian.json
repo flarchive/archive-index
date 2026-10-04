@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "873e0c24fab383282abfe8ea587ea1a6179625ab",
-            "archive_commit": "68a8bcab2d525b283553212693714d79232b728c",
             "released": "2026-09-30T07:25:31+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.6",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/bulgarian/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "4de6d1bd97707e4db7dc976c311b1185675f0d98",
-            "archive_commit": "95b3ef301de77fa3a5d3242b76909861d747a465",
             "released": "2026-09-30T07:31:56+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/bulgarian/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

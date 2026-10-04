@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "8badf232f3a6278da0a950c5d87b7c3cd9a7b9c7",
-            "archive_commit": "3f3027b1c70e552d8fcd4006f49855e2fd16e883",
             "released": "2026-09-30T07:49:15+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.6",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/sardinian/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "db48144e94059ea2b3364a13e10d9977f23ac1db",
-            "archive_commit": "5f7459087b60a1a5852ef3af90972a0d58c7e51a",
             "released": "2026-09-30T07:54:29+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/sardinian/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

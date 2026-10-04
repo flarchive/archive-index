@@ -22,6 +22,7 @@ Vendor-level patterns (`vendor/*`) are supported next to exact package names.
 |---|---|---|
 | `flarum/*` | 2026-10-02 | maintained by an organized group |
 | `fof/*` | 2026-10-02 | maintained by an organized group |
+| `flarum-lang/*` | 2026-10-04 | maintained by an organized group |
 | `0.1.x-dev/*` | 2026-10-02 | invalid vendor name (mirror) |
 
 Reason categories: `owner request`, `copyright`, `license`, `harmful content`,

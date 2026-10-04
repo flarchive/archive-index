@@ -3,7 +3,7 @@
     "upstream": "https://github.com/flarum/lang-english",
     "packagistUrl": "https://packagist.org/packages/flarum/lang-english",
     "archive_status": "trusted_upstream",
-    "archive_notice": "Maintained by official / recognized organizations (Flarum Foundation / Friends of Flarum). Code archiving omitted due to active upstream maintenance.",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream.",
     "versions": [
         {
             "version": "v2.0.0-rc.8",

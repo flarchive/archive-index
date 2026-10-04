@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "e419e8618f2f2a3c5dfef402b8af390b79001a2d",
-            "archive_commit": "d3ddf24b14c637efca808554b9596f8bd045e9bf",
             "released": "2026-09-30T07:27:16+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.7",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/bosnian/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "a80358ef12c9eb0d46baff89bd79eb2ae8961376",
-            "archive_commit": "569e716f677e471e1e88d5deb4b7cfb0aecfc80f",
             "released": "2026-09-30T07:33:53+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/bosnian/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

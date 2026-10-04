@@ -5,111 +5,113 @@
     "versions": [
         {
             "version": "0.1.0",
-            "tag": "archive/v0.1.0",
+            "tag": "0.1.0",
             "upstream_commit": "4c2d9458eb92d908b8e4728eeb6639dc03ca8bc1",
-            "archive_commit": "b160b3b87fe73eb6d7c9d693695f40c568f5a433",
             "released": "2021-06-17T18:10:21+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hindi/tree/0.1.0"
         },
         {
             "version": "0.1.1",
-            "tag": "archive/v0.1.1",
+            "tag": "0.1.1",
             "upstream_commit": "43456bce6f04d90516cb093ee62d4d117cfacda4",
-            "archive_commit": "efb0c7b00ab1b23f8855a25a04e4c8817e10cff7",
             "released": "2021-06-18T15:24:33+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hindi/tree/0.1.1"
         },
         {
             "version": "0.1.3",
-            "tag": "archive/v0.1.3",
+            "tag": "0.1.3",
             "upstream_commit": "7e0ec5d3153ba14100a8518b76a6f35fef0a6f74",
-            "archive_commit": "e43f73ebf16be30f334c77cb62dfbe3beedcd2b9",
             "released": "2021-06-19T19:48:14+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hindi/tree/0.1.3"
         },
         {
             "version": "0.1.4",
-            "tag": "archive/v0.1.4",
+            "tag": "0.1.4",
             "upstream_commit": "a05afcb32a9853b75be2a619c0e9f15a0ea9607b",
-            "archive_commit": "8bfa84c141667f6440504a615d04ccf12a316f34",
             "released": "2021-06-26T11:58:31+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hindi/tree/0.1.4"
         },
         {
             "version": "0.1.5",
-            "tag": "archive/v0.1.5",
+            "tag": "0.1.5",
             "upstream_commit": "39b1d49e3c81f6ebcc0bf9360eb0f42dbbe71b23",
-            "archive_commit": "3ca6b7f867a6f6961e04561acf7614411ace0b93",
             "released": "2021-08-20T11:30:31+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hindi/tree/0.1.5"
         },
         {
             "version": "0.1.6",
-            "tag": "archive/v0.1.6",
+            "tag": "0.1.6",
             "upstream_commit": "39b1d49e3c81f6ebcc0bf9360eb0f42dbbe71b23",
-            "archive_commit": "73704d8fbf3b2cd3e8e2d4385b468b979b097423",
             "released": "2021-08-20T11:30:31+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hindi/tree/0.1.6"
         },
         {
             "version": "0.1.7",
-            "tag": "archive/v0.1.7",
+            "tag": "0.1.7",
             "upstream_commit": "5d1214286776ebc4296d03ca9d7e2b879da49dbc",
-            "archive_commit": "4291f468616ba448ea01d74ada206dae236e1a64",
             "released": "2024-01-17T06:26:55+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hindi/tree/0.1.7"
         },
         {
             "version": "0.1.8",
-            "tag": "archive/v0.1.8",
+            "tag": "0.1.8",
             "upstream_commit": "2a2aa23c7a814acd6d4a4ed55e775b627a0c046d",
-            "archive_commit": "83806dc055b2f8d838a27262b32b5ef15cf4f1c7",
             "released": "2024-04-26T19:02:45+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hindi/tree/0.1.8"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "9b60e0cf802a4e5200cf57d4ceb8135fa6b5e1cd",
-            "archive_commit": "a8bfc19d7a087247d3c9f0c0548696d785534019",
             "released": "2026-09-30T07:41:59+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hindi/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

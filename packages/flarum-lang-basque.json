@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "b7406daec1bc91524a89b613de5db8eec7755034",
-            "archive_commit": "defa05b04e0c57c4dea03f7043613bcf2fb42b4e",
             "released": "2026-09-30T07:32:14+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.5",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/basque/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "a55f001b70a549f63111e8da8dbc22b49acd9ed5",
-            "archive_commit": "3e6f0f6de67f7bb0233acd781f0ebd3a694fed59",
             "released": "2026-09-30T07:39:09+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/basque/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

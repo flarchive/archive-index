@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "93c431330164a1026340734dea202fbf5048b209",
-            "archive_commit": "8d37afc2d41169e2ac567bc3571ca6ef500d867f",
             "released": "2026-09-30T07:52:15+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.7",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/tajik/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "5428209e6ad95dd9efd0367e07e66daf7d291522",
-            "archive_commit": "cb6880f8f2e9f67d5c9bc3a37288d1f66be4ba6e",
             "released": "2026-09-30T07:57:40+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/tajik/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

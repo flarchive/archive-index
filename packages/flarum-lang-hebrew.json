@@ -5,267 +5,269 @@
     "versions": [
         {
             "version": "1.1",
-            "tag": "archive/v1.1",
+            "tag": "1.1",
             "upstream_commit": "b3e93990257656aeaf9798fce8c0ff65ffeba0df",
-            "archive_commit": "803b114338032e6a12cffb62a79e3ffd5df4ef33",
             "released": "2021-10-26T15:06:10+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.1",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/1.1"
         },
         {
             "version": "1.2.0",
-            "tag": "archive/v1.2.0",
+            "tag": "1.2.0",
             "upstream_commit": "256f945411e713ae28c5b0a6d12d686767ba284e",
-            "archive_commit": "9b3d49d8668adf4a8ac5ce9582af335cb43e831d",
             "released": "2022-08-29T17:07:38+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.1",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/1.2.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "b10a09d2128fabd8efec1d019f543248286b65c0",
-            "archive_commit": "26b23182ace7bda1a9556d35165ae5018197f151",
             "released": "2022-08-29T18:01:27+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.0.0"
         },
         {
             "version": "2.0.1",
-            "tag": "archive/v2.0.1",
+            "tag": "2.0.1",
             "upstream_commit": "3b62d9280e8b8220abaf61382efbc636c708bc88",
-            "archive_commit": "15f7b8e2027f7a917bb3fc079e28f6810792b480",
             "released": "2022-08-29T19:05:52+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.0.1"
         },
         {
             "version": "2.1.0",
-            "tag": "archive/v2.1.0",
+            "tag": "2.1.0",
             "upstream_commit": "afa0af5a058eb26775a9f4f6418f88e0a987acff",
-            "archive_commit": "26397ec51ba772f44baa8aa4fdd15b60a866e602",
             "released": "2022-09-02T09:40:07+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.1.0"
         },
         {
             "version": "2.2.0",
-            "tag": "archive/v2.2.0",
+            "tag": "2.2.0",
             "upstream_commit": "b65f1413ffb6a461c8875fa25e0b17b92b814076",
-            "archive_commit": "0dbfe95d9629eb04f7296cf1133ffd8e02ea3eef",
             "released": "2022-09-02T12:58:22+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.2.0"
         },
         {
             "version": "2.3.0",
-            "tag": "archive/v2.3.0",
+            "tag": "2.3.0",
             "upstream_commit": "ceb84ed5936626f30009a0c4e5e95fbd1de573ce",
-            "archive_commit": "66255b4b8157c6f68f986bc65dd1d9544bced65a",
             "released": "2022-09-02T13:38:29+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.3.0"
         },
         {
             "version": "2.3.1",
-            "tag": "archive/v2.3.1",
+            "tag": "2.3.1",
             "upstream_commit": "25ffcbac59e47201b4df2051ff0a24117d628515",
-            "archive_commit": "87abde9a51e8d25dcb4dd06c0808d3250a60f5e2",
             "released": "2022-09-02T19:35:59+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.3.1"
         },
         {
             "version": "2.4.0",
-            "tag": "archive/v2.4.0",
+            "tag": "2.4.0",
             "upstream_commit": "c4770438d5d54038aaba6281b893d8ff11ddd3ac",
-            "archive_commit": "c2c85d3bd036d25439abff9410eb99816fe4d7ec",
             "released": "2022-09-03T10:29:47+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.4.0"
         },
         {
             "version": "2.5.0",
-            "tag": "archive/v2.5.0",
+            "tag": "2.5.0",
             "upstream_commit": "4e6e8d6058fe9234945fd7629cb290ae5ca05379",
-            "archive_commit": "12a93cb416f63954e88ce3f8c3e53e5f1e4cb09c",
             "released": "2022-09-03T11:50:52+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.5.0"
         },
         {
             "version": "2.5.1",
-            "tag": "archive/v2.5.1",
+            "tag": "2.5.1",
             "upstream_commit": "4c2eff2043dfb0c3224f2546ee34753fee0f97ca",
-            "archive_commit": "ec4146b6ae0e16207cedc482a065a59572a31210",
             "released": "2022-09-15T05:20:20+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.5.1"
         },
         {
             "version": "2.6.0",
-            "tag": "archive/v2.6.0",
+            "tag": "2.6.0",
             "upstream_commit": "728fecbc10382a9168a86e0a05de165c8ef5eaa5",
-            "archive_commit": "da5e9f5af31cd0fdb151db21b9e1cec53d0072b9",
             "released": "2022-09-29T19:33:03+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.6.0"
         },
         {
             "version": "2.6.1",
-            "tag": "archive/v2.6.1",
+            "tag": "2.6.1",
             "upstream_commit": "96d3a3e64df667b0794854f80504ad47fd671f68",
-            "archive_commit": "1c761491f8c13154ab1a5e05fda085c1a364c7a1",
             "released": "2023-04-21T08:11:51+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.6.1"
         },
         {
             "version": "2.6.2",
-            "tag": "archive/v2.6.2",
+            "tag": "2.6.2",
             "upstream_commit": "445e9ccbc5a7d2530b7535e7c5519b581fa5e5bf",
-            "archive_commit": "ce14088c53827e812c17fd243685f0e527524cea",
             "released": "2023-06-21T04:49:29+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.6.2"
         },
         {
             "version": "2.6.3",
-            "tag": "archive/v2.6.3",
+            "tag": "2.6.3",
             "upstream_commit": "113f8edd7553baaf73be894ae9b7a69f8f1c25a6",
-            "archive_commit": "94e25e8aff452fa3cc07738436db4a05a439cedd",
             "released": "2023-06-23T06:13:21+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.6.3"
         },
         {
             "version": "2.7.0",
-            "tag": "archive/v2.7.0",
+            "tag": "2.7.0",
             "upstream_commit": "dfe08fe9032e200645697168c87445d5b45f3020",
-            "archive_commit": "71a1a08ecf6dd7742f7a2f1093d648886f643c0e",
             "released": "2025-05-03T22:50:02+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.7.0"
         },
         {
             "version": "2.7.1",
-            "tag": "archive/v2.7.1",
+            "tag": "2.7.1",
             "upstream_commit": "c0b700785c7af92c7404b85ca86c19e694fe727b",
-            "archive_commit": "dc0ad3bc2571782bed38e8644f72f3efc2593721",
             "released": "2025-12-27T14:46:12+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.7.1"
         },
         {
             "version": "2.7.2",
-            "tag": "archive/v2.7.2",
+            "tag": "2.7.2",
             "upstream_commit": "343a9b9629424676c70175278ba5b92c13f09896",
-            "archive_commit": "94b2dc46b266b9c84eba3a2f8fc3fe2cb4188b11",
             "released": "2026-09-19T21:52:04+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.3",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/2.7.2"
         },
         {
             "version": "3.0.0",
-            "tag": "archive/v3.0.0",
+            "tag": "3.0.0",
             "upstream_commit": "e901d664be1b2a38078b2f14ce001435f58b07b0",
-            "archive_commit": "cc8ab775f220de76bf4b92042b96c851993d542a",
             "released": "2026-04-18T16:28:47+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/3.0.0"
         },
         {
             "version": "3.0.1",
-            "tag": "archive/v3.0.1",
+            "tag": "3.0.1",
             "upstream_commit": "91fbda26d7b7d30a22277b0cd5422f2a6aa532eb",
-            "archive_commit": "d2de9eace8d34314b778aa5511687090652e4a85",
             "released": "2026-06-02T19:00:00+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/3.0.1"
         },
         {
             "version": "3.0.2",
-            "tag": "archive/v3.0.2",
+            "tag": "3.0.2",
             "upstream_commit": "6054abd2a9d28dbf9855defaf34ca9bfde515e79",
-            "archive_commit": "53cc02bbc0e9ab5939c9be0eb7a0de9c32177465",
             "released": "2026-09-07T00:43:00+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/3.0.2"
         },
         {
             "version": "3.0.3",
-            "tag": "archive/v3.0.3",
+            "tag": "3.0.3",
             "upstream_commit": "47d77b0735198428db8e458cfc266c4b23a78f0a",
-            "archive_commit": "f0ab61fbd7de79fc13471343aaefad7b8262aa2a",
             "released": "2026-09-19T21:52:23+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/hebrew/tree/3.0.3"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

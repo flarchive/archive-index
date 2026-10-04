@@ -5,63 +5,65 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "d41822aefbef15c90ad9dd81b729bd08fdae2512",
-            "archive_commit": "511f43c8ddb630148ea5557a4158af848e518a0f",
             "released": "2023-02-12T10:17:35+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.5",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/greek/tree/1.0.0"
         },
         {
             "version": "1.0.1",
-            "tag": "archive/v1.0.1",
+            "tag": "1.0.1",
             "upstream_commit": "080069e1b49db1da06fc77738847a8f99b5a40e6",
-            "archive_commit": "645dd03de0fc12de9c36576f1462a24d894e6512",
             "released": "2023-02-12T22:55:39+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.5",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/greek/tree/1.0.1"
         },
         {
             "version": "1.0.2",
-            "tag": "archive/v1.0.2",
+            "tag": "1.0.2",
             "upstream_commit": "a5197c5fe1b1d8950d5fe9cdfb143ce20ababd93",
-            "archive_commit": "823a4ce8a5235c98d98925ad5405d3e16a9ef532",
             "released": "2026-09-30T07:29:44+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.5",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/greek/tree/1.0.2"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "caa91cbee8f9f5847c52bf8d69e56ecbb3329430",
-            "archive_commit": "dbac04af413cc07b51647e41808cea3091f6225c",
             "released": "2026-05-01T23:27:49+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/greek/tree/2.0.0"
         },
         {
             "version": "2.0.1",
-            "tag": "archive/v2.0.1",
+            "tag": "2.0.1",
             "upstream_commit": "0688fd1a4c4bce75045b4e9a4c35605feeefc211",
-            "archive_commit": "0d46d400d82aeebcac8c9d8085a6bc55b2a5baab",
             "released": "2026-09-30T07:36:38+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/greek/tree/2.0.1"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

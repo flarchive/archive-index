@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "4e45959c2a3a1196019f6d200374217f774dcd09",
-            "archive_commit": "163afc8e6470d8c1755330722366f82d1426affc",
             "released": "2026-09-30T07:48:19+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/portuguese/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "35f17c60acf03121425e704b861e875f0d872d0e",
-            "archive_commit": "2ad55b8c6fea61bd050c431ed864f8b9bc87ac47",
             "released": "2026-09-30T07:53:34+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/portuguese/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

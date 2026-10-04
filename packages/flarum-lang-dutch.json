@@ -5,195 +5,197 @@
     "versions": [
         {
             "version": "1.4.3",
-            "tag": "archive/v1.4.3",
+            "tag": "1.4.3",
             "upstream_commit": "78c542993032882a607602dd5aecf1bcecd06fea",
-            "archive_commit": "2419e434b50055b44459da0e2a7c1bf002f0d4ef",
             "released": "2026-09-23T07:19:21+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/1.4.3"
         },
         {
             "version": "2.0.1",
-            "tag": "archive/v2.0.1",
+            "tag": "2.0.1",
             "upstream_commit": "87b5eb89ff2173dbffc9dc5330cb13f56d1e9d01",
-            "archive_commit": "100b54d60bb4b0cb1a11a85c9454be411b2b0046",
             "released": "2026-09-23T07:20:02+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/2.0.1"
         },
         {
             "version": "v1.0",
-            "tag": "archive/v1.0",
+            "tag": "v1.0",
             "upstream_commit": "620a5c37b1f0b2410fb3d55f3056946d99f20040",
-            "archive_commit": "d4e92d66b029045ccd637d3a107b85d863b87c76",
             "released": "2021-12-04T14:42:13+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.0"
         },
         {
             "version": "v1.1.0",
-            "tag": "archive/v1.1.0",
+            "tag": "v1.1.0",
             "upstream_commit": "ddbfa67171a77f50d75cb94e95becb6a4c1824d7",
-            "archive_commit": "6a0ab0ddd8c472861784c4e4616f7750da7f741f",
             "released": "2022-11-11T15:50:57+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.1.0"
         },
         {
             "version": "v1.1.1",
-            "tag": "archive/v1.1.1",
+            "tag": "v1.1.1",
             "upstream_commit": "17cce514c102f8ba4e80ff73fcdc41107b7c2abd",
-            "archive_commit": "223a459c69bfaea36b4d1f2a17d7bdb6ad4019b3",
             "released": "2022-11-11T21:29:40+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.1.1"
         },
         {
             "version": "v1.1.2",
-            "tag": "archive/v1.1.2",
+            "tag": "v1.1.2",
             "upstream_commit": "814429a34ecb09f0cb7459c7cdd0add86696141a",
-            "archive_commit": "cec1cc9ddfb6a6d52468dc9556aaf0aef137d24e",
             "released": "2022-12-10T15:48:49+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.1.2"
         },
         {
             "version": "v1.1.3",
-            "tag": "archive/v1.1.3",
+            "tag": "v1.1.3",
             "upstream_commit": "a97ba965f5557017d7f85e961201982754abd7dd",
-            "archive_commit": "e0f2acbf6eeff1045c4df134cd02be6722e19d2d",
             "released": "2023-07-22T19:25:40+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.1.3"
         },
         {
             "version": "v1.2.0",
-            "tag": "archive/v1.2.0",
+            "tag": "v1.2.0",
             "upstream_commit": "601dd6c778996334dc44460e0e7fe43ab2e589d8",
-            "archive_commit": "754c3798fd6f9ba01de05926bfa78e4780363fbc",
             "released": "2024-01-16T10:50:32+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.2.0"
         },
         {
             "version": "v1.2.1",
-            "tag": "archive/v1.2.1",
+            "tag": "v1.2.1",
             "upstream_commit": "1e87e5df309bdbd6428256044d1b4ec5c3afd407",
-            "archive_commit": "733b583697026869b995d5c0a7d02cbf40c58b7e",
             "released": "2024-01-16T12:08:01+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.2.1"
         },
         {
             "version": "v1.2.2",
-            "tag": "archive/v1.2.2",
+            "tag": "v1.2.2",
             "upstream_commit": "45c185ff6c9078307f118cbbdb79b11bc7fbe704",
-            "archive_commit": "b775939ec34a78e1c3deaef4312a85d45c465aaf",
             "released": "2024-10-12T08:14:21+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.2.2"
         },
         {
             "version": "v1.3.0",
-            "tag": "archive/v1.3.0",
+            "tag": "v1.3.0",
             "upstream_commit": "8d92d287e7b8d17509437964184b9738a48d7f5a",
-            "archive_commit": "8f27d39acf44600fe6e743290605308852d81a6a",
             "released": "2024-11-07T22:33:05+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.3.0"
         },
         {
             "version": "v1.3.1",
-            "tag": "archive/v1.3.1",
+            "tag": "v1.3.1",
             "upstream_commit": "dacf8f075162c42ff02541e30a7ca61c49200174",
-            "archive_commit": "4ea81d0a1bafb5fd2bc5af0a034887c36f7ec791",
             "released": "2025-05-02T10:59:31+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.3.1"
         },
         {
             "version": "v1.4.0",
-            "tag": "archive/v1.4.0",
+            "tag": "v1.4.0",
             "upstream_commit": "a3085d84392578839f226c543000e8749355b7c8",
-            "archive_commit": "d606b703f058b9fedb159525c569fa18d59605ac",
             "released": "2025-06-05T07:23:24+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.4.0"
         },
         {
             "version": "v1.4.1",
-            "tag": "archive/v1.4.1",
+            "tag": "v1.4.1",
             "upstream_commit": "a2acd2ec2f8735635d3c715b24b80dedb6949d6c",
-            "archive_commit": "eae9b1ab8e47093676fb749558f843991bae621f",
             "released": "2025-12-19T14:57:15+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.4.1"
         },
         {
             "version": "v1.4.2",
-            "tag": "archive/v1.4.2",
+            "tag": "v1.4.2",
             "upstream_commit": "97abc5022aded408d1646fe29ee9a0715d8df9fb",
-            "archive_commit": "9f7f7e9fb86ab111fcef60357c9c9fdacd89647d",
             "released": "2026-04-18T23:09:03+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v1.4.2"
         },
         {
             "version": "v2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "v2.0.0",
             "upstream_commit": "e08f8f6d8afe1ad8e6757b5f635945e15b711718",
-            "archive_commit": "5614a86352399df7cd64864cb6cf8927a2ed7fd9",
             "released": "2026-06-10T16:07:47+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/dutch/tree/v2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

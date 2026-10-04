@@ -5,15 +5,17 @@
     "versions": [
         {
             "version": "v0.1.0",
-            "tag": "archive/v0.1.0",
+            "tag": "v0.1.0",
             "upstream_commit": "d70fe0111b2a6b790f3496dc7477475af244204e",
-            "archive_commit": "6a550552ecc47a0bc48a174185e687aeeb052ead",
             "released": "2021-07-15T12:20:53+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/malaysian/tree/v0.1.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

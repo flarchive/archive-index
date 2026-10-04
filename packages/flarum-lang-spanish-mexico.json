@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "063fd3da14d683946ed1f2880f5a556f12372a21",
-            "archive_commit": "c6959d1516c5cd322ed36bf56b203435c4ef17a9",
             "released": "2026-09-30T07:31:23+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.7",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/spanish-mexico/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "0963c959b172ad6aa6ae034f44195344c969c23f",
-            "archive_commit": "31f5e95841b79f96696fff557c4f083877a4b623",
             "released": "2026-09-30T07:37:54+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/spanish-mexico/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }

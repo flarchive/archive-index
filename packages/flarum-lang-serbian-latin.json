@@ -5,27 +5,29 @@
     "versions": [
         {
             "version": "1.0.0",
-            "tag": "archive/v1.0.0",
+            "tag": "1.0.0",
             "upstream_commit": "3b65decbd90a9e8fe15a7d76fa456e99ad278020",
-            "archive_commit": "72190f0b6289b49fce687a1e8df95796f8dc4162",
             "released": "2026-09-30T07:51:26+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^1.4",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/serbian-latin/tree/1.0.0"
         },
         {
             "version": "2.0.0",
-            "tag": "archive/v2.0.0",
+            "tag": "2.0.0",
             "upstream_commit": "70804697df4596de6b3736a58149e7e670efd913",
-            "archive_commit": "409287f9078111d57e0069566a54ca04ef2b3602",
             "released": "2026-09-30T07:56:53+00:00",
             "archived": "2026-10-03",
             "license": "MIT",
             "flarum": "^2.0",
-            "source": "archived",
-            "status": "ok"
+            "source": "upstream",
+            "status": "trusted_upstream",
+            "browse_url": "https://github.com/flarum-lang/serbian-latin/tree/2.0.0"
         }
-    ]
+    ],
+    "archive_status": "trusted_upstream",
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
 }
