@@ -1,0 +1,19 @@
+{
+    "package": "zerosonesfun/flarum-meme",
+    "upstream": "https://github.com/zerosonesfun/flarum-meme",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-meme",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "d730de7857b244b62c14504d17438bee78374f01",
+            "archive_commit": null,
+            "released": "2021-11-03T23:23:01+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "package": "zerosonesfun/flarum-tracking",
+    "upstream": "https://github.com/zerosonesfun/flarum-tracking",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-tracking",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": null,
+            "upstream_commit": "07dbe6f0ed34548d03f5055bf4da9d4a7cc5d432",
+            "archive_commit": null,
+            "released": "2021-10-04T22:24:20+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.2",
+            "tag": null,
+            "upstream_commit": "bb66776f632c83bafc94e24e0129cd9a47d137bf",
+            "archive_commit": null,
+            "released": "2021-10-04T22:32:57+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.3",
+            "tag": null,
+            "upstream_commit": "f182a28ff1a021246ad6b92ca1cc20797438f0a5",
+            "archive_commit": null,
+            "released": "2021-10-05T00:05:46+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.4",
+            "tag": null,
+            "upstream_commit": "209257ba7a2724cb443f0e954222ca531b428a3f",
+            "archive_commit": null,
+            "released": "2021-10-14T02:07:05+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.5",
+            "tag": null,
+            "upstream_commit": "db79c0744139983cc35a2d0ff63d77e134d31b70",
+            "archive_commit": null,
+            "released": "2021-10-14T02:17:03+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.6",
+            "tag": null,
+            "upstream_commit": "d832fcc790c56f9eb3e1e36cc2d85fdc15f956bb",
+            "archive_commit": null,
+            "released": "2021-10-14T02:30:18+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

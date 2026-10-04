@@ -1,0 +1,31 @@
+{
+    "package": "zerosonesfun/font",
+    "upstream": "https://github.com/zerosonesfun/font",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/font",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "9205774f40cb4252b97f2137074de1ee8dc20097",
+            "archive_commit": null,
+            "released": "2020-01-12T03:30:32+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1",
+            "tag": null,
+            "upstream_commit": "bc4fa441711e233f620d97d65e6602fb8745f4d1",
+            "archive_commit": null,
+            "released": "2020-01-15T09:01:13+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

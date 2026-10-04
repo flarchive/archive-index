@@ -1,0 +1,103 @@
+{
+    "package": "zerosonesfun/link-decisions",
+    "upstream": "https://github.com/zerosonesfun/link-decisions",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/link-decisions",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": null,
+            "upstream_commit": "a9d2e624f3689d5bfd7992139e531c67a8d01b04",
+            "archive_commit": null,
+            "released": "2020-01-05T16:04:44+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.2",
+            "tag": null,
+            "upstream_commit": "247abe1dd413f00807476ed87e47abd0cc161e82",
+            "archive_commit": null,
+            "released": "2020-01-05T16:48:12+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "7fc23f55bc2c36174ef15464e7fe02368e78c5cf",
+            "archive_commit": null,
+            "released": "2020-01-05T17:10:43+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1",
+            "tag": null,
+            "upstream_commit": "5a442e80cee0bd70625320f99359c65fbebb4ffb",
+            "archive_commit": null,
+            "released": "2020-01-05T22:44:25+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.2",
+            "tag": null,
+            "upstream_commit": "e8ad6f52fe1dcf383b376fb4682366f8bee55faf",
+            "archive_commit": null,
+            "released": "2020-02-09T03:40:53+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "2.0",
+            "tag": null,
+            "upstream_commit": "7a61824ac7c2cbf359cb657ea457bb3f55417a16",
+            "archive_commit": null,
+            "released": "2020-02-09T23:20:03+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "2.1",
+            "tag": null,
+            "upstream_commit": "35411485752222704d43a4593f730759c233bf6a",
+            "archive_commit": null,
+            "released": "2020-02-10T00:24:13+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.12",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "2.2",
+            "tag": null,
+            "upstream_commit": "96623018c87530d58a93e6e7d183e5d83793be12",
+            "archive_commit": null,
+            "released": "2020-03-07T08:31:02+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.8 <0.1.0-beta.13",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

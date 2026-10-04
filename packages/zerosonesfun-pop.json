@@ -1,0 +1,19 @@
+{
+    "package": "zerosonesfun/pop",
+    "upstream": "https://github.com/zerosonesfun/pop",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/pop",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "911a8568fcc21f09c35863003f6348ed976cdade",
+            "archive_commit": null,
+            "released": "2020-01-12T03:02:41+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "zerosonesfun/flarum-theme-nes",
+    "upstream": "https://github.com/zerosonesfun/flarum-theme-nes",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-theme-nes",
+    "versions": [
+        {
+            "version": "0.1",
+            "tag": null,
+            "upstream_commit": "77e014f1b4cdc5734e4a55cf43027bdbdb33010a",
+            "archive_commit": null,
+            "released": "2021-11-03T23:52:36+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "package": "zerosonesfun/spoiler",
+    "upstream": "https://github.com/zerosonesfun/spoiler",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/spoiler",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "4a65cc7d63b03a96fe6971dae9ffbd047dd6b0d8",
+            "archive_commit": null,
+            "released": "2020-01-12T01:40:28+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1",
+            "tag": null,
+            "upstream_commit": "de362b5307719b1a1bfa7adfb70ab6f330e7db7e",
+            "archive_commit": null,
+            "released": "2020-01-12T01:52:30+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.2",
+            "tag": null,
+            "upstream_commit": "093a18cc41b5ab4e81bba9fc260db08f158367cf",
+            "archive_commit": null,
+            "released": "2020-01-12T01:57:51+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

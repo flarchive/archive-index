@@ -1,0 +1,31 @@
+{
+    "package": "zerosonesfun/tooltip",
+    "upstream": "https://github.com/zerosonesfun/tooltip",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/tooltip",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "2778fe8c0b94545d27c31577a9d5869c35a209e1",
+            "archive_commit": null,
+            "released": "2020-01-12T02:19:02+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1",
+            "tag": null,
+            "upstream_commit": "36d536dc353b3de944e610d3f865b8d0f2fb8149",
+            "archive_commit": null,
+            "released": "2020-01-12T02:36:33+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

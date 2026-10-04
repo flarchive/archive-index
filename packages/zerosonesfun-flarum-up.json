@@ -1,0 +1,19 @@
+{
+    "package": "zerosonesfun/flarum-up",
+    "upstream": "https://github.com/zerosonesfun/flarum-up",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/flarum-up",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "f8c99d9f9badccb7465409b0992ee61c291ba2c1",
+            "archive_commit": null,
+            "released": "2021-10-16T15:52:18+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

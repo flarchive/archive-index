@@ -1,0 +1,19 @@
+{
+    "package": "zhihe/money-system",
+    "upstream": "https://github.com/echolocked/zhihe-money-system",
+    "packagistUrl": "https://packagist.org/packages/zhihe/money-system",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2ea647976c54d531407a8d5dcaf19876ad362ca6",
+            "archive_commit": "97e21bcfb253eadb0d362ddffd9608ee72730bb8",
+            "released": "2025-08-12T02:07:00+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

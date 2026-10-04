@@ -1,0 +1,43 @@
+{
+    "package": "zerosonesfun/patch-fof-upload",
+    "upstream": "https://github.com/zerosonesfun/patch-fof-upload",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/patch-fof-upload",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "1b45031d5610d5dfb2af912c4d3e4805fd0b6bc4",
+            "archive_commit": null,
+            "released": "2021-03-28T01:29:49+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1",
+            "tag": null,
+            "upstream_commit": "35e31114bce1c44b0af6d8b1e3f176f54eb4fd91",
+            "archive_commit": null,
+            "released": "2021-03-28T12:59:02+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.2",
+            "tag": null,
+            "upstream_commit": "8418e807f07764a459a1675b7c4c406399128b90",
+            "archive_commit": null,
+            "released": "2021-05-16T01:23:59+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.16 || ^1.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

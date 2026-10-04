@@ -1,0 +1,103 @@
+{
+    "package": "zhetengtiao/flarum-lang-simplified-chinese",
+    "upstream": "https://github.com/zhetengtiao/lang-simplified-chinese",
+    "packagistUrl": "https://packagist.org/packages/zhetengtiao/flarum-lang-simplified-chinese",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": null,
+            "upstream_commit": "7c77624e32c640f39299c172aeae5741d8abbfc4",
+            "archive_commit": null,
+            "released": "2021-05-28T14:38:25+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.0.0.1",
+            "tag": null,
+            "upstream_commit": "a42c9f90919744a2f86d9a01675e7502972bf9ff",
+            "archive_commit": null,
+            "released": "2021-05-29T04:42:00+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.15",
+            "tag": null,
+            "upstream_commit": "6a897576c5cb5457ea0c04662a588d15bc81ff87",
+            "archive_commit": null,
+            "released": "2020-12-23T06:15:30+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.15.1",
+            "tag": null,
+            "upstream_commit": "0d68f41aaa04ab2e387f1bc6ef944b70d126d75c",
+            "archive_commit": null,
+            "released": "2021-01-24T15:20:26+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.15.2",
+            "tag": null,
+            "upstream_commit": "1d5cde5db230a8812042c2626fa11f492d0c3a8f",
+            "archive_commit": null,
+            "released": "2021-03-01T13:04:30+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.16",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.16",
+            "tag": null,
+            "upstream_commit": "533fe630e9e6737bea6a1aa07d43754a3ff9ee9f",
+            "archive_commit": null,
+            "released": "2021-03-16T11:53:21+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.16.1",
+            "tag": null,
+            "upstream_commit": "609c55790460e788378f644b3b8c36ab9c387ea5",
+            "archive_commit": null,
+            "released": "2021-03-22T04:15:52+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v0.1.0-beta.16.2",
+            "tag": null,
+            "upstream_commit": "33ef56137bfcc1b64ee3111a4516c0809cdd7983",
+            "archive_commit": null,
+            "released": "2021-04-24T06:50:38+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.17",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}
