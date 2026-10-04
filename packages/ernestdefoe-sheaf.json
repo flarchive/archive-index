@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/sheaf",
+    "upstream": "https://github.com/ernestdefoe/sheaf",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/sheaf",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "fefe87f74bc2a5c4ae8f2cc931c4f994326d9bd1",
+            "archive_commit": "bad1ee91f4d343178813f031249104b38d883d6d",
+            "released": "2026-10-03T19:40:43+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

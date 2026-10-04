@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/reel",
+    "upstream": "https://github.com/ernestdefoe/reel",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/reel",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "683f9191691d4c04d498921c17f331af5b29a0b2",
+            "archive_commit": "54fee46a5fa1eccae61f309a2e7edb2376c64702",
+            "released": "2026-10-03T23:54:03+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

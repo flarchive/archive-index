@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/kindred",
+    "upstream": "https://github.com/ernestdefoe/kindred",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/kindred",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "507cabcf9dce6bd174dc5c982c5eb29fda305182",
+            "archive_commit": "0548864f02a38dfd10b086fd4a0cf23798542207",
+            "released": "2026-10-03T19:35:01+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

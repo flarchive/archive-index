@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/ladder",
+    "upstream": "https://github.com/ernestdefoe/ladder",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/ladder",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f5e2d8eddc14144b96eddc09ca7169d2fba85a8b",
+            "archive_commit": "57e815333fbad02497769db17e131669b3dc38e3",
+            "released": "2026-10-02T23:48:01+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "9075497ab7acc580e0d3719e5cec69069ea7ac78",
+            "archive_commit": "4d499a499ea28620e4d891d8e26698dcfb2a4a20",
+            "released": "2026-10-03T18:24:13+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

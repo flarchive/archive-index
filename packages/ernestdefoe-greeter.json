@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/greeter",
+    "upstream": "https://github.com/ernestdefoe/greeter",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/greeter",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "126324f96fb14d7ecfbaa227fbdbab0a6146ca70",
+            "archive_commit": "6b76fa35c83e17cbc20696ee4a8f32a39fdc40f5",
+            "released": "2026-10-03T23:33:49+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

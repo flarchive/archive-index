@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/rubric",
+    "upstream": "https://github.com/ernestdefoe/rubric",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/rubric",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "568d15d77b62044ff4c6bbedbe56d02d09fe3ed2",
+            "archive_commit": "1fb223e9e64d4e023b4b4e1b29faa34668282ee3",
+            "released": "2026-10-03T19:49:51+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

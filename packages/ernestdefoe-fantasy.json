@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/fantasy",
+    "upstream": "https://github.com/ernestdefoe/fantasy",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/fantasy",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "2b1ffb644db885d8749535b3a05c65247002613a",
+            "archive_commit": "ffce22ffc0192777713372d12e0891f32dff7553",
+            "released": "2026-09-09T17:44:28+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

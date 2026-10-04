@@ -1,0 +1,43 @@
+{
+    "package": "ernestdefoe/gatehouse",
+    "upstream": "https://github.com/ernestdefoe/gatehouse",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/gatehouse",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c689c7191f77d9e73e694b4c25f3c02e81603ea6",
+            "archive_commit": "6fa00ee5579ce09908f8e28f0d8402afebb17283",
+            "released": "2026-10-03T23:06:14+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "5e837e2cf3c9106819a68f68e1331e5d294bd906",
+            "archive_commit": "8a08e158bd0d30bb1c23d62617be94dca51b5834",
+            "released": "2026-10-03T23:27:57+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "edfdb405121dbbac92a836305d0af1d6b7d9cc1c",
+            "archive_commit": "795cafbee0c72c7c81c448995722d981c6fef8e4",
+            "released": "2026-10-03T23:40:24+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

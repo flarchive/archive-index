@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/folio",
+    "upstream": "https://github.com/ernestdefoe/folio",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/folio",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9a78da566ee93ed7214128a57c9347eafc0f04b5",
+            "archive_commit": "6533ab5652504002fa7eb7ec9fba4ff7e0bdcf87",
+            "released": "2026-10-03T22:02:16+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "d3d827ecfbba7091f636b7a55483f62864536b65",
+            "archive_commit": "8f7651e6d04aeab14c66df6491f472207ff5f4df",
+            "released": "2026-10-03T22:21:11+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/herald",
+    "upstream": "https://github.com/ernestdefoe/herald",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/herald",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "346d6b6bb4309526bf0f0573f2a91c11fd9df213",
+            "archive_commit": "43ffa3a8772c54f66b934705a60d7bbafee01c3c",
+            "released": "2026-10-02T17:12:32+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

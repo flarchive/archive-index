@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/chronicle",
+    "upstream": "https://github.com/ernestdefoe/chronicle",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/chronicle",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "797806c8b252bba41fb9f2efc7c792547d332337",
+            "archive_commit": "cf718d2c60d9e06db2f914783f072e77f9c2b531",
+            "released": "2026-10-03T19:33:20+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

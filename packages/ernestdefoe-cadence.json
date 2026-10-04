@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/cadence",
+    "upstream": "https://github.com/ernestdefoe/cadence",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/cadence",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6e1e625d34a842980f88edf4f187a6d411a8d4ba",
+            "archive_commit": "e8139c051966ce11d10a23fd4eb3a6cc5e685998",
+            "released": "2026-09-24T01:08:13+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "05d73c2bd8fd9a07316e951ce37389d8e3f842e0",
+            "archive_commit": "bf54341e9b288e63c914b5e002d2f0da8ad840f7",
+            "released": "2026-10-03T20:11:01+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

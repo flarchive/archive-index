@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/nameplate",
+    "upstream": "https://github.com/ernestdefoe/nameplate",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/nameplate",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "08de700a714db64019a3053b899b046c6d2f35af",
+            "archive_commit": "469d658e5fcdf0e7cd8254feea61be2c11996996",
+            "released": "2026-10-03T18:45:31+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

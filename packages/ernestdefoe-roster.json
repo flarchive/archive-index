@@ -1,0 +1,55 @@
+{
+    "package": "ernestdefoe/roster",
+    "upstream": "https://github.com/ernestdefoe/roster",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/roster",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d2e15550acec4ded8c5ee127ac56f35b82753dcc",
+            "archive_commit": "3d7f72d3245f9c316859f09c18bde8f1e442ae61",
+            "released": "2026-09-09T13:38:57+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "e7e75c0daac18430e0a122d249235fd02e87142e",
+            "archive_commit": "6f9cc60b96c50ab0fc1f5495715d3abfc4fb19e6",
+            "released": "2026-10-01T22:28:38+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "b339f19c8726780a89736e5d7c6c47c2f4847d71",
+            "archive_commit": "a21545040bdd14acfc71fe173153d29ae5363137",
+            "released": "2026-10-03T15:36:39+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "e8c57dbe5a892456b8971887e4024431f6fee3a8",
+            "archive_commit": "1063d18f5ddead15fbfedd7e3e6cf2a68374b148",
+            "released": "2026-10-03T15:39:23+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "ernestdefoe/waymark",
+    "upstream": "https://github.com/ernestdefoe/waymark",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/waymark",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "116eb67c72c91f0e9ac70e5b554601ebd21dd9d3",
+            "archive_commit": "33aa315f5d840304dc225fc563846ee0df282469",
+            "released": "2026-10-03T15:02:20+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "2f4404568ae26de7fdd8dcd60b0f475f876ef607",
+            "archive_commit": "20c94ef515c5f8a7dc80e7f4304719b62eb42104",
+            "released": "2026-10-03T15:10:34+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "11a74deaade326ccba1beef1f9afd61a19633b4f",
+            "archive_commit": "3244944a5d4f71986b7c49d95ac1bb9545988939",
+            "released": "2026-10-03T19:29:59+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "9a59c73cfb1b832d85f7897e1f420a0d86936de2",
+            "archive_commit": "139c3a9cb43e004fdabe1846bdcd0ab3e44d3dbb",
+            "released": "2026-10-03T20:21:50+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
