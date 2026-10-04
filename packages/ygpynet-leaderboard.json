@@ -1,0 +1,31 @@
+{
+    "package": "ygpynet/leaderboard",
+    "upstream": "https://github.com/ygpynet/leaderboard",
+    "packagistUrl": "https://packagist.org/packages/ygpynet/leaderboard",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4e1afce3de50ffa3cc6ea04ced6c0d3a80902370",
+            "archive_commit": "349b1360213f58c60e274d18e9a12ef8453e9d12",
+            "released": "2026-09-08T04:44:17+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b69361d586cd0c07279fe6d6c87087f4ce0bb000",
+            "archive_commit": "27365215a4042634193b31e5041abef62d9c9f02",
+            "released": "2026-09-08T05:32:12+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

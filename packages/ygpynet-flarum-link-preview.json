@@ -1,0 +1,43 @@
+{
+    "package": "ygpynet/flarum-link-preview",
+    "upstream": "https://github.com/ygpynet/link-preview",
+    "packagistUrl": "https://packagist.org/packages/ygpynet/flarum-link-preview",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d4ec0c731fdc62c2f825877194d3c235a34beefc",
+            "archive_commit": "5629e2df294635af948d753cab5cb62a6bef06e6",
+            "released": "2026-08-18T23:59:20+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "bd9ed3e5cec657cd197121377341ef46b6855c7e",
+            "archive_commit": "7f2bb386d9b1f595f01e4caa735b36d468a17966",
+            "released": "2026-08-19T00:05:51+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "bd9ed3e5cec657cd197121377341ef46b6855c7e",
+            "archive_commit": "c75060799c2d25f5d7e38f29f7f7f2809ac3d632",
+            "released": "2026-08-19T00:05:51+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

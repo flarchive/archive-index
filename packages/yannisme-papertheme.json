@@ -1,0 +1,67 @@
+{
+    "package": "yannisme/papertheme",
+    "upstream": "https://github.com/yannisme/flarum-paper-theme",
+    "packagistUrl": "https://packagist.org/packages/yannisme/papertheme",
+    "versions": [
+        {
+            "version": "0.0.3",
+            "tag": "archive/v0.0.3",
+            "upstream_commit": "01524fadccbaa806a8f02a153ae0064f77c62ccb",
+            "archive_commit": "802eb98eda632283896bf14dbb32924e4ce8a542",
+            "released": "2021-12-25T10:20:10+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.4",
+            "tag": "archive/v0.0.4",
+            "upstream_commit": "e94c87caecd32b9a133ff8174b2b994c5036accb",
+            "archive_commit": "20db1e06f8e11f2517e4fd1bd0adcbefb2316909",
+            "released": "2021-12-25T15:22:43+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.0.5",
+            "tag": "archive/v0.0.5",
+            "upstream_commit": "ebbf77a6aa9e7754db8decd5c7b9a0fcf24a0eb8",
+            "archive_commit": "75230f3a4784ae96dc9d752d4f1356fb1f5beaf0",
+            "released": "2021-12-26T11:16:12+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "2a848a04b178cf47b11f3ab42eadbdf330965a8c",
+            "archive_commit": "9daaa028c019f3bb509dfa54c94af7124f9ae0e8",
+            "released": "2021-12-12T07:20:35+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "c4e73ec3cacb13da55a145e63b2c3b7ea72129d7",
+            "archive_commit": "da6c87a62daaff496800ddf18f47624203bab544",
+            "released": "2021-12-16T16:19:29+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

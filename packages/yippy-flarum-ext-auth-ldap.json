@@ -1,0 +1,103 @@
+{
+    "package": "yippy/flarum-ext-auth-ldap",
+    "upstream": "https://github.com/Yippy/flarum-ext-auth-ldap",
+    "packagistUrl": "https://packagist.org/packages/yippy/flarum-ext-auth-ldap",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "b2728354e1a634f96abae3db2f3056ff6217279b",
+            "archive_commit": "f187b8f6577633ee2f292e64a67781accddb00ca",
+            "released": "2024-04-16T20:32:32+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.0.2",
+            "tag": "archive/v0.0.2",
+            "upstream_commit": "0703922bfe0f94abfcb01ce3e027e8c7dfa79ae6",
+            "archive_commit": "a1db115b931c2eefc090b0f5a94cdc1fb6b3f80c",
+            "released": "2024-04-16T23:42:23+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "eadb9e81800a0bb3ad0ea8bbca59488d660ce706",
+            "archive_commit": "1f36572c604d9b6a283caf495e5b7152b790e2e0",
+            "released": "2025-06-02T22:41:54+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "8a1c4bfe73a0e23457c2be811d5dd22f88b0b47d",
+            "archive_commit": "1f6decef63f9eb3d56a670eab3e581efb3dc1ec2",
+            "released": "2025-06-04T13:40:46+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "34f5f27d1b2f58e29807e2192a8d44b91e5bdbe0",
+            "archive_commit": "0d5c530f03835d92a47b48ad40bfd1b9ed3262ee",
+            "released": "2025-06-12T20:38:47+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "a4ddc139cadd12101a056fcfc29d468766ec97c2",
+            "archive_commit": "c9f36c142d290206df13ef0c1122b48dd6dc692f",
+            "released": "2025-06-04T11:31:39+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "2ab7501c49ecf0015f59e3313186dd29474227fc",
+            "archive_commit": "f4854c01dd7d67fe03ab93cd34163e78859be346",
+            "released": "2025-06-04T13:45:13+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "f6282348b7dea6fe808328ee3c8d4d1aabddf2f4",
+            "archive_commit": "7e68ea727ea2243f24622d7012ad98d5cf024f84",
+            "released": "2025-06-12T21:16:45+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

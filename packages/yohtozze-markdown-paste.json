@@ -1,0 +1,31 @@
+{
+    "package": "yohtozze/markdown-paste",
+    "upstream": "https://github.com/yohtozze/markdown-paste",
+    "packagistUrl": "https://packagist.org/packages/yohtozze/markdown-paste",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "aea8e9a2d53b1e769f6b7cc7ec48e43d5aa24171",
+            "archive_commit": "6bcd30d3f014850045d2b81583d181c912e647c0",
+            "released": "2023-03-11T01:56:21+00:00",
+            "archived": "2026-10-04",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "0d69642b1bc225e6814457a0cf80f07bb001e312",
+            "archive_commit": "8a9207b106557b61bba3f2626d4a0878940de26a",
+            "released": "2023-04-05T05:08:19+00:00",
+            "archived": "2026-10-04",
+            "license": null,
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

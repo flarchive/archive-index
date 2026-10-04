@@ -1,0 +1,43 @@
+{
+    "package": "yiin/flarum-ext-lithuanian",
+    "upstream": "https://github.com/Yiin-/flarum-ext-lithuanian",
+    "packagistUrl": "https://packagist.org/packages/yiin/flarum-ext-lithuanian",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.3",
+            "tag": "archive/v0.1.0-beta.3",
+            "upstream_commit": "e9d300b8ec1a8e8e86f90988c3bebf09d317ba14",
+            "archive_commit": "cd2339d9db8eeafd8e12ae937dc235297c83f819",
+            "released": "2015-10-28T20:53:51+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.4",
+            "tag": "archive/v0.1.0-beta.4",
+            "upstream_commit": "16c85426cce57da7245773d29c63952bc21152a7",
+            "archive_commit": "5df43672f3a2290e76cfa3a2218fcf289d21b96f",
+            "released": "2015-11-04T22:52:09+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": null,
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.5",
+            "tag": "archive/v0.1.0-beta.5",
+            "upstream_commit": "13d85f852b37632024a845dad60c3e6360df094b",
+            "archive_commit": "faf7b84b3b3cf88d425919fa0358c157e55ca0c8",
+            "released": "2016-03-29T08:15:31+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

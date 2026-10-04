@@ -1,0 +1,19 @@
+{
+    "package": "youngyezi/flarum-ext-neteasemusic",
+    "upstream": "https://github.com/Youngyezi/flarum-ext-neteasemusic",
+    "packagistUrl": "https://packagist.org/packages/youngyezi/flarum-ext-neteasemusic",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b7f3871ede899cad487d28e19c6175f018e93ad5",
+            "archive_commit": "6ee0db51776a2ffea69da5984fecd685de9d777b",
+            "released": "2016-08-01T01:55:34+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.5",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

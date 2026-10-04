@@ -1,0 +1,55 @@
+{
+    "package": "ygpynet/point-system",
+    "upstream": "https://github.com/ygpynet/point-system",
+    "packagistUrl": "https://packagist.org/packages/ygpynet/point-system",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1e7bfb999c1ebe8c34a219a0ab104cc223fa789f",
+            "archive_commit": "a1498a077c84eeae1c523bbb90378c3286420da9",
+            "released": "2026-08-24T22:58:27+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "3e331425d5296def986377bdd1625230d021b9cd",
+            "archive_commit": "0aaba96b5889e1812e6371d6d74a72c9900adcae",
+            "released": "2026-08-25T00:19:35+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "0cfe8f8ace9b5ec42eb63dfe920a17203768ddb2",
+            "archive_commit": "5c479650bda133e36b2db6dec25bd21c1d591a24",
+            "released": "2026-08-25T05:13:29+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "1ebbfa404cd23f07d283079e97fd06164a43939b",
+            "archive_commit": "2f444594da3005c90f39214c57625a052dfd6b2f",
+            "released": "2026-09-11T05:14:09+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

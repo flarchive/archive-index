@@ -1,0 +1,31 @@
+{
+    "package": "xypp/store-virtual-item",
+    "upstream": "https://github.com/zxy19/store-virtual-item",
+    "packagistUrl": "https://packagist.org/packages/xypp/store-virtual-item",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "dbb338868dcbff75f8b7750161abd6706c1f290b",
+            "archive_commit": "f85dba5caa6552c6622b1a61f8cc4a0c2878db75",
+            "released": "2024-08-29T03:47:18+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "3f633ee84135e1245b5895e5e3ee265c0226cced",
+            "archive_commit": "d02d16fa7e82f4397b9b772e04ca7e477727e9db",
+            "released": "2025-05-08T07:05:37+00:00",
+            "archived": "2026-10-03",
+            "license": "GPL-3.0",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
