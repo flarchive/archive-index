@@ -1,0 +1,55 @@
+{
+    "package": "zaptech/global-color-changer",
+    "upstream": "https://github.com/ZapTechAdmin/zaptech-global-color-changer",
+    "packagistUrl": "https://packagist.org/packages/zaptech/global-color-changer",
+    "versions": [
+        {
+            "version": "0.1.0-beta1",
+            "tag": null,
+            "upstream_commit": "94ff4ce0239835cb01f24e34b48c93ae2ebc9944",
+            "archive_commit": null,
+            "released": "2018-03-05T14:02:52+00:00",
+            "archived": null,
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta2",
+            "tag": null,
+            "upstream_commit": "2a2a0a6aceca694accdf0bbc459c9e2e8c330fbe",
+            "archive_commit": null,
+            "released": "2018-03-05T14:11:42+00:00",
+            "archived": null,
+            "license": null,
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta3",
+            "tag": null,
+            "upstream_commit": "4f6613818070b83df5f748a808909ad3452d50e1",
+            "archive_commit": null,
+            "released": "2018-03-06T23:24:51+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "0.1.0-beta4",
+            "tag": null,
+            "upstream_commit": "48e1b810144965aabc5905f39727fabf170e2c86",
+            "archive_commit": null,
+            "released": "2018-03-08T23:08:28+00:00",
+            "archived": null,
+            "license": "Unlicense",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

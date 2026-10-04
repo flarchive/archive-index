@@ -1,0 +1,43 @@
+{
+    "package": "zeokat/flarum-ext-spanish",
+    "upstream": "https://github.com/Zeokat/flarum-ext-spanish",
+    "packagistUrl": "https://packagist.org/packages/zeokat/flarum-ext-spanish",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "72e4e0080f4956b94d0f2191c757f4ce33e74777",
+            "archive_commit": "9d3133bfc71e3ccbf15c61fe1170905cea676dbd",
+            "released": "2017-04-18T19:31:54+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "279495ccb69c0bed6b0139f64595f6f7e9d8bceb",
+            "archive_commit": "ae6edef1aa6d8d36135f8a110825b64f59b9cb0e",
+            "released": "2017-04-19T22:54:39+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "33058f9247e11efc88f97b678631377f12e449c9",
+            "archive_commit": "00703516f63f22a9e80ce967036575ac06a33ead",
+            "released": "2017-04-24T16:10:46+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

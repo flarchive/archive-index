@@ -1,0 +1,31 @@
+{
+    "package": "zerosonesfun/blur",
+    "upstream": "https://github.com/zerosonesfun/blur",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/blur",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "5b02c16517457ff8543486a416141f3e3053a1e0",
+            "archive_commit": null,
+            "released": "2020-01-12T02:00:42+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1",
+            "tag": null,
+            "upstream_commit": "6fc992e7f3e0c5b064b12431454572a9536b14b2",
+            "archive_commit": null,
+            "released": "2020-02-16T16:33:49+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

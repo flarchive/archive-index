@@ -1,0 +1,55 @@
+{
+    "package": "zengkv/auth-momo",
+    "upstream": "https://github.com/zengkv/auth-momo",
+    "packagistUrl": "https://packagist.org/packages/zengkv/auth-momo",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.8.1",
+            "tag": "archive/v0.1.0-beta.8.1",
+            "upstream_commit": "e5a4cd0b2114732211f1a9035055193fb406d2a3",
+            "archive_commit": "3a6970946e42b1183fa122523347f104f68f6421",
+            "released": "2019-02-16T03:08:56+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.2",
+            "tag": "archive/v0.1.0-beta.8.2",
+            "upstream_commit": "42bc9a554236444623fb5c92cf431d11c1c5b915",
+            "archive_commit": "bc15c67b970608156cb53e6a4bf6ada0304863b6",
+            "released": "2019-02-22T08:56:02+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.3",
+            "tag": "archive/v0.1.0-beta.8.3",
+            "upstream_commit": "881924580ccbcd37b18def49b0cf25baad103eea",
+            "archive_commit": "497ebbcde22aff58628aa9e38a62e9f79c987753",
+            "released": "2019-02-22T08:59:34+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-beta.8.4",
+            "tag": "archive/v0.1.0-beta.8.4",
+            "upstream_commit": "f758f71479912c41abcb7f8a7a6ef621e0b6857f",
+            "archive_commit": "3e32e153ddb4d1b2f35f2f239de871e970f767b5",
+            "released": "2019-02-22T13:14:53+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

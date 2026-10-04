@@ -1,0 +1,91 @@
+{
+    "package": "zerosonesfun/accordion",
+    "upstream": "https://github.com/zerosonesfun/accordion",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/accordion",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "380817356c524155139384d0a88fe18fb4c439c0",
+            "archive_commit": null,
+            "released": "2020-01-12T02:43:13+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "1.1",
+            "tag": null,
+            "upstream_commit": "dbe9e2b413b166070e5c65b9b3c19a5d275a891d",
+            "archive_commit": null,
+            "released": "2020-02-01T13:58:20+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "2.0",
+            "tag": null,
+            "upstream_commit": "2d4d4f5584b4e3af270aaa4f18a110b27cdbab6a",
+            "archive_commit": null,
+            "released": "2020-02-01T12:13:19+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "2.1",
+            "tag": null,
+            "upstream_commit": "2d4d4f5584b4e3af270aaa4f18a110b27cdbab6a",
+            "archive_commit": null,
+            "released": "2020-02-01T12:13:19+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "2.2",
+            "tag": null,
+            "upstream_commit": "dbe9e2b413b166070e5c65b9b3c19a5d275a891d",
+            "archive_commit": null,
+            "released": "2020-02-01T13:58:20+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "2.3",
+            "tag": null,
+            "upstream_commit": "98ead6f7ce1d2dca51af71d3654dcb55559571c9",
+            "archive_commit": null,
+            "released": "2020-02-01T14:54:36+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "2.4",
+            "tag": null,
+            "upstream_commit": "6f34cee7d611f1384d8304e6ad8ba5044afe4ce6",
+            "archive_commit": null,
+            "released": "2020-02-01T15:09:08+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

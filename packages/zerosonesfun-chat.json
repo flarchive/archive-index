@@ -1,0 +1,19 @@
+{
+    "package": "zerosonesfun/chat",
+    "upstream": "https://github.com/zerosonesfun/chat",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/chat",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "c1bd63d331ed1e02ce2713c39aba9971e00f4774",
+            "archive_commit": null,
+            "released": "2020-01-12T03:09:44+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

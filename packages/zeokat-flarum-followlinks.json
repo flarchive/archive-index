@@ -1,0 +1,31 @@
+{
+    "package": "zeokat/flarum-followlinks",
+    "upstream": "https://github.com/Zeokat/flarum-followlinks",
+    "packagistUrl": "https://packagist.org/packages/zeokat/flarum-followlinks",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "f4df8fd79e2f691ff47d6b27806e2bc58a471e78",
+            "archive_commit": "351a957120d1f1a6ea13fac7aac2c3f35432de88",
+            "released": "2019-09-11T21:31:28+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.11",
+            "tag": "archive/v0.11",
+            "upstream_commit": "b09b0f5aee4c77748c1fefc2e94203f066c18226",
+            "archive_commit": "2bfb3ce17d7590f5f4dc18b072fbd92f24d6d7f7",
+            "released": "2021-08-27T20:08:17+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

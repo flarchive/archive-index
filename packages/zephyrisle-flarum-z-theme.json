@@ -1,0 +1,19 @@
+{
+    "package": "zephyrisle/flarum-z-theme",
+    "upstream": "https://github.com/Zephyr-Isle/flarum-z-theme",
+    "packagistUrl": "https://packagist.org/packages/zephyrisle/flarum-z-theme",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "a17ea6025f1d8e39e2bd10d42cfeb29cdfcaed6d",
+            "archive_commit": "c5a42c50166f6c284b6feef70477cf49333168fd",
+            "released": "2026-04-02T06:39:32+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

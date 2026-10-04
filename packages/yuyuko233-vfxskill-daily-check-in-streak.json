@@ -1,0 +1,19 @@
+{
+    "package": "yuyuko233/vfxskill-daily-check-in-streak",
+    "upstream": "https://github.com/popoopendoor/vfxskill-daily-check-in-streak",
+    "packagistUrl": "https://packagist.org/packages/yuyuko233/vfxskill-daily-check-in-streak",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "54ea3373c6915ece1df6cb47aad61fdc57882cd7",
+            "archive_commit": "1eb23faa114d7d86de3ccc9bef9aa0ff31cba8af",
+            "released": "2026-05-31T12:28:08+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "package": "zequeen/acgembed-remastered",
+    "upstream": "https://github.com/ZeQueen-X/ACGEmbed-remastered",
+    "packagistUrl": "https://packagist.org/packages/zequeen/acgembed-remastered",
+    "versions": [
+        {
+            "version": "v1.0",
+            "tag": null,
+            "upstream_commit": "f59a0a3aa792ee103da37db52ea72f3d91dcbd7f",
+            "archive_commit": null,
+            "released": "2021-07-16T15:53:35+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.1",
+            "tag": null,
+            "upstream_commit": "8c3ae2bd58dfa016bbc46658edaa9b8f41fab8da",
+            "archive_commit": null,
+            "released": "2021-07-17T07:16:19+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": null,
+            "upstream_commit": "989f1979d6c061b1e7c2dc4788e04a72adae34ef",
+            "archive_commit": null,
+            "released": "2021-07-17T07:30:22+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.1.2",
+            "tag": null,
+            "upstream_commit": "f4dc6142b49f95dab91033639cc26aa62f218088",
+            "archive_commit": null,
+            "released": "2021-08-27T08:44:53+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

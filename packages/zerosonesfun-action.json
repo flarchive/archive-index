@@ -1,0 +1,19 @@
+{
+    "package": "zerosonesfun/action",
+    "upstream": "https://github.com/zerosonesfun/action",
+    "packagistUrl": "https://packagist.org/packages/zerosonesfun/action",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": null,
+            "upstream_commit": "49d08ff98e23ae3bc7f5670456cad6f3f37b79ac",
+            "archive_commit": null,
+            "released": "2020-01-12T02:56:05+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

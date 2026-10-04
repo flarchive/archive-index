@@ -1,0 +1,67 @@
+{
+    "package": "zeokat/flarum-ext-folinks",
+    "upstream": "https://github.com/Zeokat/flarum-ext-folinks",
+    "packagistUrl": "https://packagist.org/packages/zeokat/flarum-ext-folinks",
+    "versions": [
+        {
+            "version": "v1.5",
+            "tag": null,
+            "upstream_commit": "d4a0ffb082a584b8d78790b78cafd484b4fe40fb",
+            "archive_commit": null,
+            "released": "2017-05-03T22:13:31+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.6",
+            "tag": null,
+            "upstream_commit": "7d020eecdccee60e20b1d62c7293aa005c98b4d2",
+            "archive_commit": null,
+            "released": "2017-05-03T22:32:12+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.6.1",
+            "tag": null,
+            "upstream_commit": "73cd8e5054f83b07118afbd580b4d4145b2d28fd",
+            "archive_commit": null,
+            "released": "2017-05-03T22:45:05+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.6.2",
+            "tag": null,
+            "upstream_commit": "74b3411ef145965e2946b99f319d1bd6772bb4c9",
+            "archive_commit": null,
+            "released": "2017-12-05T15:46:25+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "unavailable"
+        },
+        {
+            "version": "v1.6.3",
+            "tag": null,
+            "upstream_commit": "3d8d6bc78b2a8b0e9f0439e4a153ecad04d546d7",
+            "archive_commit": null,
+            "released": "2017-12-05T21:43:54+00:00",
+            "archived": null,
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "unavailable"
+        }
+    ]
+}

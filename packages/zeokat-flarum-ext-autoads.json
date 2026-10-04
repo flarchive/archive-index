@@ -1,0 +1,19 @@
+{
+    "package": "zeokat/flarum-ext-autoads",
+    "upstream": "https://github.com/Zeokat/flarum-ext-autoads",
+    "packagistUrl": "https://packagist.org/packages/zeokat/flarum-ext-autoads",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "2b109c5686654711067222fc3c2b15b9f698267c",
+            "archive_commit": "bbc41ebe99003066e7a8db4e5d1dade95225abe8",
+            "released": "2018-03-31T19:51:37+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.3",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
