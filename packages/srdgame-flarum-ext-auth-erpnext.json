@@ -1,0 +1,31 @@
+{
+    "package": "srdgame/flarum-ext-auth-erpnext",
+    "upstream": "https://github.com/srdgame/flarum-ext-auth-erpnext",
+    "packagistUrl": "https://packagist.org/packages/srdgame/flarum-ext-auth-erpnext",
+    "versions": [
+        {
+            "version": "v0.1.0-beta",
+            "tag": "archive/v0.1.0-beta",
+            "upstream_commit": "c9d121b990c0fcd7b2a3e4226d979999c19d45d3",
+            "archive_commit": "0ec7508b1fe16ae51666e8036242671cfe2fa1ae",
+            "released": "2017-02-10T08:36:56+00:00",
+            "archived": "2026-10-04",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "749c52d23a1a8347132efdd2cbd42e9220d05f56",
+            "archive_commit": "0b0b809aebf5eaccf4a5ff37429531e3c0d58ebd",
+            "released": "2018-03-01T08:20:16+00:00",
+            "archived": "2026-10-04",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

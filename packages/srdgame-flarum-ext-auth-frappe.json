@@ -1,0 +1,43 @@
+{
+    "package": "srdgame/flarum-ext-auth-frappe",
+    "upstream": "https://github.com/srdgame/flarum-ext-auth-frappe",
+    "packagistUrl": "https://packagist.org/packages/srdgame/flarum-ext-auth-frappe",
+    "versions": [
+        {
+            "version": "v0.1.0-beta",
+            "tag": "archive/v0.1.0-beta",
+            "upstream_commit": "c9d121b990c0fcd7b2a3e4226d979999c19d45d3",
+            "archive_commit": "bda138c15371b2c3249a73790fe2e8ed557cbf2e",
+            "released": "2017-02-10T08:36:56+00:00",
+            "archived": "2026-10-04",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "749c52d23a1a8347132efdd2cbd42e9220d05f56",
+            "archive_commit": "f34df4b197ec0a3feaf15dbe94b04ef18e9f89ca",
+            "released": "2018-03-01T08:20:16+00:00",
+            "archived": "2026-10-04",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "1fdcd0874b15dd887575097ca49d30192f2f0777",
+            "archive_commit": "22fda847ffa22ed5dd7127b6d8c64b2628c6d25b",
+            "released": "2018-11-21T07:36:38+00:00",
+            "archived": "2026-10-04",
+            "license": "GPL-3.0+",
+            "flarum": "^0.1.0-beta.6",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

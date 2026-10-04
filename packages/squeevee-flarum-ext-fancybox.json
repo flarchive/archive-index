@@ -1,0 +1,31 @@
+{
+    "package": "squeevee/flarum-ext-fancybox",
+    "upstream": "https://github.com/squeevee/flarum-ext-fancybox",
+    "packagistUrl": "https://packagist.org/packages/squeevee/flarum-ext-fancybox",
+    "versions": [
+        {
+            "version": "0.1-beta",
+            "tag": "archive/v0.1-beta",
+            "upstream_commit": "caaed8ff2501a5bdba2811262c95f1960fb53092",
+            "archive_commit": "3a1a8d32d3802effd66b5c278611dbd82a440f30",
+            "released": "2019-04-01T22:59:41+00:00",
+            "archived": "2026-10-04",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2-beta",
+            "tag": "archive/v0.2-beta",
+            "upstream_commit": "1fb6e7b84f97bf08e3d25d0f85f631ae8659eb25",
+            "archive_commit": "959a2e99493e7cc6cdc7e637bc8eda5c830edd1d",
+            "released": "2019-05-01T05:15:15+00:00",
+            "archived": "2026-10-04",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

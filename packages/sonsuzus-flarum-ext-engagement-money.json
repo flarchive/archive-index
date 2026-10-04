@@ -1,0 +1,67 @@
+{
+    "package": "sonsuzus/flarum-ext-engagement-money",
+    "upstream": "https://github.com/sonsuzus/flarum-ext-engagement-money",
+    "packagistUrl": "https://packagist.org/packages/sonsuzus/flarum-ext-engagement-money",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "bce7255bc57cec44e8195e7e4cd78108e3394e74",
+            "archive_commit": "e226bd4ccd8ee94cda09d070a09d25da1d4ebc65",
+            "released": "2026-03-06T20:05:45+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "ba07f30dabc4eaf58a7432a848fc0f1838c10d47",
+            "archive_commit": "d60cf8f5e3babbc578f78b79375d7fd0a967aafd",
+            "released": "2026-03-07T14:30:17+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "b76d10f32760631ce9a92225916f52d3f2cf61b9",
+            "archive_commit": "ba9ceb76f47185ecc2015dec372faae741041669",
+            "released": "2026-03-08T18:21:31+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "e35081cc6f92178a9a4ecb6159427d708534ebab",
+            "archive_commit": "6b0447758afc409ce4fdc6f1102ef486f1d860d4",
+            "released": "2026-03-08T21:39:15+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3.1",
+            "tag": "archive/v1.3.1",
+            "upstream_commit": "e7fa906c63c43634d269c619e1d4631e53316e2c",
+            "archive_commit": "11bcb3fe69c5db1a7082979eb7dbfbbe489aeb6c",
+            "released": "2026-03-10T14:40:02+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

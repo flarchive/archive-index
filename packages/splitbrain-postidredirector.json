@@ -1,0 +1,19 @@
+{
+    "package": "splitbrain/postidredirector",
+    "upstream": "https://github.com/splitbrain/flarum-postidredirector",
+    "packagistUrl": "https://packagist.org/packages/splitbrain/postidredirector",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "24632d52071665f2b5f4bb80d751fe475b4d22f6",
+            "archive_commit": "7af58e3bf53f7d9b67fdc229a2372b928ed7e731",
+            "released": "2023-05-28T15:58:23+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

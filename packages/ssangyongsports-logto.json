@@ -1,0 +1,55 @@
+{
+    "package": "ssangyongsports/logto",
+    "upstream": "https://github.com/ssangyongsportsorg/flarum-ext-oauth-slack",
+    "packagistUrl": "https://packagist.org/packages/ssangyongsports/logto",
+    "versions": [
+        {
+            "version": "1",
+            "tag": "archive/v1",
+            "upstream_commit": "3095ac521c218613d9704947cb2b48f15360a835",
+            "archive_commit": "58da99c5176caf84821f7179185197678444ba24",
+            "released": "2024-07-26T15:15:31+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2",
+            "tag": "archive/v2",
+            "upstream_commit": "e98915cdeebc52f0233b9b067c699d09c9a3dc3f",
+            "archive_commit": "2194f185503e9cbef7139fd2c36f1fad0aabf5de",
+            "released": "2024-07-27T03:15:48+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "3",
+            "tag": "archive/v3",
+            "upstream_commit": "308894d9e1b2428677dd32f826d57e98bd2d452d",
+            "archive_commit": "57139ff404c8294a8200cd20984cdf12cd28b3c0",
+            "released": "2024-08-04T12:14:19+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "4",
+            "tag": "archive/v4",
+            "upstream_commit": "e4737eadc69dca110f6ab1d4b14556528511d09c",
+            "archive_commit": "e2ac0054af5f8feace11383a4431c249a25627e8",
+            "released": "2024-08-04T12:42:41+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.3.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

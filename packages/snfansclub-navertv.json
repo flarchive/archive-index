@@ -1,0 +1,43 @@
+{
+    "package": "snfansclub/navertv",
+    "upstream": "https://github.com/snfansclub/navertv",
+    "packagistUrl": "https://packagist.org/packages/snfansclub/navertv",
+    "versions": [
+        {
+            "version": "v0.1",
+            "tag": "archive/v0.1",
+            "upstream_commit": "3dd68c9f714ccc322a50a6c799c12210064f4963",
+            "archive_commit": "a2100a49b3ce264bb8dfda4c2b1cb628ef42519c",
+            "released": "2020-07-12T11:07:37+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.2",
+            "tag": "archive/v0.2",
+            "upstream_commit": "73fc2549a84079e70555ac25e0a2b22f4d5309ad",
+            "archive_commit": "f880ae3bb719f9bc617c371c60040d327051d414",
+            "released": "2020-07-12T11:20:09+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3",
+            "tag": "archive/v0.3",
+            "upstream_commit": "d0c4e8748be2b265cba8c710fa3e2cc24de4dada",
+            "archive_commit": "3b98f6d8e4367d29b702b3980f3eadd1304e7d7a",
+            "released": "2020-07-12T11:34:03+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.13",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

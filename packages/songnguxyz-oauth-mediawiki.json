@@ -1,0 +1,67 @@
+{
+    "package": "songnguxyz/oauth-mediawiki",
+    "upstream": "https://github.com/songnguxyz/flarum-ext-oauth-mediawiki",
+    "packagistUrl": "https://packagist.org/packages/songnguxyz/oauth-mediawiki",
+    "versions": [
+        {
+            "version": "v1.1",
+            "tag": "archive/v1.1",
+            "upstream_commit": "ab972eac43bc850def7a6ad00566e14b6784aee4",
+            "archive_commit": "5fed0519c52dbec889448da4f1308d7dbdc591a3",
+            "released": "2025-12-06T18:06:52+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "88d1aa43777fe8c1ffd46a4b6aec2a77993aa57d",
+            "archive_commit": "e704877e1b204bbfe85a15e41d828d963a52fc23",
+            "released": "2025-12-06T18:58:00+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "ef6e71dbad35532abfee06a8a2949dce24b32513",
+            "archive_commit": "a6add26e7ac4d59e582df1c512a041785794dd79",
+            "released": "2025-12-06T19:51:38+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2",
+            "tag": "archive/v1.2",
+            "upstream_commit": "e95571f9780edb1c7820837006e18906efa2ea6f",
+            "archive_commit": "1e5d928ec964243f41a52f2a3958b1141bb45452",
+            "released": "2025-12-08T14:46:54+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.3",
+            "tag": "archive/v1.3",
+            "upstream_commit": "3e795059c078c58feaca7c2c6f4cd3b16986413a",
+            "archive_commit": "2dba63b1907dd3e51a6c630f93d9e3f7a40d3d30",
+            "released": "2025-12-09T11:14:50+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

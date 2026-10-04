@@ -1,0 +1,43 @@
+{
+    "package": "supernova3339/flarum-edit-post-length",
+    "upstream": "https://github.com/Supernova3339/flarum-edit-post-length",
+    "packagistUrl": "https://packagist.org/packages/supernova3339/flarum-edit-post-length",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "728647e4762d9ad6d918f40fcab71a168e1140f7",
+            "archive_commit": "862bb98f532e52d151025358615659ba97d5cbb2",
+            "released": "2023-05-23T00:04:29+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.01",
+            "tag": "archive/v1.01",
+            "upstream_commit": "01f04edb0ba51ff10d93a29f219938c97267f8a2",
+            "archive_commit": "f17643b660f53306c03853609c1457c7782a9c46",
+            "released": "2023-05-23T00:11:40+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.02",
+            "tag": "archive/v1.02",
+            "upstream_commit": "f3d1dbfa68dce76f62a3a4af6afc675cee738436",
+            "archive_commit": "eb0af30a3585b0e8668607c16da929c894471e56",
+            "released": "2023-05-23T00:32:54+00:00",
+            "archived": "2026-10-04",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
