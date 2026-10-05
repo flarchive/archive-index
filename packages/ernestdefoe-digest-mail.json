@@ -134,6 +134,42 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.2.3",
+            "tag": "archive/v2.2.3",
+            "upstream_commit": "ad429aee1ea905249b89f998fcaf3bf1a2282c66",
+            "archive_commit": "7faf245e3b485d64156b28e4e8f3f0144f9c31ed",
+            "released": "2026-10-02T13:22:36+00:00",
+            "archived": "2026-10-05",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.4",
+            "tag": "archive/v2.2.4",
+            "upstream_commit": "bedcd9e8ba26542387cf6e0a1545ca810e245b9f",
+            "archive_commit": "8320d5a638c9d65e688afd6a8e140faf69db7f73",
+            "released": "2026-10-02T15:29:43+00:00",
+            "archived": "2026-10-05",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.2.5",
+            "tag": "archive/v2.2.5",
+            "upstream_commit": "38d7ca724a1f388587f53cefd701c092b2ac7882",
+            "archive_commit": "1f0cd672de62564851455e2d484991090134a60a",
+            "released": "2026-10-05T14:15:10+00:00",
+            "archived": "2026-10-05",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ]
 }

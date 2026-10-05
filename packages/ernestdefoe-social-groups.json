@@ -1454,6 +1454,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.6.0",
+            "tag": "archive/v2.6.0",
+            "upstream_commit": "c3469163cf4872c8f8c2f60929833d0b21737645",
+            "archive_commit": "293c22cb583cb0613c87558f2b2aefce3305fb4d",
+            "released": "2026-10-04T00:30:03+00:00",
+            "archived": "2026-10-05",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.6.1",
+            "tag": "archive/v2.6.1",
+            "upstream_commit": "09a3fc79b33a6aac291260416ab81d537eb6e13f",
+            "archive_commit": "48bfafaf0805e9bbefdbf76b740cfcb5a0e868d1",
+            "released": "2026-10-05T13:59:38+00:00",
+            "archived": "2026-10-05",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ]
 }
