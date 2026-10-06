@@ -409,6 +409,18 @@
             "source": "archived",
             "status": "ok",
             "flarum": "^2.0.0-rc.4"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "2e6378123afb681b5a12e6c06854748c4f155e55",
+            "archive_commit": "fc7006afce4e05d865dea9f00c0d6553656778fd",
+            "released": "2026-10-06T16:49:33+00:00",
+            "archived": "2026-10-06",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "packagistUrl": "https://packagist.org/packages/acpl/mobile-tab"
