@@ -1,8 +1,21 @@
 {
     "package": "toreador/flarum-job-queue",
-    "upstream": "",
+    "upstream": "https://github.com/toreador34/flarum-job-queue",
     "packagistUrl": "https://packagist.org/packages/toreador/flarum-job-queue",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "26e6d163cbccd9a94b478645244c5ce15cc05cff",
+            "archive_commit": "6e5bb647378c7ad0510943141b22456e7f8b1bf2",
+            "released": "2026-10-05T23:59:41+00:00",
+            "archived": "2026-10-06",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
 }
