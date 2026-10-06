@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/manticore",
+    "upstream": "https://github.com/ernestdefoe/manticore",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/manticore",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c1fda27e7d357ea51866a7af1e3108475ab77bac",
+            "archive_commit": "69de599cd2356e6ba9c3efdc377631255434ab14",
+            "released": "2026-10-06T15:10:18+00:00",
+            "archived": "2026-10-06",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

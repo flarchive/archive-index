@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/sonic",
+    "upstream": "https://github.com/ernestdefoe/sonic",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/sonic",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c08fd54d2a790d19519231dbb6d258ef904e3e6d",
+            "archive_commit": "d0dd51fc4be9f11cf631bca34e43d6b4bed12782",
+            "released": "2026-10-06T15:11:27+00:00",
+            "archived": "2026-10-06",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
