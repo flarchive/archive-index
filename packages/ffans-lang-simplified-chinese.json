@@ -1,6 +1,6 @@
 {
     "package": "ffans/lang-simplified-chinese",
-    "upstream": "https://github.com/FFans/lang-simplified-chinese",
+    "upstream": "https://github.com/flarum-lang/chinese-simplified",
     "packagistUrl": "https://packagist.org/packages/ffans/lang-simplified-chinese",
     "versions": [
         {
@@ -1270,6 +1270,18 @@
             "archive_commit": "ba018df37ac811ddc7b71561482e8951c4c68c4e",
             "released": "2024-10-29T11:34:18+00:00",
             "archived": "2026-10-03",
+            "license": "MIT",
+            "flarum": "^1.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.6.1",
+            "tag": "archive/v1.6.1",
+            "upstream_commit": "281689ad437cd42a8c28bfdefc107eba3ce0a235",
+            "archive_commit": "1fcfbdc7e3105530ecdf50c398713b1873085fac",
+            "released": "2026-10-08T07:27:42+00:00",
+            "archived": "2026-10-08",
             "license": "MIT",
             "flarum": "^1.0.0",
             "source": "archived",
