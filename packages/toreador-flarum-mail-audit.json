@@ -1,0 +1,19 @@
+{
+    "package": "toreador/flarum-mail-audit",
+    "upstream": "https://github.com/toreador34/flarum-mail-audit",
+    "packagistUrl": "https://packagist.org/packages/toreador/flarum-mail-audit",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "17b50a703c6bca066e75f951af713c8c7a23aec9",
+            "archive_commit": "f3518d8242bb934b3e60a73793e691231c95f231",
+            "released": "2026-10-09T22:39:07+00:00",
+            "archived": "2026-10-09",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
