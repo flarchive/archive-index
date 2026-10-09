@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/millwright-bridge",
+    "upstream": "https://github.com/ernestdefoe/millwright-bridge",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/millwright-bridge",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ecccdbfbd2a9b600dba09c50e525533a4139c45b",
+            "archive_commit": "4996291250c9a8d6f4617c67619d152672289170",
+            "released": "2026-10-09T19:38:03+00:00",
+            "archived": "2026-10-09",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
