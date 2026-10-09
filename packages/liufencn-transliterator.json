@@ -1,0 +1,79 @@
+{
+    "package": "liufencn/transliterator",
+    "upstream": "https://github.com/LiuFenCN/transliterator",
+    "packagistUrl": "https://packagist.org/packages/liufencn/transliterator",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "48e89c438e685ca21de1b0882fe0f077e9afebeb",
+            "archive_commit": "b7d351de54203aa42bc5b14427d7821ff1beffa9",
+            "released": "2018-12-18T00:37:35+00:00",
+            "archived": "2026-10-09",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "c1f12e35f0f8de2a9f0af1b989c50e2fbc414e2c",
+            "archive_commit": "472ac8f6090e7123e96cdbf0a23f233a15ba42da",
+            "released": "2018-12-20T20:49:40+00:00",
+            "archived": "2026-10-09",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.0",
+            "tag": "archive/v0.2.0",
+            "upstream_commit": "c4480376debe62dd2dafe68fb4f0053fc1a73b19",
+            "archive_commit": "5fa034e952b3e36635c37f3161bdb6e3db044610",
+            "released": "2019-08-25T13:23:20+00:00",
+            "archived": "2026-10-09",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.1",
+            "tag": "archive/v0.2.1",
+            "upstream_commit": "ebdb4f540e3e0c2c283a17332fa064d7c66353f9",
+            "archive_commit": "a25b84be9ba4ebfc1835608fac5642dc49e76c65",
+            "released": "2020-11-13T23:05:23+00:00",
+            "archived": "2026-10-09",
+            "license": "MIT",
+            "flarum": ">=0.1.0-beta.14 <0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.3.0",
+            "tag": "archive/v0.3.0",
+            "upstream_commit": "95e49e261fd900af5c0f5dbeddfc02e6aefd3fdb",
+            "archive_commit": "c622b6fd9904d4b0fccbe0b0cdef208ed3cc87b1",
+            "released": "2020-12-16T10:43:31+00:00",
+            "archived": "2026-10-09",
+            "license": "MIT",
+            "flarum": "^0.1.0-beta.15",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "bf6e120c94861b3d49b72a769d590f96e5479338",
+            "archive_commit": "78577aec5de8a11abd95c20de438db7fefb35674",
+            "released": "2026-10-09T21:42:25+00:00",
+            "archived": "2026-10-09",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
