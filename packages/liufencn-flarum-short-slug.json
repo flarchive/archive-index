@@ -1,0 +1,19 @@
+{
+    "package": "liufencn/flarum-short-slug",
+    "upstream": "https://github.com/LiuFenCN/flarum-short-slug",
+    "packagistUrl": "https://packagist.org/packages/liufencn/flarum-short-slug",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "16560896177c3c5dbadc6a993e7ebc87831c4fbe",
+            "archive_commit": "d8e05375c329e8c2d7a78e3a8001815546f60931",
+            "released": "2026-10-10T00:09:53+00:00",
+            "archived": "2026-10-10",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
