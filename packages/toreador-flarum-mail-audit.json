@@ -21,9 +21,21 @@
             "upstream_commit": "1285264314d854b825050f0c55e94c85495f5c5e",
             "archive_commit": "71f6f2384e07b84c44d44b142651952d33784b48",
             "released": "2026-10-09T23:00:08+00:00",
-            "archived": "2026-10-09",
+            "archived": "2026-10-10",
             "license": "MIT",
             "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c9e19494c254e7280d55b9fbf60b43a248920883",
+            "archive_commit": "e2c713310799b780d84ad4f65a1a6dcc7a1ec82a",
+            "released": "2026-10-10T15:22:05+00:00",
+            "archived": "2026-10-10",
+            "license": "MIT",
+            "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
         }
