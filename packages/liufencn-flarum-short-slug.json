@@ -14,6 +14,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "c6017b7e6b08ea1824ff37ae5c83ce8db16b83ba",
+            "archive_commit": "3588ea879baf2154a646b14f89a5d62c3e804492",
+            "released": "2026-10-10T00:41:08+00:00",
+            "archived": "2026-10-10",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ]
 }
