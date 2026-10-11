@@ -350,6 +350,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.7.0",
+            "tag": "archive/v2.7.0",
+            "upstream_commit": "04502632abb03709590bbeaf6183f1bf455feb26",
+            "archive_commit": "e11df415d4c3cf3f4694929aadede87998c56459",
+            "released": "2026-10-11T17:28:43+00:00",
+            "archived": "2026-10-11",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ]
 }
