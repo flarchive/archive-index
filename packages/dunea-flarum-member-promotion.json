@@ -1,0 +1,19 @@
+{
+    "package": "dunea/flarum-member-promotion",
+    "upstream": "https://github.com/dunea/flarum-member-promotion",
+    "packagistUrl": "https://packagist.org/packages/dunea/flarum-member-promotion",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1eb20ffd1109e4bcbc04a7f5ff8ea9cf56ca5252",
+            "archive_commit": "193286473b0751e95433e377bc4e20d63942d7f0",
+            "released": "2026-10-11T15:36:50+00:00",
+            "archived": "2026-10-11",
+            "license": "MIT",
+            "flarum": "^1.8.19",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
