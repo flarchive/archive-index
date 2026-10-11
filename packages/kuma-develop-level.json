@@ -1,0 +1,19 @@
+{
+    "package": "kuma-develop/level",
+    "upstream": "https://github.com/kuma-develop/Level",
+    "packagistUrl": "https://packagist.org/packages/kuma-develop/level",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b56b31773a142b0bd7ca8c280af3a66a7d96d75b",
+            "archive_commit": "efe0852c0c24d2fa678630fb3bf5791223ef5bd0",
+            "released": "2026-10-11T01:44:55+00:00",
+            "archived": "2026-10-11",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
