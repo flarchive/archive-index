@@ -1,0 +1,19 @@
+{
+    "package": "cengizkemec/support-tickets",
+    "upstream": "https://github.com/cengizkemec/flarum-support-tickets",
+    "packagistUrl": "https://packagist.org/packages/cengizkemec/support-tickets",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "06817d3303cdc5a105778409d3313caae83a37f5",
+            "archive_commit": "6fe1c2ef215ece46eba37c0665e9c0249b19aeea",
+            "released": "2026-10-11T19:48:48+00:00",
+            "archived": "2026-10-11",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
