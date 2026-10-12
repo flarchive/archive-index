@@ -1,0 +1,19 @@
+{
+    "package": "mabioca/jalali-calendar",
+    "upstream": "https://github.com/mabioca/jalali-calendar",
+    "packagistUrl": "https://packagist.org/packages/mabioca/jalali-calendar",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f1e71b3c79a3b12ca88652dacd5cc7d9072650ad",
+            "archive_commit": "dfe7837a49b9f075f230ed76f94a96b3f7e657f3",
+            "released": "2026-10-12T08:56:35+00:00",
+            "archived": "2026-10-12",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
