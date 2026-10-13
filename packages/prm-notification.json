@@ -1,0 +1,19 @@
+{
+    "package": "prm/notification",
+    "upstream": "https://github.com/smmpanelscripts1/prm-notification",
+    "packagistUrl": "https://packagist.org/packages/prm/notification",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "71250f6f84a32c7a3a0a6b025f6bbebaf1a91237",
+            "archive_commit": "781ae26551790b8493b7f301f8b865e5d260567a",
+            "released": "2026-10-13T18:46:01+00:00",
+            "archived": "2026-10-13",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

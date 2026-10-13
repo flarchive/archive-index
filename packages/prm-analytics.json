@@ -1,0 +1,19 @@
+{
+    "package": "prm/analytics",
+    "upstream": "https://github.com/smmpanelscripts1/prm-analytics",
+    "packagistUrl": "https://packagist.org/packages/prm/analytics",
+    "versions": [
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "99df8b16e6aeffcc4834b6efe561c972ee652046",
+            "archive_commit": "c489d06d97ecd220ecdf57b5fc542b833fe89641",
+            "released": "2026-10-09T16:56:58+00:00",
+            "archived": "2026-10-13",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
