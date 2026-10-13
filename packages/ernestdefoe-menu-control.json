@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/menu-control",
+    "upstream": "https://github.com/ernestdefoe/menu-control",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/menu-control",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c28c1ca562522ab127a6eaca1b4514d63a56566b",
+            "archive_commit": "5a51df7f80e1955710d66eabfeba30b87c2deb68",
+            "released": "2026-10-13T16:51:39+00:00",
+            "archived": "2026-10-13",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
