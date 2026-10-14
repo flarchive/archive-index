@@ -530,6 +530,18 @@
             "source": "archived",
             "status": "ok",
             "flarum": "^2.0"
+        },
+        {
+            "version": "v4.0.0",
+            "tag": "archive/v4.0.0",
+            "upstream_commit": "725f2dd7e73210813c943ba82024ef0032f8287d",
+            "archive_commit": "1d2c01bf1fd1ab5ce6fa2de2d3d8389e9423dfd1",
+            "released": "2026-10-14T17:55:12+00:00",
+            "archived": "2026-10-14",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ]
 }
