@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/backdrop",
+    "upstream": "https://github.com/ernestdefoe/backdrop",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/backdrop",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3c9e76c2784547d621c1adfa63423edc7c9ea964",
+            "archive_commit": "d9d173393788a902d8a76deab6ca91b7242a5a40",
+            "released": "2026-10-14T15:25:15+00:00",
+            "archived": "2026-10-14",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
