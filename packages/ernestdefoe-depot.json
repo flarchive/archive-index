@@ -1,0 +1,31 @@
+{
+    "package": "ernestdefoe/depot",
+    "upstream": "https://github.com/ernestdefoe/depot",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/depot",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "29a9c10b40bc50c078dc008a204acb28d1901d90",
+            "archive_commit": "3e628d5092b07a8a486ef7c6841024ec82eaf835",
+            "released": "2026-10-15T03:42:31+00:00",
+            "archived": "2026-10-15",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "ad175b141a40f4d01fd5464192fc0396406724be",
+            "archive_commit": "0d3e56f3bb4acaa55aac184df296879a83296b4f",
+            "released": "2026-10-15T03:51:52+00:00",
+            "archived": "2026-10-15",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
