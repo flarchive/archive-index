@@ -1,0 +1,19 @@
+{
+    "package": "liufencn/flarum-user-delete",
+    "upstream": "https://github.com/LiuFenCN/flarum-ext-user-delete",
+    "packagistUrl": "https://packagist.org/packages/liufencn/flarum-user-delete",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0c31f17a0c68b21eb276f0708c016402e00bbbfd",
+            "archive_commit": "f0cc42a3e58093bb1c592b02b7044c697cff434d",
+            "released": "2026-10-15T17:45:39+00:00",
+            "archived": "2026-10-15",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

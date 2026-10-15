@@ -1,0 +1,19 @@
+{
+    "package": "liufencn/flarum-mediaembed",
+    "upstream": "https://github.com/LiuFenCN/flarum-ext-mediaembed",
+    "packagistUrl": "https://packagist.org/packages/liufencn/flarum-mediaembed",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b6c6ad7b4350a6cb66d21bdd959e4ae326af8992",
+            "archive_commit": "1d47056ee39f921cb6e2ecaa776efbec45b31dfe",
+            "released": "2026-10-15T17:24:56+00:00",
+            "archived": "2026-10-15",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

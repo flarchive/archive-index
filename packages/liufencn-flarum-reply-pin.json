@@ -1,0 +1,19 @@
+{
+    "package": "liufencn/flarum-reply-pin",
+    "upstream": "https://github.com/LiuFenCN/flarum-ext-reply-pin",
+    "packagistUrl": "https://packagist.org/packages/liufencn/flarum-reply-pin",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "03405fa899c98d099d83fbfb120532d97506654e",
+            "archive_commit": "3754e2a513716fac9baf1ef1b69ab9cf65e1450d",
+            "released": "2026-10-15T17:25:14+00:00",
+            "archived": "2026-10-15",
+            "license": "AGPL-3.0-or-later",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
