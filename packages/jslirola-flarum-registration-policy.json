@@ -1,0 +1,19 @@
+{
+    "package": "jslirola/flarum-registration-policy",
+    "upstream": "https://github.com/jslirola/flarum-registration-policy",
+    "packagistUrl": "https://packagist.org/packages/jslirola/flarum-registration-policy",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5bd7d518004b4b01d14a48f9a6da720ea111b45c",
+            "archive_commit": "58d5b3d1d0f8a3e1bfb08acb207e7085863f7356",
+            "released": "2026-10-15T14:35:20+00:00",
+            "archived": "2026-10-15",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
