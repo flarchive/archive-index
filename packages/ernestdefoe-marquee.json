@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/marquee",
+    "upstream": "https://github.com/ernestdefoe/marquee",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/marquee",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0855adc1a20d05d8b9df3e120e98a86f6f8561de",
+            "archive_commit": "dc37155b457b742eda60140d9b4b3f44f41a632d",
+            "released": "2026-10-15T01:07:21+00:00",
+            "archived": "2026-10-15",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
