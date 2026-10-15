@@ -1,0 +1,19 @@
+{
+    "package": "ekumanov/flarum-ext-spam-alerts",
+    "upstream": "https://github.com/ekumanov/flarum-ext-spam-alerts",
+    "packagistUrl": "https://packagist.org/packages/ekumanov/flarum-ext-spam-alerts",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d9428b75e2e594c6c3ce3a86505ed4e78b53b4be",
+            "archive_commit": "32c0f09463701942985e57b23e67cafecf4ad4f0",
+            "released": "2026-10-15T15:43:14+00:00",
+            "archived": "2026-10-15",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
