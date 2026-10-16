@@ -1,0 +1,19 @@
+{
+    "package": "bushcraftcn/ccot",
+    "upstream": "https://github.com/YerenChina/ccot",
+    "packagistUrl": "https://packagist.org/packages/bushcraftcn/ccot",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "9833f2aab4966b22b76e2a04a2e520db51c59e35",
+            "archive_commit": "2fdeb4d74328b4270ade13f1cf60301bc392dfab",
+            "released": "2026-10-16T20:25:12+00:00",
+            "archived": "2026-10-16",
+            "license": "MIT",
+            "flarum": "2.0.0 || 2.0.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
