@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/club",
+    "upstream": "https://github.com/ernestdefoe/club",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/club",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "888e51c041ab605e6778a0f6330bb048215f1ff2",
+            "archive_commit": "9e9a051148c602cc409a73e371d24a791b15feee",
+            "released": "2026-10-16T18:29:25+00:00",
+            "archived": "2026-10-16",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

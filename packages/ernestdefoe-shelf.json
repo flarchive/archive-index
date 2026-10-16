@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/shelf",
+    "upstream": "https://github.com/ernestdefoe/shelf",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/shelf",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6999f4a92dd7727787034b59cf93f635e57bed0d",
+            "archive_commit": "6ff7fd2deecf801745a81555b87ba70098c56857",
+            "released": "2026-10-16T18:33:49+00:00",
+            "archived": "2026-10-16",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
