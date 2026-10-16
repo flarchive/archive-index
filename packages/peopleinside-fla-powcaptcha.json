@@ -506,6 +506,18 @@
             "flarum": "^1.8 || ^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.6.8",
+            "tag": "archive/v3.6.8",
+            "upstream_commit": "5f06c909e47e30723f1ff77edbb7502cc01b7451",
+            "archive_commit": "b8b45f1cc12ac1343ecf767231fd9bf182a2b7d8",
+            "released": "2026-10-16T12:29:17+00:00",
+            "archived": "2026-10-16",
+            "license": "Apache-2.0",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ]
 }
