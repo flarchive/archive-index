@@ -1,0 +1,19 @@
+{
+    "package": "chatsong/voice-note",
+    "upstream": "https://github.com/chatsong/voice-note",
+    "packagistUrl": "https://packagist.org/packages/chatsong/voice-note",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6ab73e0f7f0d9be4ed094a65b784ffa86879a305",
+            "archive_commit": "743d6b94169bedd0fd3912fdd9ab043e8083badc",
+            "released": "2026-10-16T08:07:30+00:00",
+            "archived": "2026-10-16",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
