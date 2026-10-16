@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/recipes",
+    "upstream": "https://github.com/ernestdefoe/recipes",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/recipes",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8abd51083ae6498bb994ae7e52f59c3378f54e21",
+            "archive_commit": "b14252d9f43b7aed2abe4fa619fecd8dc763827d",
+            "released": "2026-10-16T17:58:48+00:00",
+            "archived": "2026-10-16",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
