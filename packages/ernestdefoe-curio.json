@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/curio",
+    "upstream": "https://github.com/ernestdefoe/curio",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/curio",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "cb809d525d792ba65c743977fbd9a9fc03d7cd84",
+            "archive_commit": "bce44d529b60844ba80fabba092a7d81fbafad15",
+            "released": "2026-10-17T16:34:56+00:00",
+            "archived": "2026-10-17",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
