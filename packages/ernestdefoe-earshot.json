@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/earshot",
+    "upstream": "https://github.com/ernestdefoe/earshot",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/earshot",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "143694df97fc194881fc569f374867908efb4c41",
+            "archive_commit": "914d52b6b8156419e63717fb61d6d1f5a24d411d",
+            "released": "2026-10-18T21:26:29+00:00",
+            "archived": "2026-10-18",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

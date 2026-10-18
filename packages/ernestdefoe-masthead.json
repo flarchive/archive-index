@@ -1,0 +1,19 @@
+{
+    "package": "ernestdefoe/masthead",
+    "upstream": "https://github.com/ernestdefoe/masthead",
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/masthead",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "bba32acd9b48fa09745b564242ce14441fed38f7",
+            "archive_commit": "7fbf3d9f8fef77bf97060be9e5139ace311f6fc2",
+            "released": "2026-10-18T21:10:38+00:00",
+            "archived": "2026-10-18",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
