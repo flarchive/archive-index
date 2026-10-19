@@ -1,0 +1,21 @@
+{
+    "package": "hideinmatrix/flarum-telegram-upload",
+    "upstream": "https://github.com/HideInMatrix/flarum-telegram-upload",
+    "archive_repo": "hideinmatrix-flarum-telegram-upload",
+    "archive_repo_url": "https://github.com/flarchive/hideinmatrix-flarum-telegram-upload",
+    "packagistUrl": "https://packagist.org/packages/hideinmatrix/flarum-telegram-upload",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "c8a80220c1ce76bfc01f2e9029fad97e5ae90725",
+            "archive_commit": "7cbbb1cce4d9454d08db32d76fe20b02b72966fe",
+            "released": "2026-10-19T07:36:21+00:00",
+            "archived": "2026-10-19",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
