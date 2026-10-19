@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "imshuzai-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/imshuzai-bbcode",
+    "is_fork": true,
+    "fork_parent": "EdorasMinecraft/BBcode",
+    "abandoned": null
 }

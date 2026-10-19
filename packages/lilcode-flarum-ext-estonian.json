@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "rxnniiee-flarum-ext-estonian",
+    "archive_repo_url": "https://github.com/flarchive/rxnniiee-flarum-ext-estonian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-ext-estonian"
 }

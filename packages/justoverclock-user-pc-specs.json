@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-user-pc-specs",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-user-pc-specs",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

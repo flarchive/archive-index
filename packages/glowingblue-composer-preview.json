@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "glowingblue-flarum-ext-composer-preview",
+    "archive_repo_url": "https://github.com/flarchive/glowingblue-flarum-ext-composer-preview",
+    "is_fork": true,
+    "fork_parent": "simonxeko/flarum-ext-preview-discussion",
+    "abandoned": "1"
 }

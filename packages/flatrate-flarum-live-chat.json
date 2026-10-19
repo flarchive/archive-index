@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mrkcntrmn-flatrate-flarum-live-chat",
+    "archive_repo_url": "https://github.com/flarchive/mrkcntrmn-flatrate-flarum-live-chat",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

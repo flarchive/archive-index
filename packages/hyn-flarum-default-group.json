@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-default-group",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-default-group",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/default-group"
 }

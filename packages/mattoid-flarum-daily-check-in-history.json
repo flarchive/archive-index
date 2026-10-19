@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mattoids-flarum-daily-check-in-history",
+    "archive_repo_url": "https://github.com/flarchive/mattoids-flarum-daily-check-in-history",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

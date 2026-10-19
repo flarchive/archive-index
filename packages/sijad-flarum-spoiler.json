@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "sijad-flarum-ext-spoiler",
+    "archive_repo_url": "https://github.com/flarchive/sijad-flarum-ext-spoiler",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "https://github.com/sijad/flarum-ext-spoiler-alert"
 }

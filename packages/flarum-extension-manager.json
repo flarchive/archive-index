@@ -346,5 +346,10 @@
             "flarum": "^1.5.0",
             "browse_url": "https://github.com/flarum/extension-manager/tree/v1.0.0-beta.1"
         }
-    ]
+    ],
+    "archive_repo": "flarum-extension-manager",
+    "archive_repo_url": "https://github.com/flarchive/flarum-extension-manager",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

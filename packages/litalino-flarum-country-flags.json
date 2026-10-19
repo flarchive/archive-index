@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "litalino-flarum-country-flags",
+    "archive_repo_url": "https://github.com/flarchive/litalino-flarum-country-flags",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

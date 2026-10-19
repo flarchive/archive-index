@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "linkerlin-flarum-markdown",
+    "archive_repo_url": "https://github.com/flarchive/linkerlin-flarum-markdown",
+    "is_fork": true,
+    "fork_parent": "flarum/markdown",
+    "abandoned": null
 }

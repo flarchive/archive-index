@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "stezkoy-noui-tele-notify",
+    "archive_repo_url": "https://github.com/flarchive/stezkoy-noui-tele-notify",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "stezkoy/flarum-telegram-notify"
 }

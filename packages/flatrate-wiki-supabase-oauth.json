@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mrkcntrmn-flatrate-wiki-supabase-oauth",
+    "archive_repo_url": "https://github.com/flarchive/mrkcntrmn-flatrate-wiki-supabase-oauth",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

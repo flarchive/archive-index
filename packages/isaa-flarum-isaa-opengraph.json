@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "italianspaceastronauticsassociation-flarum-isaa-opengraph",
+    "archive_repo_url": "https://github.com/flarchive/italianspaceastronauticsassociation-flarum-isaa-opengraph",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

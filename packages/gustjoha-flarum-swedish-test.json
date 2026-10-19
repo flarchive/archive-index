@@ -183,5 +183,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "gustjoha-flarum-swedish-test",
+    "archive_repo_url": "https://github.com/flarchive/gustjoha-flarum-swedish-test",
+    "is_fork": true,
+    "fork_parent": "taddis/flarum-swedish",
+    "abandoned": null
 }

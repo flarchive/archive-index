@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "riclep-flarum-lettermint-mail",
+    "archive_repo_url": "https://github.com/flarchive/riclep-flarum-lettermint-mail",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

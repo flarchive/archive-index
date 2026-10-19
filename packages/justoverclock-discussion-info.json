@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-discussions-info",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-discussions-info",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

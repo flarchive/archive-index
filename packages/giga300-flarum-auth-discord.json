@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "giga300-flarum-auth-discord",
+    "archive_repo_url": "https://github.com/flarchive/giga300-flarum-auth-discord",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

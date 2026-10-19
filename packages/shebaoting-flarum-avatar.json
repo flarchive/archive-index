@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "shebaoting-flarum-avatar",
+    "archive_repo_url": "https://github.com/flarchive/shebaoting-flarum-avatar",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

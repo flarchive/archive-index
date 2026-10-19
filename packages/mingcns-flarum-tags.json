@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mingcns-flarum-tags",
+    "archive_repo_url": "https://github.com/flarchive/mingcns-flarum-tags",
+    "is_fork": true,
+    "fork_parent": "flarum/tags",
+    "abandoned": null
 }

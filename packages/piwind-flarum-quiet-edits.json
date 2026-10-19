@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/piwind/flarum-quiet-edits",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "piwind-flarum-quiet-edits",
+    "archive_repo_url": "https://github.com/flarchive/piwind-flarum-quiet-edits",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

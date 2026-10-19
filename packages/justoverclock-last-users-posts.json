@@ -255,5 +255,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-last-users-posts",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-last-users-posts",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -159,5 +159,10 @@
             "flarum": "^0.1.0-beta.5",
             "browse_url": "https://packagist.org/packages/hystar/flarum-ext-auth-keycloak"
         }
-    ]
+    ],
+    "archive_repo": "hystar-flarum-ext-auth-keycloak",
+    "archive_repo_url": "https://github.com/flarchive/hystar-flarum-ext-auth-keycloak",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

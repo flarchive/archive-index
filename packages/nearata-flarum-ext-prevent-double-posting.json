@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nearata-flarum-ext-prevent-double-posting",
+    "archive_repo_url": "https://github.com/flarchive/nearata-flarum-ext-prevent-double-posting",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

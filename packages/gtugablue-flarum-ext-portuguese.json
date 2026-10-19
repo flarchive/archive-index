@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "gtugablue-flarum-ext-portuguese",
+    "archive_repo_url": "https://github.com/flarchive/gtugablue-flarum-ext-portuguese",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": null
 }

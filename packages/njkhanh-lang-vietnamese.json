@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "njkhanh-lang-vietnamese",
+    "archive_repo_url": "https://github.com/flarchive/njkhanh-lang-vietnamese",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

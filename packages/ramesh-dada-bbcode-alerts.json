@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ramesh-dada-bbcode-alerts",
+    "archive_repo_url": "https://github.com/flarchive/ramesh-dada-bbcode-alerts",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

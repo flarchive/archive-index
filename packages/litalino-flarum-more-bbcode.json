@@ -327,5 +327,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "litalino-flarum-more-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/litalino-flarum-more-bbcode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "stezkoy-flarum-time-of-magic",
+    "archive_repo_url": "https://github.com/flarchive/stezkoy-flarum-time-of-magic",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

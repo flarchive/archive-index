@@ -183,5 +183,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kindyear-flarum-uitab",
+    "archive_repo_url": "https://github.com/flarchive/kindyear-flarum-uitab",
+    "is_fork": true,
+    "fork_parent": "littlegolden/flarum-uitab",
+    "abandoned": "1"
 }

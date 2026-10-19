@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "factory-04-flarum-l10n-forum",
+    "archive_repo_url": "https://github.com/flarchive/factory-04-flarum-l10n-forum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "marketplace/flarum-l10n-core-russian"
 }

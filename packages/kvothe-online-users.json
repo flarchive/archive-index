@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "oaklinq-flarum-ext-online-users",
+    "archive_repo_url": "https://github.com/flarchive/oaklinq-flarum-ext-online-users",
+    "is_fork": true,
+    "fork_parent": "AntoineFr/flarum-ext-online",
+    "abandoned": "afrux/online-users-widget"
 }

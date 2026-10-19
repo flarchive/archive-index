@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "the-turk-flarum-miserable-users",
+    "archive_repo_url": "https://github.com/flarchive/the-turk-flarum-miserable-users",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -855,5 +855,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "qchwnd-flarum-lang-traditional-chinese",
+    "archive_repo_url": "https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

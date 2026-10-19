@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "nvhug-flarum-ext-make-login-url",
+    "archive_repo_url": "https://github.com/flarchive/nvhug-flarum-ext-make-login-url",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

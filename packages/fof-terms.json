@@ -412,5 +412,10 @@
             "flarum": "^0.1.0-beta.7",
             "browse_url": "https://github.com/FriendsOfFlarum/terms/tree/0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-terms",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-terms",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

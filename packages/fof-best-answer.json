@@ -896,5 +896,10 @@
             "flarum": "^0.1.0-beta.9",
             "browse_url": "https://github.com/FriendsOfFlarum/best-answer/tree/0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-best-answer",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-best-answer",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

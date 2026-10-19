@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ssangyongsportsorg-flarum-ext-oauth-clerk",
+    "archive_repo_url": "https://github.com/flarchive/ssangyongsportsorg-flarum-ext-oauth-clerk",
+    "is_fork": true,
+    "fork_parent": "UMHelper/flarum-ext-oauth-clerk",
+    "abandoned": null
 }

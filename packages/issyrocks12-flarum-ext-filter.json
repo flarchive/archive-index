@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/issyrocks12/flarum-ext-filter",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "issyrocks12-flarum-ext-filter",
+    "archive_repo_url": "https://github.com/flarchive/issyrocks12-flarum-ext-filter",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/filter"
 }

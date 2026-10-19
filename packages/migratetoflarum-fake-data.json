@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "migratetoflarum-fake-data",
+    "archive_repo_url": "https://github.com/flarchive/migratetoflarum-fake-data",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

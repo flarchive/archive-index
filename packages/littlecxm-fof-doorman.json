@@ -183,5 +183,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "littlecxm-fof-doorman",
+    "archive_repo_url": "https://github.com/flarchive/littlecxm-fof-doorman",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/doorman",
+    "abandoned": null
 }

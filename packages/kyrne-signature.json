@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kyrnedev-signature",
+    "archive_repo_url": "https://github.com/flarchive/kyrnedev-signature",
+    "is_fork": true,
+    "fork_parent": "katosdev/signature-OLD",
+    "abandoned": null
 }

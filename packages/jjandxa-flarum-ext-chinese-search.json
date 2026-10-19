@@ -135,5 +135,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "jjandxa-flarum-ext-chinese-search",
+    "archive_repo_url": "https://github.com/flarchive/jjandxa-flarum-ext-chinese-search",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nospi-flarum-ext-oauth-microsoft",
+    "archive_repo_url": "https://github.com/flarchive/nospi-flarum-ext-oauth-microsoft",
+    "is_fork": true,
+    "fork_parent": "xrh0905/flarum-ext-oauth-microsoft",
+    "abandoned": null
 }

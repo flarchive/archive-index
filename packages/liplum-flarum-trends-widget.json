@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "liplum-flarum-trends-widget",
+    "archive_repo_url": "https://github.com/flarchive/liplum-flarum-trends-widget",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

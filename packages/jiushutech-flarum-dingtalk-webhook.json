@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "jiushutech-flarum-dingtalk-webhook",
+    "archive_repo_url": "https://github.com/flarchive/jiushutech-flarum-dingtalk-webhook",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

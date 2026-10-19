@@ -399,5 +399,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "morgandusty-flarum-category-russian",
+    "archive_repo_url": "https://github.com/flarchive/morgandusty-flarum-category-russian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

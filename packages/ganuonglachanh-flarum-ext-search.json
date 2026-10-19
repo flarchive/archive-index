@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ganuonglachanh-flarum-ganuonglachanh-search",
+    "archive_repo_url": "https://github.com/flarchive/ganuonglachanh-flarum-ganuonglachanh-search",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

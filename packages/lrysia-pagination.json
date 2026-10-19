@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "lrysia-flarum-pagination",
+    "archive_repo_url": "https://github.com/flarchive/lrysia-flarum-pagination",
+    "is_fork": true,
+    "fork_parent": "block-cat/pagination",
+    "abandoned": null
 }

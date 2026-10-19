@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "oaklinq-flarum-ext-reply2see",
+    "archive_repo_url": "https://github.com/flarchive/oaklinq-flarum-ext-reply2see",
+    "is_fork": true,
+    "fork_parent": "WiseClock/flarum-ext-reply2see",
+    "abandoned": "nosun/reply-to-see"
 }

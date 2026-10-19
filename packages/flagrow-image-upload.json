@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flagrow-flarum-ext-image-upload",
+    "archive_repo_url": "https://github.com/flarchive/flagrow-flarum-ext-image-upload",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flagrow/flarum-ext-image-upload"
 }

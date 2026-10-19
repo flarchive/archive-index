@@ -327,5 +327,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "reflar-doorman",
+    "archive_repo_url": "https://github.com/flarchive/reflar-doorman",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/doorman"
 }

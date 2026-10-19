@@ -147,5 +147,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "subasteve-flarum-ext-hljs",
+    "archive_repo_url": "https://github.com/flarchive/subasteve-flarum-ext-hljs",
+    "is_fork": true,
+    "fork_parent": "littlegolden/flarum-ext-hljs",
+    "abandoned": null
 }

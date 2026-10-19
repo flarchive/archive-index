@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-composer-autocomplete",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-composer-autocomplete",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

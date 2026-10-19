@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "pkgstore-flarum-l10n-core-russian",
+    "archive_repo_url": "https://github.com/flarchive/pkgstore-flarum-l10n-core-russian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/russian"
 }

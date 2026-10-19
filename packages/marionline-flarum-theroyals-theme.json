@@ -38,5 +38,10 @@
             "flarum": "^1.2.0",
             "browse_url": "https://github.com/marionline/flarum-theroyals-theme/tree/0.1"
         }
-    ]
+    ],
+    "archive_repo": "marionline-flarum-theroyals-theme",
+    "archive_repo_url": "https://github.com/flarchive/marionline-flarum-theroyals-theme",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

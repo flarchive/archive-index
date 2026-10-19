@@ -243,5 +243,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "imorland-synopsis",
+    "archive_repo_url": "https://github.com/flarchive/imorland-synopsis",
+    "is_fork": true,
+    "fork_parent": "jordanjay29/flarum-ext-summaries",
+    "abandoned": "fof/synopsis"
 }

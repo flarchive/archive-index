@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nomiscz-flarum-ext-auth-linkedin",
+    "archive_repo_url": "https://github.com/flarchive/nomiscz-flarum-ext-auth-linkedin",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/oauth"
 }

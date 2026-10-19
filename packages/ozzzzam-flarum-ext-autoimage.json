@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ozzzzam-flarum-ext-autoimage",
+    "archive_repo_url": "https://github.com/flarchive/ozzzzam-flarum-ext-autoimage",
+    "is_fork": true,
+    "fork_parent": "s9e/flarum-ext-autoimage",
+    "abandoned": null
 }

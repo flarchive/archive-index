@@ -195,5 +195,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mattoids-flarum-ext-money-history",
+    "archive_repo_url": "https://github.com/flarchive/mattoids-flarum-ext-money-history",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

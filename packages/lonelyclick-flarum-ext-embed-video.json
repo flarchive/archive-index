@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "lonelyclick-flarum-ext-embed-video",
+    "archive_repo_url": "https://github.com/flarchive/lonelyclick-flarum-ext-embed-video",
+    "is_fork": true,
+    "fork_parent": "Nearata/flarum-ext-embed-video",
+    "abandoned": null
 }

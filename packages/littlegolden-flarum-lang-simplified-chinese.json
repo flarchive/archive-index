@@ -999,5 +999,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "littlegolden-flarum-lang-simplified-chinese",
+    "archive_repo_url": "https://github.com/flarchive/littlegolden-flarum-lang-simplified-chinese",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "ffans/lang-simplified-chinese"
 }

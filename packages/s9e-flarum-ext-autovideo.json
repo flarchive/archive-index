@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "s9e-flarum-ext-autovideo",
+    "archive_repo_url": "https://github.com/flarchive/s9e-flarum-ext-autovideo",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/formatting"
 }

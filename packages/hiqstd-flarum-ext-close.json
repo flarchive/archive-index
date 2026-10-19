@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hiqstd-flarum-ext-close",
+    "archive_repo_url": "https://github.com/flarchive/hiqstd-flarum-ext-close",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

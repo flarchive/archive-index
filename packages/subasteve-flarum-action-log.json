@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "subasteve-flarum-action-log",
+    "archive_repo_url": "https://github.com/flarchive/subasteve-flarum-action-log",
+    "is_fork": true,
+    "fork_parent": "SychO9/flarum-action-log",
+    "abandoned": null
 }

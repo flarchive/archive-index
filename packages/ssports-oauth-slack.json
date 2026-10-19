@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ssangyongsport-flarum-ext-oauth-slack",
+    "archive_repo_url": "https://github.com/flarchive/ssangyongsport-flarum-ext-oauth-slack",
+    "is_fork": true,
+    "fork_parent": "blomstra/flarum-ext-oauth-slack",
+    "abandoned": null
 }

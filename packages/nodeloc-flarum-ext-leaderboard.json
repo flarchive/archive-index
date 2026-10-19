@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nodeloc-flarum-ext-leaderboard",
+    "archive_repo_url": "https://github.com/flarchive/nodeloc-flarum-ext-leaderboard",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/user-directory",
+    "abandoned": null
 }

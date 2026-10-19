@@ -387,5 +387,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarumes-lang-spanish",
+    "archive_repo_url": "https://github.com/flarchive/flarumes-lang-spanish",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/spanish"
 }

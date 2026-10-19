@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "jamesinc-send-dm",
+    "archive_repo_url": "https://github.com/flarchive/jamesinc-send-dm",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

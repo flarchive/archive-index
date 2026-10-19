@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "jhlee838-flarum-ext-korean",
+    "archive_repo_url": "https://github.com/flarchive/jhlee838-flarum-ext-korean",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

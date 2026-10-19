@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "the-turk-flarum-extended-appearance",
+    "archive_repo_url": "https://github.com/flarchive/the-turk-flarum-extended-appearance",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

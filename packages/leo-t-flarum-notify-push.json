@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "leo-ttt-notify-push",
+    "archive_repo_url": "https://github.com/flarchive/leo-ttt-notify-push",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

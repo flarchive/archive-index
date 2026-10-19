@@ -435,5 +435,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "swaggymacro-websocket",
+    "archive_repo_url": "https://github.com/flarchive/swaggymacro-websocket",
+    "is_fork": true,
+    "fork_parent": "KyrneDev/websocket",
+    "abandoned": null
 }

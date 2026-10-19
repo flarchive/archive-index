@@ -279,5 +279,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hamzone-flarum-auth-qq",
+    "archive_repo_url": "https://github.com/flarchive/hamzone-flarum-auth-qq",
+    "is_fork": true,
+    "fork_parent": "Hehongyuanlove/flarum-auth-qq",
+    "abandoned": "1"
 }

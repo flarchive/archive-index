@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kiddovin-flarum-traditional-rank-icons",
+    "archive_repo_url": "https://github.com/flarchive/kiddovin-flarum-traditional-rank-icons",
+    "is_fork": true,
+    "fork_parent": "datlechin/flarum-traditional-rank-icons",
+    "abandoned": null
 }

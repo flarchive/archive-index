@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mrcorncob-flarum-vietnamese-language-pack",
+    "archive_repo_url": "https://github.com/flarchive/mrcorncob-flarum-vietnamese-language-pack",
+    "is_fork": true,
+    "fork_parent": "flarum-lang/vietnamese",
+    "abandoned": null
 }

@@ -291,5 +291,10 @@
             "flarum": "^0.1.0-beta-8",
             "browse_url": "https://github.com/FriendsOfFlarum/doorman/tree/0.1.0-beta.1"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-doorman",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-doorman",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

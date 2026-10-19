@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "0e800-flarum-ext-bbcode-fontizymo",
+    "archive_repo_url": "https://github.com/flarchive/0e800-flarum-ext-bbcode-fontizymo",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "karuboniru-mathplus",
+    "archive_repo_url": "https://github.com/flarchive/karuboniru-mathplus",
+    "is_fork": true,
+    "fork_parent": "SeRazon/Mathplus",
+    "abandoned": null
 }

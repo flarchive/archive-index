@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "imorland-flarum-ext-boring-avatars",
+    "archive_repo_url": "https://github.com/flarchive/imorland-flarum-ext-boring-avatars",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

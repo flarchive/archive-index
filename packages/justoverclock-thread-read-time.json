@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-thread-read-time",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-thread-read-time",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

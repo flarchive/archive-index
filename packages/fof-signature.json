@@ -27,5 +27,10 @@
             "flarum": "^1.8.0",
             "browse_url": "https://github.com/FriendsOfFlarum/signature/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-signature",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-signature",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

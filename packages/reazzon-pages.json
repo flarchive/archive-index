@@ -231,5 +231,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flusherdock1-pages",
+    "archive_repo_url": "https://github.com/flarchive/flusherdock1-pages",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/pages",
+    "abandoned": null
 }

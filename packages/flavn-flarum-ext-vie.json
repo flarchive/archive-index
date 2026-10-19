@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flavn-flarum-ext-vie",
+    "archive_repo_url": "https://github.com/flarchive/flavn-flarum-ext-vie",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

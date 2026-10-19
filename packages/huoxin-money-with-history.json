@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "huoxin233-flarum-ext-money-with-history",
+    "archive_repo_url": "https://github.com/flarchive/huoxin233-flarum-ext-money-with-history",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

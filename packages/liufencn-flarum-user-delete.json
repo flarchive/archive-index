@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "liufencn-flarum-ext-user-delete",
+    "archive_repo_url": "https://github.com/flarchive/liufencn-flarum-ext-user-delete",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

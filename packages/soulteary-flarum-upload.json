@@ -519,5 +519,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "soulteary-upload",
+    "archive_repo_url": "https://github.com/flarchive/soulteary-upload",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/upload",
+    "abandoned": null
 }

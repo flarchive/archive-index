@@ -135,5 +135,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "lazyeo-flarum-ext-hljs",
+    "archive_repo_url": "https://github.com/flarchive/lazyeo-flarum-ext-hljs",
+    "is_fork": true,
+    "fork_parent": "therealsujitk/flarum-ext-hljs",
+    "abandoned": null
 }

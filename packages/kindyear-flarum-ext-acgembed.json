@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kindyear-flarum-ext-acgembed",
+    "archive_repo_url": "https://github.com/flarchive/kindyear-flarum-ext-acgembed",
+    "is_fork": true,
+    "fork_parent": "LCinHK/flarum-ext-acgembed",
+    "abandoned": "1"
 }

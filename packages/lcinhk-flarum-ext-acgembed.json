@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "lcinhk-flarum-ext-acgembed",
+    "archive_repo_url": "https://github.com/flarchive/lcinhk-flarum-ext-acgembed",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

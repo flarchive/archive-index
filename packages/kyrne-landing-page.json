@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kyrnedev-landing-page",
+    "archive_repo_url": "https://github.com/flarchive/kyrnedev-landing-page",
+    "is_fork": true,
+    "fork_parent": "johnhearfield/flarum-ext-landing-page",
+    "abandoned": null
 }

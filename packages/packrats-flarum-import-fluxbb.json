@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "musiksammler-flarum-import-fluxbb",
+    "archive_repo_url": "https://github.com/flarchive/musiksammler-flarum-import-fluxbb",
+    "is_fork": true,
+    "fork_parent": "archlinux-de/flarum-import-fluxbb",
+    "abandoned": null
 }

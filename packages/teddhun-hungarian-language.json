@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "teddhun-hungarian-language",
+    "archive_repo_url": "https://github.com/flarchive/teddhun-hungarian-language",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

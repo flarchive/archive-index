@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "lkacom-persian",
+    "archive_repo_url": "https://github.com/flarchive/lkacom-persian",
+    "is_fork": true,
+    "fork_parent": "flarum-lang/persian",
+    "abandoned": null
 }

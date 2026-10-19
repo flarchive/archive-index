@@ -759,5 +759,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "resofirev2-picks",
+    "archive_repo_url": "https://github.com/flarchive/resofirev2-picks",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

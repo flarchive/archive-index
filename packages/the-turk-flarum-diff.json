@@ -243,5 +243,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "the-turk-flarum-diff",
+    "archive_repo_url": "https://github.com/flarchive/the-turk-flarum-diff",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

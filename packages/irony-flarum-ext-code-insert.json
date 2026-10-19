@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "892768447-flarum-ext-code-insert",
+    "archive_repo_url": "https://github.com/flarchive/892768447-flarum-ext-code-insert",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

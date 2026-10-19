@@ -459,5 +459,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flagrow-terms",
+    "archive_repo_url": "https://github.com/flarchive/flagrow-terms",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/terms"
 }

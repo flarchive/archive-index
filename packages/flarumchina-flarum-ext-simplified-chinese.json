@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarumchina-flarum-ext-simplified-chinese",
+    "archive_repo_url": "https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese",
+    "is_fork": true,
+    "fork_parent": "justjavac/flarum-ext-simplified-chinese",
+    "abandoned": "flarumchina/flarum-ext-simplified-chinese-pro"
 }

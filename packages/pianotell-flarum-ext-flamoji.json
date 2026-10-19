@@ -243,5 +243,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "primatecoder-flarum-flamoji",
+    "archive_repo_url": "https://github.com/flarchive/primatecoder-flarum-flamoji",
+    "is_fork": true,
+    "fork_parent": "iamdarkle/flarum-flamoji",
+    "abandoned": null
 }

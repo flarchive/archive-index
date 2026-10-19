@@ -203,5 +203,10 @@
             "flarum": "^1.8",
             "browse_url": "https://github.com/FriendsOfFlarum/horizon/tree/v1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-horizon",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-horizon",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

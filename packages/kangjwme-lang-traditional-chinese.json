@@ -855,5 +855,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kangjwme-lang-traditional-chinese",
+    "archive_repo_url": "https://github.com/flarchive/kangjwme-lang-traditional-chinese",
+    "is_fork": true,
+    "fork_parent": "Csineneo/lang-traditional-chinese",
+    "abandoned": null
 }

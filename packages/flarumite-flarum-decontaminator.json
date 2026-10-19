@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "flarumite-flarum-decontaminator",
+    "archive_repo_url": "https://github.com/flarchive/flarumite-flarum-decontaminator",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

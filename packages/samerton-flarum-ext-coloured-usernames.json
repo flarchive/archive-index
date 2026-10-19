@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "samerton-flarum-ext-coloured-usernames",
+    "archive_repo_url": "https://github.com/flarchive/samerton-flarum-ext-coloured-usernames",
+    "is_fork": true,
+    "fork_parent": "MickMelon/flarum-ext-coloured-usernames",
+    "abandoned": null
 }

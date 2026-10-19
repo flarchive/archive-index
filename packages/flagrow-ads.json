@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-ads",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-ads",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "noriods-automore",
+    "archive_repo_url": "https://github.com/flarchive/noriods-automore",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "katosdev/automore"
 }

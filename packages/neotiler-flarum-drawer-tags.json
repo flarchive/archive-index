@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "karacocukk-neo-mobile-tag-drawer-flarum",
+    "archive_repo_url": "https://github.com/flarchive/karacocukk-neo-mobile-tag-drawer-flarum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

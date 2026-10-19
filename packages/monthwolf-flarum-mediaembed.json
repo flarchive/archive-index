@@ -38,5 +38,10 @@
             "flarum": "^1.7.0",
             "browse_url": "https://packagist.org/packages/monthwolf/flarum-mediaembed"
         }
-    ]
+    ],
+    "archive_repo": "monthwolf-flarum-mediaembed",
+    "archive_repo_url": "https://github.com/flarchive/monthwolf-flarum-mediaembed",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

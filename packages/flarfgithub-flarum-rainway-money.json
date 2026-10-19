@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/flarfgithub/flarum-rainway-money",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "flarfgithub-flarum-rainway-money",
+    "archive_repo_url": "https://github.com/flarchive/flarfgithub-flarum-rainway-money",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

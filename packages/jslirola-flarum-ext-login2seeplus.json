@@ -207,5 +207,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "jslirola-flarum-ext-login2seeplus",
+    "archive_repo_url": "https://github.com/flarchive/jslirola-flarum-ext-login2seeplus",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

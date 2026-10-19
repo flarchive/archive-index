@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "malago86-flarum-linkpreview",
+    "archive_repo_url": "https://github.com/flarchive/malago86-flarum-linkpreview",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "justoverclock/website-live-screenshot"
 }

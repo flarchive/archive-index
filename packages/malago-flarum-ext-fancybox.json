@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "malago86-flarum-ext-fancybox",
+    "archive_repo_url": "https://github.com/flarchive/malago86-flarum-ext-fancybox",
+    "is_fork": true,
+    "fork_parent": "squeevee/flarum-ext-fancybox",
+    "abandoned": null
 }

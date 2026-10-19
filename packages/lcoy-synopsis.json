@@ -38,5 +38,10 @@
             "flarum": "^2.0.0-beta",
             "browse_url": "https://packagist.org/packages/lcoy/synopsis"
         }
-    ]
+    ],
+    "archive_repo": "lcoy-synopsis",
+    "archive_repo_url": "https://github.com/flarchive/lcoy-synopsis",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

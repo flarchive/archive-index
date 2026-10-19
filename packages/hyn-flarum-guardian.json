@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hyn-flarum-guardian",
+    "archive_repo_url": "https://github.com/flarchive/hyn-flarum-guardian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flagrow/flarum-ext-guardian"
 }

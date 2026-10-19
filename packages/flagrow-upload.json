@@ -519,5 +519,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flagrow-upload",
+    "archive_repo_url": "https://github.com/flarchive/flagrow-upload",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/upload"
 }

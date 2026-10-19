@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "kk14569-flarum-iframe-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/kk14569-flarum-iframe-bbcode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "jammerxd-tags",
+    "archive_repo_url": "https://github.com/flarchive/jammerxd-tags",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

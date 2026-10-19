@@ -1107,5 +1107,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarum-lang-french",
+    "archive_repo_url": "https://github.com/flarchive/flarum-lang-french",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "qiaeru/lang-french"
 }

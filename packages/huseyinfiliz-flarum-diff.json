@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "huseyinfiliz-flarum-diff",
+    "archive_repo_url": "https://github.com/flarchive/huseyinfiliz-flarum-diff",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

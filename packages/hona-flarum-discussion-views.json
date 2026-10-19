@@ -243,5 +243,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hona-flarum-discussion-views",
+    "archive_repo_url": "https://github.com/flarchive/hona-flarum-discussion-views",
+    "is_fork": true,
+    "fork_parent": "MichaelBelgium/flarum-discussion-views",
+    "abandoned": null
 }

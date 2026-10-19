@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "pnobbe-flarum-ext-oauth-discord",
+    "archive_repo_url": "https://github.com/flarchive/pnobbe-flarum-ext-oauth-discord",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nodeloc-whisper",
+    "archive_repo_url": "https://github.com/flarchive/nodeloc-whisper",
+    "is_fork": true,
+    "fork_parent": "KyrneDev/whisper",
+    "abandoned": null
 }

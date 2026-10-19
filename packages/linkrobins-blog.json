@@ -159,5 +159,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "linkrobins-blog",
+    "archive_repo_url": "https://github.com/flarchive/linkrobins-blog",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/blog"
 }

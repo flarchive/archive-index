@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "m4v3rick4git-flarum-lineup",
+    "archive_repo_url": "https://github.com/flarchive/m4v3rick4git-flarum-lineup",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

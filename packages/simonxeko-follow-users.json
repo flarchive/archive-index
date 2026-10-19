@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "simonxeko-follow-users",
+    "archive_repo_url": "https://github.com/flarchive/simonxeko-follow-users",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/follow-tags",
+    "abandoned": null
 }

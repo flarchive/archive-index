@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ganuonglachanh-flarum-sonic",
+    "archive_repo_url": "https://github.com/flarchive/ganuonglachanh-flarum-sonic",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

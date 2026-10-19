@@ -148,5 +148,10 @@
             "flarum": "^2.0.0-beta.5",
             "browse_url": "https://github.com/flarum/realtime/tree/2.0.0-beta.5"
         }
-    ]
+    ],
+    "archive_repo": "flarum-realtime",
+    "archive_repo_url": "https://github.com/flarchive/flarum-realtime",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "oaklinq-flarum-ext-keyboard-shortcuts",
+    "archive_repo_url": "https://github.com/flarchive/oaklinq-flarum-ext-keyboard-shortcuts",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "datlechin/flarum-keyboard-shortcuts"
 }

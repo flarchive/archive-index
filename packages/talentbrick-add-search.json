@@ -60,5 +60,10 @@
             "flarum": "^1.0",
             "browse_url": "https://github.com/talentbrick/add-search/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "talentbrick-add-search",
+    "archive_repo_url": "https://github.com/flarchive/talentbrick-add-search",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "miniflar-admin-notepad-widget",
+    "archive_repo_url": "https://github.com/flarchive/miniflar-admin-notepad-widget",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

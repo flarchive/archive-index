@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "qx-css-rain",
+    "archive_repo_url": "https://github.com/flarchive/qx-css-rain",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

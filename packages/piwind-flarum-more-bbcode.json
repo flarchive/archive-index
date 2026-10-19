@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "piwind-flarum-more-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/piwind-flarum-more-bbcode",
+    "is_fork": true,
+    "fork_parent": "zxy19/flarum-more-bbcode",
+    "abandoned": null
 }

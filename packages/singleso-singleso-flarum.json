@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "singleso-singleso-flarum",
+    "archive_repo_url": "https://github.com/flarchive/singleso-singleso-flarum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

@@ -17,5 +17,8 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

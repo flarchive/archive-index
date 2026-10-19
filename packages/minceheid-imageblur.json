@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "minceheid-flarum-imageblur",
+    "archive_repo_url": "https://github.com/flarchive/minceheid-flarum-imageblur",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

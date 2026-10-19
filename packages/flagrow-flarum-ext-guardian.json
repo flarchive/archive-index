@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flagrow-flarum-ext-guardian",
+    "archive_repo_url": "https://github.com/flarchive/flagrow-flarum-ext-guardian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

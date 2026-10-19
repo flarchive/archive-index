@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/qking12/flarum-ro",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "qking12-flarum-ro",
+    "archive_repo_url": "https://github.com/flarchive/qking12-flarum-ro",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarum-com-truncating-approval",
+    "archive_repo_url": "https://github.com/flarchive/flarum-com-truncating-approval",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

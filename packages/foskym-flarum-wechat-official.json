@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "foskym-flarum-wechat-official",
+    "archive_repo_url": "https://github.com/flarchive/foskym-flarum-wechat-official",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

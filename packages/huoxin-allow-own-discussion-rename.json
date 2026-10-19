@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "huoxin233-flarum-ext-allow-own-discussion-rename",
+    "archive_repo_url": "https://github.com/flarchive/huoxin233-flarum-ext-allow-own-discussion-rename",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

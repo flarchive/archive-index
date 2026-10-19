@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/harunmenteseli/flarum-custom-signup",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "harunmenteseli-flarum-custom-signup",
+    "archive_repo_url": "https://github.com/flarchive/harunmenteseli-flarum-custom-signup",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

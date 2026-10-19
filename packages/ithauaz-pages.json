@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ithauaz-pages",
+    "archive_repo_url": "https://github.com/flarchive/ithauaz-pages",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

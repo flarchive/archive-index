@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "instkffff-user-bio-eveonline",
+    "archive_repo_url": "https://github.com/flarchive/instkffff-user-bio-eveonline",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/user-bio",
+    "abandoned": null
 }

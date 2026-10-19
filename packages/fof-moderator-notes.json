@@ -379,5 +379,10 @@
             "flarum": "^0.1.0-beta.8",
             "browse_url": "https://github.com/FriendsOfFlarum/moderator-notes/tree/0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-moderator-notes",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-moderator-notes",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "sakurayun-flarum-ext-skypemoji",
+    "archive_repo_url": "https://github.com/flarchive/sakurayun-flarum-ext-skypemoji",
+    "is_fork": true,
+    "fork_parent": "justoverclockl/flarum-ext-skypemoji",
+    "abandoned": null
 }

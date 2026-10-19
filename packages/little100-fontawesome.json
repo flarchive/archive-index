@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "little100-flarum-ext-fontawesome",
+    "archive_repo_url": "https://github.com/flarchive/little100-flarum-ext-fontawesome",
+    "is_fork": true,
+    "fork_parent": "blomstra/flarum-ext-fontawesome",
+    "abandoned": null
 }

@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/omersolmaz/flarum-ext-bot",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "omersolmaz-flarum-ext-bot",
+    "archive_repo_url": "https://github.com/flarchive/omersolmaz-flarum-ext-bot",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

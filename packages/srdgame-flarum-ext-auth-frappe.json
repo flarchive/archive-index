@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "srdgame-flarum-ext-auth-frappe",
+    "archive_repo_url": "https://github.com/flarchive/srdgame-flarum-ext-auth-frappe",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

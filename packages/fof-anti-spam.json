@@ -203,5 +203,10 @@
             "flarum": "^1.8.0",
             "browse_url": "https://github.com/FriendsOfFlarum/anti-spam/tree/0.1.0-beta.1"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-anti-spam",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-anti-spam",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

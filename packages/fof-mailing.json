@@ -38,5 +38,10 @@
             "flarum": "^1.8",
             "browse_url": "https://github.com/FriendsOfFlarum/mailing/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-mailing",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-mailing",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -16,5 +16,10 @@
             "flarum": "^1.0.0",
             "browse_url": "https://github.com/athos2113/Second-Flarum-Ext/tree/v0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "athos2113-second-flarum-ext",
+    "archive_repo_url": "https://github.com/flarchive/athos2113-second-flarum-ext",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

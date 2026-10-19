@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kiddovin-follow-users",
+    "archive_repo_url": "https://github.com/flarchive/kiddovin-follow-users",
+    "is_fork": true,
+    "fork_parent": "imorland/follow-users",
+    "abandoned": null
 }

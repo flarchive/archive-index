@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "isamuraii-op-dark-mode-tuning",
+    "archive_repo_url": "https://github.com/flarchive/isamuraii-op-dark-mode-tuning",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

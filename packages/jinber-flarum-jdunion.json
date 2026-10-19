@@ -38,5 +38,10 @@
             "flarum": "^1.2.0",
             "browse_url": "https://github.com/langziyang/flarum-jdunion/tree/v1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "langziyang-flarum-jdunion",
+    "archive_repo_url": "https://github.com/flarchive/langziyang-flarum-jdunion",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

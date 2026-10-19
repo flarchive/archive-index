@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "little100-meme-tangyuan",
+    "archive_repo_url": "https://github.com/flarchive/little100-meme-tangyuan",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

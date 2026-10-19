@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nosun-flarum-wechat-share",
+    "archive_repo_url": "https://github.com/flarchive/nosun-flarum-wechat-share",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

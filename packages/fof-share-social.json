@@ -115,5 +115,10 @@
             "flarum": "^1.0.0",
             "browse_url": "https://github.com/FriendsOfFlarum/share-social/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-share-social",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-share-social",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

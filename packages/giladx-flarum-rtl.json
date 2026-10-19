@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "giladx-flarum-rtl",
+    "archive_repo_url": "https://github.com/flarchive/giladx-flarum-rtl",
+    "is_fork": true,
+    "fork_parent": "MmKargar/flarum-rtl",
+    "abandoned": null
 }

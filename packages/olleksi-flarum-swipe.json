@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "olleksi-flarum-swipe",
+    "archive_repo_url": "https://github.com/flarchive/olleksi-flarum-swipe",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

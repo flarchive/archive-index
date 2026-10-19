@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flamarkt-matomo",
+    "archive_repo_url": "https://github.com/flarchive/flamarkt-matomo",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

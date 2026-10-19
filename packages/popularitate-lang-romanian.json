@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "popularitate-lang-romanian",
+    "archive_repo_url": "https://github.com/flarchive/popularitate-lang-romanian",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": null
 }

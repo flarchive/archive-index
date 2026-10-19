@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "madeyedeer-flarum-pallet-theme",
+    "archive_repo_url": "https://github.com/flarchive/madeyedeer-flarum-pallet-theme",
+    "is_fork": true,
+    "fork_parent": "katosdev/flarum-pallet-theme",
+    "abandoned": null
 }

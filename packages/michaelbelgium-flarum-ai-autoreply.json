@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "michaelbelgium-flarum-ai-autoreply",
+    "archive_repo_url": "https://github.com/flarchive/michaelbelgium-flarum-ai-autoreply",
+    "is_fork": true,
+    "fork_parent": "datlechin/flarum-chatgpt",
+    "abandoned": null
 }

@@ -82,5 +82,10 @@
             "flarum": "^0.1.0-beta.3",
             "browse_url": "https://github.com/flarum/auth-facebook/tree/v0.1.0-beta.3"
         }
-    ]
+    ],
+    "archive_repo": "flarum-auth-facebook",
+    "archive_repo_url": "https://github.com/flarchive/flarum-auth-facebook",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/oauth"
 }

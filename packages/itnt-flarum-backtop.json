@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "littlegolden-flarum-backtop",
+    "archive_repo_url": "https://github.com/flarchive/littlegolden-flarum-backtop",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

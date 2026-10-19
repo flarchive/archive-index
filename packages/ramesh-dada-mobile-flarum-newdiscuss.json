@@ -137,5 +137,10 @@
             "flarum": "^1.0",
             "browse_url": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/tree/7.1.11"
         }
-    ]
+    ],
+    "archive_repo": "ramesh-dada-mobile-flarum-newdiscuss",
+    "archive_repo_url": "https://github.com/flarchive/ramesh-dada-mobile-flarum-newdiscuss",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

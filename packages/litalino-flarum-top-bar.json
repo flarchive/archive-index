@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "litalino-flarum-top-bar",
+    "archive_repo_url": "https://github.com/flarchive/litalino-flarum-top-bar",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

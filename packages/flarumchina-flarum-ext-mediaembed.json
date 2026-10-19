@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarumchina-flarum-ext-mediaembed",
+    "archive_repo_url": "https://github.com/flarchive/flarumchina-flarum-ext-mediaembed",
+    "is_fork": true,
+    "fork_parent": "s9e/flarum-ext-mediaembed",
+    "abandoned": "flarumchina/flarum-ext-mediaembed-pro"
 }

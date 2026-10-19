@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "niclalalla-flarum-ext-group-invitation",
+    "archive_repo_url": "https://github.com/flarchive/niclalalla-flarum-ext-group-invitation",
+    "is_fork": true,
+    "fork_parent": "clarkwinkelmann/flarum-ext-group-invitation",
+    "abandoned": null
 }

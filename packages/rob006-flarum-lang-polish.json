@@ -2607,5 +2607,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarum-lang-polish",
+    "archive_repo_url": "https://github.com/flarchive/flarum-lang-polish",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/polish"
 }

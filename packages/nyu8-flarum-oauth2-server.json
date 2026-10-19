@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nyu8-flarum-oauth2-server",
+    "archive_repo_url": "https://github.com/flarchive/nyu8-flarum-oauth2-server",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

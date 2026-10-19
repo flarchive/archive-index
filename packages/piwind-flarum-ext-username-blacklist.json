@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "piwind-flarum-ext-username-blacklist",
+    "archive_repo_url": "https://github.com/flarchive/piwind-flarum-ext-username-blacklist",
+    "is_fork": true,
+    "fork_parent": "clarkwinkelmann/flarum-ext-username-blacklist",
+    "abandoned": null
 }

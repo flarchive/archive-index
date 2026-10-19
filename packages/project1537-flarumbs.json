@@ -963,5 +963,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "project1537-flarumbs",
+    "archive_repo_url": "https://github.com/flarchive/project1537-flarumbs",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

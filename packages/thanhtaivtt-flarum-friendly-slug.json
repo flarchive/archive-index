@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "thanhtaivtt-flarum-friendly-slug",
+    "archive_repo_url": "https://github.com/flarchive/thanhtaivtt-flarum-friendly-slug",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

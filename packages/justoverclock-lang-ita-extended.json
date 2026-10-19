@@ -279,5 +279,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-flarum-italian-ext",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-flarum-italian-ext",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/italian"
 }

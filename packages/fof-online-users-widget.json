@@ -71,5 +71,10 @@
             "flarum": "^1.8.0",
             "browse_url": "https://github.com/FriendsOfFlarum/online-users-widget/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-online-users-widget",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-online-users-widget",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

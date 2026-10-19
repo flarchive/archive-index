@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "richar983-lang-traditional-chinese",
+    "archive_repo_url": "https://github.com/flarchive/richar983-lang-traditional-chinese",
+    "is_fork": true,
+    "fork_parent": "pattinsonfuture/lang-traditional-chinese",
+    "abandoned": null
 }

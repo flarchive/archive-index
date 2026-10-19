@@ -49,5 +49,10 @@
             "flarum": "^1.8.0",
             "browse_url": "https://packagist.org/packages/floxum/shrinkearn"
         }
-    ]
+    ],
+    "archive_repo": "floxum-shrinkearn",
+    "archive_repo_url": "https://github.com/flarchive/floxum-shrinkearn",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

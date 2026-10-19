@@ -38,5 +38,10 @@
             "flarum": "^1.2.0",
             "browse_url": "https://github.com/Mattoids/flarum-ext-store-auto-check-in/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "mattoids-flarum-ext-store-auto-check-in",
+    "archive_repo_url": "https://github.com/flarchive/mattoids-flarum-ext-store-auto-check-in",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

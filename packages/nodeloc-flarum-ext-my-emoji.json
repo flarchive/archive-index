@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "nodeloc-flarum-ext-my-emoji",
+    "archive_repo_url": "https://github.com/flarchive/nodeloc-flarum-ext-my-emoji",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

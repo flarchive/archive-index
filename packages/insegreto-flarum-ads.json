@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "insegreto-flarum-ads",
+    "archive_repo_url": "https://github.com/flarchive/insegreto-flarum-ads",
+    "is_fork": true,
+    "fork_parent": "malago86/flarum-ads",
+    "abandoned": null
 }

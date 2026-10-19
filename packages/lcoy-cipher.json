@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "lcoy2004-flarum-cipher",
+    "archive_repo_url": "https://github.com/flarchive/lcoy2004-flarum-cipher",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

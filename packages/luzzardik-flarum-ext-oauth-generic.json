@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "luzzardik-flarum-ext-oauth-generic",
+    "archive_repo_url": "https://github.com/flarchive/luzzardik-flarum-ext-oauth-generic",
+    "is_fork": true,
+    "fork_parent": "blt950/flarum-ext-oauth-generic",
+    "abandoned": null
 }

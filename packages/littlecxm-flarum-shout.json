@@ -615,5 +615,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "littlecxm-flarum-shout",
+    "archive_repo_url": "https://github.com/flarchive/littlecxm-flarum-shout",
+    "is_fork": true,
+    "fork_parent": "KyrneDev/Shout-public",
+    "abandoned": null
 }

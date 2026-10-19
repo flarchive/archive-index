@@ -303,5 +303,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hamcq-flarum-auth-qq",
+    "archive_repo_url": "https://github.com/flarchive/hamcq-flarum-auth-qq",
+    "is_fork": true,
+    "fork_parent": "HamZone/flarum-auth-qq",
+    "abandoned": null
 }

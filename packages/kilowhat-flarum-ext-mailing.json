@@ -159,5 +159,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kilowhat-flarum-ext-mailing",
+    "archive_repo_url": "https://github.com/flarchive/kilowhat-flarum-ext-mailing",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "clarkwinkelmann/flarum-ext-mailing"
 }

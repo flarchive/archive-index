@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "foskym-flarum-oauth-center",
+    "archive_repo_url": "https://github.com/flarchive/foskym-flarum-oauth-center",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

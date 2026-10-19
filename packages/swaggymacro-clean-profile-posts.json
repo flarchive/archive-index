@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "swaggymacro-clean-profile-posts",
+    "archive_repo_url": "https://github.com/flarchive/swaggymacro-clean-profile-posts",
+    "is_fork": true,
+    "fork_parent": "ReFlar/clean-profile-posts",
+    "abandoned": "1"
 }

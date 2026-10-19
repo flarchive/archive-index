@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/masterking32/flarum-lang-persian",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "masterking32-flarum-lang-persian",
+    "archive_repo_url": "https://github.com/flarchive/masterking32-flarum-lang-persian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

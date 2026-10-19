@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hamzone-flarum-ext-emojionearea",
+    "archive_repo_url": "https://github.com/flarchive/hamzone-flarum-ext-emojionearea",
+    "is_fork": true,
+    "fork_parent": "clarkwinkelmann/flarum-ext-emojionearea",
+    "abandoned": "1"
 }

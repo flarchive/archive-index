@@ -269,5 +269,10 @@
             "flarum": "^0.1.0-beta.6",
             "browse_url": "https://github.com/FriendsOfFlarum/subscribed/tree/0.1.0-beta.1"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-subscribed",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-subscribed",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

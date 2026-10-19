@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ralkage-flarum-ext-profile-messages",
+    "archive_repo_url": "https://github.com/flarchive/ralkage-flarum-ext-profile-messages",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

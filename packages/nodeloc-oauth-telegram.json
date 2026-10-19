@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nodeloc-flarum-ext-oauth-telegram",
+    "archive_repo_url": "https://github.com/flarchive/nodeloc-flarum-ext-oauth-telegram",
+    "is_fork": true,
+    "fork_parent": "imorland/flarum-ext-oauth-amazon",
+    "abandoned": null
 }

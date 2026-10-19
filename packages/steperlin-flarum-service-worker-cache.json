@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "linkerlin-flarum-service-worker-cache",
+    "archive_repo_url": "https://github.com/flarchive/linkerlin-flarum-service-worker-cache",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

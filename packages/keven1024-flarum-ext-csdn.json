@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "keven1024-flarum-ext-csdn",
+    "archive_repo_url": "https://github.com/flarchive/keven1024-flarum-ext-csdn",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

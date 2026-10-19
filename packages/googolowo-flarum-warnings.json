@@ -327,5 +327,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "googolowo-flarum-warnings",
+    "archive_repo_url": "https://github.com/flarchive/googolowo-flarum-warnings",
+    "is_fork": true,
+    "fork_parent": "askvortsov1/flarum-moderator-warnings",
+    "abandoned": null
 }

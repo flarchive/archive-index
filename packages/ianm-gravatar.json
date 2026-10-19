@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "imorland-gravatar",
+    "archive_repo_url": "https://github.com/flarchive/imorland-gravatar",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

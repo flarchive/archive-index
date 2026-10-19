@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "khoipro-flarum-ext-vietnamese",
+    "archive_repo_url": "https://github.com/flarchive/khoipro-flarum-ext-vietnamese",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": null
 }

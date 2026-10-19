@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-analytics",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-analytics",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flagrow/analytics"
 }

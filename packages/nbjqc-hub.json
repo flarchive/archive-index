@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/nbjqc/hub",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "nbjqc-hub",
+    "archive_repo_url": "https://github.com/flarchive/nbjqc-hub",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

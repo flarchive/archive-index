@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-broken-links-checker",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-broken-links-checker",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

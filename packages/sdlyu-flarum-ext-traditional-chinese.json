@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "sdlyu-flarum-ext-traditional-chinese",
+    "archive_repo_url": "https://github.com/flarchive/sdlyu-flarum-ext-traditional-chinese",
+    "is_fork": true,
+    "fork_parent": "Csineneo/flarum-ext-traditional-chinese",
+    "abandoned": null
 }

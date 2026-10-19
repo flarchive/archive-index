@@ -459,5 +459,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "muhammedsaidckr-flarum-chatgpt",
+    "archive_repo_url": "https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

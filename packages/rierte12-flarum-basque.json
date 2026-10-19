@@ -231,5 +231,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "rierte12-flarum-basque",
+    "archive_repo_url": "https://github.com/flarchive/rierte12-flarum-basque",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

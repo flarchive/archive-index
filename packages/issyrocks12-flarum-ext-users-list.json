@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "issyrocks12-flarum-ext-users-list",
+    "archive_repo_url": "https://github.com/flarchive/issyrocks12-flarum-ext-users-list",
+    "is_fork": true,
+    "fork_parent": "Avatar4eg/flarum-ext-users-list",
+    "abandoned": "reflar/user-management"
 }

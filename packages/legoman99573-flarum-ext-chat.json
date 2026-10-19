@@ -315,5 +315,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "legoman99573-flarum-ext-chat",
+    "archive_repo_url": "https://github.com/flarchive/legoman99573-flarum-ext-chat",
+    "is_fork": true,
+    "fork_parent": "Push-EDX/flarum-ext-chat",
+    "abandoned": null
 }

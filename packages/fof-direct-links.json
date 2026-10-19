@@ -38,5 +38,10 @@
             "flarum": "^1.8.0",
             "browse_url": "https://github.com/FriendsOfFlarum/direct-links/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-direct-links",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-direct-links",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

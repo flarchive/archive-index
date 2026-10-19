@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "sdlyu-flarum-ext-anonymous",
+    "archive_repo_url": "https://github.com/flarchive/sdlyu-flarum-ext-anonymous",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

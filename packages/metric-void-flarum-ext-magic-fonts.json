@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "metric-void-flarum-ext-magic-fonts",
+    "archive_repo_url": "https://github.com/flarchive/metric-void-flarum-ext-magic-fonts",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

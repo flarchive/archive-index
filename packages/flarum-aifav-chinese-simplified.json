@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "moyonie-chinese-simplified",
+    "archive_repo_url": "https://github.com/flarchive/moyonie-chinese-simplified",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

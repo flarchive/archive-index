@@ -651,5 +651,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "resofirev2-blog-cards",
+    "archive_repo_url": "https://github.com/flarchive/resofirev2-blog-cards",
+    "is_fork": true,
+    "fork_parent": "WalsGit/flarum-discussion-cards",
+    "abandoned": null
 }

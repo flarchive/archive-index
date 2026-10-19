@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/rz-pazirik/flarum-discussion-gallery",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "rz-pazirik-flarum-discussion-gallery",
+    "archive_repo_url": "https://github.com/flarchive/rz-pazirik-flarum-discussion-gallery",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

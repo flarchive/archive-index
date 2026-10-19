@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "litalino-flarum-adblock",
+    "archive_repo_url": "https://github.com/flarchive/litalino-flarum-adblock",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nosun-flarum-ext-reply2see",
+    "archive_repo_url": "https://github.com/flarchive/nosun-flarum-ext-reply2see",
+    "is_fork": true,
+    "fork_parent": "oaklinq/flarum-ext-reply2see",
+    "abandoned": null
 }

@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nodeloc-flarum-ext-friend-link",
+    "archive_repo_url": "https://github.com/flarchive/nodeloc-flarum-ext-friend-link",
+    "is_fork": true,
+    "fork_parent": "HamCQ/flarum-ext-card-show-community",
+    "abandoned": null
 }

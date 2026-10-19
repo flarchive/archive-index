@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ram0ng1-guest-cta",
+    "archive_repo_url": "https://github.com/flarchive/ram0ng1-guest-cta",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

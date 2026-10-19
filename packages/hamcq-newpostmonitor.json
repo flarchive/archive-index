@@ -159,5 +159,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hamcq-flarum-ext-post-monitor",
+    "archive_repo_url": "https://github.com/flarchive/hamcq-flarum-ext-post-monitor",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

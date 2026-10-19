@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nyu8-flarum-email-filter",
+    "archive_repo_url": "https://github.com/flarchive/nyu8-flarum-email-filter",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -1215,5 +1215,10 @@
             "flarum": "^0.1.0-beta.6",
             "browse_url": "https://github.com/FriendsOfFlarum/byobu/tree/0.1.0-beta.1"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-byobu",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-byobu",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

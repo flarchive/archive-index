@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "reflar-traditional-rank-icons",
+    "archive_repo_url": "https://github.com/flarchive/reflar-traditional-rank-icons",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

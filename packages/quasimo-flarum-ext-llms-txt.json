@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "quasimo-flarum-ext-llms-txt",
+    "archive_repo_url": "https://github.com/flarchive/quasimo-flarum-ext-llms-txt",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

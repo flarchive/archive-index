@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "t11n-dev-flarum-migration-tool",
+    "archive_repo_url": "https://github.com/flarchive/t11n-dev-flarum-migration-tool",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

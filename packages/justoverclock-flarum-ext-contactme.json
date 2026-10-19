@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-flarum-ext-contactme",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-flarum-ext-contactme",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

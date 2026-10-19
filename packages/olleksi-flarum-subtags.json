@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "olleksi-flarum-subtags-display",
+    "archive_repo_url": "https://github.com/flarchive/olleksi-flarum-subtags-display",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

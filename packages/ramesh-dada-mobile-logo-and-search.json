@@ -71,5 +71,10 @@
             "flarum": "^1.0",
             "browse_url": "https://github.com/ramesh-dada/mobile-logo-and-search/tree/7.1.11"
         }
-    ]
+    ],
+    "archive_repo": "ramesh-dada-mobile-logo-and-search",
+    "archive_repo_url": "https://github.com/flarchive/ramesh-dada-mobile-logo-and-search",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -49,5 +49,10 @@
             "flarum": "^1.8",
             "browse_url": "https://github.com/FriendsOfFlarum/forum-widgets-core/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-forum-widgets-core",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-forum-widgets-core",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -16,5 +16,10 @@
             "flarum": "^0.1.0",
             "browse_url": "https://packagist.org/packages/nhiennn/flarum-ext-vietnamese"
         }
-    ]
+    ],
+    "archive_repo": "nhiennn-flarum-ext-vietnamese",
+    "archive_repo_url": "https://github.com/flarchive/nhiennn-flarum-ext-vietnamese",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

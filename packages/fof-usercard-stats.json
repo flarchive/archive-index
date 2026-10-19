@@ -38,5 +38,10 @@
             "flarum": "^1.8.3",
             "browse_url": "https://github.com/FriendsOfFlarum/usercard-stats/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-usercard-stats",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-usercard-stats",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

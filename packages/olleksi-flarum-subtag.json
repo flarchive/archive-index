@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/olleksi/flarum-subtag",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "olleksi-flarum-subtag",
+    "archive_repo_url": "https://github.com/flarchive/olleksi-flarum-subtag",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

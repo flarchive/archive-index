@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "xll98-flarum-ext-group-list",
+    "archive_repo_url": "https://github.com/flarchive/xll98-flarum-ext-group-list",
+    "is_fork": true,
+    "fork_parent": "clarkwinkelmann/flarum-ext-group-list",
+    "abandoned": null
 }

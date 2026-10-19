@@ -267,5 +267,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "starsrivers-flarum-mathren",
+    "archive_repo_url": "https://github.com/flarchive/starsrivers-flarum-mathren",
+    "is_fork": true,
+    "fork_parent": "hasan-ozbey/flarum-mathren",
+    "abandoned": null
 }

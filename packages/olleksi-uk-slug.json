@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "olleksi-uk-slug",
+    "archive_repo_url": "https://github.com/flarchive/olleksi-uk-slug",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

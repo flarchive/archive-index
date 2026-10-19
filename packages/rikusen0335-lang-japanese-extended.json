@@ -255,5 +255,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "rikusen0335-lang-japanese-extended",
+    "archive_repo_url": "https://github.com/flarchive/rikusen0335-lang-japanese-extended",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

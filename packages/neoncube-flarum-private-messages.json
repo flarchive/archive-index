@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "neoncube2-flarum-private-messages",
+    "archive_repo_url": "https://github.com/flarchive/neoncube2-flarum-private-messages",
+    "is_fork": true,
+    "fork_parent": "littlecxm/whisper",
+    "abandoned": null
 }

@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mrkcntrmn-flatrate-flarum-composer-ui",
+    "archive_repo_url": "https://github.com/flarchive/mrkcntrmn-flatrate-flarum-composer-ui",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

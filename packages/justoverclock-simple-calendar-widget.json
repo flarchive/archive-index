@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-simple-calendar-widget",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-simple-calendar-widget",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

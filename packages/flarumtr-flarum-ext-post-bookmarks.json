@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "flarumtr-flarum-ext-post-bookmarks",
+    "archive_repo_url": "https://github.com/flarchive/flarumtr-flarum-ext-post-bookmarks",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "pipecraftnet-flarum-ext-id-slug",
+    "archive_repo_url": "https://github.com/flarchive/pipecraftnet-flarum-ext-id-slug",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

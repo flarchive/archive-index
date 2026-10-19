@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ozzzzam-flarum-ext-quill",
+    "archive_repo_url": "https://github.com/flarchive/ozzzzam-flarum-ext-quill",
+    "is_fork": true,
+    "fork_parent": "esledov/flarum-ext-quill",
+    "abandoned": null
 }

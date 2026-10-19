@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "linkrobins-auto-lock",
+    "archive_repo_url": "https://github.com/flarchive/linkrobins-auto-lock",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

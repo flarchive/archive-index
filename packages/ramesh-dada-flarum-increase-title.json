@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ramesh-dada-flarum-increase-title",
+    "archive_repo_url": "https://github.com/flarchive/ramesh-dada-flarum-increase-title",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

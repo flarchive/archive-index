@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "stezkoy-flarum-audex",
+    "archive_repo_url": "https://github.com/flarchive/stezkoy-flarum-audex",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

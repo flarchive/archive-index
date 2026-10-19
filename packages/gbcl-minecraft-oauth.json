@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "gbclstudio-flarum-minecraftauth",
+    "archive_repo_url": "https://github.com/flarchive/gbclstudio-flarum-minecraftauth",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

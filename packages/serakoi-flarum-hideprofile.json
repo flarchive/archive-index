@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "serakoi-flarum-hideprofile",
+    "archive_repo_url": "https://github.com/flarchive/serakoi-flarum-hideprofile",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

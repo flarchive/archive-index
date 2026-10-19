@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "foskym-flarum-pagination",
+    "archive_repo_url": "https://github.com/flarchive/foskym-flarum-pagination",
+    "is_fork": true,
+    "fork_parent": "nodeloc/flarum-pagination",
+    "abandoned": null
 }

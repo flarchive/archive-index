@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "esledov-flarum-ext-quill",
+    "archive_repo_url": "https://github.com/flarchive/esledov-flarum-ext-quill",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

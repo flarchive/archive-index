@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flagrow-html-errors",
+    "archive_repo_url": "https://github.com/flarchive/flagrow-html-errors",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/html-errors"
 }

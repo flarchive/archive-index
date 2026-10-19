@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "leanzo-discussion-thumbnail",
+    "archive_repo_url": "https://github.com/flarchive/leanzo-discussion-thumbnail",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/discussion-thumbnail",
+    "abandoned": null
 }

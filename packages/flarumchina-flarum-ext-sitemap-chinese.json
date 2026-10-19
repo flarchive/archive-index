@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarumchina-flarum-ext-sitemap-chinese",
+    "archive_repo_url": "https://github.com/flarchive/flarumchina-flarum-ext-sitemap-chinese",
+    "is_fork": true,
+    "fork_parent": "terabin/flarum-ext-sitemap",
+    "abandoned": "terabin/flarum-ext-sitemap"
 }

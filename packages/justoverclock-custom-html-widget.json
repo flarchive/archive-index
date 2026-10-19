@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-custom-html-widget",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-custom-html-widget",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

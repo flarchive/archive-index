@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "studosi-flarum-lang-croatian",
+    "archive_repo_url": "https://github.com/flarchive/studosi-flarum-lang-croatian",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": null
 }

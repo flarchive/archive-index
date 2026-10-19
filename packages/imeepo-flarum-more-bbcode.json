@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "imeepo-flarum-more-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/imeepo-flarum-more-bbcode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

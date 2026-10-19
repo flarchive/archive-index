@@ -82,5 +82,10 @@
             "flarum": "^0.1.0-beta.11",
             "browse_url": "https://github.com/FriendsOfFlarum/realtimedate/tree/0.1"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-realtimedate",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-realtimedate",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

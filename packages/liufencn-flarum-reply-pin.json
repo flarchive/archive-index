@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "liufencn-flarum-ext-reply-pin",
+    "archive_repo_url": "https://github.com/flarchive/liufencn-flarum-ext-reply-pin",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

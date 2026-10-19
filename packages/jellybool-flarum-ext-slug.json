@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "jellybool-flarum-ext-slug",
+    "archive_repo_url": "https://github.com/flarchive/jellybool-flarum-ext-slug",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

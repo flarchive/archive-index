@@ -567,5 +567,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hamcq-flarum-ext-auth-wechat",
+    "archive_repo_url": "https://github.com/flarchive/hamcq-flarum-ext-auth-wechat",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

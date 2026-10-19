@@ -531,5 +531,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "peopleinside-fla-powcaptcha",
+    "archive_repo_url": "https://github.com/flarchive/peopleinside-fla-powcaptcha",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

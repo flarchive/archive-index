@@ -38,5 +38,10 @@
             "flarum": "^1.8.0",
             "browse_url": "https://github.com/FriendsOfFlarum/upgrade-advisor/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-upgrade-advisor",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-upgrade-advisor",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

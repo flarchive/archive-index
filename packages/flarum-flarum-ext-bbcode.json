@@ -346,5 +346,10 @@
             "flarum": "^0.1.0-beta.3",
             "browse_url": "https://github.com/flarum/bbcode/tree/v0.1.0-beta.3"
         }
-    ]
+    ],
+    "archive_repo": "flarum-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/flarum-bbcode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum/bbcode"
 }

@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-last-post-useravatar",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-last-post-useravatar",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

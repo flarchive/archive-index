@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "celestenyaserver-flaurm-celeste-net",
+    "archive_repo_url": "https://github.com/flarchive/celestenyaserver-flaurm-celeste-net",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -159,5 +159,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nomiscz-flarum-ext-auth-steam",
+    "archive_repo_url": "https://github.com/flarchive/nomiscz-flarum-ext-auth-steam",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

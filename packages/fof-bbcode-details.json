@@ -104,5 +104,10 @@
             "flarum": "^0.1.0-beta.8",
             "browse_url": "https://github.com/FriendsOfFlarum/bbcode-details/tree/0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-bbcode-details",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-bbcode-details",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -423,5 +423,10 @@
             "flarum": "^0.1.0-beta.3",
             "browse_url": "https://github.com/flarum/emoji/tree/v0.1.0-beta.3"
         }
-    ]
+    ],
+    "archive_repo": "flarum-emoji",
+    "archive_repo_url": "https://github.com/flarchive/flarum-emoji",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -303,5 +303,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nearata-lang-italian",
+    "archive_repo_url": "https://github.com/flarchive/nearata-lang-italian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "nearata/lang-italian"
 }

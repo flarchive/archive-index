@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mickmelon-flarum-ext-coloured-usernames",
+    "archive_repo_url": "https://github.com/flarchive/mickmelon-flarum-ext-coloured-usernames",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

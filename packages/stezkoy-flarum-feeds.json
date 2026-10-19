@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "stezkoy-flarum-feeds",
+    "archive_repo_url": "https://github.com/flarchive/stezkoy-flarum-feeds",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "stezkoy/flarum-feed2forum"
 }

@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mysteriousacadia-flarum-auth-google",
+    "archive_repo_url": "https://github.com/flarchive/mysteriousacadia-flarum-auth-google",
+    "is_fork": true,
+    "fork_parent": "saleksin/flarum-auth-google",
+    "abandoned": null
 }

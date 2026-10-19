@@ -147,5 +147,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "serakoi-flarum-discord-theme-2",
+    "archive_repo_url": "https://github.com/flarchive/serakoi-flarum-discord-theme-2",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

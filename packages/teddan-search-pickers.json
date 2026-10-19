@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tttteddan-flarum-search-pickers",
+    "archive_repo_url": "https://github.com/flarchive/tttteddan-flarum-search-pickers",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

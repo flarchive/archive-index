@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "marchccc-flarum-ext-auth-sms",
+    "archive_repo_url": "https://github.com/flarchive/marchccc-flarum-ext-auth-sms",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

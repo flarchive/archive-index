@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hsiangnianian-flarum-post-formatter",
+    "archive_repo_url": "https://github.com/flarchive/hsiangnianian-flarum-post-formatter",
+    "is_fork": true,
+    "fork_parent": "cosname/flarum-post-formatter",
+    "abandoned": "1"
 }

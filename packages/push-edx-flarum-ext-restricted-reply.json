@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "push-edx-flarum-ext-restricted-reply",
+    "archive_repo_url": "https://github.com/flarchive/push-edx-flarum-ext-restricted-reply",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

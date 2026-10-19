@@ -183,5 +183,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flusherdock1-flarum-l10n-ext-russian",
+    "archive_repo_url": "https://github.com/flarchive/flusherdock1-flarum-l10n-ext-russian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

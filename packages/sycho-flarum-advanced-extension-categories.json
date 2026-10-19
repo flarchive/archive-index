@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "sycho9-flarum-advanced-extension-categories",
+    "archive_repo_url": "https://github.com/flarchive/sycho9-flarum-advanced-extension-categories",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

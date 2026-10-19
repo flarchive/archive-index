@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "leonmmcoset-flarum-ext-monkey-lang",
+    "archive_repo_url": "https://github.com/flarchive/leonmmcoset-flarum-ext-monkey-lang",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

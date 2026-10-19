@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "serazon-mathplus",
+    "archive_repo_url": "https://github.com/flarchive/serazon-mathplus",
+    "is_fork": true,
+    "fork_parent": "arektekieli/FlaJax",
+    "abandoned": null
 }

@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "anexsoft-peruguitar-flarum-ext-user-portrait",
+    "archive_repo_url": "https://github.com/flarchive/anexsoft-peruguitar-flarum-ext-user-portrait",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

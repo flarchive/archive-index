@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "freeflarum-flarum-arevo-theme",
+    "archive_repo_url": "https://github.com/flarchive/freeflarum-flarum-arevo-theme",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

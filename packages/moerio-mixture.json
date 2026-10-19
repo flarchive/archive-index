@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "moerio-mixture",
+    "archive_repo_url": "https://github.com/flarchive/moerio-mixture",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

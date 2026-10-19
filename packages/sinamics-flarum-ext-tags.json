@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "sinamics-flarum-ext-tags",
+    "archive_repo_url": "https://github.com/flarchive/sinamics-flarum-ext-tags",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

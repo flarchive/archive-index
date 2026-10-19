@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-igdb-api",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-igdb-api",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

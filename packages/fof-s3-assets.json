@@ -49,5 +49,10 @@
             "flarum": "^1.3.1",
             "browse_url": "https://github.com/FriendsOfFlarum/s3-assets/tree/1.0.0-beta.1"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-s3-assets",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-s3-assets",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -195,5 +195,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "mrthat1996-fof-oauth",
+    "archive_repo_url": "https://github.com/flarchive/mrthat1996-fof-oauth",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/oauth",
+    "abandoned": null
 }

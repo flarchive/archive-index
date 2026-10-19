@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "sassam-flarum-regrole",
+    "archive_repo_url": "https://github.com/flarchive/sassam-flarum-regrole",
+    "is_fork": true,
+    "fork_parent": "imorland/flarum-regrole",
+    "abandoned": null
 }

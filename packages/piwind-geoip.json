@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "piwind-flarum-geoip",
+    "archive_repo_url": "https://github.com/flarchive/piwind-flarum-geoip",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/geoip",
+    "abandoned": null
 }

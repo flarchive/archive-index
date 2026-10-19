@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "huseyinfiliz-private-profile-plus",
+    "archive_repo_url": "https://github.com/flarchive/huseyinfiliz-private-profile-plus",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "huseyinfiliz/private-profile"
 }

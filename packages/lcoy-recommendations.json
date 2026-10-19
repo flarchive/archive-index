@@ -280,5 +280,10 @@
             "flarum": "^2.0.0",
             "browse_url": "https://packagist.org/packages/lcoy/recommendations"
         }
-    ]
+    ],
+    "archive_repo": "lcoy-recommendations",
+    "archive_repo_url": "https://github.com/flarchive/lcoy-recommendations",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

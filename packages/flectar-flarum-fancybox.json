@@ -231,5 +231,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flectar-flarum-ext-fancybox",
+    "archive_repo_url": "https://github.com/flarchive/flectar-flarum-ext-fancybox",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

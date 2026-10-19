@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "laravelrs-flarum-ext-serbian-latin",
+    "archive_repo_url": "https://github.com/flarchive/laravelrs-flarum-ext-serbian-latin",
+    "is_fork": true,
+    "fork_parent": "berteltorp/Flarum-da-DK",
+    "abandoned": null
 }

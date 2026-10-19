@@ -363,5 +363,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "michaelbelgium-flarum-dutch",
+    "archive_repo_url": "https://github.com/flarchive/michaelbelgium-flarum-dutch",
+    "is_fork": true,
+    "fork_parent": "rodymolenaar/flarum-ext-dutch",
+    "abandoned": "flarum-lang/dutch"
 }

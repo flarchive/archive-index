@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "maicol07-mason",
+    "archive_repo_url": "https://github.com/flarchive/maicol07-mason",
+    "is_fork": true,
+    "fork_parent": "raafirivero/mason",
+    "abandoned": "flagrow/mason"
 }

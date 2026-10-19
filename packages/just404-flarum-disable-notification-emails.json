@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/just404/flarum-disable-notification-emails",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "just404-flarum-disable-notification-emails",
+    "archive_repo_url": "https://github.com/flarchive/just404-flarum-disable-notification-emails",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

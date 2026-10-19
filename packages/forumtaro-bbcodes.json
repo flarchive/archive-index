@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "forumtaro-flarum-bbcobe",
+    "archive_repo_url": "https://github.com/flarchive/forumtaro-flarum-bbcobe",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

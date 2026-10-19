@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "huglester-flarum-ext-lithuanian",
+    "archive_repo_url": "https://github.com/flarchive/huglester-flarum-ext-lithuanian",
+    "is_fork": true,
+    "fork_parent": "Pavelas/flarum-ext-lithuanian",
+    "abandoned": null
 }

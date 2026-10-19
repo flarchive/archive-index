@@ -231,5 +231,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "maojindao55-flarum-ext-web3",
+    "archive_repo_url": "https://github.com/flarchive/maojindao55-flarum-ext-web3",
+    "is_fork": true,
+    "fork_parent": "blomstra/flarum-ext-web3",
+    "abandoned": null
 }

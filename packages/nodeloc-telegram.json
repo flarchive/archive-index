@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nodeloc-telegram",
+    "archive_repo_url": "https://github.com/flarchive/nodeloc-telegram",
+    "is_fork": true,
+    "fork_parent": "dexif/telegram",
+    "abandoned": null
 }

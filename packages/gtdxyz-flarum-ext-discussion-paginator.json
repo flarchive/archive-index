@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "daocatt-flarum-ext-discussion-paginator",
+    "archive_repo_url": "https://github.com/flarchive/daocatt-flarum-ext-discussion-paginator",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

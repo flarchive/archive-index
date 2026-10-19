@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "glowingblue-flarum-ext-move-posts",
+    "archive_repo_url": "https://github.com/flarchive/glowingblue-flarum-ext-move-posts",
+    "is_fork": true,
+    "fork_parent": "SychO9/flarum-move-posts",
+    "abandoned": "fof/move-posts"
 }

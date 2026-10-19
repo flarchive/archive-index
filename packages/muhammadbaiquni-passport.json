@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "muhammadbaiquni-passport",
+    "archive_repo_url": "https://github.com/flarchive/muhammadbaiquni-passport",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/passport",
+    "abandoned": null
 }

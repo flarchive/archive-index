@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "s9e-flarum-ext-autoimage",
+    "archive_repo_url": "https://github.com/flarchive/s9e-flarum-ext-autoimage",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/formatting"
 }

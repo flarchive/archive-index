@@ -324,5 +324,10 @@
             "flarum": "^0.1.0-beta.7",
             "browse_url": "https://github.com/FriendsOfFlarum/linguist/tree/0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-linguist",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-linguist",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

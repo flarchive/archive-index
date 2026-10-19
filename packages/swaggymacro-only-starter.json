@@ -147,5 +147,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "swaggymacro-onlystarter",
+    "archive_repo_url": "https://github.com/flarchive/swaggymacro-onlystarter",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

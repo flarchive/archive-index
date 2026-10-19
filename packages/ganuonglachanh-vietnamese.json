@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ganuonglachanh-flarum-ext-vietnamese",
+    "archive_repo_url": "https://github.com/flarchive/ganuonglachanh-flarum-ext-vietnamese",
+    "is_fork": true,
+    "fork_parent": "kaeljune/flarum-ext-vietnamese-1",
+    "abandoned": null
 }

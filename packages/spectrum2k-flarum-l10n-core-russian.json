@@ -267,5 +267,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "spectrum2k-flarum-russian",
+    "archive_repo_url": "https://github.com/flarchive/spectrum2k-flarum-russian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

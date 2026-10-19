@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "qwe987299-flarum-auto-ban-spam",
+    "archive_repo_url": "https://github.com/flarchive/qwe987299-flarum-auto-ban-spam",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

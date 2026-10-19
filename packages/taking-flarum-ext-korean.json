@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "taking-flarum-ext-korean",
+    "archive_repo_url": "https://github.com/flarchive/taking-flarum-ext-korean",
+    "is_fork": true,
+    "fork_parent": "dryoo/flarum-ext-korean",
+    "abandoned": null
 }

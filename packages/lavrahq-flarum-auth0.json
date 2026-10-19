@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "lavrahq-flarum-auth0",
+    "archive_repo_url": "https://github.com/flarchive/lavrahq-flarum-auth0",
+    "is_fork": true,
+    "fork_parent": "helmgast/flarum-auth0",
+    "abandoned": null
 }

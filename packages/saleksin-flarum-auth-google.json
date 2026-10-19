@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "saleksin-flarum-auth-google",
+    "archive_repo_url": "https://github.com/flarchive/saleksin-flarum-auth-google",
+    "is_fork": true,
+    "fork_parent": "flarum/auth-facebook",
+    "abandoned": null
 }

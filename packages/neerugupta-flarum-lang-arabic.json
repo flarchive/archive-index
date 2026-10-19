@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarum-lang-arabic",
+    "archive_repo_url": "https://github.com/flarchive/flarum-lang-arabic",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/arabic"
 }

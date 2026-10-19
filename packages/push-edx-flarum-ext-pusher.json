@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "push-edx-flarum-ext-pusher",
+    "archive_repo_url": "https://github.com/flarchive/push-edx-flarum-ext-pusher",
+    "is_fork": true,
+    "fork_parent": "flarum/pusher",
+    "abandoned": null
 }

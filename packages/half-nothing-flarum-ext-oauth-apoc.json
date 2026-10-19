@@ -147,5 +147,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "apocfly-flarum-ext-oauth-apoc",
+    "archive_repo_url": "https://github.com/flarchive/apocfly-flarum-ext-oauth-apoc",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-adsense-manager",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-adsense-manager",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "https://github.com/davwheat/flarum-ext-ads"
 }

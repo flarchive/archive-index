@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kakifrucht-flarum-de-extended",
+    "archive_repo_url": "https://github.com/flarchive/kakifrucht-flarum-de-extended",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/german"
 }

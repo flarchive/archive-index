@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ram0ng1-classifieds",
+    "archive_repo_url": "https://github.com/flarchive/ram0ng1-classifieds",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

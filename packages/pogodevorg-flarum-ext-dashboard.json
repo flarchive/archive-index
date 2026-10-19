@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "pogodevorg-flarum-ext-admindashboard",
+    "archive_repo_url": "https://github.com/flarchive/pogodevorg-flarum-ext-admindashboard",
+    "is_fork": true,
+    "fork_parent": "dsevillamartin/flarum-ext-dashboard",
+    "abandoned": "datitisev/flarum-ext-dashboard"
 }

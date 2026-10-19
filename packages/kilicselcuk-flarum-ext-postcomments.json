@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/kilicselcuk/flarum-ext-postcomments",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "kilicselcuk-flarum-ext-postcomments",
+    "archive_repo_url": "https://github.com/flarchive/kilicselcuk-flarum-ext-postcomments",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

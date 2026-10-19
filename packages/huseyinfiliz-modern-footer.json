@@ -231,5 +231,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "huseyinfiliz-modern-footer",
+    "archive_repo_url": "https://github.com/flarchive/huseyinfiliz-modern-footer",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

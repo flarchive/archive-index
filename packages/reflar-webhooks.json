@@ -543,5 +543,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-webhooks",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-webhooks",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/webhooks"
 }

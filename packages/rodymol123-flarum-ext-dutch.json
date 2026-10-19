@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "rodymolenaar-flarum-ext-dutch",
+    "archive_repo_url": "https://github.com/flarchive/rodymolenaar-flarum-ext-dutch",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "rodymolenaar/flarum-ext-dutch"
 }

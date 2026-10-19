@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "gradba-flarum-webp-upload",
+    "archive_repo_url": "https://github.com/flarchive/gradba-flarum-webp-upload",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

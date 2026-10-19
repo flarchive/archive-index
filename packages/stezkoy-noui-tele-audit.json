@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "stezkoy-noui-tele-audit",
+    "archive_repo_url": "https://github.com/flarchive/stezkoy-noui-tele-audit",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "stezkoy/flarum-telegram-audit"
 }

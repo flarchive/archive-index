@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "santiagobiali-flarum-ext-logo",
+    "archive_repo_url": "https://github.com/flarchive/santiagobiali-flarum-ext-logo",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

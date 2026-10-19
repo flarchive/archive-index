@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "shebaoting-money",
+    "archive_repo_url": "https://github.com/flarchive/shebaoting-money",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "shebaoting/flarum-money"
 }

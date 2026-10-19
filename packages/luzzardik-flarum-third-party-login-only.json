@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "luzzardik-flarum-third-party-login-only",
+    "archive_repo_url": "https://github.com/flarchive/luzzardik-flarum-third-party-login-only",
+    "is_fork": true,
+    "fork_parent": "v17development/flarum-third-party-login-only",
+    "abandoned": null
 }

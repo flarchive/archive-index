@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "gm-fire-nexusphp-api",
+    "archive_repo_url": "https://github.com/flarchive/gm-fire-nexusphp-api",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

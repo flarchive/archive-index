@@ -159,5 +159,10 @@
             "flarum": "^1.0.2",
             "browse_url": "https://github.com/imorland/syndication/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "imorland-syndication",
+    "archive_repo_url": "https://github.com/flarchive/imorland-syndication",
+    "is_fork": true,
+    "fork_parent": "gudzpoz/flarum-ext-syndication",
+    "abandoned": null
 }

@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "romanshul-flarum-editor",
+    "archive_repo_url": "https://github.com/flarchive/romanshul-flarum-editor",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

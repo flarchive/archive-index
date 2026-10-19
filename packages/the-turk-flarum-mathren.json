@@ -303,5 +303,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "the-turk-flarum-mathren",
+    "archive_repo_url": "https://github.com/flarchive/the-turk-flarum-mathren",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

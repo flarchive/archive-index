@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nikochian-flarum-ext-auth-keycloak",
+    "archive_repo_url": "https://github.com/flarchive/nikochian-flarum-ext-auth-keycloak",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

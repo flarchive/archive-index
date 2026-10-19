@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "lodge104-flarum-ext-oauth-auth0",
+    "archive_repo_url": "https://github.com/flarchive/lodge104-flarum-ext-oauth-auth0",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -104,5 +104,10 @@
             "flarum": "^1.0",
             "browse_url": "https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link/tree/0.1"
         }
-    ]
+    ],
+    "archive_repo": "ramesh-dada-flarum-gui-image-and-link",
+    "archive_repo_url": "https://github.com/flarchive/ramesh-dada-flarum-gui-image-and-link",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

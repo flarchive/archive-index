@@ -181,5 +181,10 @@
             "flarum": "^2.0.0-beta.1",
             "browse_url": "https://github.com/flarum/messages/tree/v2.0.0-beta.1"
         }
-    ]
+    ],
+    "archive_repo": "flarum-messages",
+    "archive_repo_url": "https://github.com/flarchive/flarum-messages",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

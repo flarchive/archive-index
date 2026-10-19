@@ -615,5 +615,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kyrnedev-shout-public",
+    "archive_repo_url": "https://github.com/flarchive/kyrnedev-shout-public",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

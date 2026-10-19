@@ -16,5 +16,10 @@
             "flarum": "^0.1.0-beta.6",
             "browse_url": "https://packagist.org/packages/reflar/oauth-gitlab"
         }
-    ]
+    ],
+    "archive_repo": "reflar-oauth-gitlab",
+    "archive_repo_url": "https://github.com/flarchive/reflar-oauth-gitlab",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/auth-gitlab"
 }

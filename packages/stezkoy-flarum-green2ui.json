@@ -231,5 +231,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "stezkoy-flarum-green2ui",
+    "archive_repo_url": "https://github.com/flarchive/stezkoy-flarum-green2ui",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

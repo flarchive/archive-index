@@ -135,5 +135,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "daocatt-flarum-ui-dev",
+    "archive_repo_url": "https://github.com/flarchive/daocatt-flarum-ui-dev",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

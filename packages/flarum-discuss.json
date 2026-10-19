@@ -27,5 +27,10 @@
             "flarum": "^2.0",
             "browse_url": "https://github.com/flarum/discuss/tree/0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "flarum-discuss",
+    "archive_repo_url": "https://github.com/flarchive/flarum-discuss",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

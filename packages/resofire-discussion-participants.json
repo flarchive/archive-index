@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "resofirev2-discussion-participants",
+    "archive_repo_url": "https://github.com/flarchive/resofirev2-discussion-participants",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

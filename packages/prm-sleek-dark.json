@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "smmpanelscripts1-prm-sleek-dark",
+    "archive_repo_url": "https://github.com/flarchive/smmpanelscripts1-prm-sleek-dark",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

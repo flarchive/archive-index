@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "nodeloc-flarum-auto-moderator",
+    "archive_repo_url": "https://github.com/flarchive/nodeloc-flarum-auto-moderator",
+    "is_fork": true,
+    "fork_parent": "askvortsov1/flarum-automod",
+    "abandoned": null
 }

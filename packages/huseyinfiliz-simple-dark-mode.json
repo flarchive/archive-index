@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "huseyinfiliz-simple-dark-mode",
+    "archive_repo_url": "https://github.com/flarchive/huseyinfiliz-simple-dark-mode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

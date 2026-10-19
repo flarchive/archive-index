@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "isaced-flarum-ext-email-verification-switch",
+    "archive_repo_url": "https://github.com/flarchive/isaced-flarum-ext-email-verification-switch",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

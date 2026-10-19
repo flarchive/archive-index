@@ -327,5 +327,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarumite-simple-discussion-views",
+    "archive_repo_url": "https://github.com/flarchive/flarumite-simple-discussion-views",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "fof/discussion-views"
 }

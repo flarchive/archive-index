@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "jeromegillard-flarum-map",
+    "archive_repo_url": "https://github.com/flarchive/jeromegillard-flarum-map",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

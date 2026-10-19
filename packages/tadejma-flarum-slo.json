@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tadejma-flarum-slo",
+    "archive_repo_url": "https://github.com/flarchive/tadejma-flarum-slo",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": null
 }

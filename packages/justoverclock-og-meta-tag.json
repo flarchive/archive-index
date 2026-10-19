@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-og-meta-tag",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-og-meta-tag",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

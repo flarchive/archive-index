@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "swader-lang-croatian",
+    "archive_repo_url": "https://github.com/flarchive/swader-lang-croatian",
+    "is_fork": true,
+    "fork_parent": "bryantmilan/lang-serbian",
+    "abandoned": null
 }

@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-edit-posts",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-edit-posts",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

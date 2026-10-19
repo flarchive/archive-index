@@ -159,5 +159,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "subasteve-flarum-ext-mailing",
+    "archive_repo_url": "https://github.com/flarchive/subasteve-flarum-ext-mailing",
+    "is_fork": true,
+    "fork_parent": "clarkwinkelmann/flarum-ext-mailing",
+    "abandoned": null
 }

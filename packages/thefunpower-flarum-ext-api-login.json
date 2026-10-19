@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "thefunpower-flarum-ext-api-login",
+    "archive_repo_url": "https://github.com/flarchive/thefunpower-flarum-ext-api-login",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

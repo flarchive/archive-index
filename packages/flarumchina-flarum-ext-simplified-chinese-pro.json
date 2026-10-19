@@ -183,5 +183,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarumchina-flarum-ext-simplified-chinese-pro",
+    "archive_repo_url": "https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": null
 }

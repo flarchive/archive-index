@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "luuhai48-flarum-tinker",
+    "archive_repo_url": "https://github.com/flarchive/luuhai48-flarum-tinker",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

@@ -389,5 +389,10 @@
         }
     ],
     "archive_status": "trusted_upstream",
-    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream."
+    "archive_notice": "Official Flarum localization repository maintained directly by Friends of Flarum / Flarum. Code archiving omitted; tracked from upstream.",
+    "archive_repo": "flarum-lang-spanish",
+    "archive_repo_url": "https://github.com/flarchive/flarum-lang-spanish",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

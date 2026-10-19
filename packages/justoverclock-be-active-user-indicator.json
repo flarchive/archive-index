@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "justoverclockl-active-user-indicator",
+    "archive_repo_url": "https://github.com/flarchive/justoverclockl-active-user-indicator",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

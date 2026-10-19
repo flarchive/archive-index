@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "simonxeko-flarum-ext-preview-discussion",
+    "archive_repo_url": "https://github.com/flarchive/simonxeko-flarum-ext-preview-discussion",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

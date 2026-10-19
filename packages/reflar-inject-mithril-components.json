@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "reflar-inject-mithril-components",
+    "archive_repo_url": "https://github.com/flarchive/reflar-inject-mithril-components",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

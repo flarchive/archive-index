@@ -115,5 +115,10 @@
             "flarum": "^1.8.0",
             "browse_url": "https://github.com/FriendsOfFlarum/move-posts/tree/v1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-move-posts",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-move-posts",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

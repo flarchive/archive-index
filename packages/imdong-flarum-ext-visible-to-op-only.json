@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "imdong-flarum-ext-visible-to-op-only",
+    "archive_repo_url": "https://github.com/flarchive/imdong-flarum-ext-visible-to-op-only",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

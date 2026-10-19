@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ivampiresp-flarum-ext-search",
+    "archive_repo_url": "https://github.com/flarchive/ivampiresp-flarum-ext-search",
+    "is_fork": true,
+    "fork_parent": "blomstra/flarum-ext-search",
+    "abandoned": null
 }

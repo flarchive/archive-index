@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "glutio-flarum.domainsso",
+    "archive_repo_url": "https://github.com/flarchive/glutio-flarum.domainsso",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

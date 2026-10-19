@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "manelizzard-flarum-notify",
+    "archive_repo_url": "https://github.com/flarchive/manelizzard-flarum-notify",
+    "is_fork": true,
+    "fork_parent": "moay/flarum-notify",
+    "abandoned": null
 }

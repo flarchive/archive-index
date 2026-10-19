@@ -115,5 +115,10 @@
             "flarum": "^1.0.0",
             "browse_url": "https://github.com/FriendsOfFlarum/ignore-users/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-ignore-users",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-ignore-users",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

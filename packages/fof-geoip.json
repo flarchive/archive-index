@@ -599,5 +599,10 @@
             "flarum": "^0.1.0-beta.8",
             "browse_url": "https://github.com/FriendsOfFlarum/geoip/tree/0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-geoip",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-geoip",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

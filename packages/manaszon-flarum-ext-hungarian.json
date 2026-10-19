@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "manaszon-flarum-ext-hungarian",
+    "archive_repo_url": "https://github.com/flarchive/manaszon-flarum-ext-hungarian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

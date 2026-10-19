@@ -267,5 +267,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "snfansclub-vliveflarum",
+    "archive_repo_url": "https://github.com/flarchive/snfansclub-vliveflarum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

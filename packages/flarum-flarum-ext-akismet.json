@@ -423,5 +423,10 @@
             "flarum": "^0.1.0-beta.3",
             "browse_url": "https://github.com/flarum/akismet/tree/v0.1.0-beta.3"
         }
-    ]
+    ],
+    "archive_repo": "flarum-akismet",
+    "archive_repo_url": "https://github.com/flarchive/flarum-akismet",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum/akismet"
 }

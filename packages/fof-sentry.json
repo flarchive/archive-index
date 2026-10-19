@@ -434,5 +434,10 @@
             "flarum": "^0.1.0-beta.8",
             "browse_url": "https://github.com/FriendsOfFlarum/sentry/tree/0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "friendsofflarum-sentry",
+    "archive_repo_url": "https://github.com/flarchive/friendsofflarum-sentry",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "0e800-flarum-gravatar",
+    "archive_repo_url": "https://github.com/flarchive/0e800-flarum-gravatar",
+    "is_fork": true,
+    "fork_parent": "smachi/flarum-gravatar",
+    "abandoned": null
 }

@@ -303,5 +303,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "imorland-flarum-ext-twofactor",
+    "archive_repo_url": "https://github.com/flarchive/imorland-flarum-ext-twofactor",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

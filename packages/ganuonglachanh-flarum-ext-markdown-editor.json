@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ganuonglachanh-flarum-ext-markdown-editor",
+    "archive_repo_url": "https://github.com/flarchive/ganuonglachanh-flarum-ext-markdown-editor",
+    "is_fork": true,
+    "fork_parent": "ogioncz/flarum-ext-markdown-editor",
+    "abandoned": null
 }

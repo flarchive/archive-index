@@ -135,5 +135,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "huoxin233-flarum-ext-auto-image-dimensions",
+    "archive_repo_url": "https://github.com/flarchive/huoxin233-flarum-ext-auto-image-dimensions",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

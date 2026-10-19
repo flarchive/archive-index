@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "sanjibnarzary-flarum-lang-bodo",
+    "archive_repo_url": "https://github.com/flarchive/sanjibnarzary-flarum-lang-bodo",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

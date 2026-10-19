@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "isamuraii-bbcode-details",
+    "archive_repo_url": "https://github.com/flarchive/isamuraii-bbcode-details",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/bbcode-details",
+    "abandoned": null
 }

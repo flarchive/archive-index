@@ -423,5 +423,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ram0ng1-chat",
+    "archive_repo_url": "https://github.com/flarchive/ram0ng1-chat",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

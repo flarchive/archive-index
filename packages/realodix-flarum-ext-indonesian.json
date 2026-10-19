@@ -1035,5 +1035,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "realodix-flarum-ext-indonesian",
+    "archive_repo_url": "https://github.com/flarchive/realodix-flarum-ext-indonesian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/indonesian"
 }

@@ -93,5 +93,10 @@
             "flarum": "^2.0.0-beta",
             "browse_url": "https://packagist.org/packages/lcoy/only-op"
         }
-    ]
+    ],
+    "archive_repo": "lcoy-only-op",
+    "archive_repo_url": "https://github.com/flarchive/lcoy-only-op",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

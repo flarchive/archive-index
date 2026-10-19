@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "lcinhk-flarum-imgur-upload",
+    "archive_repo_url": "https://github.com/flarchive/lcinhk-flarum-imgur-upload",
+    "is_fork": true,
+    "fork_parent": "matteocontrini/flarum-imgur-upload",
+    "abandoned": null
 }
