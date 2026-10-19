@@ -1,0 +1,19 @@
+{
+    "package": "t11n-dev/flarum-migration-tool",
+    "upstream": "https://github.com/t11n-dev/Flarum-Migration-Tool",
+    "packagistUrl": "https://packagist.org/packages/t11n-dev/flarum-migration-tool",
+    "versions": [
+        {
+            "version": "v2.5.0",
+            "tag": "archive/v2.5.0",
+            "upstream_commit": "cca2eacecfecb02797365242cb467758e473cfc0",
+            "archive_commit": "e782c801e92db3a5762881d89a4342076970aff5",
+            "released": "2026-10-19T03:54:15+00:00",
+            "archived": "2026-10-19",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
