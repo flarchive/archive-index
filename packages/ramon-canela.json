@@ -1,0 +1,19 @@
+{
+    "package": "ramon/canela",
+    "upstream": "https://github.com/ram0ng1/canela",
+    "packagistUrl": "https://packagist.org/packages/ramon/canela",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "5e8db2f8e00d7f7254f81055e4a5a9d4dec5b11a",
+            "archive_commit": "a8d6b093769ba3da0a4a041da2bfb8fd3916fa2a",
+            "released": "2026-10-19T03:13:28+00:00",
+            "archived": "2026-10-19",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
