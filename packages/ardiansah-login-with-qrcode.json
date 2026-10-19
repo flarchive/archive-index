@@ -15,5 +15,10 @@
             "flarum": "^0.1.0-beta.8"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/ardiansah/login-with-qrcode"
+    "packagistUrl": "https://packagist.org/packages/ardiansah/login-with-qrcode",
+    "archive_repo": "ardiansah21-login-with-qrcode",
+    "archive_repo_url": "https://github.com/flarchive/ardiansah21-login-with-qrcode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

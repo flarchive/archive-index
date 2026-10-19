@@ -1,0 +1,33 @@
+{
+    "package": "mattoid/flarum-ext-plugin-scheduler",
+    "upstream": "https://github.com/Mattoids/flarum-ext-plugin-scheduler",
+    "archive_repo": "mattoids-flarum-ext-plugin-scheduler",
+    "archive_repo_url": "https://github.com/flarchive/mattoids-flarum-ext-plugin-scheduler",
+    "packagistUrl": "https://packagist.org/packages/mattoid/flarum-ext-plugin-scheduler",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f62d3f3139d7c6277f44af9dec28db190494e70e",
+            "archive_commit": "08f444dce6828d94d71813e55166fe784b3e7979",
+            "released": "2026-10-16T07:33:54+00:00",
+            "archived": "2026-10-19",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "3743e89dd9dc56cb6e67bfa22dac9ac6bafe6cec",
+            "archive_commit": "4493247ca3f7f3de272a915af6c4d61c2cd2a7d5",
+            "released": "2026-10-19T08:22:37+00:00",
+            "archived": "2026-10-19",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

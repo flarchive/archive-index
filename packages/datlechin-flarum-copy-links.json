@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flatension-copy-links",
+    "archive_repo_url": "https://github.com/flarchive/flatension-copy-links",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

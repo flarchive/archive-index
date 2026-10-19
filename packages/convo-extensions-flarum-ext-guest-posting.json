@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "convo-extensions-flarum-ext-guest-posting",
+    "archive_repo_url": "https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

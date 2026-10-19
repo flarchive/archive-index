@@ -519,5 +519,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarum-gdpr",
+    "archive_repo_url": "https://github.com/flarchive/flarum-gdpr",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum/gdpr"
 }

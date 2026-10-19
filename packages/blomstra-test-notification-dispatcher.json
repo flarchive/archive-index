@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "blomstra-flarum-ext-test-notification-dispatcher",
+    "archive_repo_url": "https://github.com/flarchive/blomstra-flarum-ext-test-notification-dispatcher",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

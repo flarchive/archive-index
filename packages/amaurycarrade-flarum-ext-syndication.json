@@ -104,5 +104,10 @@
             "flarum": "^0.1.0-beta.6",
             "browse_url": "https://github.com/AmauryCarrade/flarum-ext-syndication/tree/v0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "amaurycarrade-flarum-ext-syndication",
+    "archive_repo_url": "https://github.com/flarchive/amaurycarrade-flarum-ext-syndication",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

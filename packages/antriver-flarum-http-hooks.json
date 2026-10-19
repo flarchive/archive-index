@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "antriver-flarum-http-hooks",
+    "archive_repo_url": "https://github.com/flarchive/antriver-flarum-http-hooks",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

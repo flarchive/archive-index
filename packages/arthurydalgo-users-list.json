@@ -63,5 +63,10 @@
             "flarum": "^1."
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/arthurydalgo/users-list"
+    "packagistUrl": "https://packagist.org/packages/arthurydalgo/users-list",
+    "archive_repo": "arthurydalgo-users-list",
+    "archive_repo_url": "https://github.com/flarchive/arthurydalgo-users-list",
+    "is_fork": true,
+    "fork_parent": "4327b9fb/users-list",
+    "abandoned": null
 }

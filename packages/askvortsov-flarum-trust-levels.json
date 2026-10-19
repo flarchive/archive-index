@@ -87,5 +87,10 @@
             "flarum": "^0.1.0-beta.16"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-trust-levels"
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-trust-levels",
+    "archive_repo": "askvortsov1-flarum-trust-levels",
+    "archive_repo_url": "https://github.com/flarchive/askvortsov1-flarum-trust-levels",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "askvortsov/flarum-auto-moderator"
 }

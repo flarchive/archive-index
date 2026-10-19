@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "botfactoryit-flarum-amazon-affiliation",
+    "archive_repo_url": "https://github.com/flarchive/botfactoryit-flarum-amazon-affiliation",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

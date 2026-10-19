@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "avatar4eg-flarum-ext-transliterator",
+    "archive_repo_url": "https://github.com/flarchive/avatar4eg-flarum-ext-transliterator",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -99,5 +99,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/afrux/forum-widgets-core"
+    "packagistUrl": "https://packagist.org/packages/afrux/forum-widgets-core",
+    "archive_repo": "afrux-forum-widgets-core",
+    "archive_repo_url": "https://github.com/flarchive/afrux-forum-widgets-core",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "clarkwinkelmann-flarum-ext-email-as-display-name",
+    "archive_repo_url": "https://github.com/flarchive/clarkwinkelmann-flarum-ext-email-as-display-name",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

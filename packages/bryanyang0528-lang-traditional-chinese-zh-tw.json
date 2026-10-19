@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "bryanyang0528-lang-traditional-chinese-zh-tw",
+    "archive_repo_url": "https://github.com/flarchive/bryanyang0528-lang-traditional-chinese-zh-tw",
+    "is_fork": true,
+    "fork_parent": "pattinsonfuture/lang-traditional-chinese",
+    "abandoned": null
 }

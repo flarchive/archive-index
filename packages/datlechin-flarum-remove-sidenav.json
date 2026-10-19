@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flatension-remove-sidenav",
+    "archive_repo_url": "https://github.com/flarchive/flatension-remove-sidenav",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

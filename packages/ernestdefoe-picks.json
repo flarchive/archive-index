@@ -555,5 +555,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-picks",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-picks",
+    "is_fork": true,
+    "fork_parent": "ResofireV2/picks",
+    "abandoned": null
 }

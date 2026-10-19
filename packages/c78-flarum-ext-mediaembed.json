@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "c78-flarum-ext-mediaembed",
+    "archive_repo_url": "https://github.com/flarchive/c78-flarum-ext-mediaembed",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

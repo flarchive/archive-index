@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "enverarslan-flarum-ext-turkish",
+    "archive_repo_url": "https://github.com/flarchive/enverarslan-flarum-ext-turkish",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/turkish"
 }

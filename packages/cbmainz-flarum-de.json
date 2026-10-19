@@ -1743,5 +1743,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "kakifrucht-flarum-de",
+    "archive_repo_url": "https://github.com/flarchive/kakifrucht-flarum-de",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/german"
 }

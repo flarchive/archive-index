@@ -15,5 +15,10 @@
             "flarum": null
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/absolutezeroo/support-flarum"
+    "packagistUrl": "https://packagist.org/packages/absolutezeroo/support-flarum",
+    "archive_repo": "absolutezeroo-flarum-support",
+    "archive_repo_url": "https://github.com/flarchive/absolutezeroo-flarum-support",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

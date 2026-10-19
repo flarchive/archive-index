@@ -183,5 +183,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "blomstra-flarum-ext-spam-prevention",
+    "archive_repo_url": "https://github.com/flarchive/blomstra-flarum-ext-spam-prevention",
+    "is_fork": true,
+    "fork_parent": "luceos/flarum-simple-spam-tools",
+    "abandoned": "floxum/spam-prevention"
 }

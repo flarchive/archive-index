@@ -27,5 +27,10 @@
             "flarum": "^0.1.0-beta.5"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/acarlsson/flarum-ext-swedish"
+    "packagistUrl": "https://packagist.org/packages/acarlsson/flarum-ext-swedish",
+    "archive_repo": "acarlsson-flarum-ext-swedish",
+    "archive_repo_url": "https://github.com/flarchive/acarlsson-flarum-ext-swedish",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -51,5 +51,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-click-image"
+    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-click-image",
+    "archive_repo": "archlinux-de-flarum-click-image",
+    "archive_repo_url": "https://github.com/flarchive/archlinux-de-flarum-click-image",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

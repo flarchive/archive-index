@@ -99,5 +99,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-theme-archlinux"
+    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-theme-archlinux",
+    "archive_repo": "archlinux-de-flarum-theme-archlinux",
+    "archive_repo_url": "https://github.com/flarchive/archlinux-de-flarum-theme-archlinux",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

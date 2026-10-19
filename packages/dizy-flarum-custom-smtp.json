@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dizyzeng-flarum-custom-smtp",
+    "archive_repo_url": "https://github.com/flarchive/dizyzeng-flarum-custom-smtp",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

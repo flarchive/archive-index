@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "blomstra-flarum-ext-digest",
+    "archive_repo_url": "https://github.com/flarchive/blomstra-flarum-ext-digest",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

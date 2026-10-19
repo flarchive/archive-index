@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ayecode-flarum-restrictions",
+    "archive_repo_url": "https://github.com/flarchive/ayecode-flarum-restrictions",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

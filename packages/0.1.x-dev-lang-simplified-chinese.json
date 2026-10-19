@@ -82,5 +82,10 @@
             "flarum": ">=0.1.0-beta.14 <0.1.0-beta.16",
             "browse_url": "https://github.com/StarsRivers/lang-simplified-chinese/tree/v0.1.0-beta.15"
         }
-    ]
+    ],
+    "archive_repo": "starsrivers-lang-simplified-chinese",
+    "archive_repo_url": "https://github.com/flarchive/starsrivers-lang-simplified-chinese",
+    "is_fork": true,
+    "fork_parent": "flarum-lang/chinese-simplified",
+    "abandoned": null
 }

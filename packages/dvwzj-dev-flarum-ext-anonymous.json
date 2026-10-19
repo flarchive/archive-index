@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/dvwzj-dev/flarum-ext-anonymous",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "dvwzj-dev-flarum-ext-anonymous",
+    "archive_repo_url": "https://github.com/flarchive/dvwzj-dev-flarum-ext-anonymous",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

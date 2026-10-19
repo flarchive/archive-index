@@ -16,5 +16,10 @@
             "flarum": "^1.8",
             "browse_url": "https://github.com/dhtml/flarum-language-amharic/tree/0.0.1"
         }
-    ]
+    ],
+    "archive_repo": "dhtml-flarum-language-amharic",
+    "archive_repo_url": "https://github.com/flarchive/dhtml-flarum-language-amharic",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

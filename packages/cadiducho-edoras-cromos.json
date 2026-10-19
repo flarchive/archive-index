@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "edorasminecraft-cromosforo",
+    "archive_repo_url": "https://github.com/flarchive/edorasminecraft-cromosforo",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

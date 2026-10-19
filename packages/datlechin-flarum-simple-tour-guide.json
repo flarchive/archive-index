@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "datlechin-flarum-simple-tour-guide",
+    "archive_repo_url": "https://github.com/flarchive/datlechin-flarum-simple-tour-guide",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

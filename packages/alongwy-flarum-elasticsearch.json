@@ -15,5 +15,10 @@
             "flarum": "^0.1.0-beta.12"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/alongwy/flarum-elasticsearch"
+    "packagistUrl": "https://packagist.org/packages/alongwy/flarum-elasticsearch",
+    "archive_repo": "alongwy-flarum-elasticsearch",
+    "archive_repo_url": "https://github.com/flarchive/alongwy-flarum-elasticsearch",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

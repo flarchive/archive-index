@@ -171,5 +171,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/alexanderomara/flarum-gravatar"
+    "packagistUrl": "https://packagist.org/packages/alexanderomara/flarum-gravatar",
+    "archive_repo": "alexanderomara-flarum-gravatar",
+    "archive_repo_url": "https://github.com/flarchive/alexanderomara-flarum-gravatar",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

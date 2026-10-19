@@ -219,5 +219,10 @@
             "flarum": "^1.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/ahrasis/flarum-ext-malaysian"
+    "packagistUrl": "https://packagist.org/packages/ahrasis/flarum-ext-malaysian",
+    "archive_repo": "ahrasis-bahasa-melayu",
+    "archive_repo_url": "https://github.com/flarchive/ahrasis-bahasa-melayu",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

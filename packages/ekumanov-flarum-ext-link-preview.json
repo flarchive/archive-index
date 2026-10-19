@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ekumanov-flarum-ext-link-preview",
+    "archive_repo_url": "https://github.com/flarchive/ekumanov-flarum-ext-link-preview",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

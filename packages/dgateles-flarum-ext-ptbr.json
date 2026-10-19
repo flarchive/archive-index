@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dgateles-flarum-ext-portuguese-br",
+    "archive_repo_url": "https://github.com/flarchive/dgateles-flarum-ext-portuguese-br",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": null
 }

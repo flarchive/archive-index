@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dav-is-flarum-animatedtag",
+    "archive_repo_url": "https://github.com/flarchive/dav-is-flarum-animatedtag",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

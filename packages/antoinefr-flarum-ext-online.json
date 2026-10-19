@@ -87,5 +87,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/antoinefr/flarum-ext-online"
+    "packagistUrl": "https://packagist.org/packages/antoinefr/flarum-ext-online",
+    "archive_repo": "antoinefr-flarum-ext-online",
+    "archive_repo_url": "https://github.com/flarchive/antoinefr-flarum-ext-online",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

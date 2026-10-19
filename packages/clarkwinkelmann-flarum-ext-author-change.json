@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "clarkwinkelmann-flarum-ext-author-change",
+    "archive_repo_url": "https://github.com/flarchive/clarkwinkelmann-flarum-ext-author-change",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

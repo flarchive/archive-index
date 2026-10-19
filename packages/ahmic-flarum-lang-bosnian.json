@@ -39,5 +39,10 @@
             "flarum": "^0.1.0-beta.8"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/ahmic/flarum-lang-bosnian"
+    "packagistUrl": "https://packagist.org/packages/ahmic/flarum-lang-bosnian",
+    "archive_repo": "ahmic-flarum-lang-bosnian",
+    "archive_repo_url": "https://github.com/flarchive/ahmic-flarum-lang-bosnian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

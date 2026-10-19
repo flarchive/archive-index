@@ -63,5 +63,10 @@
             "flarum": "^1."
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/arthurydalgo/online-users"
+    "packagistUrl": "https://packagist.org/packages/arthurydalgo/online-users",
+    "archive_repo": "arthurydalgo-flarum-ext-online-users",
+    "archive_repo_url": "https://github.com/flarchive/arthurydalgo-flarum-ext-online-users",
+    "is_fork": true,
+    "fork_parent": "oaklinq/flarum-ext-online-users",
+    "abandoned": null
 }

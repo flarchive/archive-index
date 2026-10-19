@@ -15,5 +15,10 @@
             "flarum": ">=1.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/akito/flarum-limit-post-length"
+    "packagistUrl": "https://packagist.org/packages/akito/flarum-limit-post-length",
+    "archive_repo": "theakito-flarum-limit-post-length",
+    "archive_repo_url": "https://github.com/flarchive/theakito-flarum-limit-post-length",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -135,5 +135,10 @@
             "flarum": "^2.0@beta"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/alanqoq/mie-files"
+    "packagistUrl": "https://packagist.org/packages/alanqoq/mie-files",
+    "archive_repo": "alanqoq-flarum-mie-cdn-image-file",
+    "archive_repo_url": "https://github.com/flarchive/alanqoq-flarum-mie-cdn-image-file",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

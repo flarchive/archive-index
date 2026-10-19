@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "f0rtem-flarum-ext-lt",
+    "archive_repo_url": "https://github.com/flarchive/f0rtem-flarum-ext-lt",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

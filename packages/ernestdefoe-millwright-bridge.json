@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-millwright-bridge",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-millwright-bridge",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

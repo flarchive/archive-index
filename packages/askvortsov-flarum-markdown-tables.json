@@ -63,5 +63,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-markdown-tables"
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-markdown-tables",
+    "archive_repo": "askvortsov1-flarum-markdown-tables",
+    "archive_repo_url": "https://github.com/flarchive/askvortsov1-flarum-markdown-tables",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

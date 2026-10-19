@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "drsaluml-flarum-ext-thai",
+    "archive_repo_url": "https://github.com/flarchive/drsaluml-flarum-ext-thai",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": null
 }

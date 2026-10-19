@@ -111,5 +111,10 @@
             "status": "ok",
             "flarum": "^1.8.0"
         }
-    ]
+    ],
+    "archive_repo": "afrux-asirem",
+    "archive_repo_url": "https://github.com/flarchive/afrux-asirem",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

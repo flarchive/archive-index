@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "finteger-guest",
+    "archive_repo_url": "https://github.com/flarchive/finteger-guest",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

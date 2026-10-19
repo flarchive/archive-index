@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "comocozy-flarum-ext-auth-naver",
+    "archive_repo_url": "https://github.com/flarchive/comocozy-flarum-ext-auth-naver",
+    "is_fork": true,
+    "fork_parent": "flarum/auth-github",
+    "abandoned": null
 }

@@ -159,5 +159,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "clarkwinkelmann-flarum-ext-mailing",
+    "archive_repo_url": "https://github.com/flarchive/clarkwinkelmann-flarum-ext-mailing",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "braveware-flarum-theme-illuminated",
+    "archive_repo_url": "https://github.com/flarchive/braveware-flarum-theme-illuminated",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

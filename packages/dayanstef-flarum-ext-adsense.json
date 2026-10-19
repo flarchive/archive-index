@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "dayanstef-flarum-ext-adsense",
+    "archive_repo_url": "https://github.com/flarchive/dayanstef-flarum-ext-adsense",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -147,5 +147,10 @@
             "flarum": "^2.0.0-beta"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/acpl/my-tags"
+    "packagistUrl": "https://packagist.org/packages/acpl/my-tags",
+    "archive_repo": "android-com-pl-my-tags",
+    "archive_repo_url": "https://github.com/flarchive/android-com-pl-my-tags",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -135,5 +135,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-redirect-ll"
+    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-redirect-ll",
+    "archive_repo": "archlinux-de-flarum-redirect-ll",
+    "archive_repo_url": "https://github.com/flarchive/archlinux-de-flarum-redirect-ll",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

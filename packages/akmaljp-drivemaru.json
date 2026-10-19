@@ -63,5 +63,10 @@
             "flarum": "^0.1.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/akmaljp/drivemaru"
+    "packagistUrl": "https://packagist.org/packages/akmaljp/drivemaru",
+    "archive_repo": "akmaljp-drivemaru",
+    "archive_repo_url": "https://github.com/flarchive/akmaljp-drivemaru",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

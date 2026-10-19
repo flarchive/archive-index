@@ -159,5 +159,10 @@
             "flarum": "^1.7"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-anti-spam"
+    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-anti-spam",
+    "archive_repo": "archlinux-de-flarum-anti-spam",
+    "archive_repo_url": "https://github.com/flarchive/archlinux-de-flarum-anti-spam",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

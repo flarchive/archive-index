@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "captcha-la-captchala-flarum",
+    "archive_repo_url": "https://github.com/flarchive/captcha-la-captchala-flarum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

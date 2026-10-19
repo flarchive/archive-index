@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "azonwan-azonwan-auth-qq",
+    "archive_repo_url": "https://github.com/flarchive/azonwan-azonwan-auth-qq",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

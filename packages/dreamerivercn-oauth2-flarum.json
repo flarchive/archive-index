@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/dreamerivercn/oauth2-flarum",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "dreamerivercn-oauth2-flarum",
+    "archive_repo_url": "https://github.com/flarchive/dreamerivercn-oauth2-flarum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

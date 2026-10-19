@@ -195,5 +195,10 @@
             "flarum": "^1.2.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/arthurydalgo/lang-spanish"
+    "packagistUrl": "https://packagist.org/packages/arthurydalgo/lang-spanish",
+    "archive_repo": "arthurydalgo-flarum-spanish",
+    "archive_repo_url": "https://github.com/flarchive/arthurydalgo-flarum-spanish",
+    "is_fork": true,
+    "fork_parent": "flarum-lang/spanish",
+    "abandoned": null
 }

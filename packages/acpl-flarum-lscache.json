@@ -543,5 +543,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "android-com-pl-flarum-lscache",
+    "archive_repo_url": "https://github.com/flarchive/android-com-pl-flarum-lscache",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

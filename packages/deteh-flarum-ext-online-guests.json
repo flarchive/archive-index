@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "deteh-flarum-ext-online-guests",
+    "archive_repo_url": "https://github.com/flarchive/deteh-flarum-ext-online-guests",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

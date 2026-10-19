@@ -507,5 +507,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "damonhu-flarum-ext-biosignature",
+    "archive_repo_url": "https://github.com/flarchive/damonhu-flarum-ext-biosignature",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

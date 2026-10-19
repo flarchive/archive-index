@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ericychu-flarum-ext-bbcode-mentions",
+    "archive_repo_url": "https://github.com/flarchive/ericychu-flarum-ext-bbcode-mentions",
+    "is_fork": true,
+    "fork_parent": "FlarumChina/flarum-ext-mentions",
+    "abandoned": null
 }

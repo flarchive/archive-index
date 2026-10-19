@@ -15,5 +15,10 @@
             "flarum": "^0.1.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/akmaljp/drivemu"
+    "packagistUrl": "https://packagist.org/packages/akmaljp/drivemu",
+    "archive_repo": "akmaljp-drivemu10",
+    "archive_repo_url": "https://github.com/flarchive/akmaljp-drivemu10",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

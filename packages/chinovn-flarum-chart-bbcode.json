@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "chinovn-flarum-chart-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/chinovn-flarum-chart-bbcode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

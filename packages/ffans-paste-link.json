@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ffans-paste-link",
+    "archive_repo_url": "https://github.com/flarchive/ffans-paste-link",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

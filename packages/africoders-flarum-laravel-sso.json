@@ -339,5 +339,10 @@
             "flarum": "^1.2.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/africoders/flarum-laravel-sso"
+    "packagistUrl": "https://packagist.org/packages/africoders/flarum-laravel-sso",
+    "archive_repo": "dhtml-africoders-laravel-sso",
+    "archive_repo_url": "https://github.com/flarchive/dhtml-africoders-laravel-sso",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

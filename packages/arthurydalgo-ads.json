@@ -135,5 +135,10 @@
             "flarum": "^1."
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/arthurydalgo/ads"
+    "packagistUrl": "https://packagist.org/packages/arthurydalgo/ads",
+    "archive_repo": "arthurydalgo-ads",
+    "archive_repo_url": "https://github.com/flarchive/arthurydalgo-ads",
+    "is_fork": true,
+    "fork_parent": "flagrow/ads",
+    "abandoned": null
 }

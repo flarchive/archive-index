@@ -123,5 +123,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/afrux/online-users-widget"
+    "packagistUrl": "https://packagist.org/packages/afrux/online-users-widget",
+    "archive_repo": "afrux-online-users-widget",
+    "archive_repo_url": "https://github.com/flarchive/afrux-online-users-widget",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

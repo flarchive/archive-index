@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/ash3t/flarum-bbcode-iframe",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "ash3t-flarum-bbcode-iframe",
+    "archive_repo_url": "https://github.com/flarchive/ash3t-flarum-bbcode-iframe",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

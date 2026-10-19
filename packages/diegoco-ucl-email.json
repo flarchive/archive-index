@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dieguitocollado-ucl-email",
+    "archive_repo_url": "https://github.com/flarchive/dieguitocollado-ucl-email",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/disposable-emails",
+    "abandoned": null
 }

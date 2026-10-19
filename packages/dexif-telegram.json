@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dexif-telegram",
+    "archive_repo_url": "https://github.com/flarchive/dexif-telegram",
+    "is_fork": true,
+    "fork_parent": "flagrow/telegram",
+    "abandoned": null
 }

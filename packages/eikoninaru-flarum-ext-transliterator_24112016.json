@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "eikoninaru-flarum-ext-transliterator_24112016",
+    "archive_repo_url": "https://github.com/flarchive/eikoninaru-flarum-ext-transliterator_24112016",
+    "is_fork": true,
+    "fork_parent": "Avatar4eg/flarum-ext-transliterator",
+    "abandoned": null
 }

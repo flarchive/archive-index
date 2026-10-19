@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ekumanov-flarum-ext-new-posts-notice",
+    "archive_repo_url": "https://github.com/flarchive/ekumanov-flarum-ext-new-posts-notice",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

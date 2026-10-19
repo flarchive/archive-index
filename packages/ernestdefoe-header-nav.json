@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-header-nav",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-header-nav",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

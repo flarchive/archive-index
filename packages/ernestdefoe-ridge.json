@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-ridge",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-ridge",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

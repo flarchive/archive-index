@@ -171,5 +171,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/alexanderomara/flarum-wp-users"
+    "packagistUrl": "https://packagist.org/packages/alexanderomara/flarum-wp-users",
+    "archive_repo": "alexanderomara-flarum-wp-users",
+    "archive_repo_url": "https://github.com/flarchive/alexanderomara-flarum-wp-users",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

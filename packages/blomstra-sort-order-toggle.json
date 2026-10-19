@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "blomstra-flarum-ext-sort-order-toggle",
+    "archive_repo_url": "https://github.com/flarchive/blomstra-flarum-ext-sort-order-toggle",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

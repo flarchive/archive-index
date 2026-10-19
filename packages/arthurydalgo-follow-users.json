@@ -147,5 +147,10 @@
             "flarum": "^0.1.0-beta.10"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/arthurydalgo/follow-users"
+    "packagistUrl": "https://packagist.org/packages/arthurydalgo/follow-users",
+    "archive_repo": "arthurydalgo-follow-users",
+    "archive_repo_url": "https://github.com/flarchive/arthurydalgo-follow-users",
+    "is_fork": true,
+    "fork_parent": "simonxeko/follow-users",
+    "abandoned": null
 }

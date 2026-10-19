@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "beautylix-flarum-bbcode-custom",
+    "archive_repo_url": "https://github.com/flarchive/beautylix-flarum-bbcode-custom",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

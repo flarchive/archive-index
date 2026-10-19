@@ -147,5 +147,10 @@
             "flarum": "^1.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/andreybrigunet/flarum-ext-auth-easy4live"
+    "packagistUrl": "https://packagist.org/packages/andreybrigunet/flarum-ext-auth-easy4live",
+    "archive_repo": "andreybrigunet-flarum-ext-auth-easy4live",
+    "archive_repo_url": "https://github.com/flarchive/andreybrigunet-flarum-ext-auth-easy4live",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

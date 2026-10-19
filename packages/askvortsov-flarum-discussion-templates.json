@@ -195,5 +195,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-discussion-templates"
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-discussion-templates",
+    "archive_repo": "askvortsov1-flarum-discussion-templates",
+    "archive_repo_url": "https://github.com/flarchive/askvortsov1-flarum-discussion-templates",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

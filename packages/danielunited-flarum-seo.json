@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "danielunited-flarum-seo",
+    "archive_repo_url": "https://github.com/flarchive/danielunited-flarum-seo",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/seo",
+    "abandoned": null
 }

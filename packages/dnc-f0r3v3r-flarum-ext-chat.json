@@ -267,5 +267,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dnc-f0r3v3r-flarum-ext-chat",
+    "archive_repo_url": "https://github.com/flarchive/dnc-f0r3v3r-flarum-ext-chat",
+    "is_fork": true,
+    "fork_parent": "Push-EDX/flarum-ext-chat",
+    "abandoned": null
 }

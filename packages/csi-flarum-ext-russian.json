@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "cyberspace-industries-flarum.lp.rus.core",
+    "archive_repo_url": "https://github.com/flarchive/cyberspace-industries-flarum.lp.rus.core",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "metastore/flarum-ext-russian"
 }

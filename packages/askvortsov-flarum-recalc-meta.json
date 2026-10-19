@@ -15,5 +15,10 @@
             "flarum": "^0.1.0-beta.8"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-recalc-meta"
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-recalc-meta",
+    "archive_repo": "askvortsov1-flarum-recalc-meta",
+    "archive_repo_url": "https://github.com/flarchive/askvortsov1-flarum-recalc-meta",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

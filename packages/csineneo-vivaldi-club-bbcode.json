@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "csineneo-vivaldi-club-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/csineneo-vivaldi-club-bbcode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

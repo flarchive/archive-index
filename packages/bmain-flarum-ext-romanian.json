@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "bmalex88-flarum-ext-romanian",
+    "archive_repo_url": "https://github.com/flarchive/bmalex88-flarum-ext-romanian",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

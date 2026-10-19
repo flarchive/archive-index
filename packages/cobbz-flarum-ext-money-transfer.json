@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "cobb-zhang-flarum-ext-money-transfer",
+    "archive_repo_url": "https://github.com/flarchive/cobb-zhang-flarum-ext-money-transfer",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

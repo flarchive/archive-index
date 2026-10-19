@@ -75,5 +75,10 @@
             "flarum": "^1.2.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/afrux/top-posters-widget"
+    "packagistUrl": "https://packagist.org/packages/afrux/top-posters-widget",
+    "archive_repo": "afrux-top-posters-widget",
+    "archive_repo_url": "https://github.com/flarchive/afrux-top-posters-widget",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

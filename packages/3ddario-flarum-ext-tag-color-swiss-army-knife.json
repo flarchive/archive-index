@@ -39,5 +39,10 @@
             "flarum": "^1.3.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/3ddario/flarum-ext-tag-color-swiss-army-knife"
+    "packagistUrl": "https://packagist.org/packages/3ddario/flarum-ext-tag-color-swiss-army-knife",
+    "archive_repo": "3ddario-flarum-ext-tag-color-swiss-army-knife",
+    "archive_repo_url": "https://github.com/flarchive/3ddario-flarum-ext-tag-color-swiss-army-knife",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

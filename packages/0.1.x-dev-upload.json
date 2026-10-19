@@ -819,5 +819,10 @@
             "flarum": "^0.1.0-beta.6",
             "browse_url": "https://github.com/StarsRivers/upload/tree/0.1.0"
         }
-    ]
+    ],
+    "archive_repo": "starsrivers-upload",
+    "archive_repo_url": "https://github.com/flarchive/starsrivers-upload",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/upload",
+    "abandoned": null
 }

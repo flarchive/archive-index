@@ -423,5 +423,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "datlechin-flarum-link-preview",
+    "archive_repo_url": "https://github.com/flarchive/datlechin-flarum-link-preview",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

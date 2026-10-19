@@ -555,5 +555,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-gridiron-nation",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-gridiron-nation",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

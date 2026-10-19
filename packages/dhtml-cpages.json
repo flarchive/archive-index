@@ -247,5 +247,10 @@
             "flarum": "^1.2.0",
             "browse_url": "https://github.com/dhtml/cpages/tree/v0.0.0"
         }
-    ]
+    ],
+    "archive_repo": "dhtml-cpages",
+    "archive_repo_url": "https://github.com/flarchive/dhtml-cpages",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

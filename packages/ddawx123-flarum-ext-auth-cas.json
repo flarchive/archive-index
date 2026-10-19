@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ddawx123-flarum-ext-auth-cas",
+    "archive_repo_url": "https://github.com/flarchive/ddawx123-flarum-ext-auth-cas",
+    "is_fork": true,
+    "fork_parent": "flarum/auth-github",
+    "abandoned": null
 }

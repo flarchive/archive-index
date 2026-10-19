@@ -15,5 +15,10 @@
             "flarum": "^0.1.0-beta.5"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/arslanim/flarum-ext-auth-wp"
+    "packagistUrl": "https://packagist.org/packages/arslanim/flarum-ext-auth-wp",
+    "archive_repo": "arslanim-flarum-ext-auth-wp",
+    "archive_repo_url": "https://github.com/flarchive/arslanim-flarum-ext-auth-wp",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -27,5 +27,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/afrux/forum-stats-widget"
+    "packagistUrl": "https://packagist.org/packages/afrux/forum-stats-widget",
+    "archive_repo": "afrux-forum-stats-widget",
+    "archive_repo_url": "https://github.com/flarchive/afrux-forum-stats-widget",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

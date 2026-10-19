@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "betterflarum-bettermobiledrawer",
+    "archive_repo_url": "https://github.com/flarchive/betterflarum-bettermobiledrawer",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

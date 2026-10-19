@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dsevillamartin-flarum-discussion-agree-message",
+    "archive_repo_url": "https://github.com/flarchive/dsevillamartin-flarum-discussion-agree-message",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

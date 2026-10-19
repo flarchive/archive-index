@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-google-fonts",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-google-fonts",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

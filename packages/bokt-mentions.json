@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "bokt-mentions",
+    "archive_repo_url": "https://github.com/flarchive/bokt-mentions",
+    "is_fork": true,
+    "fork_parent": "flarum/mentions",
+    "abandoned": null
 }

@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "conikal-lang-vietnamese",
+    "archive_repo_url": "https://github.com/flarchive/conikal-lang-vietnamese",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

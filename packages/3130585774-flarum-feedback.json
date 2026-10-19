@@ -39,5 +39,10 @@
             "flarum": "^2.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/3130585774/flarum-feedback"
+    "packagistUrl": "https://packagist.org/packages/3130585774/flarum-feedback",
+    "archive_repo": "3130585774-flarum-feedback",
+    "archive_repo_url": "https://github.com/flarchive/3130585774-flarum-feedback",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

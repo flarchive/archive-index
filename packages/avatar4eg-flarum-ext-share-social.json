@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "avatar4eg-flarum-ext-share-social",
+    "archive_repo_url": "https://github.com/flarchive/avatar4eg-flarum-ext-share-social",
+    "is_fork": true,
+    "fork_parent": "tutula1/vingle-share-social",
+    "abandoned": null
 }

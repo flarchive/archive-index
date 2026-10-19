@@ -99,5 +99,10 @@
             "flarum": "^0.1.0-beta.8"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/1kuxyz/1ku-flarum-pipetables"
+    "packagistUrl": "https://packagist.org/packages/1kuxyz/1ku-flarum-pipetables",
+    "archive_repo": "1kuxyz-1ku-flarum-pipetables",
+    "archive_repo_url": "https://github.com/flarchive/1kuxyz-1ku-flarum-pipetables",
+    "is_fork": true,
+    "fork_parent": "webagil-kevin/flarum-pipetables",
+    "abandoned": null
 }

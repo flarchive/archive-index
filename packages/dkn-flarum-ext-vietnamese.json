@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "duongkimngoc-flarum-ext-vietnamese",
+    "archive_repo_url": "https://github.com/flarchive/duongkimngoc-flarum-ext-vietnamese",
+    "is_fork": true,
+    "fork_parent": "ganuonglachanh/flarum-ext-vietnamese",
+    "abandoned": null
 }

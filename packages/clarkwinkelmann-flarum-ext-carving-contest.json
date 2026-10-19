@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "clarkwinkelmann-flarum-ext-carving-contest",
+    "archive_repo_url": "https://github.com/flarchive/clarkwinkelmann-flarum-ext-carving-contest",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

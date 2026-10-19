@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/arsaey/flarum-jalali",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "arsaey-flarum-jalali",
+    "archive_repo_url": "https://github.com/flarchive/arsaey-flarum-jalali",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

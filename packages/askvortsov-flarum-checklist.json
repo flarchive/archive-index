@@ -75,5 +75,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-checklist"
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-checklist",
+    "archive_repo": "askvortsov1-flarum-checklist",
+    "archive_repo_url": "https://github.com/flarchive/askvortsov1-flarum-checklist",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

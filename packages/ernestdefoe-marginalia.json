@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-marginalia",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-marginalia",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

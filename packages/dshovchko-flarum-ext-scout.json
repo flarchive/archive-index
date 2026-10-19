@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dshovchko-flarum-ext-scout",
+    "archive_repo_url": "https://github.com/flarchive/dshovchko-flarum-ext-scout",
+    "is_fork": true,
+    "fork_parent": "clarkwinkelmann/flarum-ext-scout",
+    "abandoned": null
 }

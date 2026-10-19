@@ -39,5 +39,10 @@
             "flarum": "^1.8"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/acpl/flarum-db-dumper"
+    "packagistUrl": "https://packagist.org/packages/acpl/flarum-db-dumper",
+    "archive_repo": "android-com-pl-flarum-db-dumper",
+    "archive_repo_url": "https://github.com/flarchive/android-com-pl-flarum-db-dumper",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "acpl/flarum-db-snapshots"
 }

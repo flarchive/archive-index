@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "dsgnr-flarum-ext-customcss",
+    "archive_repo_url": "https://github.com/flarchive/dsgnr-flarum-ext-customcss",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

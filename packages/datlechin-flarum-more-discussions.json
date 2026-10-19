@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flatension-more-discussions",
+    "archive_repo_url": "https://github.com/flarchive/flatension-more-discussions",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

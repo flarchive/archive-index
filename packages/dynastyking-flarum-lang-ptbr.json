@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dynastyking-flarum-lang-ptbr",
+    "archive_repo_url": "https://github.com/flarchive/dynastyking-flarum-lang-ptbr",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

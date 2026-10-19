@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "johnlewissims-like-counter",
+    "archive_repo_url": "https://github.com/flarchive/johnlewissims-like-counter",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

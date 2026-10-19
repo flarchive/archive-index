@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "cengizhan00-tc-no-dogrulama",
+    "archive_repo_url": "https://github.com/flarchive/cengizhan00-tc-no-dogrulama",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

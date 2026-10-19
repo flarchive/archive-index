@@ -27,5 +27,10 @@
             "flarum": "^1.2.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/andreybrigunet/flarum-share-social"
+    "packagistUrl": "https://packagist.org/packages/andreybrigunet/flarum-share-social",
+    "archive_repo": "andreybrigunet-flarum-share-social",
+    "archive_repo_url": "https://github.com/flarchive/andreybrigunet-flarum-share-social",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/share-social",
+    "abandoned": null
 }

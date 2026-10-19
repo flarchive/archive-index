@@ -63,5 +63,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/akr/chevereto"
+    "packagistUrl": "https://packagist.org/packages/akr/chevereto",
+    "archive_repo": "akr-developers-flarum-chevereto",
+    "archive_repo_url": "https://github.com/flarchive/akr-developers-flarum-chevereto",
+    "is_fork": true,
+    "fork_parent": "zhujia18/flarum-chevereto",
+    "abandoned": null
 }

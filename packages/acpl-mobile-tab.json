@@ -423,5 +423,10 @@
             "status": "ok"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/acpl/mobile-tab"
+    "packagistUrl": "https://packagist.org/packages/acpl/mobile-tab",
+    "archive_repo": "android-com-pl-mobile-tab",
+    "archive_repo_url": "https://github.com/flarchive/android-com-pl-mobile-tab",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

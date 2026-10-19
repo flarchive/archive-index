@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-seo",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-seo",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/seo",
+    "abandoned": "fof/seo"
 }

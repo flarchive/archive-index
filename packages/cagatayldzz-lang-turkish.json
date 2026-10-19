@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "cagatayldzz-lang-turkish",
+    "archive_repo_url": "https://github.com/flarchive/cagatayldzz-lang-turkish",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

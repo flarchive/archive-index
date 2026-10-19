@@ -82,5 +82,10 @@
             "flarum": "",
             "browse_url": "https://packagist.org/packages/baw-appie/flarum-lang-korean"
         }
-    ]
+    ],
+    "archive_repo": "baw-appie-flarum-lang-korean",
+    "archive_repo_url": "https://github.com/flarchive/baw-appie-flarum-lang-korean",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

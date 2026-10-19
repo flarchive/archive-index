@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "datlechin-flarum-ai-summarize",
+    "archive_repo_url": "https://github.com/flarchive/datlechin-flarum-ai-summarize",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

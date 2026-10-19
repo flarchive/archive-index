@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ekumanov-online-users-widget",
+    "archive_repo_url": "https://github.com/flarchive/ekumanov-online-users-widget",
+    "is_fork": true,
+    "fork_parent": "afrux/online-users-widget",
+    "abandoned": null
 }

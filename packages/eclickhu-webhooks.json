@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "eclickhu-webhooks",
+    "archive_repo_url": "https://github.com/flarchive/eclickhu-webhooks",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/webhooks",
+    "abandoned": null
 }

@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "cleverloginname-flarum-ext-autoimage-autovideo",
+    "archive_repo_url": "https://github.com/flarchive/cleverloginname-flarum-ext-autoimage-autovideo",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

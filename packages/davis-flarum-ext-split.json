@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dav-is-flarum-ext-split",
+    "archive_repo_url": "https://github.com/flarchive/dav-is-flarum-ext-split",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/split",
+    "abandoned": "fof/split"
 }

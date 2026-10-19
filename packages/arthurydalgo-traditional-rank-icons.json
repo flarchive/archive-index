@@ -27,5 +27,10 @@
             "flarum": "^1.2"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/arthurydalgo/traditional-rank-icons"
+    "packagistUrl": "https://packagist.org/packages/arthurydalgo/traditional-rank-icons",
+    "archive_repo": "arthurydalgo-traditional-rank-icons",
+    "archive_repo_url": "https://github.com/flarchive/arthurydalgo-traditional-rank-icons",
+    "is_fork": true,
+    "fork_parent": "ReFlar/traditional-rank-icons",
+    "abandoned": null
 }

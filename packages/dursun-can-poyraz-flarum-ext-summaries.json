@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dursuncanpoyraz-flarum-ext-summaries",
+    "archive_repo_url": "https://github.com/flarchive/dursuncanpoyraz-flarum-ext-summaries",
+    "is_fork": true,
+    "fork_parent": "imorland/synopsis",
+    "abandoned": null
 }

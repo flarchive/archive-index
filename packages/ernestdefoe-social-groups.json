@@ -1575,5 +1575,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-social-groups",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-social-groups",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -27,5 +27,10 @@
             "flarum": "^0.1.0-beta.8"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-copy-links"
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-copy-links",
+    "archive_repo": "askvortsov1-flarum-copy-links",
+    "archive_repo_url": "https://github.com/flarchive/askvortsov1-flarum-copy-links",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "askvortsov/flarum-pwa"
 }

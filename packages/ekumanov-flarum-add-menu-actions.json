@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ekumanov-flarum-add-menu-actions",
+    "archive_repo_url": "https://github.com/flarchive/ekumanov-flarum-add-menu-actions",
+    "is_fork": true,
+    "fork_parent": "datlechin/flarum-add-like-controls",
+    "abandoned": null
 }

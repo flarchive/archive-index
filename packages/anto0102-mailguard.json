@@ -159,5 +159,10 @@
             "flarum": "^2.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/anto0102/mailguard"
+    "packagistUrl": "https://packagist.org/packages/anto0102/mailguard",
+    "archive_repo": "anto0102-mailguard",
+    "archive_repo_url": "https://github.com/flarchive/anto0102-mailguard",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

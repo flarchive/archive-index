@@ -1299,5 +1299,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flarum-lang-chinese-simplified",
+    "archive_repo_url": "https://github.com/flarchive/flarum-lang-chinese-simplified",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/chinese-simplified"
 }

@@ -279,5 +279,10 @@
             "status": "ok"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/antoinefr/flarum-ext-money"
+    "packagistUrl": "https://packagist.org/packages/antoinefr/flarum-ext-money",
+    "archive_repo": "antoinefr-flarum-ext-money",
+    "archive_repo_url": "https://github.com/flarchive/antoinefr-flarum-ext-money",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

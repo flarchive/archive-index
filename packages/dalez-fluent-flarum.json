@@ -279,5 +279,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dellzhackintosh-fluent-flarum",
+    "archive_repo_url": "https://github.com/flarchive/dellzhackintosh-fluent-flarum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

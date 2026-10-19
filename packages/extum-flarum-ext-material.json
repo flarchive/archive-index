@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "extum-flarum-ext-material",
+    "archive_repo_url": "https://github.com/flarchive/extum-flarum-ext-material",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "believer-ufa-flarum-file-upload",
+    "archive_repo_url": "https://github.com/flarchive/believer-ufa-flarum-file-upload",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

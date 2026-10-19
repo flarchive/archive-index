@@ -27,5 +27,10 @@
             "flarum": "^1.2.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/anthonyogundipe/preview-discussion"
+    "packagistUrl": "https://packagist.org/packages/anthonyogundipe/preview-discussion",
+    "archive_repo": "dhtml-flarum-ext-preview-discussion",
+    "archive_repo_url": "https://github.com/flarchive/dhtml-flarum-ext-preview-discussion",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

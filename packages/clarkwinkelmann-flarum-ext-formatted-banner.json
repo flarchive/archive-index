@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "clarkwinkelmann-flarum-ext-formatted-banner",
+    "archive_repo_url": "https://github.com/flarchive/clarkwinkelmann-flarum-ext-formatted-banner",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

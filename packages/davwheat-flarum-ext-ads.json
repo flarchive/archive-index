@@ -183,5 +183,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "davwheat-flarum-ext-ads",
+    "archive_repo_url": "https://github.com/flarchive/davwheat-flarum-ext-ads",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

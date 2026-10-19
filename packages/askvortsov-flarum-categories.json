@@ -471,5 +471,10 @@
             "flarum": "^1.2.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-categories"
+    "packagistUrl": "https://packagist.org/packages/askvortsov/flarum-categories",
+    "archive_repo": "askvortsov1-flarum-categories",
+    "archive_repo_url": "https://github.com/flarchive/askvortsov1-flarum-categories",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

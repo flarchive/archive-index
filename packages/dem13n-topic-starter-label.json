@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dem13n-topic-starter-label",
+    "archive_repo_url": "https://github.com/flarchive/dem13n-topic-starter-label",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

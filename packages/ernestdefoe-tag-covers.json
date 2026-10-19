@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-tag-covers",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-tag-covers",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

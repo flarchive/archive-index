@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "bagiril-payments",
+    "archive_repo_url": "https://github.com/flarchive/bagiril-payments",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

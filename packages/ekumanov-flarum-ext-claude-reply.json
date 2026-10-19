@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ekumanov-flarum-ext-claude-reply",
+    "archive_repo_url": "https://github.com/flarchive/ekumanov-flarum-ext-claude-reply",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "cc2562-gravatar",
+    "archive_repo_url": "https://github.com/flarchive/cc2562-gravatar",
+    "is_fork": true,
+    "fork_parent": "imorland/gravatar",
+    "abandoned": null
 }

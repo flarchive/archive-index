@@ -99,5 +99,10 @@
             "flarum": "^1.0.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-import-fluxbb"
+    "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-import-fluxbb",
+    "archive_repo": "archlinux-de-flarum-import-fluxbb",
+    "archive_repo_url": "https://github.com/flarchive/archlinux-de-flarum-import-fluxbb",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

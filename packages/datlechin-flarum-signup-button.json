@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "flatension-signup-button",
+    "archive_repo_url": "https://github.com/flarchive/flatension-signup-button",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -27,5 +27,10 @@
             "flarum": "^0.1.0-beta.3"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork"
+    "packagistUrl": "https://packagist.org/packages/7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork",
+    "archive_repo": "7h3ev1l-flarum-ext-theevil-silencebgsoftware-fork",
+    "archive_repo_url": "https://github.com/flarchive/7h3ev1l-flarum-ext-theevil-silencebgsoftware-fork",
+    "is_fork": true,
+    "fork_parent": "matpompili/flarum-favicon",
+    "abandoned": null
 }

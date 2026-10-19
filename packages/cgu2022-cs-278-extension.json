@@ -147,5 +147,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "cgu2022-cs-278-extension",
+    "archive_repo_url": "https://github.com/flarchive/cgu2022-cs-278-extension",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

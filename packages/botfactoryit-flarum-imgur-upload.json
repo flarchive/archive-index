@@ -255,5 +255,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "botfactoryit-flarum-imgur-upload",
+    "archive_repo_url": "https://github.com/flarchive/botfactoryit-flarum-imgur-upload",
+    "is_fork": true,
+    "fork_parent": "matpompili/flarum-imgur-upload",
+    "abandoned": "matteocontrini/flarum-imgur-upload"
 }

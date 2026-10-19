@@ -195,5 +195,10 @@
             "flarum": "^0.1.0-beta.4"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/7h3ev1l/flarum-ext-bulgarian"
+    "packagistUrl": "https://packagist.org/packages/7h3ev1l/flarum-ext-bulgarian",
+    "archive_repo": "7h3ev1l-flarum-ext-bulgarian",
+    "archive_repo_url": "https://github.com/flarchive/7h3ev1l-flarum-ext-bulgarian",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": "1"
 }

@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "blomstra-flarum-ext-user-filter",
+    "archive_repo_url": "https://github.com/flarchive/blomstra-flarum-ext-user-filter",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "glowingblue/author-filter"
 }

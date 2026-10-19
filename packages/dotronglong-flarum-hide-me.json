@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "dotronglong-flarum-hide-me",
+    "archive_repo_url": "https://github.com/flarchive/dotronglong-flarum-hide-me",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

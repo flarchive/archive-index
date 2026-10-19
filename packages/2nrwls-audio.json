@@ -219,5 +219,10 @@
             "flarum": "^0.1.0-beta.16 || ^1.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/2nrwls/audio"
+    "packagistUrl": "https://packagist.org/packages/2nrwls/audio",
+    "archive_repo": "2nrwls-audio",
+    "archive_repo_url": "https://github.com/flarchive/2nrwls-audio",
+    "is_fork": true,
+    "fork_parent": "pluveto/flarum-bbcode-audio",
+    "abandoned": null
 }

@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "davwheat-flarum-ext-blog-featured-widget",
+    "archive_repo_url": "https://github.com/flarchive/davwheat-flarum-ext-blog-featured-widget",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

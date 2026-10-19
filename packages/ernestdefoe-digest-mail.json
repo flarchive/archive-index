@@ -195,5 +195,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ernestdefoe-digest-mail",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-digest-mail",
+    "is_fork": true,
+    "fork_parent": "ResofireV2/digest-mail",
+    "abandoned": null
 }

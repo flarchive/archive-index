@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "clarkwinkelmann-flarum-ext-discussion-bookmarks",
+    "archive_repo_url": "https://github.com/flarchive/clarkwinkelmann-flarum-ext-discussion-bookmarks",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

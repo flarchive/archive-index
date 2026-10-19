@@ -87,5 +87,10 @@
             "flarum": "^v2.0.0-beta.8"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/acpl/flarum-db-snapshots"
+    "packagistUrl": "https://packagist.org/packages/acpl/flarum-db-snapshots",
+    "archive_repo": "android-com-pl-flarum-db-snapshots",
+    "archive_repo_url": "https://github.com/flarchive/android-com-pl-flarum-db-snapshots",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

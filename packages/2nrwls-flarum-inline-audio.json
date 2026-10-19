@@ -99,5 +99,10 @@
             "flarum": "^0.1.0-beta.16 || ^1.0"
         }
     ],
-    "packagistUrl": "https://packagist.org/packages/2nrwls/flarum-inline-audio"
+    "packagistUrl": "https://packagist.org/packages/2nrwls/flarum-inline-audio",
+    "archive_repo": "2nrwls-flarum-inline-audio",
+    "archive_repo_url": "https://github.com/flarchive/2nrwls-flarum-inline-audio",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

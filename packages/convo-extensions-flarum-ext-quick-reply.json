@@ -38,5 +38,10 @@
             "flarum": "^1.1.0",
             "browse_url": "https://github.com/convo-extensions/flarum-ext-quick-reply/tree/1.0.0"
         }
-    ]
+    ],
+    "archive_repo": "convo-extensions-flarum-ext-quick-reply",
+    "archive_repo_url": "https://github.com/flarchive/convo-extensions-flarum-ext-quick-reply",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

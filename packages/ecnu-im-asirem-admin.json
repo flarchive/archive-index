@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ecnu-forum-asirem-admin",
+    "archive_repo_url": "https://github.com/flarchive/ecnu-forum-asirem-admin",
+    "is_fork": true,
+    "fork_parent": "afrux/asirem",
+    "abandoned": null
 }

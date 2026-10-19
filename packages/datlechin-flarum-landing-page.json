@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "datlechin-flarum-landing-page",
+    "archive_repo_url": "https://github.com/flarchive/datlechin-flarum-landing-page",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }
