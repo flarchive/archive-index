@@ -291,5 +291,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "william0wang-flarum-imgur-upload",
+    "archive_repo_url": "https://github.com/flarchive/william0wang-flarum-imgur-upload",
+    "is_fork": true,
+    "fork_parent": "matteocontrini/flarum-imgur-upload",
+    "abandoned": null
 }

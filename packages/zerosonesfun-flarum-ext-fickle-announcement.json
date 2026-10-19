@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-ext-fickle-announcement",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-ext-fickle-announcement",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zhujia18-flarum-chevereto",
+    "archive_repo_url": "https://github.com/flarchive/zhujia18-flarum-chevereto",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

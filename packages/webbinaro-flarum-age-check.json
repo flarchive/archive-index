@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "eddiewebb-flarum-age-check",
+    "archive_repo_url": "https://github.com/flarchive/eddiewebb-flarum-age-check",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

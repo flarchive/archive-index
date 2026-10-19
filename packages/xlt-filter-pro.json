@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "xiaoluotian189-filter-pro",
+    "archive_repo_url": "https://github.com/flarchive/xiaoluotian189-filter-pro",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

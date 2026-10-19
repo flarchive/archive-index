@@ -135,5 +135,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-ext-link-previews",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-ext-link-previews",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

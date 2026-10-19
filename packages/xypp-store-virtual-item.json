@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zxy19-store-virtual-item",
+    "archive_repo_url": "https://github.com/flarchive/zxy19-store-virtual-item",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

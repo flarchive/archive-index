@@ -435,5 +435,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-preview",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-preview",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

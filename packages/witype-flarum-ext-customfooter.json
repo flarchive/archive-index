@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "witype-flarum-ext-customfooter",
+    "archive_repo_url": "https://github.com/flarchive/witype-flarum-ext-customfooter",
+    "is_fork": true,
+    "fork_parent": "dav-is/flarum-ext-customfooter",
+    "abandoned": null
 }

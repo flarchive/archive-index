@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "xsoft-ict-fof-mason-tag",
+    "archive_repo_url": "https://github.com/flarchive/xsoft-ict-fof-mason-tag",
+    "is_fork": true,
+    "fork_parent": "FriendsOfFlarum/mason",
+    "abandoned": null
 }

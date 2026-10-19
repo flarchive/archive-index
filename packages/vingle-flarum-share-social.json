@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tutula1-vingle-share-social",
+    "archive_repo_url": "https://github.com/flarchive/tutula1-vingle-share-social",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

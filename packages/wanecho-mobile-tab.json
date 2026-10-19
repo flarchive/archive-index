@@ -71,5 +71,10 @@
             "flarum": "^1.2",
             "browse_url": "https://packagist.org/packages/wanecho/mobile-tab"
         }
-    ]
+    ],
+    "archive_repo": "wanecho-mobile-tab",
+    "archive_repo_url": "https://github.com/flarchive/wanecho-mobile-tab",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

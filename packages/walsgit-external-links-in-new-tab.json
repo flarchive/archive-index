@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "walsgit-external-links-in-new-tab",
+    "archive_repo_url": "https://github.com/flarchive/walsgit-external-links-in-new-tab",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

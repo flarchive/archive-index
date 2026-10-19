@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "xmugenx-flarum-ext-username-chinese-support",
+    "archive_repo_url": "https://github.com/flarchive/xmugenx-flarum-ext-username-chinese-support",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

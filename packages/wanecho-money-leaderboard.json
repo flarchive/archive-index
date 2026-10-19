@@ -27,5 +27,10 @@
             "flarum": "^1.7.0",
             "browse_url": "https://packagist.org/packages/wanecho/money-leaderboard"
         }
-    ]
+    ],
+    "archive_repo": "wanecho-money-leaderboard",
+    "archive_repo_url": "https://github.com/flarchive/wanecho-money-leaderboard",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

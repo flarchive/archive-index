@@ -16,5 +16,10 @@
             "flarum": "^1.2",
             "browse_url": "https://packagist.org/packages/wanecho/money-tip"
         }
-    ]
+    ],
+    "archive_repo": "wanecho-money-tip",
+    "archive_repo_url": "https://github.com/flarchive/wanecho-money-tip",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

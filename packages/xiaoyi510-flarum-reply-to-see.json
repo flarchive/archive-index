@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "xiaoyi510-flarum-reply-to-see",
+    "archive_repo_url": "https://github.com/flarchive/xiaoyi510-flarum-reply-to-see",
+    "is_fork": true,
+    "fork_parent": "rehiy/flarum-reply-to-see",
+    "abandoned": null
 }

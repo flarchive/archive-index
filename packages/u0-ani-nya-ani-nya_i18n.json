@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "u0-ani-nya-ani-nya_i18n",
+    "archive_repo_url": "https://github.com/flarchive/u0-ani-nya-ani-nya_i18n",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

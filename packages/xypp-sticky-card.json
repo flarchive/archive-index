@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zxy19-flarum-sticky-card",
+    "archive_repo_url": "https://github.com/flarchive/zxy19-flarum-sticky-card",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

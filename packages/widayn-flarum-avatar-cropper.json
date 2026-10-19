@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "widayn-flarum-avatar-cropper",
+    "archive_repo_url": "https://github.com/flarchive/widayn-flarum-avatar-cropper",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

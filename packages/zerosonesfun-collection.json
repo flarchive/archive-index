@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-collection",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-collection",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

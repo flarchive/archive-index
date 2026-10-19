@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "yiin--flarum-ext-lithuanian",
+    "archive_repo_url": "https://github.com/flarchive/yiin--flarum-ext-lithuanian",
+    "is_fork": true,
+    "fork_parent": "flarum/lang-english",
+    "abandoned": null
 }

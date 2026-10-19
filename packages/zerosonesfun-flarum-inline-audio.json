@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-inline-audio",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-inline-audio",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

@@ -183,5 +183,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "vadkuz-flarum2-tag-favicon-and-file",
+    "archive_repo_url": "https://github.com/flarchive/vadkuz-flarum2-tag-favicon-and-file",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

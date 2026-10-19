@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "echolocked-zhihe-restricted-posts",
+    "archive_repo_url": "https://github.com/flarchive/echolocked-zhihe-restricted-posts",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

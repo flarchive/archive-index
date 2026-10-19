@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "wyatts97-forum-member-map",
+    "archive_repo_url": "https://github.com/flarchive/wyatts97-forum-member-map",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

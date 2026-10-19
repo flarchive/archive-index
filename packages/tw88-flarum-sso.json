@@ -231,5 +231,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tw88-flarum-sso",
+    "archive_repo_url": "https://github.com/flarchive/tw88-flarum-sso",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "therealsujitk-flarum-ext-hljs",
+    "archive_repo_url": "https://github.com/flarchive/therealsujitk-flarum-ext-hljs",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ziiven-flarum-daily-check-in",
+    "archive_repo_url": "https://github.com/flarchive/ziiven-flarum-daily-check-in",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

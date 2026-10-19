@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/wvbforum/covid-bbcode",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "wvbforum-covid-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/wvbforum-covid-bbcode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

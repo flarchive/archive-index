@@ -1347,5 +1347,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "valek333-flarum-lang-ru-ext",
+    "archive_repo_url": "https://github.com/flarchive/valek333-flarum-lang-ru-ext",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

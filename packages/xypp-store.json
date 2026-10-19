@@ -375,5 +375,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zxy19-store",
+    "archive_repo_url": "https://github.com/flarchive/zxy19-store",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

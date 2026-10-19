@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tohsakrat-flarum-table-of-content",
+    "archive_repo_url": "https://github.com/flarchive/tohsakrat-flarum-table-of-content",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

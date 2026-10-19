@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "wszdb-flarum-replybyai",
+    "archive_repo_url": "https://github.com/flarchive/wszdb-flarum-replybyai",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

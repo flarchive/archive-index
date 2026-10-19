@@ -214,5 +214,10 @@
             "flarum": "^1.7.0",
             "browse_url": "https://packagist.org/packages/wanecho/flarum-adnet"
         }
-    ]
+    ],
+    "archive_repo": "wanecho-flarum-adnet",
+    "archive_repo_url": "https://github.com/flarchive/wanecho-flarum-adnet",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -1095,5 +1095,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-bbbbcode",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-bbbbcode",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

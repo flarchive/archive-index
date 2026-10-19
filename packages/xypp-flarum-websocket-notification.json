@@ -351,5 +351,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zxy19-flarum-websocket-notification",
+    "archive_repo_url": "https://github.com/flarchive/zxy19-flarum-websocket-notification",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

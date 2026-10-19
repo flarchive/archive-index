@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tituspijean-flarum-ext-auth-ssowat",
+    "archive_repo_url": "https://github.com/flarchive/tituspijean-flarum-ext-auth-ssowat",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

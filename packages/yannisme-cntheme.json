@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "yannisme-flarum-cn-theme",
+    "archive_repo_url": "https://github.com/flarchive/yannisme-flarum-cn-theme",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

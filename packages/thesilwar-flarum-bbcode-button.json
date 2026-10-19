@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "thesilwar-flarum-bbcode-button",
+    "archive_repo_url": "https://github.com/flarchive/thesilwar-flarum-bbcode-button",
+    "is_fork": true,
+    "fork_parent": "ash3T/flarum-bbcode-button",
+    "abandoned": null
 }

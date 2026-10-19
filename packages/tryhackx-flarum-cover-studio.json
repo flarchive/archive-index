@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tryhackx-flarum-cover-studio",
+    "archive_repo_url": "https://github.com/flarchive/tryhackx-flarum-cover-studio",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

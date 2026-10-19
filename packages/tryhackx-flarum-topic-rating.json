@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tryhackx-flarum-topic-rating",
+    "archive_repo_url": "https://github.com/flarchive/tryhackx-flarum-topic-rating",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -195,5 +195,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "walsgit-flarum-discussion-cards",
+    "archive_repo_url": "https://github.com/flarchive/walsgit-flarum-discussion-cards",
+    "is_fork": true,
+    "fork_parent": "Dem13n/discussion-cards",
+    "abandoned": null
 }

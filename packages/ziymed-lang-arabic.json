@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "ziymed-lang-arabic",
+    "archive_repo_url": "https://github.com/flarchive/ziymed-lang-arabic",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

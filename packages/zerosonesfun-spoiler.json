@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-spoiler",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-spoiler",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

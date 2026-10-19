@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "xrh0905-flarum-ext-oauth-microsoft",
+    "archive_repo_url": "https://github.com/flarchive/xrh0905-flarum-ext-oauth-microsoft",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -135,5 +135,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-announce",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-announce",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

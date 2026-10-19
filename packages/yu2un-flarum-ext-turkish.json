@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/yu2un/flarum-ext-turkish",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "yu2un-flarum-ext-turkish",
+    "archive_repo_url": "https://github.com/flarchive/yu2un-flarum-ext-turkish",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

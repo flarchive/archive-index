@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "yohtozze-markdown-paste",
+    "archive_repo_url": "https://github.com/flarchive/yohtozze-markdown-paste",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

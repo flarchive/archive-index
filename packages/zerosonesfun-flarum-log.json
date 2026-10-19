@@ -795,5 +795,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-log",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-log",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

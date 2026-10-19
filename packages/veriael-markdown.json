@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "veriael-markdown",
+    "archive_repo_url": "https://github.com/flarchive/veriael-markdown",
+    "is_fork": true,
+    "fork_parent": "flarum/markdown",
+    "abandoned": null
 }

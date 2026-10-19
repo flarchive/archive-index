@@ -339,5 +339,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-ext-sm2",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-ext-sm2",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "zerosonesfun/flarum-inline-audio"
 }

@@ -27,5 +27,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "umhelper-flarum-ext-oauth-clerk",
+    "archive_repo_url": "https://github.com/flarchive/umhelper-flarum-ext-oauth-clerk",
+    "is_fork": true,
+    "fork_parent": "blomstra/flarum-ext-oauth-slack",
+    "abandoned": null
 }

@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "1337god-flarum-ext-steamcard",
+    "archive_repo_url": "https://github.com/flarchive/1337god-flarum-ext-steamcard",
+    "is_fork": true,
+    "fork_parent": "Beeta-dev/flarum-ext-webm",
+    "abandoned": null
 }

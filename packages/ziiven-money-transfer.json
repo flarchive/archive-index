@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ziiven-ziven-money-transfer",
+    "archive_repo_url": "https://github.com/flarchive/ziiven-ziven-money-transfer",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

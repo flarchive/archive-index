@@ -51,5 +51,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zzzz0317-flarum-ext-mediaembed",
+    "archive_repo_url": "https://github.com/flarchive/zzzz0317-flarum-ext-mediaembed",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

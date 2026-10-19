@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zoliidev-hun_flarum",
+    "archive_repo_url": "https://github.com/flarchive/zoliidev-hun_flarum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

@@ -219,5 +219,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "shahiem-flarum-poll",
+    "archive_repo_url": "https://github.com/flarchive/shahiem-flarum-poll",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "reflar/polls"
 }

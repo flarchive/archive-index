@@ -891,5 +891,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "wannerzoer-flarum-lang-simplified-chinese",
+    "archive_repo_url": "https://github.com/flarchive/wannerzoer-flarum-lang-simplified-chinese",
+    "is_fork": true,
+    "fork_parent": "littlegolden/flarum-lang-simplified-chinese",
+    "abandoned": null
 }

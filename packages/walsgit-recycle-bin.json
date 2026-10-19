@@ -243,5 +243,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "walsgit-recycle-bin",
+    "archive_repo_url": "https://github.com/flarchive/walsgit-recycle-bin",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

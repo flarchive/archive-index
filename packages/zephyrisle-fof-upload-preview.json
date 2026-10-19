@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/zephyrisle/fof-upload-preview",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "zephyrisle-fof-upload-preview",
+    "archive_repo_url": "https://github.com/flarchive/zephyrisle-fof-upload-preview",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

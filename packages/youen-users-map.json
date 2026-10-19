@@ -49,5 +49,10 @@
             "flarum": "^1.0.0",
             "browse_url": "https://packagist.org/packages/youen/users-map"
         }
-    ]
+    ],
+    "archive_repo": "youen-users-map",
+    "archive_repo_url": "https://github.com/flarchive/youen-users-map",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

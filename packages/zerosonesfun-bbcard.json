@@ -63,5 +63,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-bbcard",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-bbcard",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

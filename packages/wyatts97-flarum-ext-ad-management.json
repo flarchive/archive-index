@@ -315,5 +315,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "wyatts97-flarum-ext-ad-management",
+    "archive_repo_url": "https://github.com/flarchive/wyatts97-flarum-ext-ad-management",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

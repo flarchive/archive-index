@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-bbcode-advanced-image",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-bbcode-advanced-image",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

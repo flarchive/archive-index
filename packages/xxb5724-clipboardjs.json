@@ -16,5 +16,10 @@
             "flarum": "^2.0.0",
             "browse_url": "https://packagist.org/packages/xxb5724/clipboardjs"
         }
-    ]
+    ],
+    "archive_repo": "xxb5724-clipboardjs",
+    "archive_repo_url": "https://github.com/flarchive/xxb5724-clipboardjs",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

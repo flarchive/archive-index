@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "william1607cho-flarum-ext-rss",
+    "archive_repo_url": "https://github.com/flarchive/william1607cho-flarum-ext-rss",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

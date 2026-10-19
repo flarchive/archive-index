@@ -399,5 +399,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tolgaaaltas-flarum-lang-turkish",
+    "archive_repo_url": "https://github.com/flarchive/tolgaaaltas-flarum-lang-turkish",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "flarum-lang/turkish"
 }

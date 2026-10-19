@@ -867,5 +867,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "winrey-lang-traditional-chinese",
+    "archive_repo_url": "https://github.com/flarchive/winrey-lang-traditional-chinese",
+    "is_fork": true,
+    "fork_parent": "Csineneo/lang-traditional-chinese",
+    "abandoned": null
 }

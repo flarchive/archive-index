@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "whydesd-flarum-ext-reply2see",
+    "archive_repo_url": "https://github.com/flarchive/whydesd-flarum-ext-reply2see",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

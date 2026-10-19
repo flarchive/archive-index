@@ -93,5 +93,10 @@
             "flarum": "^1.7.0",
             "browse_url": "https://packagist.org/packages/unt/flarum-chatgpt"
         }
-    ]
+    ],
+    "archive_repo": "unt-flarum-chatgpt",
+    "archive_repo_url": "https://github.com/flarchive/unt-flarum-chatgpt",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

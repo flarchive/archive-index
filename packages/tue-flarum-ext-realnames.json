@@ -4,5 +4,10 @@
     "packagistUrl": "https://packagist.org/packages/tue/flarum-ext-realnames",
     "archive_status": "dev_only",
     "archive_notice": "No tagged releases published on Packagist (development branch only). Code archiving requires tagged releases.",
-    "versions": []
+    "versions": [],
+    "archive_repo": "tue-flarum-ext-realnames",
+    "archive_repo_url": "https://github.com/flarchive/tue-flarum-ext-realnames",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

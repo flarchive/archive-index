@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-bbcode-button",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-bbcode-button",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

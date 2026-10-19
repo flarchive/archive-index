@@ -93,5 +93,10 @@
             "flarum": "^1.2.0",
             "browse_url": "https://packagist.org/packages/wanecho/mobilelogin"
         }
-    ]
+    ],
+    "archive_repo": "wanecho-mobilelogin",
+    "archive_repo_url": "https://github.com/flarchive/wanecho-mobilelogin",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

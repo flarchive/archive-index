@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zxy19-flarum_copyright_card",
+    "archive_repo_url": "https://github.com/flarchive/zxy19-flarum_copyright_card",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

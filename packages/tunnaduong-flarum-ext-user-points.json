@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tunnaduong-flarum-ext-user-points",
+    "archive_repo_url": "https://github.com/flarchive/tunnaduong-flarum-ext-user-points",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "jc-proplus-flarum-ext-post-license",
+    "archive_repo_url": "https://github.com/flarchive/jc-proplus-flarum-ext-post-license",
+    "is_fork": true,
+    "fork_parent": "clarkwinkelmann/flarum-ext-post-license",
+    "abandoned": null
 }

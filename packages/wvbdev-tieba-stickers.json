@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "wvbdev-tieba-stickers",
+    "archive_repo_url": "https://github.com/flarchive/wvbdev-tieba-stickers",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

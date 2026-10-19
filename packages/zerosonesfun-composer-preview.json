@@ -195,5 +195,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-ext-composer-preview",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-ext-composer-preview",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-patch-fof-upload",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-patch-fof-upload",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

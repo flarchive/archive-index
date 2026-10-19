@@ -267,5 +267,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zxy19-flarum-more-bbcode",
+    "archive_repo_url": "https://github.com/flarchive/zxy19-flarum-more-bbcode",
+    "is_fork": true,
+    "fork_parent": "imeepo/flarum-more-bbcode",
+    "abandoned": null
 }

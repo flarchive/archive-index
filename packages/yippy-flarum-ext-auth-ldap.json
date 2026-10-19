@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "yippy-flarum-ext-auth-ldap",
+    "archive_repo_url": "https://github.com/flarchive/yippy-flarum-ext-auth-ldap",
+    "is_fork": true,
+    "fork_parent": "tituspijean/flarum-ext-auth-ldap",
+    "abandoned": null
 }

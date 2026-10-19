@@ -111,5 +111,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-pwa",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-pwa",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "askvortsov/flarum-pwa"
 }

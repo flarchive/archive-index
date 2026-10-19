@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tryhackx-flarum-homepage-blocks",
+    "archive_repo_url": "https://github.com/flarchive/tryhackx-flarum-homepage-blocks",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

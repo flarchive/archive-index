@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "tri-duong-dena-flarum-ext-vietnamese",
+    "archive_repo_url": "https://github.com/flarchive/tri-duong-dena-flarum-ext-vietnamese",
+    "is_fork": true,
+    "fork_parent": "flarum-lang/french",
+    "abandoned": null
 }

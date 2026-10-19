@@ -339,5 +339,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "hackyazz-discussionpost",
+    "archive_repo_url": "https://github.com/flarchive/hackyazz-discussionpost",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

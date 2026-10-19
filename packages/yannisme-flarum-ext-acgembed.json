@@ -123,5 +123,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "yannisme-flarum-ext-acgembed",
+    "archive_repo_url": "https://github.com/flarchive/yannisme-flarum-ext-acgembed",
+    "is_fork": true,
+    "fork_parent": "LCinHK/flarum-ext-acgembed",
+    "abandoned": null
 }

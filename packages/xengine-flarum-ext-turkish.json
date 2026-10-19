@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "xengine-flarum-ext-turkish",
+    "archive_repo_url": "https://github.com/flarchive/xengine-flarum-ext-turkish",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

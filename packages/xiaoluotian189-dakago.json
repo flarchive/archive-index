@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "xiaoluotian189-dakago",
+    "archive_repo_url": "https://github.com/flarchive/xiaoluotian189-dakago",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

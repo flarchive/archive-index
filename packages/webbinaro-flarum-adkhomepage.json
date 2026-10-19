@@ -135,5 +135,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "eddiewebb-flarum-adkhomepage",
+    "archive_repo_url": "https://github.com/flarchive/eddiewebb-flarum-adkhomepage",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

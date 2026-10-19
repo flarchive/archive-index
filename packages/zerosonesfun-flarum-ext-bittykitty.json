@@ -171,5 +171,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zerosonesfun-flarum-ext-bittykitty",
+    "archive_repo_url": "https://github.com/flarchive/zerosonesfun-flarum-ext-bittykitty",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": "1"
 }

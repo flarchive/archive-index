@@ -115,5 +115,10 @@
             "flarum": "^1.7.0",
             "browse_url": "https://packagist.org/packages/wanecho/flarum-app"
         }
-    ]
+    ],
+    "archive_repo": "wanecho-flarum-app",
+    "archive_repo_url": "https://github.com/flarchive/wanecho-flarum-app",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

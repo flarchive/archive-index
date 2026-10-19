@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "wiwatsrt-flarum-ext-slug-thai",
+    "archive_repo_url": "https://github.com/flarchive/wiwatsrt-flarum-ext-slug-thai",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

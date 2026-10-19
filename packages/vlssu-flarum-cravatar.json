@@ -87,5 +87,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "vlssu-flarum-cravatar",
+    "archive_repo_url": "https://github.com/flarchive/vlssu-flarum-cravatar",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

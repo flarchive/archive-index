@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "ygpynet-link-preview",
+    "archive_repo_url": "https://github.com/flarchive/ygpynet-link-preview",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

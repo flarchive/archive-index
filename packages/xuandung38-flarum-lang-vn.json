@@ -15,5 +15,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "xuandung38-flarum-lang-vn",
+    "archive_repo_url": "https://github.com/flarchive/xuandung38-flarum-lang-vn",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

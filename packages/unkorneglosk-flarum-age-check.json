@@ -39,5 +39,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "unkorneglosk-flarum-age-check",
+    "archive_repo_url": "https://github.com/flarchive/unkorneglosk-flarum-age-check",
+    "is_fork": true,
+    "fork_parent": "eddiewebb/flarum-age-check",
+    "abandoned": null
 }

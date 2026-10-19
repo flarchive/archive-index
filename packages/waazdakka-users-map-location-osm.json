@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "waazdakka-users-map-location-osm",
+    "archive_repo_url": "https://github.com/flarchive/waazdakka-users-map-location-osm",
+    "is_fork": true,
+    "fork_parent": "justoverclockl/users-map-location",
+    "abandoned": null
 }

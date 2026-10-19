@@ -327,5 +327,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "framiodev-ulasimarsiv-upload-exif",
+    "archive_repo_url": "https://github.com/flarchive/framiodev-ulasimarsiv-upload-exif",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

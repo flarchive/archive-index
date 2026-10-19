@@ -75,5 +75,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "velcis-super-sticky",
+    "archive_repo_url": "https://github.com/flarchive/velcis-super-sticky",
+    "is_fork": true,
+    "fork_parent": "flarum/sticky",
+    "abandoned": null
 }

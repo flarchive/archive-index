@@ -99,5 +99,10 @@
             "source": "archived",
             "status": "unavailable"
         }
-    ]
+    ],
+    "archive_repo": "zhetengtiao-lang-simplified-chinese",
+    "archive_repo_url": "https://github.com/flarchive/zhetengtiao-lang-simplified-chinese",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

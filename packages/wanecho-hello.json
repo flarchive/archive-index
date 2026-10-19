@@ -159,5 +159,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "wanecho-hello",
+    "archive_repo_url": "https://github.com/flarchive/wanecho-hello",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }

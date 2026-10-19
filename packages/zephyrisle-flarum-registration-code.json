@@ -339,5 +339,10 @@
             "source": "archived",
             "status": "ok"
         }
-    ]
+    ],
+    "archive_repo": "zephyr-isle-flarum-registration-code",
+    "archive_repo_url": "https://github.com/flarchive/zephyr-isle-flarum-registration-code",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null
 }
