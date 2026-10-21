@@ -134,6 +134,18 @@
             "flarum": "^2.0.2",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.9.2",
+            "tag": "archive/v2.9.2",
+            "upstream_commit": "4c440968ad5ed3593b2cf68bb05fe138f73eb0bc",
+            "archive_commit": "f017804b2dc178d46250834255962059164efd6b",
+            "released": "2026-10-21T14:02:08+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "tryhackx-flarum-homepage-blocks",
