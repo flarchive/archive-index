@@ -98,6 +98,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.6.0",
+            "tag": "archive/v1.6.0",
+            "upstream_commit": "9da563ce6781a4269c224edc195eabad9e80ace1",
+            "archive_commit": "dd9ffc671ab745bdb126bc5490c30172138eae86",
+            "released": "2026-10-21T20:37:33+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-waymark",
