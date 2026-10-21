@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/gauntlet",
+    "upstream": "https://github.com/ernestdefoe/gauntlet",
+    "archive_repo": "ernestdefoe-gauntlet",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-gauntlet",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/gauntlet",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b7e1458bd495fce0f4c7ed130a26556abcc16ba7",
+            "archive_commit": "91072f2d68984653aea300104db695a3b921ca43",
+            "released": "2026-10-21T14:43:08+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

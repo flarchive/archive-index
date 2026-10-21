@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/bouncer",
+    "upstream": "https://github.com/ernestdefoe/bouncer",
+    "archive_repo": "ernestdefoe-bouncer",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-bouncer",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/bouncer",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4df1737787672f391d17ea021662a690c06fd767",
+            "archive_commit": "81505d17c695635a1d60f919471f8275511d977a",
+            "released": "2026-10-21T14:41:58+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
