@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/docket",
+    "upstream": "https://github.com/ernestdefoe/docket",
+    "archive_repo": "ernestdefoe-docket",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-docket",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/docket",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "279debb73cf96ffc2c79d9d950938fb3f873e7db",
+            "archive_commit": "762dfb1bb5f54f884d8b06c5fadcf087f96598a7",
+            "released": "2026-10-20T16:11:34+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

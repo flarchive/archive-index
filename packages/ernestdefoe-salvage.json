@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/salvage",
+    "upstream": "https://github.com/ernestdefoe/salvage",
+    "archive_repo": "ernestdefoe-salvage",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-salvage",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/salvage",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6a779560d93af00b0dba36c6ec44942bb0968bd5",
+            "archive_commit": "ac99dd09b383cebae1c3bedd0a24c57c63980d95",
+            "released": "2026-10-20T17:02:50+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

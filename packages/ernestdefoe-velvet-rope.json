@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/velvet-rope",
+    "upstream": "https://github.com/ernestdefoe/velvet-rope",
+    "archive_repo": "ernestdefoe-velvet-rope",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-velvet-rope",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/velvet-rope",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e6a78d255e8c323a49d69fec9afeb69dfae22546",
+            "archive_commit": "fcc9f2f305796de169f5e07bdb1f52eb826d23a7",
+            "released": "2026-10-20T16:10:37+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "package": "edgeinfinity/diy-homepage",
+    "upstream": "https://github.com/edgeinfinity1/flarum-diy-homepage",
+    "archive_repo": "edgeinfinity1-flarum-diy-homepage",
+    "archive_repo_url": "https://github.com/flarchive/edgeinfinity1-flarum-diy-homepage",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/edgeinfinity/diy-homepage",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "b3951ab08aa9fc014d8f4efdb0a99ba6bea3bf63",
+            "archive_commit": "3b0699a3c4e148be0865c69f6b763dbf27e314e2",
+            "released": "2026-10-20T18:43:34+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": "archive/v0.1.1",
+            "upstream_commit": "2b2bda32b84b0cd1b0c12c3ebf5a1cddcff48cdf",
+            "archive_commit": "2f1bf47015d03d5c6ff953c650758f19844c0fcc",
+            "released": "2026-10-21T05:25:47+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

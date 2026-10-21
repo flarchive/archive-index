@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/cuecard",
+    "upstream": "https://github.com/ernestdefoe/cuecard",
+    "archive_repo": "ernestdefoe-cuecard",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-cuecard",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/cuecard",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "83454b03bc4213b7e3f75cad0d299410c6e6ae97",
+            "archive_commit": "44a8cb61520b1600dc001659ea3fc178d2f4e6a8",
+            "released": "2026-10-20T16:10:51+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

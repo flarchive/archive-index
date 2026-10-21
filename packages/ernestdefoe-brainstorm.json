@@ -1,0 +1,36 @@
+{
+    "package": "ernestdefoe/brainstorm",
+    "upstream": "https://github.com/ernestdefoe/brainstorm",
+    "archive_repo": "ernestdefoe-brainstorm",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-brainstorm",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/brainstorm",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "3673f8530d118fde05e0dce812396e86613486bd",
+            "archive_commit": "008184df0c7ff22cf3addf54f8e3525a11e1aeac",
+            "released": "2026-10-20T16:10:13+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "0139ec8b50e79523147ff4caa5a5a918722551b6",
+            "archive_commit": "e557b0f299d50042a43dbf21b40911dd3cbb8f6d",
+            "released": "2026-10-20T17:09:54+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

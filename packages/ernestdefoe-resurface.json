@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/resurface",
+    "upstream": "https://github.com/ernestdefoe/resurface",
+    "archive_repo": "ernestdefoe-resurface",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-resurface",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/resurface",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "771884d9b468473bf7284cae7959ad824135348e",
+            "archive_commit": "5d29328b6d97c4c513d6b68e4fb151841c643f61",
+            "released": "2026-10-20T17:05:41+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

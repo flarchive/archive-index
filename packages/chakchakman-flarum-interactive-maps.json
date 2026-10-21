@@ -1,0 +1,24 @@
+{
+    "package": "chakchakman/flarum-interactive-maps",
+    "upstream": "https://github.com/Chakchakman/flarum-interactive-maps",
+    "archive_repo": "chakchakman-flarum-interactive-maps",
+    "archive_repo_url": "https://github.com/flarchive/chakchakman-flarum-interactive-maps",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/chakchakman/flarum-interactive-maps",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "f362ea02ff21f2141e3eb7304e5a987a0af45919",
+            "archive_commit": "20ffb55ded9f60090cbad4db758c5b2086e3d64c",
+            "released": "2026-10-19T21:10:00+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

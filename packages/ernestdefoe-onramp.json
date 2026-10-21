@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/onramp",
+    "upstream": "https://github.com/ernestdefoe/onramp",
+    "archive_repo": "ernestdefoe-onramp",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-onramp",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/onramp",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c801821f48380516f9368524181e00ff21586a6b",
+            "archive_commit": "f6235fc7e343e30d2cd19ad935080f28be1456db",
+            "released": "2026-10-20T15:54:59+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "package": "ernestdefoe/concourse",
+    "upstream": "https://github.com/ernestdefoe/concourse",
+    "archive_repo": "ernestdefoe-concourse",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-concourse",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/concourse",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "65f8ef42a0cd3c3fd267d37464e4f7614e968996",
+            "archive_commit": "289577f8ffbed9779e0a295ae383d7168c4f0f6c",
+            "released": "2026-10-20T23:12:15+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "ccf7b97e86ede13741e71a52c283996d22087073",
+            "archive_commit": "2ecea6460c28243855f2100530f6e0e76658a2b3",
+            "released": "2026-10-21T00:32:16+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
