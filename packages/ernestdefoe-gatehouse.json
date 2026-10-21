@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.4.0",
+            "tag": "archive/v1.4.0",
+            "upstream_commit": "d78a020c8326166f9b3ab13609596c1bb4663119",
+            "archive_commit": "dfec4b634e0f2de78dfd345c782f21ce3f7c16f7",
+            "released": "2026-10-20T12:56:18+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-gatehouse",

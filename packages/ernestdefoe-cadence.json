@@ -74,6 +74,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "354cc2a80a2714fc2f65d0299b709192edf13d61",
+            "archive_commit": "83b643fe0fea3ab92c3918842a2f13a1e0f9fd58",
+            "released": "2026-10-20T13:55:55+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "18121b74c4f40e6459258bf576151672fa00fc77",
+            "archive_commit": "dc4715382bbd880ccf5fb9b61b658c77976f3210",
+            "released": "2026-10-20T13:59:31+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-cadence",

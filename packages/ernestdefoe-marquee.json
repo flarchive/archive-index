@@ -158,6 +158,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.8.1",
+            "tag": "archive/v1.8.1",
+            "upstream_commit": "dd5156326a2572652e24f9ac1055a760dfec4edd",
+            "archive_commit": "09e072e3320a4ad1177ab270d708ecaf08f4f3dc",
+            "released": "2026-10-19T18:27:36+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.8.2",
+            "tag": "archive/v1.8.2",
+            "upstream_commit": "7c03037e4dfaaff0c72a333591915c14c038a418",
+            "archive_commit": "03015994eb585f8abbca5e68a332bd943596f75a",
+            "released": "2026-10-20T09:37:45+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-marquee",

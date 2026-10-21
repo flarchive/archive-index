@@ -1,0 +1,48 @@
+{
+    "package": "frozenplain/flarum-ext-connect",
+    "upstream": "https://github.com/FrozenPlain/flarum-ext-connect",
+    "archive_repo": "frozenplain-flarum-ext-connect",
+    "archive_repo_url": "https://github.com/flarchive/frozenplain-flarum-ext-connect",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/frozenplain/flarum-ext-connect",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "887e27a46d1775386c01115ed0771bacdac285ce",
+            "archive_commit": "0aa6caa829c9a4cb113f6669a578050015a1b12c",
+            "released": "2026-10-19T12:32:41+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "f2ceece819600a7f72616a278866a4556770e0a3",
+            "archive_commit": "9cf731029f8ae7cc5e7b8a1de7bf1accad8f4275",
+            "released": "2026-10-19T13:51:52+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "0b35bd907172ea34bd6bf8822bb4236a30904300",
+            "archive_commit": "c4c3e2b67e064e4ce50a827365efbb7ff5e0d259",
+            "released": "2026-10-21T09:39:54+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -62,6 +62,30 @@
             "flarum": "^1.8",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "224b2884473526fe7736841aa2a0963e67105e2d",
+            "archive_commit": "589a0a749fa8200806b45e07a6e49aa1e4d4c82f",
+            "released": "2026-10-19T14:25:14+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "a239a5b8b0411bbb65716ca189d3ff6c0d7dc769",
+            "archive_commit": "25586c483c3beec5870a61ae31998dccd4df872c",
+            "released": "2026-10-20T08:52:26+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "sonsuzus-flarum-ext-engagement-money",

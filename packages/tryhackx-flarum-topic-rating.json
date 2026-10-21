@@ -50,6 +50,18 @@
             "flarum": "^2.0.0-rc.1",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.6.1",
+            "tag": "archive/v2.6.1",
+            "upstream_commit": "1a786b60800a9538f6068b5027f96859623e1eb2",
+            "archive_commit": "1fe4b1e7af4b9267e5e6fba89e3c559448e8ead2",
+            "released": "2026-10-20T15:26:00+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "tryhackx-flarum-topic-rating",

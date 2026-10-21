@@ -38,6 +38,18 @@
             "flarum": "^2.0.0-rc.1",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.2.1",
+            "tag": "archive/v2.2.1",
+            "upstream_commit": "e0267112ef201d52c82de8d9e46b5424f8bbef05",
+            "archive_commit": "9d3cc1110478b7208ae4296bd72769f8d8180da0",
+            "released": "2026-10-20T15:34:29+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "tryhackx-flarum-thumb-sliders",

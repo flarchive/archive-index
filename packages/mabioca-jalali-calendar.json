@@ -38,6 +38,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "4879d8ac808b772d158c781d047e44f55f3e7e3a",
+            "archive_commit": "dd12fb9f6867a8a7e45465cbdff6ca50d773a793",
+            "released": "2026-10-20T08:56:43+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "mabioca-jalali-calendar",
