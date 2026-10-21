@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/shutter",
+    "upstream": "https://github.com/ernestdefoe/shutter",
+    "archive_repo": "ernestdefoe-shutter",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-shutter",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/shutter",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c4ac521639fc9bd9258da82146229acf26d268ad",
+            "archive_commit": "a00bbc753389d839bd70a76a2dfb1a5ac0059c90",
+            "released": "2026-10-21T14:25:07+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.1",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
