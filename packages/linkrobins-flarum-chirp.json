@@ -188,5 +188,5 @@
     "archive_repo_url": "https://github.com/flarchive/linkrobins-chirp",
     "is_fork": false,
     "fork_parent": null,
-    "abandoned": null
+    "abandoned": "true"
 }
