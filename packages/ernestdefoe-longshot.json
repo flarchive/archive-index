@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/longshot",
+    "upstream": "https://github.com/ernestdefoe/longshot",
+    "archive_repo": "ernestdefoe-longshot",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-longshot",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/longshot",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d8b3c7bb93cd9f063cd431449981a7d95784161c",
+            "archive_commit": "2b83fb049e5a2c9a3775e8015dd1efad36c8f83c",
+            "released": "2026-10-21T16:54:38+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
