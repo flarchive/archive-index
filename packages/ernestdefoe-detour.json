@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/detour",
+    "upstream": "https://github.com/ernestdefoe/detour",
+    "archive_repo": "ernestdefoe-detour",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-detour",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/detour",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "01d300c952bd6c0d5912a4360e387333bc2bda68",
+            "archive_commit": "6daf671f83cbaccfd5d3391a14a1e538bea08784",
+            "released": "2026-10-21T14:16:22+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

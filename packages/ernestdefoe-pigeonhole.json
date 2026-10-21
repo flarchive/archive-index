@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/pigeonhole",
+    "upstream": "https://github.com/ernestdefoe/pigeonhole",
+    "archive_repo": "ernestdefoe-pigeonhole",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-pigeonhole",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/pigeonhole",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ffd108cdd1844a25c7374f323f167937a8bb5194",
+            "archive_commit": "a2e1b24a702b16ba401644dff8b4c0c5ee065761",
+            "released": "2026-10-21T14:14:02+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
