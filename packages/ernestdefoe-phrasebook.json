@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/phrasebook",
+    "upstream": "https://github.com/ernestdefoe/phrasebook",
+    "archive_repo": "ernestdefoe-phrasebook",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-phrasebook",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/phrasebook",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ebbbb33aa7805028387fa7f903724fa12a7b82e4",
+            "archive_commit": "ccfb58ba264f9453014573d96e1c0a59417f5ff7",
+            "released": "2026-10-21T14:47:34+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
