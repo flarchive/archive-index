@@ -350,6 +350,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "f8de91e6361dacc5b8b589115a2c408c2d000d0a",
+            "archive_commit": "935b4a1dfd692d631862443dbc41f84078131bdb",
+            "released": "2026-10-19T18:10:10+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "irmmr-flarum-ext-rtl",

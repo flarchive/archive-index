@@ -554,6 +554,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.3.11",
+            "tag": "archive/v2.3.11",
+            "upstream_commit": "7b156b4a90fd1313a57b825095b23a0c6ce5834c",
+            "archive_commit": "097ce7ade132d2e337e706560f658f65ed64011d",
+            "released": "2026-10-19T12:13:48+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.3.12",
+            "tag": "archive/v2.3.12",
+            "upstream_commit": "13027fd573b73f289f5aa1c10709bfecb37e6a51",
+            "archive_commit": "d31b6c2094a151c418648172ff78eda3ead0b8f1",
+            "released": "2026-10-20T01:14:11+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-gridiron-nation",

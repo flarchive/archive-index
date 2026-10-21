@@ -1298,6 +1298,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "bc56e32f394288246ca0da2b6ffc44102c1c5c5e",
+            "archive_commit": "335d9fd9980635dc2e710defafd35c94125231d0",
+            "released": "2026-10-20T09:17:38+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-chinese-simplified",

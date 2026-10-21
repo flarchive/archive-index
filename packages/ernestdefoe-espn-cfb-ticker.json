@@ -170,6 +170,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.0.14",
+            "tag": "archive/v2.0.14",
+            "upstream_commit": "a8f32fca4588b6404c0d5ad50eb4f2795df936f7",
+            "archive_commit": "f0d520e433b4c726175d8fe1a07ff9177b864a8a",
+            "released": "2026-10-19T12:05:42+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-espn-cfb-ticker",

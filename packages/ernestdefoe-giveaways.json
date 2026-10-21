@@ -194,6 +194,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.6.0",
+            "tag": "archive/v0.6.0",
+            "upstream_commit": "d92113e65dfa54164ec3379e68c785ca035d1e82",
+            "archive_commit": "e4aaefd9fc55be0af6d0234dac36562aa44b3203",
+            "released": "2026-10-19T12:02:34+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.7.0",
+            "tag": "archive/v0.7.0",
+            "upstream_commit": "b470ebd0a759e7b6b87b247cf128b564fd0406aa",
+            "archive_commit": "aeeba7a2f246696cca7e9b86d1f97c1ca315e5b2",
+            "released": "2026-10-19T16:31:52+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-giveaways",

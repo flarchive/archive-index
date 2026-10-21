@@ -302,6 +302,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "ee3a5f00b5b0c124bcede4a0223aea7aec39bce8",
+            "archive_commit": "0ba1e0908b5408716199c13bf2e66b4293665c9a",
+            "released": "2026-10-20T07:33:18+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "imorland-flarum-ext-twofactor",

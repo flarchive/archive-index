@@ -122,6 +122,30 @@
             "flarum": "^2.0.0-beta",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.0.4",
+            "tag": "archive/v3.0.4",
+            "upstream_commit": "6cb66c2dbe1c7b85ea44a430dffb5c820b000415",
+            "archive_commit": "0b60adfdb66d21d5b9376490f75568f41a5907e8",
+            "released": "2026-10-19T12:10:07+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "3.0.5",
+            "tag": "archive/v3.0.5",
+            "upstream_commit": "9aeb5747a65cb98d0026a346a14595c73c28a9de",
+            "archive_commit": "34dc5399ebf1dcced46b1abb1a2043b8de97ec6b",
+            "released": "2026-10-19T14:23:57+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-aurora",

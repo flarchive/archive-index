@@ -38,6 +38,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.3",
+            "tag": "archive/v2.0.3",
+            "upstream_commit": "ca1ab4d4bfce91a97febcf85e7ef31db47c1ed79",
+            "archive_commit": "44df3bf6ebfce0677ad2aaac5628a9d6ac46c026",
+            "released": "2026-10-19T19:53:42+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-mobiletab",

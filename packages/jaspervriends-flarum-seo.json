@@ -650,6 +650,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "4.0.0-beta.15",
+            "tag": "archive/v4.0.0-beta.15",
+            "upstream_commit": "d4ba60d2c3df4d215dba84f2527741bc680ba8ce",
+            "archive_commit": "a2fcbf6845dada45f5195c6b2039ebeaf969ec08",
+            "released": "2026-10-21T00:55:35+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "friendsofflarum-seo",

@@ -326,6 +326,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.6.0",
+            "tag": "archive/v2.6.0",
+            "upstream_commit": "1e50fd03f4bceccb210a0e4f34fcc44fb5bc4446",
+            "archive_commit": "f4b047f7192f5fdcb9c359c2bab8fcedf0214fd3",
+            "released": "2026-10-19T11:52:02+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v2.6.1",
+            "tag": "archive/v2.6.1",
+            "upstream_commit": "c2835b49bed5a2b47aa0db65aede5e9aa88b77d6",
+            "archive_commit": "af9b6aa749690ee96a04c40f086337694a409608",
+            "released": "2026-10-20T09:45:55+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-calendar",

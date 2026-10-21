@@ -230,6 +230,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.0.1",
+            "tag": "archive/v3.0.1",
+            "upstream_commit": "5b91052315db0d1f8c013fabbfc579c180ce82ad",
+            "archive_commit": "8578ef01a125baec7f95c0568770c392f983bada",
+            "released": "2026-10-21T00:40:07+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flectar-flarum-ext-fancybox",

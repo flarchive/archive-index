@@ -494,6 +494,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "2df883a6643855e2a676c323eb537d2371033bf3",
+            "archive_commit": "e1c2b7a4e3e79f068c3e2671e7d9f627025cfbf2",
+            "released": "2026-10-20T09:58:42+00:00",
+            "archived": "2026-10-21",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "imorland-follow-users",
