@@ -50,6 +50,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "110acc5bae76bc1a8591a347a4d26bf960fce5af",
+            "archive_commit": "7ef63e15282f9d5013ef76f370a6cd5b7d84fb50",
+            "released": "2026-10-22T18:44:36+00:00",
+            "archived": "2026-10-22",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.1.3",
+            "tag": "archive/v1.1.3",
+            "upstream_commit": "3fdd960723331aae19b71ee8d7985980a7c2fb5e",
+            "archive_commit": "3fde50ce93f3846b6176342748e2550fa54e39ae",
+            "released": "2026-10-22T18:54:55+00:00",
+            "archived": "2026-10-22",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-masthead",
