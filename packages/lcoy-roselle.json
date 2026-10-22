@@ -1,0 +1,36 @@
+{
+    "package": "lcoy/roselle",
+    "upstream": "https://github.com/Lcoy2004/Flarum-roselle",
+    "archive_repo": "lcoy2004-flarum-roselle",
+    "archive_repo_url": "https://github.com/flarchive/lcoy2004-flarum-roselle",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/lcoy/roselle",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0b20319a3fb6e80cc93df0e830b342a6282d3637",
+            "archive_commit": "eb398f659dfb0ef61ec0b9f7faf90a60858ee638",
+            "released": "2026-10-22T03:40:52+00:00",
+            "archived": "2026-10-22",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "428b20d63623e6f3bf0402c5fad7650eca41f018",
+            "archive_commit": "0fbfe2e2cc0dbea7d5f077d6285f588c738e20c7",
+            "released": "2026-10-22T06:56:57+00:00",
+            "archived": "2026-10-22",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
