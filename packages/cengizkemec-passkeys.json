@@ -1,0 +1,24 @@
+{
+    "package": "cengizkemec/passkeys",
+    "upstream": "https://github.com/cengizkemec/flarum-passkeys",
+    "archive_repo": "cengizkemec-flarum-passkeys",
+    "archive_repo_url": "https://github.com/flarchive/cengizkemec-flarum-passkeys",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/cengizkemec/passkeys",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "ebfee147f0a2fb6bc1f83f7a4aabd0ce66798169",
+            "archive_commit": "d6150c15d7d661964b270a5fbe8b6171a5215153",
+            "released": "2026-10-22T19:38:48+00:00",
+            "archived": "2026-10-22",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
