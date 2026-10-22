@@ -110,6 +110,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.2.2",
+            "tag": "archive/v1.2.2",
+            "upstream_commit": "a8c8d132655f94eafb404a7d375d9cb1a3f9ba34",
+            "archive_commit": "60ebbc3d7070f0a636d2e2fb2b480ffe0f710231",
+            "released": "2026-10-22T17:02:52+00:00",
+            "archived": "2026-10-22",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-menu-control",
