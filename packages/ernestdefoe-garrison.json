@@ -206,6 +206,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.6.4",
+            "tag": "archive/v1.6.4",
+            "upstream_commit": "3ab2c1dcd8ed2129b8e05e9a7c422c8ae66b5d12",
+            "archive_commit": "f55d962bd06240e24143dac1bb6f416479587ba6",
+            "released": "2026-10-22T17:50:24+00:00",
+            "archived": "2026-10-22",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-garrison",
