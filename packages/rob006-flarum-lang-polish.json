@@ -2606,6 +2606,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.11",
+            "tag": "archive/v2.0.11",
+            "upstream_commit": "3a28d4336cde3a5ed36c806553c5baf699bc79ff",
+            "archive_commit": "ff7205ca8c6aad124a509f6dc54bfa1503ac84bc",
+            "released": "2026-10-22T21:28:51+00:00",
+            "archived": "2026-10-22",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-polish",
