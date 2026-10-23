@@ -1106,6 +1106,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "5.0.16",
+            "tag": "archive/v5.0.16",
+            "upstream_commit": "219eb9b1c70cb8d83bd51b815f8e1f1ddee47776",
+            "archive_commit": "18167e76d2c5faad8977e07099a6abadfd5fe576",
+            "released": "2026-10-23T14:05:24+00:00",
+            "archived": "2026-10-23",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-french",
