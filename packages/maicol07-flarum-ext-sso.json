@@ -398,6 +398,18 @@
             "flarum": "^0.1.0-beta.8.1",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "c0414842b63443e1b304ea058fda10096096b4ed",
+            "archive_commit": "e359e49b0de1f41ef2b71214409e4f32c4fea7dd",
+            "released": "2026-10-10T16:58:50+00:00",
+            "archived": "2026-10-23",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "maicol07-flarum-ext-sso",
