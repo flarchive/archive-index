@@ -326,6 +326,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.0.1",
+            "tag": "archive/v3.0.1",
+            "upstream_commit": "2600a67c469f943213e21fd3cad400677b5ed807",
+            "archive_commit": "780056afa312e5eb913d8fa3e9db4b165b344351",
+            "released": "2026-10-23T07:53:18+00:00",
+            "archived": "2026-10-23",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "reflar-doorman",
