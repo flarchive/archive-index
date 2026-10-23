@@ -482,6 +482,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.0-beta.5",
+            "tag": "archive/v2.0.0-beta.5",
+            "upstream_commit": "6925adc45cf14b5bebb6461d0e1a6bfad0d179e3",
+            "archive_commit": "da414b977d099a97355c94aa709a2064c4674048",
+            "released": "2026-10-23T07:42:22+00:00",
+            "archived": "2026-10-23",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "friendsofflarum-blog",
