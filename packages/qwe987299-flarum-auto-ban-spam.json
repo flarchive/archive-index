@@ -26,6 +26,18 @@
             "flarum": "^1.8 || ^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.7",
+            "tag": "archive/v1.0.7",
+            "upstream_commit": "d5f03997087a5e7181f914116370abd06b9c1e7e",
+            "archive_commit": "fcc4fda61217e99df767c779380021f20dc17ea0",
+            "released": "2026-10-23T06:29:03+00:00",
+            "archived": "2026-10-23",
+            "license": "MIT",
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "qwe987299-flarum-auto-ban-spam",
