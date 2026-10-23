@@ -50,6 +50,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "f0bfb4295d1cbc536ecdedfa82a5286cecd933c4",
+            "archive_commit": "57e0bc635f8bb1af91f8819cc8a0c71659affbfc",
+            "released": "2026-09-16T14:24:51+00:00",
+            "archived": "2026-10-23",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ffans-threadmarks",
