@@ -122,6 +122,18 @@
             "flarum": "^1.8.19",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.0.0-RC1",
+            "tag": "archive/v2.0.0-RC1",
+            "upstream_commit": "98775d2b8c0074742fe29fdec3bbf14c2171552f",
+            "archive_commit": "93975a8cc201ab7dc231d15de209a2e68f71bdb0",
+            "released": "2026-10-24T09:42:22+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "2.0.2",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "mrkcntrmn-flatrate-wiki-supabase-oauth",
