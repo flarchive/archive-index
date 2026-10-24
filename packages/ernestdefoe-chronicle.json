@@ -38,6 +38,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "7f66b5083e8016c05ddeb2397b316a87bb6cdd0c",
+            "archive_commit": "99a91d1c2bda25c8235c9c139726a4eaeba88999",
+            "released": "2026-10-24T13:38:12+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-chronicle",

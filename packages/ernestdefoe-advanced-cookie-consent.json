@@ -62,6 +62,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "4d30044df0c1cba1c9b2b9a7d2a7fd87de0dba9e",
+            "archive_commit": "37fd69098dfe00e4f4e30291f28025d2ddaba5d0",
+            "released": "2026-10-24T13:40:07+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-advanced-cookie-consent",
