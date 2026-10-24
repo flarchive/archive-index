@@ -38,6 +38,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "f17bdfd8bff7647c8fe779f7fe72f191d222cc1e",
+            "archive_commit": "7abd98fb1e7c0fbaf19ba5e06a6ced1b9738fc19",
+            "released": "2026-10-24T15:13:30+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-earshot",

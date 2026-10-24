@@ -566,6 +566,18 @@
             "flarum": "^2.0.0-beta.8",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.16.2",
+            "tag": "archive/v2.16.2",
+            "upstream_commit": "b344f3fc19e1c341758dd87b3adf38981dfaabd0",
+            "archive_commit": "6fa5c23b59f6cf638b7825c31645532103e39142",
+            "released": "2026-10-24T15:04:26+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta.8",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-picks",

@@ -50,6 +50,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "7e20be19b6dc963396c4b090eefe1cffddd18411",
+            "archive_commit": "26c1f851ad1ab2e34e264f8a9f7dd1f500b36cdf",
+            "released": "2026-10-24T15:31:47+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-opensearch",
