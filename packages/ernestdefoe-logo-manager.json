@@ -62,6 +62,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "c851eff0b13bebb4fed0544497e16f666eca302a",
+            "archive_commit": "c9bdb7b74bd508efe9b0b9d6825a0657171e29a7",
+            "released": "2026-10-24T13:03:06+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-logo-manager",
