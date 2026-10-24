@@ -194,6 +194,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.3.7",
+            "tag": "archive/v0.3.7",
+            "upstream_commit": "a42351f81bac3ae2e5a29c967356683cc935b020",
+            "archive_commit": "bf9eba7384926d645632fbbd836e811a5f3c08cf",
+            "released": "2026-10-24T13:14:35+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-cascade",

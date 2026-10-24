@@ -122,6 +122,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.1.9",
+            "tag": "archive/v1.1.9",
+            "upstream_commit": "d5b650e8d0fac5f8af6d36b233feec3084376352",
+            "archive_commit": "2fb92414dc57aecb76e8d725116206b7e1f73521",
+            "released": "2026-10-24T13:05:54+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-roleplay",

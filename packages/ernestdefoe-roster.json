@@ -86,6 +86,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.2.5",
+            "tag": "archive/v1.2.5",
+            "upstream_commit": "afe9ed2ccc06157815005f9e3d7fc305b45c0c07",
+            "archive_commit": "365afa90306ccbebf864193c6d1eb5d957826f07",
+            "released": "2026-10-24T13:05:56+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-roster",
