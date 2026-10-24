@@ -242,6 +242,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.3.6",
+            "tag": "archive/v2.3.6",
+            "upstream_commit": "8f35d3dd93ab8f26954b79741cccf5b7aad316e6",
+            "archive_commit": "496188256dacc6e34059791a27cb755f7063fc4b",
+            "released": "2026-10-24T13:32:04+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-favorite-team",

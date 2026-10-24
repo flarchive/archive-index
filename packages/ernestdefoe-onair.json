@@ -134,6 +134,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.1.11",
+            "tag": "archive/v0.1.11",
+            "upstream_commit": "3a97a77fe1df532356d8b53f67b55f92d4d0c6fd",
+            "archive_commit": "c422fc4c2867e42706681be97c4ebe9bf8614474",
+            "released": "2026-10-24T13:33:05+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-onair",

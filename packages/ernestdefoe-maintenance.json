@@ -98,6 +98,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.7",
+            "tag": "archive/v1.1.7",
+            "upstream_commit": "100b423f0581ad670714cc6414b9708c291dd2d6",
+            "archive_commit": "e4611f410cdfd5e9d8cdbc9b0c9875878eae55c8",
+            "released": "2026-10-24T14:56:35+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-maintenance",
