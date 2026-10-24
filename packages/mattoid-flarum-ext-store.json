@@ -314,6 +314,18 @@
             "flarum": "^1.2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "83eac64e1f20ab6cfa9d045930a56b6725c4e662",
+            "archive_commit": "3277fe9ebb2980e9f56cf6ac4040967f11f83fd4",
+            "released": "2026-10-20T07:57:50+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "mattoids-flarum-ext-store",
