@@ -1,6 +1,6 @@
 {
     "package": "ernestdefoe/seo",
-    "upstream": "https://github.com/ernestdefoe/seo",
+    "upstream": "https://github.com/ernestdefoe/fof-seo",
     "packagistUrl": "https://packagist.org/packages/ernestdefoe/seo",
     "versions": [
         {
@@ -218,10 +218,22 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.18",
+            "tag": "archive/v2.0.18",
+            "upstream_commit": "53aa84f2989871bfde53961a84265fb198452a05",
+            "archive_commit": "aa36c52d30f5cc7b245834b096f5c48a98369d37",
+            "released": "2026-10-24T13:39:02+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
-    "archive_repo": "ernestdefoe-seo",
-    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-seo",
+    "archive_repo": "ernestdefoe-fof-seo",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-fof-seo",
     "is_fork": true,
     "fork_parent": "FriendsOfFlarum/seo",
     "abandoned": "fof/seo"

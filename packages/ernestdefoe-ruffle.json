@@ -110,6 +110,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "0.4.2",
+            "tag": "archive/v0.4.2",
+            "upstream_commit": "61fc8f51a214eb717199733d51ce7e197bc743e1",
+            "archive_commit": "3c9facb6382997b4ca77e3196bb3a08d955c856c",
+            "released": "2026-10-24T13:39:02+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-ruffle",
