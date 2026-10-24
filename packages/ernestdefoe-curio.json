@@ -170,6 +170,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.11.0",
+            "tag": "archive/v1.11.0",
+            "upstream_commit": "0c5b1eebaf78ca5f555c12dd0b83d606e4e7118f",
+            "archive_commit": "9ab96c522aabc3871f0b87c13d5e00e14bb943e9",
+            "released": "2026-10-24T01:23:58+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-curio",

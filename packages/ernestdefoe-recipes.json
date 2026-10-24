@@ -50,6 +50,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "f5fc76f28e2bc200649d978f7085e9ad25d7c829",
+            "archive_commit": "31273d11fe0aab6aff7b05856c2db19ce2ea403d",
+            "released": "2026-10-24T01:20:10+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-recipes",
