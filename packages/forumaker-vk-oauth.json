@@ -14,6 +14,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "1479b131f1b6ef0571e9323a0746862084297700",
+            "archive_commit": "d20e74596f23fd0c347b6122ba8c131584d16767",
+            "released": "2026-10-24T14:41:51+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-vk-oauth",

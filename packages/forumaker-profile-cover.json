@@ -146,6 +146,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "74b81e4e3dc9dba13f98c1ed865462afd9b7a8eb",
+            "archive_commit": "52e8d8695a22de5e9f6653cc05b97efbd3fdf886",
+            "released": "2026-10-24T14:41:51+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-profile-cover",

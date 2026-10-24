@@ -98,6 +98,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.0.7",
+            "tag": "archive/v3.0.7",
+            "upstream_commit": "db2a21caafa72ef1ab214efb9a22a074197754ca",
+            "archive_commit": "881013caebcbdf83889fdae9b69797a5145ab6a9",
+            "released": "2026-10-24T14:41:49+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-respawn",

@@ -50,6 +50,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "c08763208d5ff51e3c27a67c7ba4b2198b1f00a0",
+            "archive_commit": "55126289032448805fe2fd93598dfdc307946e3b",
+            "released": "2026-10-24T14:51:39+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-statser",

@@ -134,6 +134,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "aa967d7acbff1bba9bb90390e4318296cc1c9f53",
+            "archive_commit": "44c7d8cda5df586cdad79db93d2ebc9e76a38865",
+            "released": "2026-10-24T14:41:50+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-friendship",

@@ -134,6 +134,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "80e436c97c9d68132f7ef7b8ea2d029ddc624ec3",
+            "archive_commit": "d6d697988a0ddad6b60edd3b2eb6be93e5e22875",
+            "released": "2026-10-24T14:51:39+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-magicslider",

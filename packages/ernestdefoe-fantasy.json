@@ -86,6 +86,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "6fc3cc50b4fece57ac3eb3aef093b0c3423fce24",
+            "archive_commit": "ab46c53d1db3c0dea09664e8191ed18329b01293",
+            "released": "2026-10-24T14:37:57+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-fantasy",

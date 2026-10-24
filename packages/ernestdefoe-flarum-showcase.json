@@ -62,6 +62,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.5",
+            "tag": "archive/v2.0.5",
+            "upstream_commit": "d00fcf85bc0e8d0355f983cc5455360c92b8fd66",
+            "archive_commit": "c3b15f8c5dbe929a00cdff03820f2b4a43868c43",
+            "released": "2026-10-24T14:42:24+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-flarum-showcase",

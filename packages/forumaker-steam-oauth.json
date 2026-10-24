@@ -38,6 +38,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "1a414cefb71b6bf58907f4cef8df63937387438b",
+            "archive_commit": "3e4785efec79dca1a65ed4fd8b6c81f76ab877ea",
+            "released": "2026-10-24T14:41:51+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-steam-oauth",

@@ -134,6 +134,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "531e9eef06861cc387751ef4ffbd1ccb14199624",
+            "archive_commit": "6031bf85127a7c419c904e79b4c90d59eee46dbd",
+            "released": "2026-10-24T14:41:50+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-magicread",

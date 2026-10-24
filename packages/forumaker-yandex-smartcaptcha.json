@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "cf1004c4c78c3d99e18c2bc1f3adcd17d39992e7",
+            "archive_commit": "224b362a44ea56b29802f26c9f1414ec5d39ff13",
+            "released": "2026-10-24T14:41:51+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-yandex-smartcaptcha",

@@ -26,6 +26,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "ce4b216ba731132c4e6aee7df2388109613d96ee",
+            "archive_commit": "0728eb423ea775f795f6093fb06ef8e0315fbe4c",
+            "released": "2026-10-24T14:38:47+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-greeter",

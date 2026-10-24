@@ -26,6 +26,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "0.1.2",
+            "tag": "archive/v0.1.2",
+            "upstream_commit": "b66c8c61388f6ef6d78c2b58bfff8bd21594a3cd",
+            "archive_commit": "e93ea2bce917baae7d3c37ae2989be4e6b1e3192",
+            "released": "2026-10-24T14:45:12+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-manticore",

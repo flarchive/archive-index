@@ -218,6 +218,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.8.3",
+            "tag": "archive/v1.8.3",
+            "upstream_commit": "b59dca2b956dfad4b003243e2949e88c55b6a154",
+            "archive_commit": "42f1adde7062f88f8d9cab18423f91b46a81b096",
+            "released": "2026-10-24T14:37:35+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-parley",

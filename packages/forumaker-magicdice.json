@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "ad6b2f2c9e444d0011668740621df3d026a0ae88",
+            "archive_commit": "6f56080c2cd127066b8fe693049e08505455caf2",
+            "released": "2026-10-24T14:41:50+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-magicdice",

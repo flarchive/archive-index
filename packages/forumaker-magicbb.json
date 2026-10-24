@@ -158,6 +158,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.1.0",
+            "tag": "archive/v3.1.0",
+            "upstream_commit": "76f7b3038d3546750ca4a5f80d32427e8af14fdb",
+            "archive_commit": "3ed05578b02c5a6fbe4ec3e839d995cd27393042",
+            "released": "2026-10-24T14:41:50+00:00",
+            "archived": "2026-10-24",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forumaker-magicbb",
