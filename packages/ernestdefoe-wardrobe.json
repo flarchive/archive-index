@@ -98,6 +98,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.1.4",
+            "tag": "archive/v1.1.4",
+            "upstream_commit": "0da5ab848efb640d2792c4d6cd84a115215beaca",
+            "archive_commit": "be7a657c417eb6a54316e7a12b2ea2b261232a20",
+            "released": "2026-10-25T20:00:59+00:00",
+            "archived": "2026-10-25",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-wardrobe",
