@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-scroll-buttons",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-scroll-buttons",
+    "archive_repo": "tacraft-sociality-flarum-scroll-buttons",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-scroll-buttons",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-scroll-buttons",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e6561a1e18795eb6c7f01b247f34820630329e2d",
+            "archive_commit": "fb3fd01246b5582a1ade64bcdab19d98fdddb6e1",
+            "released": "2026-10-25T14:02:58+00:00",
+            "archived": "2026-10-25",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
