@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-onebot-notify",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-onebot-notify",
+    "archive_repo": "tacraft-sociality-flarum-onebot-notify",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-onebot-notify",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-onebot-notify",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "13ced624aba292010a4974b6a8cdf40b92bca73f",
+            "archive_commit": "6e8b504078f637974cec6640a8dd753555480c5f",
+            "released": "2026-10-25T07:32:30+00:00",
+            "archived": "2026-10-25",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
