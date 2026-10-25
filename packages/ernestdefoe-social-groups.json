@@ -1598,6 +1598,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.7.2",
+            "tag": "archive/v2.7.2",
+            "upstream_commit": "4644ccbb7352592dfd8503027ccc053e58d72cdf",
+            "archive_commit": "421bf53d0a925124ab2a40352603a9f0c2e27ffb",
+            "released": "2026-10-25T14:29:28+00:00",
+            "archived": "2026-10-25",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-social-groups",
