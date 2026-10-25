@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-discussion-top",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-discussion-top",
+    "archive_repo": "tacraft-sociality-flarum-discussion-top",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-discussion-top",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-discussion-top",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "61114bfbe809957773c27b47d93a292836b58ede",
+            "archive_commit": "89a8b480c5d86a852d8188824688a6f205351b76",
+            "released": "2026-10-25T13:17:54+00:00",
+            "archived": "2026-10-25",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
