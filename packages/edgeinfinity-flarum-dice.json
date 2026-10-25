@@ -1,0 +1,24 @@
+{
+    "package": "edgeinfinity/flarum-dice",
+    "upstream": "https://github.com/edgeinfinity1/flarum-dice",
+    "archive_repo": "edgeinfinity1-flarum-dice",
+    "archive_repo_url": "https://github.com/flarchive/edgeinfinity1-flarum-dice",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/edgeinfinity/flarum-dice",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "6953a1696db9a2aaa9e86b66df805744988c8778",
+            "archive_commit": "00fb42efac4c222f849adfd1d5787a7394c2ea53",
+            "released": "2026-10-25T17:45:45+00:00",
+            "archived": "2026-10-25",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
