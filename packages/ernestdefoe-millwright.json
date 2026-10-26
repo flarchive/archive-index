@@ -818,6 +818,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.25.4",
+            "tag": "archive/v1.25.4",
+            "upstream_commit": "15c7c2cd402ca3f5200248322265693ed4987a1d",
+            "archive_commit": "425d5453bf744b3c02f616185a7a721bb419563b",
+            "released": "2026-10-26T21:11:06+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-millwright",
