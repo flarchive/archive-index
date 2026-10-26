@@ -1,0 +1,24 @@
+{
+    "package": "privatus/flarum-privatus-analytics",
+    "upstream": "https://github.com/Privatus-Analytics/flarum",
+    "archive_repo": "privatus-analytics-flarum",
+    "archive_repo_url": "https://github.com/flarchive/privatus-analytics-flarum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/privatus/flarum-privatus-analytics",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "98f0cf31092073ec820e2fca0cedf9f341dd315b",
+            "archive_commit": "8f0418d7e27feaf0437c5f3ad6071544e7ac3c71",
+            "released": "2026-10-26T01:06:22+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
