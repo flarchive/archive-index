@@ -530,6 +530,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.12.5",
+            "tag": "archive/v1.12.5",
+            "upstream_commit": "ed8681604ec999837e4ea3e1f3179416868cfae1",
+            "archive_commit": "637ae1354ca132682ca66e1bbeb058c51f7d33a4",
+            "released": "2026-10-26T02:14:25+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^1.4",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.9",
+            "tag": "archive/v2.0.9",
+            "upstream_commit": "e9e3f7604f573ccd4a435b134e8ccfe4f8836d1b",
+            "archive_commit": "e75feca30aabad70be32bef8cf774d2aa723084f",
+            "released": "2026-10-26T02:14:37+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-vietnamese",
