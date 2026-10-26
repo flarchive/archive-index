@@ -158,6 +158,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.3.2",
+            "tag": "archive/v1.3.2",
+            "upstream_commit": "9dcb035b2ec3abbe3e799420af247498a94df826",
+            "archive_commit": "7c9a924875d12936166192e64b623fba633e1859",
+            "released": "2026-10-26T12:49:04+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-cadence",
