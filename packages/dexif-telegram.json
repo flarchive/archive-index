@@ -98,6 +98,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "24c3847c9acb376938731e05bce9b1439408c2ee",
+            "archive_commit": "50d32fefd16153b867a887292430c9388bcf46ef",
+            "released": "2026-10-26T09:49:02+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "dexif-telegram",
