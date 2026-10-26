@@ -266,6 +266,30 @@
             "flarum": "^2.0.0-rc.1",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v8.2.4",
+            "tag": "archive/v8.2.4",
+            "upstream_commit": "03c0dc6b3752f9a40b0a8c2eb2a77df56b38bf7b",
+            "archive_commit": "60c87b350b82fd27a219e446e91eba6453275ca6",
+            "released": "2026-10-26T09:32:26+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v9.1.1",
+            "tag": "archive/v9.1.1",
+            "upstream_commit": "d727f3c67d19f91d3011dd4f80699be7c34e7956",
+            "archive_commit": "625a27376728add03d5fec19624c3b976fc558f4",
+            "released": "2026-10-26T09:27:35+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "michaelbelgium-mybb_to_flarum",
