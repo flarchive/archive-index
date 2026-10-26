@@ -662,6 +662,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "4.0.13",
+            "tag": "archive/v4.0.13",
+            "upstream_commit": "a3b0a3631aa0e64090047216b830fdfd80e2dbc2",
+            "archive_commit": "8ed29346d2d78e2aa13bdd9f13dbbf0d1ca0b811",
+            "released": "2026-10-26T11:16:45+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-japanese",
