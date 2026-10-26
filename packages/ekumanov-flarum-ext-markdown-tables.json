@@ -50,6 +50,18 @@
             "flarum": "^2.0@beta",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "e08d32b28a1f073c626c50633d4622f743f59143",
+            "archive_commit": "aa946bb2edef00a36736c3209830210bb60e74da",
+            "released": "2026-10-26T16:47:58+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0@beta",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ekumanov-flarum-ext-markdown-tables",
