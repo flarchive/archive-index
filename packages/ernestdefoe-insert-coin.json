@@ -1,0 +1,36 @@
+{
+    "package": "ernestdefoe/insert-coin",
+    "upstream": "https://github.com/ernestdefoe/insert-coin",
+    "archive_repo": "ernestdefoe-insert-coin",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-insert-coin",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/insert-coin",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "34c92cfe677741638737fc7f72a1810cb9dfa062",
+            "archive_commit": "ab9a5c757cde2b03d7de7b9b51f2001bcb2438f8",
+            "released": "2026-10-26T00:40:25+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "586d5800148eeed478841bb94a8962ccd031c8c0",
+            "archive_commit": "6a943c92d156446fcd4ac5eca58536814d52f30b",
+            "released": "2026-10-26T00:45:12+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
