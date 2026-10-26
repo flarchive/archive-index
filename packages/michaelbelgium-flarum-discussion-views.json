@@ -458,6 +458,18 @@
             "flarum": "^2.0.0-rc.1",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v8.1.0",
+            "tag": "archive/v8.1.0",
+            "upstream_commit": "b2c2244d309c1a577b0b6028a751dc36ee175d29",
+            "archive_commit": "5aab9c59014d1bae23a5ac5ad89991e08da9cf52",
+            "released": "2026-10-26T13:42:11+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "michaelbelgium-flarum-discussion-views",
