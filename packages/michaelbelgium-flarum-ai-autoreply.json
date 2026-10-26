@@ -98,6 +98,18 @@
             "flarum": "^2.0.0-rc.1",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "af4ca9b94f72a43416a51d789bbc1476a279a6e2",
+            "archive_commit": "0ae5f63a27eb3626d24f6677f18af2a9f08258fe",
+            "released": "2026-10-26T09:08:09+00:00",
+            "archived": "2026-10-26",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.1",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "michaelbelgium-flarum-ai-autoreply",
