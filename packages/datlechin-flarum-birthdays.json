@@ -254,6 +254,18 @@
             "flarum": "^2.0.0-beta",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v3.0.0",
+            "tag": "archive/v3.0.0",
+            "upstream_commit": "7b94f5141f298c7b711a559d1b75afc7f4b0a501",
+            "archive_commit": "b37181a94abd5d008f507b617618cdc60af0ac4d",
+            "released": "2026-10-27T07:04:09+00:00",
+            "archived": "2026-10-27",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flatension-birthdays",
