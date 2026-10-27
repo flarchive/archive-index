@@ -26,6 +26,18 @@
             "flarum": "^1.2",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0e2af1a49180b60ecde8533944d22b713447144d",
+            "archive_commit": "6acd08361c93e4fd818f27398f2e991ad369d4b7",
+            "released": "2026-10-27T09:59:24+00:00",
+            "archived": "2026-10-27",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "datlechin-flarum-ai",
