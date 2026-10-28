@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-html-errors",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-html-errors",
+    "archive_repo": "tacraft-sociality-flarum-html-errors",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-html-errors",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-html-errors",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ca388dbaeb5f6d328840b736d831d680df0fcc5e",
+            "archive_commit": "53e27555fc155e52c6e386571a512710b2170410",
+            "released": "2026-10-28T10:42:07+00:00",
+            "archived": "2026-10-28",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
