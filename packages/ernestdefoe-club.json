@@ -26,6 +26,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "04c61c139a1115006fd1af0ef4e07e439a872f05",
+            "archive_commit": "d54ce2fe0369fd8a23f683ab48add4f8680f3674",
+            "released": "2026-10-28T14:39:33+00:00",
+            "archived": "2026-10-28",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-club",
