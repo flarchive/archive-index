@@ -50,6 +50,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.0.3",
+            "tag": "archive/v2.0.3",
+            "upstream_commit": "d2855da8c912608cd107ba0fc821af8ebd0b20e8",
+            "archive_commit": "253f9823d6a14e271421cc846c2dfac84ef87ee1",
+            "released": "2026-10-28T12:39:48+00:00",
+            "archived": "2026-10-28",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ram0ng1-auth-modals",
