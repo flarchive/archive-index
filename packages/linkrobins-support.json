@@ -422,6 +422,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.13.2",
+            "tag": "archive/v1.13.2",
+            "upstream_commit": "23387e96f5aed6a5ee36b1a4552983a03e73c3fa",
+            "archive_commit": "bf0b64a1bb4fc4b5f3770bacd92fd73ef4ffd783",
+            "released": "2026-10-28T21:13:30+00:00",
+            "archived": "2026-10-28",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "linkrobins-support",
