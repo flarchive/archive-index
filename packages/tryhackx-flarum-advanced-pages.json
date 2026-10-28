@@ -50,6 +50,18 @@
             "flarum": "^2.0.2",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.4.3",
+            "tag": "archive/v2.4.3",
+            "upstream_commit": "2166cc6eb61a723550184f084f6d314366a7ffb3",
+            "archive_commit": "dbdaa20d0aeb6a9ab8e20a3e33a85fcc8995a4ed",
+            "released": "2026-10-28T00:26:08+00:00",
+            "archived": "2026-10-28",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "tryhackx-flarum-advanced-pages",
