@@ -1,0 +1,24 @@
+{
+    "package": "peopleinside/festive-decorations",
+    "upstream": "https://github.com/PeopleInside/festive-decorations",
+    "archive_repo": "peopleinside-festive-decorations",
+    "archive_repo_url": "https://github.com/flarchive/peopleinside-festive-decorations",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/peopleinside/festive-decorations",
+    "versions": [
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "c05f53b6a7ece06255c3d38b564815a37107f92b",
+            "archive_commit": "e4ad3ae746364d8f5fa2c672dd0e2002eb100112",
+            "released": "2026-10-28T22:38:30+00:00",
+            "archived": "2026-10-28",
+            "license": "GPL-2.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
