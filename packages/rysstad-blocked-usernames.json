@@ -1,0 +1,24 @@
+{
+    "package": "rysstad/blocked-usernames",
+    "upstream": "https://github.com/Pawlemann/flarum-blocked-usernames",
+    "archive_repo": "pawlemann-flarum-blocked-usernames",
+    "archive_repo_url": "https://github.com/flarchive/pawlemann-flarum-blocked-usernames",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/rysstad/blocked-usernames",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4298e9e4ffe062c67a37984caea3ec4251d6cf12",
+            "archive_commit": "c09f6fca045f982d466af49b4ef941b77b4f389f",
+            "released": "2026-10-28T13:36:50+00:00",
+            "archived": "2026-10-28",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
