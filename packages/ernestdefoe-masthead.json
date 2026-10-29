@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.4",
+            "tag": "archive/v1.1.4",
+            "upstream_commit": "bdb9163a94506356e881e507a593dca6c670daa1",
+            "archive_commit": "ebc9478fab090f0ae66354fb68a454e639509763",
+            "released": "2026-10-29T11:42:10+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-masthead",
