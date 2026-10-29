@@ -158,6 +158,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "be90a5661b5c42d42c37882a43eda497474d45f1",
+            "archive_commit": "c08d263d0082ad18f9818be70dd9be874972518c",
+            "released": "2026-10-29T16:32:01+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ram0ng1-stickers",
