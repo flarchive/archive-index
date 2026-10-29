@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/moments",
+    "upstream": "https://github.com/ernestdefoe/moments",
+    "archive_repo": "ernestdefoe-moments",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-moments",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/moments",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b8646131a39af545424f3f24b896d5af04b3156b",
+            "archive_commit": "ed404fd635e34564e0f7c3c985488f0cb65d9570",
+            "released": "2026-10-29T21:06:28+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
