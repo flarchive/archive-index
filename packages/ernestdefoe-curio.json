@@ -362,6 +362,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.20.1",
+            "tag": "archive/v1.20.1",
+            "upstream_commit": "c453ba9c8aebd536f6fd2042e5b6fa18ff6c336f",
+            "archive_commit": "917e8a004ee76f38ee0d839624015ebaabf18a89",
+            "released": "2026-10-29T16:49:27+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.21.0",
+            "tag": "archive/v1.21.0",
+            "upstream_commit": "e8b2d8214042b5e4d5ff6b86aaa1a40b6ccfd3cb",
+            "archive_commit": "58974bc3ac5b22b3417107f16f74fe4743f56a05",
+            "released": "2026-10-29T17:06:25+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-curio",
