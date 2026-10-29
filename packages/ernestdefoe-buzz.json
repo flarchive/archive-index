@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/buzz",
+    "upstream": "https://github.com/ernestdefoe/buzz",
+    "archive_repo": "ernestdefoe-buzz",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-buzz",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/buzz",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "0ef07e9dbfe7555a74178c54d377c37d33ebf2d9",
+            "archive_commit": "d6ce3a150f6ba655bc250cf2ccf2fb78d13b9371",
+            "released": "2026-10-29T19:14:08+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

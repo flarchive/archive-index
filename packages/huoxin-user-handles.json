@@ -14,6 +14,18 @@
             "flarum": "^1.2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "b113dcaea796bc4bdf91b07e8ba2d5635fd921f5",
+            "archive_commit": "9c4dbea07cf58fa43f20670f3e8372e9e0def92f",
+            "released": "2026-10-24T19:29:11+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huoxin233-flarum-ext-user-handles",
