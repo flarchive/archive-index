@@ -218,6 +218,18 @@
             "flarum": "^2.0.0-rc.5",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.4.2",
+            "tag": "archive/v1.4.2",
+            "upstream_commit": "b6e4e3248424794a2f2069b79307ffa3e9773f41",
+            "archive_commit": "291c7a5b62fcd1ca0dceff7a0e457406447d1c4d",
+            "released": "2026-10-29T08:31:42+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.5",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ygpynet-giveaways",
