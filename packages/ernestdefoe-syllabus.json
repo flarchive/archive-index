@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/syllabus",
+    "upstream": "https://github.com/ernestdefoe/syllabus",
+    "archive_repo": "ernestdefoe-syllabus",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-syllabus",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/syllabus",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "7a36e33dd6bc499b35d69928427f19248dbb1f12",
+            "archive_commit": "9507a9e6e02b057d1e461100924251bca0923dc9",
+            "released": "2026-10-29T20:39:19+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
