@@ -26,6 +26,18 @@
             "flarum": "^1.2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.0",
+            "tag": "archive/v2.0",
+            "upstream_commit": "a9e3138654861f772eff06e1fccf3023c86e4fe4",
+            "archive_commit": "96b7b12a92372b82c05016917bc35aab406da870",
+            "released": "2026-10-29T17:41:08+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huseyinfiliz-private-profile",
