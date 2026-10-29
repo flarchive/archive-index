@@ -146,6 +146,18 @@
             "flarum": "^1.2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "4c5d428f28666b37fc5adca915fab7a9a6e90e67",
+            "archive_commit": "4def936492da742a7e5d7e5cc572560c1a64b737",
+            "released": "2026-10-23T21:00:49+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huoxin233-flarum-ext-auto-image-dimensions",

@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/surveyor",
+    "upstream": "https://github.com/ernestdefoe/surveyor",
+    "archive_repo": "ernestdefoe-surveyor",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-surveyor",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/surveyor",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "08b4aa872442b5114f00a060635c48a244bb0fdd",
+            "archive_commit": "9df2897f940ab26959ded7ae58f3b89a1ee75ed4",
+            "released": "2026-10-29T19:07:26+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
