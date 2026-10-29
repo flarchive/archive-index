@@ -1,0 +1,36 @@
+{
+    "package": "xiaogan80/flarum-hot-board",
+    "upstream": "https://github.com/xiaogan80/acme-flarum-hot-board",
+    "archive_repo": "xiaogan80-acme-flarum-hot-board",
+    "archive_repo_url": "https://github.com/flarchive/xiaogan80-acme-flarum-hot-board",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/xiaogan80/flarum-hot-board",
+    "versions": [
+        {
+            "version": "v1.2.0",
+            "tag": "archive/v1.2.0",
+            "upstream_commit": "0afc76178de84c56bd1aea89b26fcdc3ad976256",
+            "archive_commit": "93f034769d465c9e8fce0ebe1247d51b01113f74",
+            "released": "2026-10-29T15:48:51+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "1d32246b8167111600de2c9de64db32e973ebc30",
+            "archive_commit": "8251954d87044baa8d911947dd6a3a8ae3a2ca36",
+            "released": "2026-10-29T15:53:42+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
