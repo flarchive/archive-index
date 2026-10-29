@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/festoon",
+    "upstream": "https://github.com/ernestdefoe/festoon",
+    "archive_repo": "ernestdefoe-festoon",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-festoon",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/festoon",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "81b4e603a42a8068517eaeb3f8ef6a9c5bd3361e",
+            "archive_commit": "92602cb8c3bb9a2baf8b58fdb61259e45c6454f8",
+            "released": "2026-10-29T21:52:47+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

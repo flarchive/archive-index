@@ -50,6 +50,18 @@
             "flarum": "^1.2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "97936eeb207a65027920de9124824e5e313f193b",
+            "archive_commit": "9f7a102a9a5592df66a71a843cf5d46722b7a888",
+            "released": "2026-10-29T21:10:56+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huseyinfiliz-bump",
