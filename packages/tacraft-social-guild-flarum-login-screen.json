@@ -1,0 +1,36 @@
+{
+    "package": "tacraft-social-guild/flarum-login-screen",
+    "upstream": "https://github.com/TaCraft-Social-Guild/flarum-login-screen",
+    "archive_repo": "tacraft-social-guild-flarum-login-screen",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-social-guild-flarum-login-screen",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-social-guild/flarum-login-screen",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "927005b21b9115dc123db3869268454fd56c8baa",
+            "archive_commit": "216b3e2e2d2c38c6a327c5c8235b8b19f723a92f",
+            "released": "2026-10-29T22:24:43+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "f01c5f38320e21389a923d0949aa2f31dc90453d",
+            "archive_commit": "cc238b53bc3d1f4e22299edd27ebfff59058e47e",
+            "released": "2026-10-29T23:38:13+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
