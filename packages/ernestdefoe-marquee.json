@@ -230,6 +230,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.9.0",
+            "tag": "archive/v1.9.0",
+            "upstream_commit": "3ec07a05e54e3c5f0a899af1f77212c85af07414",
+            "archive_commit": "b0a8dab566b069d204fc8df419d4b8638f8f2997",
+            "released": "2026-10-29T11:03:50+00:00",
+            "archived": "2026-10-29",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-marquee",
