@@ -1,0 +1,36 @@
+{
+    "package": "cengizkemec/flarum-contact-page",
+    "upstream": "https://github.com/cengizkemec/flarum-contact-page",
+    "archive_repo": "cengizkemec-flarum-contact-page",
+    "archive_repo_url": "https://github.com/flarchive/cengizkemec-flarum-contact-page",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/cengizkemec/flarum-contact-page",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c06f614c1c89e973f04c6eb95c13326346b0107a",
+            "archive_commit": "5266eaaf17a8ee991c77c3303cb30073c5e67d2a",
+            "released": "2026-10-30T09:26:41+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "07816301018623a63f97c51ddb11f1008200dd53",
+            "archive_commit": "44c0e4c7e7c285c4628bb7f0144cf408fc6b29fd",
+            "released": "2026-10-30T09:30:48+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
