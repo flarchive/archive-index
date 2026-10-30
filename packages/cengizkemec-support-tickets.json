@@ -194,6 +194,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.10",
+            "tag": "archive/v1.1.10",
+            "upstream_commit": "79a6911df6705d3f23ce2ebbd8a3234b6c204ddb",
+            "archive_commit": "a42e7351cbb2dc072622292355c417936ab1eb15",
+            "released": "2026-10-30T11:47:45+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "cengizkemec-flarum-support-tickets",
