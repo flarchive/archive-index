@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-microsoft-oauth",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-microsoft-oauth",
+    "archive_repo": "tacraft-sociality-flarum-microsoft-oauth",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-microsoft-oauth",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-microsoft-oauth",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a301333f318ec6d3dc460caa0f150efe370b25f0",
+            "archive_commit": "31f39f4bceb6be760362c8344596d0f2b09eb865",
+            "released": "2026-10-30T18:46:16+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
