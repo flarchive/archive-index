@@ -1,0 +1,24 @@
+{
+    "package": "ramon/tag-experts",
+    "upstream": "https://github.com/ram0ng1/tag-experts",
+    "archive_repo": "ram0ng1-tag-experts",
+    "archive_repo_url": "https://github.com/flarchive/ram0ng1-tag-experts",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ramon/tag-experts",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "9a99edda3841244dfd819f22bfbe5dac2cba4f3f",
+            "archive_commit": "37713f5b46127aba8ffe52b3484901df18c43f4e",
+            "released": "2026-10-30T20:44:26+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

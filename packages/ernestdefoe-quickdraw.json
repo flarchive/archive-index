@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/quickdraw",
+    "upstream": "https://github.com/ernestdefoe/quickdraw",
+    "archive_repo": "ernestdefoe-quickdraw",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-quickdraw",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/quickdraw",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "57756d0f5f6d638c16d998b3885c7e3b3e95467f",
+            "archive_commit": "c58c9a874b77179aa08c50f724a20a25564b3606",
+            "released": "2026-10-30T21:27:45+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

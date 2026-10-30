@@ -1,0 +1,24 @@
+{
+    "package": "ramon/saved-searches",
+    "upstream": "https://github.com/ram0ng1/saved-searches",
+    "archive_repo": "ram0ng1-saved-searches",
+    "archive_repo_url": "https://github.com/flarchive/ram0ng1-saved-searches",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ramon/saved-searches",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "e321d07581a129b4e914d7764f2fb8332f7d7520",
+            "archive_commit": "22a56152483363589403e543d45f894ac3fbfe11",
+            "released": "2026-10-30T20:44:47+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
