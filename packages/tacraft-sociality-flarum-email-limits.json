@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-email-limits",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-email-limits",
+    "archive_repo": "tacraft-sociality-flarum-email-limits",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-email-limits",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-email-limits",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "65b7f3a45715b3404528255c4282b7839d07eb2d",
+            "archive_commit": "b0c5dc0168d37ba611927ce851f2480f9e080fc9",
+            "released": "2026-10-30T03:23:35+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
