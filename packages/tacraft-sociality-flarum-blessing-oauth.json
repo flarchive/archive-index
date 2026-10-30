@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-blessing-oauth",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-blessing-oauth",
+    "archive_repo": "tacraft-sociality-flarum-blessing-oauth",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-blessing-oauth",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-blessing-oauth",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e97cdd6a4f3aefc87954930a90b6db9acc7b67b7",
+            "archive_commit": "cba97809bbd84c977eacce58bfaf41c523541e9d",
+            "released": "2026-10-30T06:16:12+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
