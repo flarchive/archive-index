@@ -230,6 +230,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.7.2",
+            "tag": "archive/v0.7.2",
+            "upstream_commit": "6e8dccefa4a222e13011714b6a6b955643dd80bb",
+            "archive_commit": "914e359d8df57f1df599ed271ae5841d41cbc169",
+            "released": "2026-10-30T12:06:58+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-giveaways",
