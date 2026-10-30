@@ -1,0 +1,24 @@
+{
+    "package": "ramon/composer",
+    "upstream": "https://github.com/ram0ng1/composer",
+    "archive_repo": "ram0ng1-composer",
+    "archive_repo_url": "https://github.com/flarchive/ram0ng1-composer",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ramon/composer",
+    "versions": [
+        {
+            "version": "v0.0.1",
+            "tag": "archive/v0.0.1",
+            "upstream_commit": "34e9dab5422dbb5725f05533be68d8fd122bcf0f",
+            "archive_commit": "95927063706f8412eac8b4c321da7fb0a6a9c659",
+            "released": "2026-10-30T21:03:13+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
