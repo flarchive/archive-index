@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-qq-oauth",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-qq-oauth",
+    "archive_repo": "tacraft-sociality-flarum-qq-oauth",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-qq-oauth",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-qq-oauth",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c465d2e6dde320817f2ab3e47fbb3f2823f00d54",
+            "archive_commit": "032f2f3018019f6888b68952f4ca6edea9d1f8c7",
+            "released": "2026-10-30T11:36:16+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
