@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/rotation",
+    "upstream": "https://github.com/ernestdefoe/rotation",
+    "archive_repo": "ernestdefoe-rotation",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-rotation",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/rotation",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "180eee6e4e7fda0b22acc2aedfbc85e5c4b22907",
+            "archive_commit": "7e3ba13640c4557ae0faa3b508c425b156935666",
+            "released": "2026-10-30T14:27:52+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
