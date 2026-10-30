@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/kiosk",
+    "upstream": "https://github.com/ernestdefoe/kiosk",
+    "archive_repo": "ernestdefoe-kiosk",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-kiosk",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/kiosk",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "fb43ecb009d74dc7e8a8bb64627d397301241b61",
+            "archive_commit": "730aae697c9fbd3966d8648fd033ee47b6d76994",
+            "released": "2026-10-30T18:40:23+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
