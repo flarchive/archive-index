@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/vantage",
+    "upstream": "https://github.com/ernestdefoe/vantage",
+    "archive_repo": "ernestdefoe-vantage",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-vantage",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/vantage",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "5f2b24a317914c0723dcc7115f048db3da5a1d9d",
+            "archive_commit": "06431251cf5d4e182dc1d3ec757774ee1fe143c8",
+            "released": "2026-10-30T19:32:22+00:00",
+            "archived": "2026-10-30",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
