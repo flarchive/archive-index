@@ -902,6 +902,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.4.7",
+            "tag": "archive/v3.4.7",
+            "upstream_commit": "9c0a58d9cc7ac55eb55a07dc0709c43ec1d6facb",
+            "archive_commit": "add028160068f828fdd9c5c24de7086e7c4bdf8c",
+            "released": "2026-10-31T19:40:17+00:00",
+            "archived": "2026-10-31",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-mosaic",
