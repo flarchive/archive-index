@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/flarumverse",
+    "upstream": "https://github.com/ernestdefoe/flarumverse",
+    "archive_repo": "ernestdefoe-flarumverse",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-flarumverse",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/flarumverse",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "61f9bb8410f8cc23078994aeeeda973eaa06bcba",
+            "archive_commit": "179982faca73254cda2fc58546779e861b651862",
+            "released": "2026-10-31T16:53:50+00:00",
+            "archived": "2026-10-31",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
