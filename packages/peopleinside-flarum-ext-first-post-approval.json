@@ -302,6 +302,18 @@
             "flarum": "^1.0 || ^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.2.5",
+            "tag": "archive/v2.2.5",
+            "upstream_commit": "54450b2a2861acb1e4a9596d1f431fd0b54e436d",
+            "archive_commit": "190b6aae944cca67abb2f7c04d290ae088cff00b",
+            "released": "2026-10-31T13:50:49+00:00",
+            "archived": "2026-10-31",
+            "license": "Apache-2.0",
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "peopleinside-flarum-ext-first-post-approval",
