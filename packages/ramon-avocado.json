@@ -662,6 +662,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.2.11",
+            "tag": "archive/v2.2.11",
+            "upstream_commit": "7f89ea1b0868751b0ffd735d71c924a78b7fb13f",
+            "archive_commit": "f1e77ec1b7e6dbf8d616719873acc54289496389",
+            "released": "2026-10-31T15:28:35+00:00",
+            "archived": "2026-10-31",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ram0ng1-avocado",
