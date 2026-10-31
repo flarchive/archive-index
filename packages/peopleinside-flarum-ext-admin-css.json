@@ -50,6 +50,18 @@
             "flarum": "^2.0.0-rc.6",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "e6150184dfc2fcaba96896b9cc5fd4fad3b5170e",
+            "archive_commit": "f6e4072c9cd2c249de4c798bfde868b5f0de2fd5",
+            "released": "2026-10-31T14:58:06+00:00",
+            "archived": "2026-10-31",
+            "license": "MIT",
+            "flarum": "^2.0.0-rc.6",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "peopleinside-flarum-ext-admin-css",
