@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.1.4",
+            "tag": "archive/v1.1.4",
+            "upstream_commit": "a74338b4d0cdd091a6b0d2a19157c0a67e750a7e",
+            "archive_commit": "0cfac36d1015d765e383fc473124633ced3851f1",
+            "released": "2026-11-01T22:50:50+00:00",
+            "archived": "2026-11-01",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "linkrobins-op",
