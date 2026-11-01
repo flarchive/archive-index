@@ -50,6 +50,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "37b94ef27a1f6b085d29e899c5191942d9664d9d",
+            "archive_commit": "ededbe12e2b5b711941f008e69ee4d3b1528d418",
+            "released": "2026-11-01T20:37:26+00:00",
+            "archived": "2026-11-01",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "linkrobins-mobile-logo",
