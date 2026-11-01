@@ -530,6 +530,18 @@
             "flarum": "^1.8 || ^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.7.0",
+            "tag": "archive/v3.7.0",
+            "upstream_commit": "b6296aabc3586ced6eae1a5c068aaf956c64f182",
+            "archive_commit": "c868d0b6cf8e82f81e4c8fa96fd4eed34bbe7247",
+            "released": "2026-11-01T06:52:38+00:00",
+            "archived": "2026-11-01",
+            "license": "Apache-2.0",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "peopleinside-fla-powcaptcha",

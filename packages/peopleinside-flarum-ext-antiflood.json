@@ -242,6 +242,18 @@
             "flarum": "^1.0 || ^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.5",
+            "tag": "archive/v2.0.5",
+            "upstream_commit": "8d80ae2182fe05be5235af276a5e989f6c5ab82f",
+            "archive_commit": "50de3847a1360857199666f2aeed3ea99822f394",
+            "released": "2026-11-01T06:57:33+00:00",
+            "archived": "2026-11-01",
+            "license": "Apache-2.0",
+            "flarum": "^1.0 || ^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "peopleinside-flarum-ext-antiflood",
