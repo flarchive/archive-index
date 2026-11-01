@@ -1,0 +1,24 @@
+{
+    "package": "el-choco/admin-console",
+    "upstream": "https://github.com/el-choco/flarum-admin-console",
+    "archive_repo": "el-choco-flarum-admin-console",
+    "archive_repo_url": "https://github.com/flarchive/el-choco-flarum-admin-console",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/el-choco/admin-console",
+    "versions": [
+        {
+            "version": "v0.2.0-rc.3",
+            "tag": "archive/v0.2.0-rc.3",
+            "upstream_commit": "82d2b42b73ed4f968bb6e6bad0f8881cb2347d5e",
+            "archive_commit": "3fd5c58f50a61ee054f1d5dae80c2c9585c679a0",
+            "released": "2026-11-01T19:01:33+00:00",
+            "archived": "2026-11-01",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
