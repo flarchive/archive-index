@@ -446,6 +446,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.22.2",
+            "tag": "archive/v1.22.2",
+            "upstream_commit": "202b04e299728fdf5af1d6815296ec4fa47cce36",
+            "archive_commit": "e25d1dcc23452ef1af25d5cbfbb544269fab951d",
+            "released": "2026-11-01T11:53:31+00:00",
+            "archived": "2026-11-01",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-curio",
