@@ -98,6 +98,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.0.6",
+            "tag": "archive/v3.0.6",
+            "upstream_commit": "e6609417a9571e652f1f3237c89f0dc8a37f395c",
+            "archive_commit": "43e91c099e9cc5c9baf386d1ee18e91ce499b2e6",
+            "released": "2026-11-01T14:07:50+00:00",
+            "archived": "2026-11-01",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-cross-references",
