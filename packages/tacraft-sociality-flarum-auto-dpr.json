@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-auto-dpr",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-auto-dpr",
+    "archive_repo": "tacraft-sociality-flarum-auto-dpr",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-auto-dpr",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-auto-dpr",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "656b43d68c769bd7e2ee79af7e1543552c9ce67d",
+            "archive_commit": "55aa5ab4ca514f16c7dddaebb8a2ebf58e360d51",
+            "released": "2026-11-01T18:22:59+00:00",
+            "archived": "2026-11-01",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
