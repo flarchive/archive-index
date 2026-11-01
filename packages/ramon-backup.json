@@ -326,6 +326,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.1.1",
+            "tag": "archive/v2.1.1",
+            "upstream_commit": "8c497bfba43fb09247d5da83327413050f768666",
+            "archive_commit": "1515634d27cbf02a557e0571cd1a022b53903aa2",
+            "released": "2026-10-31T23:58:17+00:00",
+            "archived": "2026-11-01",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ram0ng1-backup",
