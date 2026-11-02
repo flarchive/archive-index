@@ -98,6 +98,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.2.6",
+            "tag": "archive/v0.2.6",
+            "upstream_commit": "402bd3db6b20c80df2e09946ff72d4fb83f47a15",
+            "archive_commit": "9141445bb89b3b80331caad0279128b5b559f9e8",
+            "released": "2026-11-02T16:24:39+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-typesense",

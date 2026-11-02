@@ -302,6 +302,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.5.10",
+            "tag": "archive/v1.5.10",
+            "upstream_commit": "fbb50f19b72ed8fc987c394f494e200913ca1525",
+            "archive_commit": "c88e0b7443e42a09e84e3753d4fd03fdb592c2a1",
+            "released": "2026-11-02T15:37:50+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-projects",

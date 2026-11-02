@@ -1,0 +1,24 @@
+{
+    "package": "huseyinfiliz/author-moderation",
+    "upstream": "https://github.com/huseyinfiliz/author-moderation",
+    "archive_repo": "huseyinfiliz-author-moderation",
+    "archive_repo_url": "https://github.com/flarchive/huseyinfiliz-author-moderation",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/author-moderation",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "31d5dcdafd3bd0f1b604ee3cf2cda6c180cbb970",
+            "archive_commit": "f9027d77f539edab69a41d7d89544d10703feade",
+            "released": "2026-11-02T15:47:45+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
