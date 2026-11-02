@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/anthology",
+    "upstream": "https://github.com/ernestdefoe/anthology",
+    "archive_repo": "ernestdefoe-anthology",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-anthology",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/anthology",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "7efd8f9cb53a8c95a5acb18b20c3bc31d1164f16",
+            "archive_commit": "1bbd89dad313640c56273b17acefaf16156a245f",
+            "released": "2026-11-02T09:54:31+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
