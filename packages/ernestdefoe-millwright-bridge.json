@@ -98,6 +98,30 @@
             "flarum": "^1.8",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.1.7",
+            "tag": "archive/v0.1.7",
+            "upstream_commit": "1ec140ee362ebcaba2dec0a448d893767041ce85",
+            "archive_commit": "9f1a44449a05152d4a674ae6e83d34f4864705a0",
+            "released": "2026-11-02T20:26:45+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "e01e44d2123ae114eaa48fcb54d70d9bc8558531",
+            "archive_commit": "fbd4b4f31288b8a4131c78f5fc041639213f6630",
+            "released": "2026-11-02T20:40:28+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-millwright-bridge",
