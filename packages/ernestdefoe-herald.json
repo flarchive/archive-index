@@ -62,6 +62,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "99edde3680d78571d28545d23b2180176ff233fe",
+            "archive_commit": "bbf3800ad417e5c2e681899d684f9c4b2ae27dae",
+            "released": "2026-11-02T18:51:16+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-herald",
