@@ -110,6 +110,18 @@
             "flarum": "*",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.10",
+            "tag": "archive/v1.0.10",
+            "upstream_commit": "72364792ec73a275e19468e1293f2bbfc93fd626",
+            "archive_commit": "fd493bfb3a28329b8b7f69b76e840b27b1fddf39",
+            "released": "2026-11-02T05:20:16+00:00",
+            "archived": "2026-11-02",
+            "license": "Apache-2.0",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "hamcq-flarum-ext-auth-phone",
