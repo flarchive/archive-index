@@ -446,6 +446,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.4.1",
+            "tag": "archive/v0.4.1",
+            "upstream_commit": "b3556be09cf753cf4f445984348db4f331d99158",
+            "archive_commit": "007a875884b181273927767608831f46a671f20e",
+            "released": "2026-11-02T23:16:06+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ram0ng1-chat",
