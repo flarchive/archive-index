@@ -26,6 +26,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "7b2bb7eb3658802845843958f7e2d71fecc687b9",
+            "archive_commit": "6076bf1f0b4b726704ea3751d093fd40d8461df1",
+            "released": "2026-11-02T18:20:09+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-sheaf",

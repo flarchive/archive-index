@@ -110,6 +110,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "e9e0a2ae5624f03523bf882d351216285d921ef5",
+            "archive_commit": "19fd56dffe5f2399ccac7e25b55eec3843588c32",
+            "released": "2026-11-02T18:25:44+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flectar-flarum-ext-turnstile",
