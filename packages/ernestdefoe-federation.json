@@ -146,6 +146,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.1.3",
+            "tag": "archive/v2.1.3",
+            "upstream_commit": "ceea1e03995dde70e2f0173656ac8a070d776c32",
+            "archive_commit": "d7499a28916308f9f86340db9073c7356c345ead",
+            "released": "2026-11-02T19:19:03+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-federation",
