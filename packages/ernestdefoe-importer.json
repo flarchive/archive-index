@@ -230,6 +230,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.7.2",
+            "tag": "archive/v0.7.2",
+            "upstream_commit": "45975e62e6fbfbbcca8dc36bc7c250e2c9c85bcf",
+            "archive_commit": "0874f47faab32281a7fb2447c214c96c51ad78f5",
+            "released": "2026-11-02T15:12:52+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-importer",

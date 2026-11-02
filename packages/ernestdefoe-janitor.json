@@ -86,6 +86,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.3.4",
+            "tag": "archive/v1.3.4",
+            "upstream_commit": "5c4bf23c6961531c4d6cfbe8bb83c463b22c1c3d",
+            "archive_commit": "cbd1fd84b28ac5865985e1cab451845933346002",
+            "released": "2026-11-02T15:18:20+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-janitor",

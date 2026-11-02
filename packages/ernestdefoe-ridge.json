@@ -38,6 +38,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "a32349cd014537e6973c18b72038d0d64d0611e0",
+            "archive_commit": "5e03a9216cd50f42ff436ecae483a46d14d0eded",
+            "released": "2026-11-02T15:18:30+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-ridge",
