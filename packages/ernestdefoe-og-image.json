@@ -122,6 +122,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.0.10",
+            "tag": "archive/v2.0.10",
+            "upstream_commit": "ca3d66d49443641d614c09485e096ec7207a2f0b",
+            "archive_commit": "4d0be2d3da609526f820f214b7f525271c5c8682",
+            "released": "2026-11-02T17:21:56+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-og-image",
