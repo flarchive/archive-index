@@ -26,6 +26,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "39e95cc1dc6ab9590bd17e61fab7bbb94d164c87",
+            "archive_commit": "cb8f25eee487927b4f208bc4b463f0b0ea0cc3bd",
+            "released": "2026-11-02T20:12:28+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-rubric",
