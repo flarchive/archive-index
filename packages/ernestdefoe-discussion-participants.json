@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "bef3a255f0665a95925908c81f116c0ec86f5299",
+            "archive_commit": "55ae87301829b77c4033d238faa39ce4406340ca",
+            "released": "2026-11-02T18:29:25+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-discussion-participants",

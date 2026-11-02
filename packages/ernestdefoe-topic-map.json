@@ -86,6 +86,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.2.4",
+            "tag": "archive/v0.2.4",
+            "upstream_commit": "6d20d4218fafaa332033bbef79b8a856a22f0ab9",
+            "archive_commit": "9bc2012e946ed26e04e506b6ef9d7b20318c5f98",
+            "released": "2026-11-02T18:28:31+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-topic-map",
