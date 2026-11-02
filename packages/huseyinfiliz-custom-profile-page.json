@@ -74,6 +74,18 @@
             "flarum": "^1.2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c96f0a6d977b7995fea0b4d776818db1494e079d",
+            "archive_commit": "f5a01b3cc2228fa78c438159d9ca388e80b8ffa2",
+            "released": "2026-11-02T10:29:18+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huseyinfiliz-custom-profile-page",
