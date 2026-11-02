@@ -98,6 +98,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "0.2.7",
+            "tag": "archive/v0.2.7",
+            "upstream_commit": "555a844a24d997faee4e6426a10074dc9615c195",
+            "archive_commit": "df76994f8b932c89f6771bb06001d8b52c5c10b5",
+            "released": "2026-11-02T18:02:46+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-google-fonts",
