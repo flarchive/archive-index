@@ -422,6 +422,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.15.12",
+            "tag": "archive/v0.15.12",
+            "upstream_commit": "a4766fa77b35b8db32916b6a95268224e1bb3bec",
+            "archive_commit": "aaed966e7c67597ad281a39403c8b544787d113c",
+            "released": "2026-11-02T15:06:38+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-armory",

@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "607ae02a43e15b141e1ee191f428e8e16b6f17c3",
+            "archive_commit": "b60cdf54a8c080747999c7ae47b9055c6baef54b",
+            "released": "2026-11-02T15:05:34+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-connect",
