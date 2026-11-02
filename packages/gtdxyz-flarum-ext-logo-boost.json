@@ -14,6 +14,18 @@
             "flarum": "^1.8.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "7052f5b4e301af4fbe51ecb36f5061a090b94655",
+            "archive_commit": "c3e47fcbb3a9f89d56d28e6cc05614dcaa7330bd",
+            "released": "2024-11-08T07:41:09+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "daocatt-flarum-ext-logo-boost",

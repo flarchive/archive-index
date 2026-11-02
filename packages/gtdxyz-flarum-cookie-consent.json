@@ -14,6 +14,18 @@
             "flarum": "^1.8.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "85e64d473ee5f5840c6b00bb02c7a0e03ddd8c4e",
+            "archive_commit": "3646b583f5429a171108696ca2014cf687a19163",
+            "released": "2024-02-23T16:58:57+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "daocatt-flarum-cookie-consent",

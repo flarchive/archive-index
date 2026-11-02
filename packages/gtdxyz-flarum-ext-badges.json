@@ -26,6 +26,18 @@
             "flarum": "^1.8.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "dc5c73017d97c99d50fe9332fe3f1d3a66747c6b",
+            "archive_commit": "d7cd7b53775bc1a6d600884bfa313e63907c5a46",
+            "released": "2025-02-11T10:22:23+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "daocatt-flarum-ext-badges",

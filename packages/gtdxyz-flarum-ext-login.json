@@ -38,6 +38,18 @@
             "flarum": "^1.8",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "f24bbd584dcc50cd7ad1223b6d5463669ba0e558",
+            "archive_commit": "f6c3e8f68ffd1a4b119938255d0cb5b7cc6ca0f3",
+            "released": "2024-04-12T03:38:26+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "daocatt-flarum-ext-login",

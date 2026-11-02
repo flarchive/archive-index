@@ -62,6 +62,18 @@
             "flarum": "^1.8",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.4",
+            "tag": "archive/v1.1.4",
+            "upstream_commit": "bdf0d7d54a34183089e3530287a1e715f7b3a79d",
+            "archive_commit": "743287c2185e499ac48d1c373a8d56ade807223f",
+            "released": "2024-08-25T12:05:53+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "daocatt-flarum-ext-money-plus",

@@ -26,6 +26,18 @@
             "flarum": "^1.8",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.1.1",
+            "tag": "archive/v1.1.1",
+            "upstream_commit": "f3cff8a8a393925f852f6f816f65f8c163639bc2",
+            "archive_commit": "1d24cf9de60382bb939062aceaebe76d1e4b5530",
+            "released": "2024-02-23T14:49:33+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "daocatt-flarum-ext-hcaptcha",

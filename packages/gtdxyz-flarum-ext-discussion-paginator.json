@@ -50,6 +50,18 @@
             "flarum": "^1.8",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.4",
+            "tag": "archive/v1.0.4",
+            "upstream_commit": "fc7aeef2edc4ee90ad515e1533133dff595f5d57",
+            "archive_commit": "77a0a49223cb34c1e1553e9e849a95d5585e8e30",
+            "released": "2025-02-11T10:22:35+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "daocatt-flarum-ext-discussion-paginator",

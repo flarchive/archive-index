@@ -26,6 +26,18 @@
             "flarum": "^1.8",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "8c0154e5c6cebb96f53de7376f87b223c5bdc7b6",
+            "archive_commit": "426145a089ec11acf13da147c568253a1f5f78d2",
+            "released": "2024-04-08T03:23:08+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "daocatt-flarum-ext-mobile-sidebar",
