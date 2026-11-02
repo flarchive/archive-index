@@ -50,6 +50,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.1.2",
+            "tag": "archive/v1.1.2",
+            "upstream_commit": "739d5e4d236eda56adbade1984ae8ded227d6700",
+            "archive_commit": "8c7f0269c7b6be5f7de602dba0346f64b30af2c9",
+            "released": "2026-11-02T17:03:04+00:00",
+            "archived": "2026-11-02",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-shelf",
