@@ -218,6 +218,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "e436139482ced7312d6258fb95c052934d797fe8",
+            "archive_commit": "87437019c6aa2dd329ae47cad975a7961dfd3781",
+            "released": "2026-11-02T23:49:30+00:00",
+            "archived": "2026-11-03",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "walsgit-flarum-discussion-cards",
