@@ -158,6 +158,18 @@
             "flarum": "^2.0.0-beta.1 || ^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.1.4",
+            "tag": "archive/v2.1.4",
+            "upstream_commit": "339d9d7226473357097d72fa4337daa2966c1919",
+            "archive_commit": "ddc78a35f7454518d663d2612e0b22b6beb2a7f0",
+            "released": "2026-11-03T10:11:38+00:00",
+            "archived": "2026-11-03",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta.1 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "peopleinside-automore",
