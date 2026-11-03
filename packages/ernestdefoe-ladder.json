@@ -86,6 +86,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.5.0",
+            "tag": "archive/v1.5.0",
+            "upstream_commit": "c994cfc22936b72330609aea5da6a450fb88da3e",
+            "archive_commit": "1ede3bb28504aac9734c386a1841c97c632ec51c",
+            "released": "2026-11-03T12:09:28+00:00",
+            "archived": "2026-11-03",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-ladder",
