@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-auto-duea",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-auto-duea",
+    "archive_repo": "tacraft-sociality-flarum-auto-duea",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-auto-duea",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-auto-duea",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "29f9acecfb045e5d161ceaffdb2f06f5bd1fa0ff",
+            "archive_commit": "b4c3a1e04d2726f038ce64a854e1472785c253da",
+            "released": "2026-11-04T02:38:18+00:00",
+            "archived": "2026-11-04",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
