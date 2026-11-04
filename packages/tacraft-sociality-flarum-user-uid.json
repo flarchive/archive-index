@@ -1,0 +1,24 @@
+{
+    "package": "tacraft-sociality/flarum-user-uid",
+    "upstream": "https://github.com/TaCraft-Sociality/flarum-user-uid",
+    "archive_repo": "tacraft-sociality-flarum-user-uid",
+    "archive_repo_url": "https://github.com/flarchive/tacraft-sociality-flarum-user-uid",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/tacraft-sociality/flarum-user-uid",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b4e5d50ac84dcca7c6920fe1030cbdd83c24b78f",
+            "archive_commit": "42606cdd0c32633fcdf858d91d7ec9573b6579a1",
+            "released": "2026-11-04T07:48:00+00:00",
+            "archived": "2026-11-04",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
