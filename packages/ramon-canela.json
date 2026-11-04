@@ -326,6 +326,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.1.7",
+            "tag": "archive/v0.1.7",
+            "upstream_commit": "cbec7f2b3cbe0af7760f0a1cdd1a504060686608",
+            "archive_commit": "8c3022c0aa402aef2c996550519a717ffa02c428",
+            "released": "2026-11-04T01:47:49+00:00",
+            "archived": "2026-11-04",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ram0ng1-canela",
