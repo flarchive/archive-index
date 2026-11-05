@@ -146,6 +146,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.6.0",
+            "tag": "archive/v1.6.0",
+            "upstream_commit": "029298f240f0051e92f806ba3c636aaf621c2923",
+            "archive_commit": "7cddbb8265382d32a879d0aa3a2fd095ee4d5ea0",
+            "released": "2026-11-05T15:01:46+00:00",
+            "archived": "2026-11-05",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-hero-builder",
