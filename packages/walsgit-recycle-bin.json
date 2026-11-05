@@ -242,6 +242,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "e8dfc70737d52ed5cada53c46c4b8af2728b03ed",
+            "archive_commit": "774f3a3c5818719218c95cb053393a75aaf0b289",
+            "released": "2026-11-05T22:14:20+00:00",
+            "archived": "2026-11-05",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "walsgit-recycle-bin",
