@@ -46,15 +46,15 @@
         },
         {
             "version": "1.1.0",
-            "tag": null,
+            "tag": "archive/v1.1.0",
             "upstream_commit": "364bffd749d43051d3a7d0d1ade36a081fb8ede2",
-            "archive_commit": null,
+            "archive_commit": "bc40c23064c7af88f8df1a788b98c16f69540b68",
             "released": "2026-11-04T11:01:02+00:00",
-            "archived": null,
+            "archived": "2026-11-05",
             "license": "MIT",
             "flarum": "^2.0",
             "source": "archived",
-            "status": "archive_failed"
+            "status": "ok"
         }
     ]
 }
