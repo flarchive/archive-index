@@ -1,0 +1,24 @@
+{
+    "package": "el-choco/extension-uninstaller",
+    "upstream": "https://github.com/el-choco/extension-uninstaller",
+    "archive_repo": "el-choco-extension-uninstaller",
+    "archive_repo_url": "https://github.com/flarchive/el-choco-extension-uninstaller",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/el-choco/extension-uninstaller",
+    "versions": [
+        {
+            "version": "v0.1.0-rc.1",
+            "tag": "archive/v0.1.0-rc.1",
+            "upstream_commit": "54fc5934d36f4364eedac39cc4bd7b8214df5a8b",
+            "archive_commit": "e521fa12138a8a7ee1f0a1028999e8f720e64dc2",
+            "released": "2026-11-06T09:11:36+00:00",
+            "archived": "2026-11-06",
+            "license": "MIT",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
