@@ -590,6 +590,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.13",
+            "tag": "archive/v2.0.13",
+            "upstream_commit": "540bf15a06546e22881345a46caab2ade6c708c8",
+            "archive_commit": "0c42647b0a0a5df4236dcbfb7900f2c1c4584486",
+            "released": "2026-11-06T18:41:21+00:00",
+            "archived": "2026-11-06",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-vietnamese",
