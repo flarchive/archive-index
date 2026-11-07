@@ -97,6 +97,18 @@
             "flarum": "^v2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.2.1",
+            "tag": "archive/v1.2.1",
+            "upstream_commit": "62c4093f53b44c5f6db58d7844763d7ed3580656",
+            "archive_commit": "a3bea72fe8cde3d29d4be8468e8a29bab4131ccf",
+            "released": "2026-11-07T04:56:36+00:00",
+            "archived": "2026-11-07",
+            "license": "MIT",
+            "flarum": "^v1.8.14",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "packagistUrl": "https://packagist.org/packages/acpl/flarum-db-snapshots",
