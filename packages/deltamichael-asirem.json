@@ -158,6 +158,18 @@
             "flarum": "^1.8.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "0.1.22",
+            "tag": "archive/v0.1.22",
+            "upstream_commit": "377950ffc9ea374f21de978f82e5ae46acfd79bd",
+            "archive_commit": "dc9a35e3c347a2bc42a429fae59eebd0d573113b",
+            "released": "2026-11-07T03:52:08+00:00",
+            "archived": "2026-11-07",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "deltamichael-asirem",
