@@ -566,6 +566,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v4.1.1",
+            "tag": "archive/v4.1.1",
+            "upstream_commit": "7f00056f33016de1f05ed7e1218d329a4ac8d89c",
+            "archive_commit": "3c3c4dc3da44094de8ec77e320eb3bfeac71373a",
+            "released": "2026-11-07T03:04:19+00:00",
+            "archived": "2026-11-07",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "android-com-pl-flarum-lscache",
