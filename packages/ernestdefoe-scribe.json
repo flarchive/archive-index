@@ -326,6 +326,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.5.1",
+            "tag": "archive/v1.5.1",
+            "upstream_commit": "ae44c688adc9007f44d918ede26ee9a8a30d6a40",
+            "archive_commit": "4ae5d611a1285aecb0865133dffe9a08d81df357",
+            "released": "2026-11-07T15:15:49+00:00",
+            "archived": "2026-11-07",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-scribe",
