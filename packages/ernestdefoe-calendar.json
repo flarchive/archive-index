@@ -422,6 +422,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.7.1",
+            "tag": "archive/v2.7.1",
+            "upstream_commit": "95dc22e763596c69d904cd185837e12934ac603f",
+            "archive_commit": "ab2158304fc86c9a057664c769e11b19d42e0285",
+            "released": "2026-11-07T14:54:53+00:00",
+            "archived": "2026-11-07",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-calendar",
