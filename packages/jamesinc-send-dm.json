@@ -74,6 +74,18 @@
             "flarum": "^1.2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6e585049b44863ed87f78c5cf8c159da9e8a224f",
+            "archive_commit": "d092d234f93e0191b5500e7a5dba2cdfeb4f6e61",
+            "released": "2026-11-08T08:54:34+00:00",
+            "archived": "2026-11-08",
+            "license": "GPL-3.0",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "jamesinc-send-dm",
