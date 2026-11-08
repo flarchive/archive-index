@@ -38,6 +38,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.3",
+            "tag": "archive/v1.0.3",
+            "upstream_commit": "1a50be961eb206361b79295b49582c40169180ad",
+            "archive_commit": "eeb966dfe9d70708e56e901be360d78814421b68",
+            "released": "2026-11-08T16:46:56+00:00",
+            "archived": "2026-11-08",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-nameplate",
