@@ -266,6 +266,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.0.4",
+            "tag": "archive/v3.0.4",
+            "upstream_commit": "a358ce548108bcbf15d97932042b648275a67b9c",
+            "archive_commit": "bb7e8ccd411d96793a8683bf53966a215c0579d8",
+            "released": "2026-10-19T14:42:48+00:00",
+            "archived": "2026-11-08",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "icecore2-flarum-hebrew",
