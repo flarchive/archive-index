@@ -1,0 +1,24 @@
+{
+    "package": "deltamichael/mention-permissions",
+    "upstream": "https://github.com/DeltaMichael/mention-permissions",
+    "archive_repo": "deltamichael-mention-permissions",
+    "archive_repo_url": "https://github.com/flarchive/deltamichael-mention-permissions",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/deltamichael/mention-permissions",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "tag": "archive/v0.1.0",
+            "upstream_commit": "d330b5f613714d04eb3f5d204106913567d47202",
+            "archive_commit": "800758322c322433dd5672adf74d9dcaaba54dcb",
+            "released": "2026-11-08T15:27:33+00:00",
+            "archived": "2026-11-08",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
