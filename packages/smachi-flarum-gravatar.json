@@ -20,5 +20,5 @@
     "archive_repo_url": "https://github.com/flarchive/smachi-flarum-gravatar",
     "is_fork": false,
     "fork_parent": null,
-    "abandoned": null
+    "abandoned": "true"
 }
