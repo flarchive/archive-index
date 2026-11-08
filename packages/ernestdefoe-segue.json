@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/segue",
+    "upstream": "https://github.com/ernestdefoe/segue",
+    "archive_repo": "ernestdefoe-segue",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-segue",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/segue",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "61a495623aeac9e0afc3a45bde0d7d233a7366c5",
+            "archive_commit": "3c3750fb898805ee2ea82d8f32743b0df10ca1c3",
+            "released": "2026-11-08T17:32:32+00:00",
+            "archived": "2026-11-08",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
