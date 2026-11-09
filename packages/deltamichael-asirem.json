@@ -230,6 +230,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "0.2.5",
+            "tag": "archive/v0.2.5",
+            "upstream_commit": "4c8045c435f79794ad20b21e03b6e64fe7eed820",
+            "archive_commit": "c8e6754be15c1d36d30a5919725831010228a659",
+            "released": "2026-11-09T07:45:33+00:00",
+            "archived": "2026-11-09",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "0.2.6",
+            "tag": "archive/v0.2.6",
+            "upstream_commit": "0e6f1e9c968bbe3e842aa5c274bfccc12648f52a",
+            "archive_commit": "20e51b74178f2266a892aaf317398702585ad640",
+            "released": "2026-11-09T11:48:00+00:00",
+            "archived": "2026-11-09",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "deltamichael-asirem",
