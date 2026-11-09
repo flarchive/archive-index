@@ -1,0 +1,24 @@
+{
+    "package": "peopleinside/flarum-restricted-visibility",
+    "upstream": "https://github.com/PeopleInside/flarum-restricted-visibility",
+    "archive_repo": "peopleinside-flarum-restricted-visibility",
+    "archive_repo_url": "https://github.com/flarchive/peopleinside-flarum-restricted-visibility",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/peopleinside/flarum-restricted-visibility",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a18e1f2fdab17d9546e48103406c10ae7d4e3b7e",
+            "archive_commit": "bee6dc5e8edd10086d28a99d343edfecf38a50fd",
+            "released": "2026-11-09T17:37:04+00:00",
+            "archived": "2026-11-09",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
