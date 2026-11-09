@@ -79,6 +79,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "d2eb75ae5f597372b435146b605d676cb9918a31",
+            "archive_commit": "0e4a856213ff23a0f5cb0f1465e9b9dd6eff7e55",
+            "released": "2026-11-09T14:15:22+00:00",
+            "archived": "2026-11-09",
+            "license": "GPL-2.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ]
 }
