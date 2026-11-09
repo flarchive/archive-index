@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/member-map",
+    "upstream": "https://github.com/ernestdefoe/member-map",
+    "archive_repo": "ernestdefoe-member-map",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-member-map",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/member-map",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8af0fc4505ae5b8559b2ac76f80e711dacd57cda",
+            "archive_commit": "244f7da86fd4514d0c0e9d808e6b9f5d245a7751",
+            "released": "2026-11-09T22:55:23+00:00",
+            "archived": "2026-11-09",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
