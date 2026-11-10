@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/story-chain",
+    "upstream": "https://github.com/ernestdefoe/story-chain",
+    "archive_repo": "ernestdefoe-story-chain",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-story-chain",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/story-chain",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "835b185c82d836c58ae4be340c5d7994541a3643",
+            "archive_commit": "2b0c5e39cec8386453d7a39ebea16d7ff19d433b",
+            "released": "2026-11-10T18:54:38+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
