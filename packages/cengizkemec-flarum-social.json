@@ -1,0 +1,24 @@
+{
+    "package": "cengizkemec/flarum-social",
+    "upstream": "https://github.com/cengizkemec/flarum-social",
+    "archive_repo": "cengizkemec-flarum-social",
+    "archive_repo_url": "https://github.com/flarchive/cengizkemec-flarum-social",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/cengizkemec/flarum-social",
+    "versions": [
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "e98755602810a36005ca517b7abfdf8b9dd68c84",
+            "archive_commit": "6511362f2648dc7a94eac89e391c92bc0f4ec605",
+            "released": "2026-11-10T19:33:44+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
