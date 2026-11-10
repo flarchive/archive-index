@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/sticker-book",
+    "upstream": "https://github.com/ernestdefoe/sticker-book",
+    "archive_repo": "ernestdefoe-sticker-book",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-sticker-book",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/sticker-book",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "51cd97b251caed5b7a797863c3822f280b214b05",
+            "archive_commit": "f912f4b9914dd964d386a5d561338099da5a6d0f",
+            "released": "2026-11-10T20:03:16+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

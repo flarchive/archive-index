@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/fanfare",
+    "upstream": "https://github.com/ernestdefoe/fanfare",
+    "archive_repo": "ernestdefoe-fanfare",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-fanfare",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/fanfare",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "8d09afb2df174161e2d5e667d05d2f878fe20672",
+            "archive_commit": "c0276a0ee1202fc8a47c85f38ab09e65a2a63e82",
+            "released": "2026-11-10T20:02:00+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

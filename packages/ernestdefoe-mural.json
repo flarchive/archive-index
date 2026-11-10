@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/mural",
+    "upstream": "https://github.com/ernestdefoe/mural",
+    "archive_repo": "ernestdefoe-mural",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-mural",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/mural",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f73786427917465268f6b441b730d2aba8b90072",
+            "archive_commit": "663d447267b313585db69233f3dd16fb5d349fa7",
+            "released": "2026-11-10T19:50:17+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
