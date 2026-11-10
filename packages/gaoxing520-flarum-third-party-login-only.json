@@ -26,6 +26,18 @@
             "flarum": "^1.8.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.1.5",
+            "tag": "archive/v0.1.5",
+            "upstream_commit": "32dd992797e777d3bc168a3f86c89959cba8266e",
+            "archive_commit": "359d7f72f93723ef0311692cd46f465bf050cbb8",
+            "released": "2026-11-10T04:55:49+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^1.8.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "gaoxing520-flarum-third-party-login-only",
