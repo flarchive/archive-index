@@ -326,6 +326,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.9.0",
+            "tag": "archive/v1.9.0",
+            "upstream_commit": "e5fb643ac9b40864fc217ba3230bbea1a6ff6ac7",
+            "archive_commit": "62db8055dd2ff52b2de80200bc076b7b335c9bc9",
+            "released": "2026-11-10T00:56:50+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-gameday",
