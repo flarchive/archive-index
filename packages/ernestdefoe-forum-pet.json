@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/forum-pet",
+    "upstream": "https://github.com/ernestdefoe/forum-pet",
+    "archive_repo": "ernestdefoe-forum-pet",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-forum-pet",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/forum-pet",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "dbebb1332310911b4740721d2488278fa8211c9a",
+            "archive_commit": "cb233410cab732a7101b70496632aea4cc4eb3c6",
+            "released": "2026-11-10T19:30:45+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/community-goals",
+    "upstream": "https://github.com/ernestdefoe/community-goals",
+    "archive_repo": "ernestdefoe-community-goals",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-community-goals",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/community-goals",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "9404207ff41e57908ec752294c5f8e1e836613ba",
+            "archive_commit": "d5006d2f3c118327f2dfe817e6d63847965f23a4",
+            "released": "2026-11-10T19:40:44+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
