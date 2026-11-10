@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/garage",
+    "upstream": "https://github.com/ernestdefoe/garage",
+    "archive_repo": "ernestdefoe-garage",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-garage",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/garage",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4cdce2c2c3a89a814689658d5de7e48e0cb3e7b4",
+            "archive_commit": "f9e76aa5eeefc74a10885ae153c0223417ea6074",
+            "released": "2026-11-10T16:57:29+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
