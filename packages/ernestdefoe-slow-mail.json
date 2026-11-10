@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/slow-mail",
+    "upstream": "https://github.com/ernestdefoe/slow-mail",
+    "archive_repo": "ernestdefoe-slow-mail",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-slow-mail",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/slow-mail",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6327eb4d29385d6d2fed726e1d71858cc32c326b",
+            "archive_commit": "f267195661a609fe3c9206a53147eea6fbe58c0b",
+            "released": "2026-11-10T22:33:55+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
