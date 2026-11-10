@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/who-said-it",
+    "upstream": "https://github.com/ernestdefoe/who-said-it",
+    "archive_repo": "ernestdefoe-who-said-it",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-who-said-it",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/who-said-it",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "89cce2e9134db99354b11a9b4696e0e216b254ad",
+            "archive_commit": "e8512a32615268c57ed00f17cc05d8be5769fd70",
+            "released": "2026-11-10T19:22:17+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
