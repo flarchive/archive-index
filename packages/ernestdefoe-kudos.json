@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/kudos",
+    "upstream": "https://github.com/ernestdefoe/kudos",
+    "archive_repo": "ernestdefoe-kudos",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-kudos",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/kudos",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "665cdd8b9409a4ad09dbd814b93c91c724be6bd5",
+            "archive_commit": "557254659423d5ea7239956fa82b08cc8c2c9561",
+            "released": "2026-11-10T21:50:49+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
