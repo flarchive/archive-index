@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/tier-lists",
+    "upstream": "https://github.com/ernestdefoe/tier-lists",
+    "archive_repo": "ernestdefoe-tier-lists",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-tier-lists",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/tier-lists",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "4339b6b4d8b07ea4d519a541c822f658966000b1",
+            "archive_commit": "ca754f4b3a394fe83aa307c82cd0e0991401fa4d",
+            "released": "2026-11-10T16:07:35+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
