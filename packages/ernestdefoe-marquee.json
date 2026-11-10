@@ -497,15 +497,15 @@
         },
         {
             "version": "v1.20.1",
-            "tag": null,
+            "tag": "archive/v1.20.1",
             "upstream_commit": "81579c20b47c46ef85d1680f5cba991e17c0e298",
-            "archive_commit": null,
+            "archive_commit": "8d0d8b970fb603d9d23309b04147b33ea465dbcc",
             "released": "2026-11-06T13:36:17+00:00",
-            "archived": null,
+            "archived": "2026-11-10",
             "license": "MIT",
             "flarum": "^2.0",
             "source": "archived",
-            "status": "archive_failed"
+            "status": "ok"
         },
         {
             "version": "v1.20.2",
