@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/predictions",
+    "upstream": "https://github.com/ernestdefoe/predictions",
+    "archive_repo": "ernestdefoe-predictions",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-predictions",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/predictions",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f30bcab74565145cc8e1bc35ba5a9e73490a4ff1",
+            "archive_commit": "e8870ef57cc10c080698f489aad53b9e8a837572",
+            "released": "2026-11-10T16:22:50+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/bingo",
+    "upstream": "https://github.com/ernestdefoe/bingo",
+    "archive_repo": "ernestdefoe-bingo",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-bingo",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/bingo",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "10b1743f88b3efb2a8eed5aab0fdb1d0c8a454b0",
+            "archive_commit": "3747971bb7990ddc6fa630bf2134c39b27150922",
+            "released": "2026-11-10T16:06:41+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

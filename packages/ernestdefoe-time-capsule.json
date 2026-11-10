@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/time-capsule",
+    "upstream": "https://github.com/ernestdefoe/time-capsule",
+    "archive_repo": "ernestdefoe-time-capsule",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-time-capsule",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/time-capsule",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5ae5cf90e029181d47567449b71d6f4c7c1e5d05",
+            "archive_commit": "ec9bea144a353b002da95f53727471f7d5530ca3",
+            "released": "2026-11-10T16:14:27+00:00",
+            "archived": "2026-11-10",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
