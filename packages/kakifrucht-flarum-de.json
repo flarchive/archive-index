@@ -1814,6 +1814,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.31",
+            "tag": "archive/v2.0.31",
+            "upstream_commit": "bf16b00c04833b2253aa1ae038487525f1ebb873",
+            "archive_commit": "2c3c94babe1b7a5c52e3e22f85507c47e49a183b",
+            "released": "2026-11-11T22:57:40+00:00",
+            "archived": "2026-11-11",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "kakifrucht-flarum-de",
