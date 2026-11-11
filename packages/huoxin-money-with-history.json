@@ -218,6 +218,18 @@
             "flarum": "^2.0.0-rc",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.3.1",
+            "tag": "archive/v1.3.1",
+            "upstream_commit": "ca45b2fa0c25970efd8b4e5ea4292fa32b37b424",
+            "archive_commit": "67b48618e2ffe9b526997ac7bbdf2d63138a27f8",
+            "released": "2026-11-09T13:49:09+00:00",
+            "archived": "2026-11-11",
+            "license": "MIT",
+            "flarum": "^1.2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huoxin233-flarum-ext-money-with-history",
