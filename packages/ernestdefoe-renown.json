@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/renown",
+    "upstream": "https://github.com/ernestdefoe/renown",
+    "archive_repo": "ernestdefoe-renown",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-renown",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/renown",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1c5df24e66c9409644fedc2444e3730ccee0b47c",
+            "archive_commit": "d03cc9c802313ab7afb6f0194d3f82cd6e7369cf",
+            "released": "2026-11-11T21:19:25+00:00",
+            "archived": "2026-11-11",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

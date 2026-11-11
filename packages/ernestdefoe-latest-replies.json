@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/latest-replies",
+    "upstream": "https://github.com/ernestdefoe/latest-replies",
+    "archive_repo": "ernestdefoe-latest-replies",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-latest-replies",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/latest-replies",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d8644af5484b03cc9a90a727dd086bc73dac000d",
+            "archive_commit": "d11a87c02d0e4505ffe961b93c210fb08d08a6ce",
+            "released": "2026-11-11T21:23:31+00:00",
+            "archived": "2026-11-11",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
