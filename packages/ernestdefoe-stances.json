@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/stances",
+    "upstream": "https://github.com/ernestdefoe/stances",
+    "archive_repo": "ernestdefoe-stances",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-stances",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/stances",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "26241f3339053c5602a4fa96d05f3632b584de5f",
+            "archive_commit": "026fc056d08b652213ad58cc44f391819558e3db",
+            "released": "2026-11-11T21:38:44+00:00",
+            "archived": "2026-11-11",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
