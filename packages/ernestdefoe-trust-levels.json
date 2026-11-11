@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/trust-levels",
+    "upstream": "https://github.com/ernestdefoe/trust-levels",
+    "archive_repo": "ernestdefoe-trust-levels",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-trust-levels",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/trust-levels",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e5c1bc3aea34cd539877ebb245a45eaff4d75951",
+            "archive_commit": "4ee5e9a5f8431de3067d5d13c9894254cc6f5c1f",
+            "released": "2026-11-11T05:47:21+00:00",
+            "archived": "2026-11-11",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
