@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/spoiler-shield",
+    "upstream": "https://github.com/ernestdefoe/spoiler-shield",
+    "archive_repo": "ernestdefoe-spoiler-shield",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-spoiler-shield",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/spoiler-shield",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "e8a3271ca1fb7db6c8ea4fa370905179049cab79",
+            "archive_commit": "3c8adbc674e724e3e5f58d9b141ba4b46b7d0b30",
+            "released": "2026-11-11T00:17:44+00:00",
+            "archived": "2026-11-11",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
