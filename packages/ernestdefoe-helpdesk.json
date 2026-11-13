@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/helpdesk",
+    "upstream": "https://github.com/ernestdefoe/helpdesk",
+    "archive_repo": "ernestdefoe-helpdesk",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-helpdesk",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/helpdesk",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "022499b836888e7d7abd01465e1a8893286cd80a",
+            "archive_commit": "460d3b73a0e5e4889e04fd1d46b64b7c7ee4ea4a",
+            "released": "2026-11-13T18:53:49+00:00",
+            "archived": "2026-11-13",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

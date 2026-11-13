@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/hearth",
+    "upstream": "https://github.com/ernestdefoe/hearth",
+    "archive_repo": "ernestdefoe-hearth",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-hearth",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/hearth",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "732fd4045fbd711c01974823af5ce69084b0d661",
+            "archive_commit": "7d7108f8cb87d0a2ce968e7a593ed0ccc6cf98aa",
+            "released": "2026-11-13T19:13:40+00:00",
+            "archived": "2026-11-13",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
