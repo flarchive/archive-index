@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/studio",
+    "upstream": "https://github.com/ernestdefoe/studio",
+    "archive_repo": "ernestdefoe-studio",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-studio",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/studio",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "40af048a388fa29242e233a3bf71643c47de5b2e",
+            "archive_commit": "d189c242a7cf5fe420cfe6b7c61b6e94355ef71f",
+            "released": "2026-11-13T19:41:21+00:00",
+            "archived": "2026-11-13",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}

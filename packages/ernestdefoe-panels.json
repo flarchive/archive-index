@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/panels",
+    "upstream": "https://github.com/ernestdefoe/panels",
+    "archive_repo": "ernestdefoe-panels",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-panels",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/panels",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f2935d16da17d6e6b4ee5fe6f8d2343d79b3d564",
+            "archive_commit": "c9e1b79017bf192865eaca77dde19dd401a04f7c",
+            "released": "2026-11-13T19:54:51+00:00",
+            "archived": "2026-11-13",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
