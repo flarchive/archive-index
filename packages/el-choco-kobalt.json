@@ -1,0 +1,24 @@
+{
+    "package": "el-choco/kobalt",
+    "upstream": "https://github.com/el-choco/kobalt-theme",
+    "archive_repo": "el-choco-kobalt-theme",
+    "archive_repo_url": "https://github.com/flarchive/el-choco-kobalt-theme",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/el-choco/kobalt",
+    "versions": [
+        {
+            "version": "0.1.0-alpha.14",
+            "tag": "archive/v0.1.0-alpha.14",
+            "upstream_commit": "70a3a91c126d625b14842f7a8cc5ef2152d86400",
+            "archive_commit": "b14cce29d842d8bb6e9c2170127b6ed7162ddcfc",
+            "released": "2026-11-13T08:54:07+00:00",
+            "archived": "2026-11-13",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
