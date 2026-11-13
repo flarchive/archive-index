@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/homecoming",
+    "upstream": "https://github.com/ernestdefoe/homecoming",
+    "archive_repo": "ernestdefoe-homecoming",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-homecoming",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/homecoming",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "f0dc62d0b11412e0f6b45a2235efdeeaebe02a77",
+            "archive_commit": "67cd345deb13ba70fc9bffaee4843d9b697d451e",
+            "released": "2026-11-13T15:47:45+00:00",
+            "archived": "2026-11-13",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
