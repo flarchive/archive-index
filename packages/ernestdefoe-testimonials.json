@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/testimonials",
+    "upstream": "https://github.com/ernestdefoe/testimonials",
+    "archive_repo": "ernestdefoe-testimonials",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-testimonials",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/testimonials",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "a4f7bb74ba7ec9d0c101d2b192b908ef13a5c563",
+            "archive_commit": "4d5aed7b4992aac15e3aac5a5116f86cdcaf6678",
+            "released": "2026-11-13T20:26:48+00:00",
+            "archived": "2026-11-13",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
