@@ -1,0 +1,36 @@
+{
+    "package": "ernestdefoe/hangout",
+    "upstream": "https://github.com/ernestdefoe/hangout",
+    "archive_repo": "ernestdefoe-hangout",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-hangout",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/hangout",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "6c27fee28f339e31b4ebd30438f2694e85546269",
+            "archive_commit": "2235cf3a118b1364fbf5db5307242148227d4832",
+            "released": "2026-11-13T01:53:00+00:00",
+            "archived": "2026-11-13",
+            "license": "GPL-2.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "122f6f2fcaf0a64edd7dc6526386b25d20bbf18a",
+            "archive_commit": "51e6658f00674e2864252dc6af9c50faad039f6a",
+            "released": "2026-11-13T02:05:33+00:00",
+            "archived": "2026-11-13",
+            "license": "GPL-2.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
