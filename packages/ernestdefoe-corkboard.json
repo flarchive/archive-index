@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/corkboard",
+    "upstream": "https://github.com/ernestdefoe/corkboard",
+    "archive_repo": "ernestdefoe-corkboard",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-corkboard",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/corkboard",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c230323c3efdcafab244095fe75d477f75f2ecd5",
+            "archive_commit": "06584db355d4fa1291cc54e31df0210e9b7dddf4",
+            "released": "2026-11-13T19:29:44+00:00",
+            "archived": "2026-11-13",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
