@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/member-desk",
+    "upstream": "https://github.com/ernestdefoe/member-desk",
+    "archive_repo": "ernestdefoe-member-desk",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-member-desk",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/member-desk",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "49edaa3a73dab86714715255a667ae347f053382",
+            "archive_commit": "4414840ea7f59f0225591be1d4e8be577924b484",
+            "released": "2026-11-14T01:16:23+00:00",
+            "archived": "2026-11-14",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
