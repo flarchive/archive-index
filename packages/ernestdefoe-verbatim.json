@@ -26,6 +26,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.2",
+            "tag": "archive/v1.0.2",
+            "upstream_commit": "59c9986c3206005842208d2861e7c792bbdee9b6",
+            "archive_commit": "bb168e467856b63a8ab4d18c532851ba371ebac1",
+            "released": "2026-11-15T21:54:35+00:00",
+            "archived": "2026-11-15",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-verbatim",
