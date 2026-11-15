@@ -1,0 +1,24 @@
+{
+    "package": "kvothe/tag-hero-backgrounds",
+    "upstream": "https://github.com/oaklinq/tag-hero-backgrounds",
+    "archive_repo": "oaklinq-tag-hero-backgrounds",
+    "archive_repo_url": "https://github.com/flarchive/oaklinq-tag-hero-backgrounds",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/kvothe/tag-hero-backgrounds",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "5e896993f9e347bc338bce467e7a2eb22ee2fc40",
+            "archive_commit": "137053b3285d7d7d1cbab1440ea29c701f56f5f7",
+            "released": "2026-11-14T16:16:14+00:00",
+            "archived": "2026-11-15",
+            "license": "MIT",
+            "flarum": "^2.0.0-beta",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
