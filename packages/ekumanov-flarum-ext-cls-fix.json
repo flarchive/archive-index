@@ -62,6 +62,18 @@
             "flarum": "^2.0@beta",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "76bcd16d4b8bf9c6a3265634587df8bc9c1014e4",
+            "archive_commit": "50ea3de7caf2dcdab518f2a77d34eb6669122f7e",
+            "released": "2026-11-14T23:48:46+00:00",
+            "archived": "2026-11-15",
+            "license": "MIT",
+            "flarum": "^2.0@beta",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ekumanov-flarum-ext-cls-fix",
