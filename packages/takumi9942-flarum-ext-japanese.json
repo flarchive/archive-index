@@ -674,6 +674,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "4.0.14",
+            "tag": "archive/v4.0.14",
+            "upstream_commit": "65a13fa7b55bed67767e69f61e7d47c6078fd555",
+            "archive_commit": "6b39d3fe769b4d914dbe2f697a21392cc2351644",
+            "released": "2026-11-15T06:11:39+00:00",
+            "archived": "2026-11-15",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-japanese",
