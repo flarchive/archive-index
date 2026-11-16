@@ -1022,6 +1022,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v3.5.1",
+            "tag": "archive/v3.5.1",
+            "upstream_commit": "a5b3179a738d5027d5983b671ae9b5cb9eb8bacc",
+            "archive_commit": "b517cb561cd9f1095cb023fdf7a11385c1577f88",
+            "released": "2026-11-16T11:58:17+00:00",
+            "archived": "2026-11-16",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "project1537-flarumbs",
