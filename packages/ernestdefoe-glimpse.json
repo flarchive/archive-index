@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/glimpse",
+    "upstream": "https://github.com/ernestdefoe/glimpse",
+    "archive_repo": "ernestdefoe-glimpse",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-glimpse",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/glimpse",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b8096429b51fd133b64bad71c546a5a3c7bf1448",
+            "archive_commit": "5be64dbbfd029dd2ecc6378a61237b26c054c718",
+            "released": "2026-11-15T23:47:46+00:00",
+            "archived": "2026-11-16",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
