@@ -98,6 +98,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.2.5",
+            "tag": "archive/v1.2.5",
+            "upstream_commit": "96e886088df179c71bc874e81e6d2263d225723f",
+            "archive_commit": "6856fd445c1a9580894c99cf9f226774be93d7cb",
+            "released": "2026-11-15T23:26:48+00:00",
+            "archived": "2026-11-16",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-tag-covers",
