@@ -49,6 +49,18 @@
             "source": "archived",
             "status": "ok",
             "flarum": "^1.0.0"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "d813f835ffd0dcf5c9164a378307d5898c99171c",
+            "archive_commit": "e21e2c5a2bbabd69822cba55139d94a48dd8ed00",
+            "released": "2026-11-17T17:13:07+00:00",
+            "archived": "2026-11-17",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-click-image",
