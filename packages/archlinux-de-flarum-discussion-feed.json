@@ -85,6 +85,18 @@
             "source": "archived",
             "status": "ok",
             "flarum": "^1.6.0"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c709b79cb1bc1888c628ac87770a4961071fb335",
+            "archive_commit": "e48ce466771d5f89da7d58a628ba87f9f3b112b8",
+            "released": "2026-11-17T17:26:26+00:00",
+            "archived": "2026-11-17",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-discussion-feed",
