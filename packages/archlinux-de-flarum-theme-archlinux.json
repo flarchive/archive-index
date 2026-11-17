@@ -97,6 +97,18 @@
             "source": "archived",
             "status": "ok",
             "flarum": "^1.0.0"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "e5d674bfccb67cb04b23831beb3cb2e703a78d95",
+            "archive_commit": "6a3152d00226a925fd71415a8c3179a1b910d203",
+            "released": "2026-11-17T18:01:16+00:00",
+            "archived": "2026-11-17",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-theme-archlinux",
