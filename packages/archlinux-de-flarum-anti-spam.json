@@ -157,6 +157,18 @@
             "source": "archived",
             "status": "ok",
             "flarum": "^1.7"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "263bb7359e45874efcb5719e1a52ae395a5b4cef",
+            "archive_commit": "ce659346b2aec0522ad2872bbf096a2541e436bb",
+            "released": "2026-11-17T16:35:56+00:00",
+            "archived": "2026-11-17",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-anti-spam",
