@@ -122,6 +122,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.1.8",
+            "tag": "archive/v0.1.8",
+            "upstream_commit": "e717bdf092a95748b3a2eb9cfd6c65b5dfbf74f3",
+            "archive_commit": "8c1654d1e51b38bdaa388ec4fecb33469c216870",
+            "released": "2026-11-17T13:08:40+00:00",
+            "archived": "2026-11-17",
+            "license": "MIT",
+            "flarum": "^1.8",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-millwright-bridge",

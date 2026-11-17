@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.6",
+            "tag": "archive/v1.0.6",
+            "upstream_commit": "8d6104fc14f526753252971d9493f2c84eda2518",
+            "archive_commit": "c64f8e7196874f5cd0c28afa1dd1e00d18e52b11",
+            "released": "2026-11-17T13:05:29+00:00",
+            "archived": "2026-11-17",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-warren",

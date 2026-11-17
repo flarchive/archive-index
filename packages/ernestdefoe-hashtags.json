@@ -122,6 +122,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.1.1",
+            "tag": "archive/v2.1.1",
+            "upstream_commit": "df5a54f5e4f94361863baeb3998b4fea8028ce8f",
+            "archive_commit": "8cf1a0739e4601a10913229a0f8ab8c5393f8973",
+            "released": "2026-11-17T13:11:19+00:00",
+            "archived": "2026-11-17",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-hashtags",
