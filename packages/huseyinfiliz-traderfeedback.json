@@ -98,6 +98,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v3.2.1",
+            "tag": "archive/v3.2.1",
+            "upstream_commit": "4bddffafc137cd379a9d87b282a113a701910c9d",
+            "archive_commit": "2d5f24da6e1be03330e88d41795e571113806526",
+            "released": "2026-11-17T16:03:15+00:00",
+            "archived": "2026-11-17",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huseyinfiliz-traderfeedback",
