@@ -133,6 +133,18 @@
             "source": "archived",
             "status": "ok",
             "flarum": "^1.0.0"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "e5fe6fef7143c1ad70f5a5a1d9f4975ad5f7ce81",
+            "archive_commit": "26fefc24d8cede2c2badbc4a4811cb8cdede0ede",
+            "released": "2026-11-17T17:52:55+00:00",
+            "archived": "2026-11-17",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-redirect-ll",

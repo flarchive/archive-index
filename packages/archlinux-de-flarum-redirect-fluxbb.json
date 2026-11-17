@@ -109,6 +109,18 @@
             "source": "archived",
             "status": "ok",
             "flarum": "^1.0.0"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "1976d3781bddb60e84615b013b5de95141cc1b56",
+            "archive_commit": "4fcc0fa11d398817c9c295bea9605aaef085c303",
+            "released": "2026-11-17T17:43:37+00:00",
+            "archived": "2026-11-17",
+            "license": "GPL-3.0-or-later",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "packagistUrl": "https://packagist.org/packages/archlinux-de/flarum-redirect-fluxbb",
