@@ -86,6 +86,18 @@
             "flarum": "^2.0.0-beta",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "4d061648474c45084dc6bb06a9c0219d5444f13d",
+            "archive_commit": "75c1900dde64718e5952ad2eb32bfad07f056dd0",
+            "released": "2026-11-17T15:31:20+00:00",
+            "archived": "2026-11-17",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huseyinfiliz-flarum-diff",
