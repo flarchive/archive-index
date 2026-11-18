@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.3.1",
+            "tag": "archive/v2.3.1",
+            "upstream_commit": "7f0db40f4fde302c1d02e3c1ace0e6fd22233e11",
+            "archive_commit": "32f6ccbf63f0a3d43fea6a02d4dd1bbe83008d08",
+            "released": "2026-11-18T12:53:31+00:00",
+            "archived": "2026-11-18",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huseyinfiliz-rewind",
