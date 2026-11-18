@@ -50,6 +50,18 @@
             "flarum": "^2.0.0-beta",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "eda935c6936cacb555299a69331805128f816189",
+            "archive_commit": "8d320a824eb4637fa15bafef01593267cf462040",
+            "released": "2026-11-18T13:46:35+00:00",
+            "archived": "2026-11-18",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huseyinfiliz-language-detection",
