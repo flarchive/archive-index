@@ -602,6 +602,18 @@
             "flarum": "^1.8 || ^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "30.10.2",
+            "tag": "archive/v30.10.2",
+            "upstream_commit": "737384bc3302b5a3c57925da023ce162404d36ab",
+            "archive_commit": "dfdf6305771b0f44b0f2a7585a42b0a5dc7ead4b",
+            "released": "2026-11-18T22:22:58+00:00",
+            "archived": "2026-11-18",
+            "license": "Apache-2.0",
+            "flarum": "^1.8 || ^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "peopleinside-fla-powcaptcha",
