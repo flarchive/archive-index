@@ -1,0 +1,24 @@
+{
+    "package": "el-choco/error-analyzer",
+    "upstream": "https://github.com/el-choco/error-analyzer",
+    "archive_repo": "el-choco-error-analyzer",
+    "archive_repo_url": "https://github.com/flarchive/el-choco-error-analyzer",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/el-choco/error-analyzer",
+    "versions": [
+        {
+            "version": "v0.1.0-alpha.1",
+            "tag": "archive/v0.1.0-alpha.1",
+            "upstream_commit": "fbe75839fe2fd3b0bf178d9595eb66d134829d64",
+            "archive_commit": "f623753f4d86d5f0c340f75c4a66ccafdef934d0",
+            "released": "2026-11-18T13:30:20+00:00",
+            "archived": "2026-11-18",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
