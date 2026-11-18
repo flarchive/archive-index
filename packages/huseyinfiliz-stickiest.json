@@ -62,6 +62,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.1.0",
+            "tag": "archive/v2.1.0",
+            "upstream_commit": "6969a5657add2d600472ca8ebe3d56c0dd0ffe28",
+            "archive_commit": "a022421b157f6b222696c860066068e923e9fec0",
+            "released": "2026-11-18T08:56:09+00:00",
+            "archived": "2026-11-18",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "huseyinfiliz-stickiest",
