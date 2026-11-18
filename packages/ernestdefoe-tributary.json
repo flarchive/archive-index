@@ -134,6 +134,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "fdc5e1eec1cd618bdb858b07763b0e0b9a2bcc4c",
+            "archive_commit": "0add44dd0e975dba40205717e674dc98e68885ec",
+            "released": "2026-11-18T02:28:30+00:00",
+            "archived": "2026-11-18",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-tributary",
