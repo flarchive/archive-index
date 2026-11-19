@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/community-reviews",
+    "upstream": "https://github.com/ernestdefoe/community-reviews",
+    "archive_repo": "ernestdefoe-community-reviews",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-community-reviews",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/community-reviews",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "94016656cafe34434d4105bb04e41327e298f8ae",
+            "archive_commit": "f1265712a4763b08c1601f96799b488eeaf5d640",
+            "released": "2026-11-19T04:05:08+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
