@@ -1,0 +1,24 @@
+{
+    "package": "trainhorn/flarum-horn-decibels",
+    "upstream": "https://github.com/train-horn/flarum-horn-decibels",
+    "archive_repo": "train-horn-flarum-horn-decibels",
+    "archive_repo_url": "https://github.com/flarchive/train-horn-flarum-horn-decibels",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/trainhorn/flarum-horn-decibels",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "c561d1461a2f229946b20af044586dcb74e72b1a",
+            "archive_commit": "49b39d00ffc658f952b97d5d2a674f4dc19c1b74",
+            "released": "2026-11-18T23:28:59+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "^1.8.0 || ^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
