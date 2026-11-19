@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/skylight",
+    "upstream": "https://github.com/ernestdefoe/skylight",
+    "archive_repo": "ernestdefoe-skylight",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-skylight",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/skylight",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "ee2de6899633466c4678e88952e70ff7104405d6",
+            "archive_commit": "af7738ed514e5a57afc72a75c3437c5fed8aa1c6",
+            "released": "2026-11-19T04:15:44+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
