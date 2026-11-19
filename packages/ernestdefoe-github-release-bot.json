@@ -74,6 +74,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.2.0",
+            "tag": "archive/v2.2.0",
+            "upstream_commit": "71db07a72b9fe58e8d9cfa3118b084039b22f044",
+            "archive_commit": "73fc8687685a6b8cbdae42cfbb69397378e7b3dd",
+            "released": "2026-11-19T16:47:21+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-github-release-bot",
