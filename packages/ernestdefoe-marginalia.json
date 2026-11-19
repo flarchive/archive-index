@@ -62,6 +62,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.0.5",
+            "tag": "archive/v1.0.5",
+            "upstream_commit": "fac1e976422feb06fc7e87ae36044f0cb9203dc9",
+            "archive_commit": "d8f84254f8217cef7d7b817f1863d3e58c43e2e9",
+            "released": "2026-11-19T16:34:06+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-marginalia",
