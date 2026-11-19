@@ -50,6 +50,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "1b54d8c7c953600edc8b95cbfe47e08db25574ac",
+            "archive_commit": "7f874d8a94eb11f1e07a36b883d1aa9446eda5a2",
+            "released": "2026-11-19T11:46:42+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "glowingblue-flarum-ext-author-filter",
