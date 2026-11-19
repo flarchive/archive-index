@@ -614,6 +614,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.3.16",
+            "tag": "archive/v2.3.16",
+            "upstream_commit": "ac5a41ad2e23d5d69ff0244665c7d8271aa846d3",
+            "archive_commit": "7a392f40e0b50b370bfa9ba1c64326ea185847e8",
+            "released": "2026-11-19T16:56:57+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-gridiron-nation",

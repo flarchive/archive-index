@@ -314,6 +314,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "3.2.0",
+            "tag": "archive/v3.2.0",
+            "upstream_commit": "98b9e2c3a00e2248317a2b845b66b623e1d335c7",
+            "archive_commit": "4ee45d5d9a302dfdd2e798c7b8d43ac3445d0c14",
+            "released": "2026-11-19T16:55:54+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-recruiting",
