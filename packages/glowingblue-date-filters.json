@@ -158,6 +158,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.4",
+            "tag": "archive/v2.0.4",
+            "upstream_commit": "b8d58268ce60f12f6757661944253069ce33e34d",
+            "archive_commit": "578f83c676c5d19d257c0818eabfd2db1f81b321",
+            "released": "2026-11-19T11:46:53+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "glowingblue-flarum-ext-date-filters",
