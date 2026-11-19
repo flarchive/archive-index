@@ -302,6 +302,30 @@
             "flarum": "*",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.2",
+            "tag": "archive/v2.2",
+            "upstream_commit": "528672a6b153c280846b4f08a67fc967441a92d5",
+            "archive_commit": "833c8d9ec6781fd92a1ad9b8f11f9b403ea18c32",
+            "released": "2026-11-19T05:16:59+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.3",
+            "tag": "archive/v2.3",
+            "upstream_commit": "de60a9c45bf2ee8f223773ca271fb62339143856",
+            "archive_commit": "9dda8180eb4cfabd14cc284b2ee38211b120097a",
+            "released": "2026-11-19T09:32:52+00:00",
+            "archived": "2026-11-19",
+            "license": "MIT",
+            "flarum": "*",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "hamcq-flarum-auth-qq",
