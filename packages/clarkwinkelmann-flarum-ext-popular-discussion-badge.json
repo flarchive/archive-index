@@ -98,6 +98,18 @@
             "flarum": "^1.2",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "d9be913764925cf803e62ca0c48d6daa9dba5033",
+            "archive_commit": "66b5664d985174a5654684dd8bc90be5a11f5336",
+            "released": "2026-11-20T18:10:31+00:00",
+            "archived": "2026-11-20",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "clarkwinkelmann-flarum-ext-popular-discussion-badge",
