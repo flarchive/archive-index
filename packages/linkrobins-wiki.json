@@ -350,6 +350,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.12.0",
+            "tag": "archive/v1.12.0",
+            "upstream_commit": "e50de4a0238aaa707202f1d2f3bff8a4d2e7e52d",
+            "archive_commit": "919854817230a8e1cfe766adb8a0907db20bf0b2",
+            "released": "2026-11-20T02:40:59+00:00",
+            "archived": "2026-11-20",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "linkrobins-flarum-wiki",
