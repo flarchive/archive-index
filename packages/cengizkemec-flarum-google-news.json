@@ -1,0 +1,24 @@
+{
+    "package": "cengizkemec/flarum-google-news",
+    "upstream": "https://github.com/cengizkemec/flarum-google-news",
+    "archive_repo": "cengizkemec-flarum-google-news",
+    "archive_repo_url": "https://github.com/flarchive/cengizkemec-flarum-google-news",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/cengizkemec/flarum-google-news",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "d1f7ef081b5cc77d513fbdc8a409aaa7f2d23f30",
+            "archive_commit": "7602291eb07a9b8710be9a7c664432fb2a35f5b5",
+            "released": "2026-11-20T15:51:36+00:00",
+            "archived": "2026-11-20",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
