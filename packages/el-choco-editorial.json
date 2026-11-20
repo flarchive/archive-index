@@ -1,0 +1,36 @@
+{
+    "package": "el-choco/editorial",
+    "upstream": "https://github.com/el-choco/editorial",
+    "archive_repo": "el-choco-editorial",
+    "archive_repo_url": "https://github.com/flarchive/el-choco-editorial",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/el-choco/editorial",
+    "versions": [
+        {
+            "version": "0.1.0-alpha.2",
+            "tag": "archive/v0.1.0-alpha.2",
+            "upstream_commit": "a7058628df270c77943d91fd2eef19ae2f0de471",
+            "archive_commit": "2de7f750311c72a8ef5d3f7b1f174c43ae4d211a",
+            "released": "2026-11-20T17:56:15+00:00",
+            "archived": "2026-11-20",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.0-alpha.1",
+            "tag": "archive/v0.1.0-alpha.1",
+            "upstream_commit": "a7058628df270c77943d91fd2eef19ae2f0de471",
+            "archive_commit": "5ad2c3af72c4ca3fee7bc80442ace91dc9dd0aaa",
+            "released": "2026-11-20T17:56:15+00:00",
+            "archived": "2026-11-20",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
