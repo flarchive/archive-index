@@ -1,0 +1,48 @@
+{
+    "package": "nwnuyhs/flarum-user-manager",
+    "upstream": "https://github.com/nwnuyhs/flarum-user-manager",
+    "archive_repo": "nwnuyhs-flarum-user-manager",
+    "archive_repo_url": "https://github.com/flarchive/nwnuyhs-flarum-user-manager",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/nwnuyhs/flarum-user-manager",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "32bd0609549c7e179a30e2b20438a4357df61da2",
+            "archive_commit": "923597893c10b8296baf62004cbcaf3b36842ec7",
+            "released": "2026-11-21T13:48:32+00:00",
+            "archived": "2026-11-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "e51bdb8188cae6a190962c851c0d156aacb23805",
+            "archive_commit": "59f79e1f2961b0647a9f4faee0382cf7097f3452",
+            "released": "2026-11-21T13:59:41+00:00",
+            "archived": "2026-11-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v1.1.0",
+            "tag": "archive/v1.1.0",
+            "upstream_commit": "87e2701b0257361dd6d205635edb78c6df8cfcd2",
+            "archive_commit": "839205ef6a565b377944d84200c3e1c7893774e1",
+            "released": "2026-11-21T14:11:20+00:00",
+            "archived": "2026-11-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
