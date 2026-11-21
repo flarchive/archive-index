@@ -170,6 +170,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.2.3",
+            "tag": "archive/v1.2.3",
+            "upstream_commit": "de04c3f329e25da7db3ad239cfdb0351c3425a95",
+            "archive_commit": "d1e494c408c276376b54eb928c9ba7b266745092",
+            "released": "2026-11-21T09:32:16+00:00",
+            "archived": "2026-11-21",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "lcoy2004-flarum-cipher",
