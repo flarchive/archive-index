@@ -146,6 +146,18 @@
             "flarum": "^1.2",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.0",
+            "tag": "archive/v2.0.0",
+            "upstream_commit": "c9b76234e2ef722214743f6904348a72f648e343",
+            "archive_commit": "3765d3d9b94ce17008ad6a7a6a50abf0bef2cad7",
+            "released": "2026-11-20T23:43:30+00:00",
+            "archived": "2026-11-21",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "clarkwinkelmann-flarum-ext-who-read",
