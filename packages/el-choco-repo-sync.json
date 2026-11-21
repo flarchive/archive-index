@@ -1,0 +1,24 @@
+{
+    "package": "el-choco/repo-sync",
+    "upstream": "https://github.com/el-choco/repo-sync",
+    "archive_repo": "el-choco-repo-sync",
+    "archive_repo_url": "https://github.com/flarchive/el-choco-repo-sync",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/el-choco/repo-sync",
+    "versions": [
+        {
+            "version": "v0.1.0-beta.1",
+            "tag": "archive/v0.1.0-beta.1",
+            "upstream_commit": "b509ae80a5e4a12cbd6b4ba57c64bda373bc54d8",
+            "archive_commit": "32430765fdc11abd7796dd4db175758843ec9a61",
+            "released": "2026-11-21T21:35:12+00:00",
+            "archived": "2026-11-21",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
