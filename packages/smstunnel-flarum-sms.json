@@ -1,0 +1,24 @@
+{
+    "package": "smstunnel/flarum-sms",
+    "upstream": "https://github.com/narcisbodea/smstunnel-flarum",
+    "archive_repo": "narcisbodea-smstunnel-flarum",
+    "archive_repo_url": "https://github.com/flarchive/narcisbodea-smstunnel-flarum",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/smstunnel/flarum-sms",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "13aaefb3eb74d79734f70cba551c19f7b9f34464",
+            "archive_commit": "97bbb5764997fb03f1c52e7dd4fd9bd1e77b0c85",
+            "released": "2026-11-22T11:34:58+00:00",
+            "archived": "2026-11-22",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
