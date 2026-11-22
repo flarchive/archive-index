@@ -1,0 +1,24 @@
+{
+    "package": "flarumturkiye/turkce",
+    "upstream": "https://github.com/Berocan025/R-OCHTR",
+    "archive_repo": "berocan025-r-ochtr",
+    "archive_repo_url": "https://github.com/flarchive/berocan025-r-ochtr",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/flarumturkiye/turkce",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "98f9bdd77fc3a894bf142abe2f567280a4b4104b",
+            "archive_commit": "14f03c23db5d62f74b0b9c6274e30685397374f5",
+            "released": "2026-11-22T02:18:22+00:00",
+            "archived": "2026-11-22",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
