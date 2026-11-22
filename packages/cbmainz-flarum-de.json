@@ -1862,6 +1862,30 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.25.39",
+            "tag": "archive/v1.25.39",
+            "upstream_commit": "8768e0d7d5a18c94b8803e1137169dca5cbd9faf",
+            "archive_commit": "acf09be794997559b2d5c1b378f59ce7617cb4c0",
+            "released": "2026-11-22T15:21:42+00:00",
+            "archived": "2026-11-22",
+            "license": "MIT",
+            "flarum": "^1.0",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "2.0.34",
+            "tag": "archive/v2.0.34",
+            "upstream_commit": "74acf31549801b03f9f335e3409458be8de01204",
+            "archive_commit": "a7e8476881210993900ec29177963116439d5094",
+            "released": "2026-11-22T15:22:15+00:00",
+            "archived": "2026-11-22",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "kakifrucht-flarum-de",
