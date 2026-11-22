@@ -278,6 +278,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.3.0",
+            "tag": "archive/v1.3.0",
+            "upstream_commit": "89fccd32fab4099b9656d3c1ef533e9bf857dab6",
+            "archive_commit": "947238b10d7722f43424ed892dfd34c7af6a3fe7",
+            "released": "2026-11-22T03:57:22+00:00",
+            "archived": "2026-11-22",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "lcoy2004-flarum-waterfall",
