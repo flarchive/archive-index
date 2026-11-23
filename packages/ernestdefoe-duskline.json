@@ -1,0 +1,24 @@
+{
+    "package": "ernestdefoe/duskline",
+    "upstream": "https://github.com/ernestdefoe/duskline",
+    "archive_repo": "ernestdefoe-duskline",
+    "archive_repo_url": "https://github.com/flarchive/ernestdefoe-duskline",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/ernestdefoe/duskline",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "1a173f0e1176f75932998fd49e45fd2d5b490758",
+            "archive_commit": "c226b5a008380bff0bc53b10f505996938467c8b",
+            "released": "2026-11-23T17:39:17+00:00",
+            "archived": "2026-11-23",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
