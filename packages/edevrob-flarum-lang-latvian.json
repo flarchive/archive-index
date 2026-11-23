@@ -110,6 +110,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "ddad37ff54e085b27e3f4b1a2efb4a5d19fff0fa",
+            "archive_commit": "bfbafcd5bb15485d7f085e147ee21f2a5fa671d7",
+            "released": "2026-11-23T05:57:23+00:00",
+            "archived": "2026-11-23",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-latvian",

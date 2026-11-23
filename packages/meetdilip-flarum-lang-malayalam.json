@@ -26,6 +26,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.1",
+            "tag": "archive/v2.0.1",
+            "upstream_commit": "0751621e334a5983cdd0b7e13e70224476b742dd",
+            "archive_commit": "65e19742f76632dc671bdcef5cd6608b049213e8",
+            "released": "2026-11-23T05:58:18+00:00",
+            "archived": "2026-11-23",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-malayalam",
