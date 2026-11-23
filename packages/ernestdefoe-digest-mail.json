@@ -206,6 +206,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.2.9",
+            "tag": "archive/v2.2.9",
+            "upstream_commit": "9e6f6caacffa0dff483d0b5b13a96576b612936c",
+            "archive_commit": "671392d17bf495916dc2234234d5b4a549455ead",
+            "released": "2026-11-23T15:12:07+00:00",
+            "archived": "2026-11-23",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ernestdefoe-digest-mail",
