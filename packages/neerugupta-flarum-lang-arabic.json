@@ -86,6 +86,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "1.0.1",
+            "tag": "archive/v1.0.1",
+            "upstream_commit": "257b1db04b8a61359743c4d9e6192f28ee5acf39",
+            "archive_commit": "22aea81854c08ebbc02bdb1d3f10fcc0f81e26ee",
+            "released": "2026-11-23T08:04:14+00:00",
+            "archived": "2026-11-23",
+            "license": "MIT",
+            "flarum": "^1.3",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-arabic",
