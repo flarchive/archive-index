@@ -1358,6 +1358,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.3",
+            "tag": "archive/v2.0.3",
+            "upstream_commit": "388aed0b9d2559e4c47add2480ee61f750b3ae7b",
+            "archive_commit": "0166047a3f09c060cde0f0a5de61b5ba49ae18c7",
+            "released": "2026-11-23T12:11:16+00:00",
+            "archived": "2026-11-23",
+            "license": "MIT",
+            "flarum": "^2.0.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "friendsofflarum-byobu",
