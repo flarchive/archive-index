@@ -1,0 +1,72 @@
+{
+    "package": "vatebur/flarum-message-chat-enhancement",
+    "upstream": "https://github.com/vatebur/flarum-message-chat-enhancement",
+    "archive_repo": "vatebur-flarum-message-chat-enhancement",
+    "archive_repo_url": "https://github.com/flarchive/vatebur-flarum-message-chat-enhancement",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/vatebur/flarum-message-chat-enhancement",
+    "versions": [
+        {
+            "version": "v0.1.0",
+            "tag": null,
+            "upstream_commit": "883169f0559886746fa66c44b87f005b002ff2f8",
+            "archive_commit": null,
+            "released": "2026-11-23T03:46:32+00:00",
+            "archived": null,
+            "license": null,
+            "flarum": "^2.0.2",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.1",
+            "tag": null,
+            "upstream_commit": "4ae32fe572d0dcc7cf5f516d19baf28747f8e05a",
+            "archive_commit": null,
+            "released": "2026-11-23T04:41:58+00:00",
+            "archived": null,
+            "license": null,
+            "flarum": "^2.0.2",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.2",
+            "tag": null,
+            "upstream_commit": "2823b76de67861f32c76d09db245c166d3828c7f",
+            "archive_commit": null,
+            "released": "2026-11-23T04:53:00+00:00",
+            "archived": null,
+            "license": null,
+            "flarum": "^2.0.2",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.3",
+            "tag": null,
+            "upstream_commit": "5a4ee58ece22c860e05a598b42d042c9b7c5162d",
+            "archive_commit": null,
+            "released": "2026-11-23T05:01:01+00:00",
+            "archived": null,
+            "license": null,
+            "flarum": "^2.0.2",
+            "source": "metadata-only",
+            "status": "ok"
+        },
+        {
+            "version": "v0.1.4",
+            "tag": "archive/v0.1.4",
+            "upstream_commit": "ddd63a6429ab4049dc6c634cad06aad324b970dd",
+            "archive_commit": "aba824d7cf243d54bc1f9f5949104f868e8f148c",
+            "released": "2026-11-23T06:31:03+00:00",
+            "archived": "2026-11-23",
+            "license": "MIT",
+            "flarum": "^2.0.2",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
