@@ -122,6 +122,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.0.2",
+            "tag": "archive/v2.0.2",
+            "upstream_commit": "077bd21f6467b3611d0e8c8de47b3f5c20b938e1",
+            "archive_commit": "dbd507bf45db6a991b826890a945ab5209cdc7f4",
+            "released": "2026-11-23T06:03:23+00:00",
+            "archived": "2026-11-23",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-lang-romanian",
