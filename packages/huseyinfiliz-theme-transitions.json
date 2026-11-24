@@ -1,0 +1,24 @@
+{
+    "package": "huseyinfiliz/theme-transitions",
+    "upstream": "https://github.com/huseyinfiliz/theme-transitions",
+    "archive_repo": "huseyinfiliz-theme-transitions",
+    "archive_repo_url": "https://github.com/flarchive/huseyinfiliz-theme-transitions",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/huseyinfiliz/theme-transitions",
+    "versions": [
+        {
+            "version": "1.0",
+            "tag": "archive/v1.0",
+            "upstream_commit": "4002244b94a5d9b5c71dc8ce32640bfffff694c7",
+            "archive_commit": "719c891cef1d7b54c36eea825d1707670468baac",
+            "released": "2026-11-24T17:28:22+00:00",
+            "archived": "2026-11-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
