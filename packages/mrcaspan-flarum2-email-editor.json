@@ -1,0 +1,24 @@
+{
+    "package": "mrcaspan/flarum2-email-editor",
+    "upstream": "https://github.com/MrCaspan/flarum2-email-editor",
+    "archive_repo": "mrcaspan-flarum2-email-editor",
+    "archive_repo_url": "https://github.com/flarchive/mrcaspan-flarum2-email-editor",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/mrcaspan/flarum2-email-editor",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "dace8a0c50b3b5426d7f82469cbda534597d528d",
+            "archive_commit": "b562abe75c53bf8d50edefe265c4395afaf48a1f",
+            "released": "2026-11-24T19:23:23+00:00",
+            "archived": "2026-11-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
