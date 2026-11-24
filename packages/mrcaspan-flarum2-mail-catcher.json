@@ -1,0 +1,24 @@
+{
+    "package": "mrcaspan/flarum2-mail-catcher",
+    "upstream": "https://github.com/MrCaspan/flarum2-mail-catcher",
+    "archive_repo": "mrcaspan-flarum2-mail-catcher",
+    "archive_repo_url": "https://github.com/flarchive/mrcaspan-flarum2-mail-catcher",
+    "is_fork": false,
+    "fork_parent": null,
+    "abandoned": null,
+    "packagistUrl": "https://packagist.org/packages/mrcaspan/flarum2-mail-catcher",
+    "versions": [
+        {
+            "version": "v1.0.0",
+            "tag": "archive/v1.0.0",
+            "upstream_commit": "b2ee1b472442232b6b5b1271d763cadf78b5e380",
+            "archive_commit": "ddc8fce106b43aba43fbe0a2a293fd31fc5caf5f",
+            "released": "2026-11-24T17:44:18+00:00",
+            "archived": "2026-11-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
+        }
+    ]
+}
