@@ -26,6 +26,30 @@
             "flarum": "^1.2",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v0.3.7",
+            "tag": "archive/v0.3.7",
+            "upstream_commit": "58aaa880378b3a47c11b8033cdfd1c2969dd3101",
+            "archive_commit": "426631f57b559ffee48a6f2631eb66745906545d",
+            "released": "2026-02-01T10:01:58+00:00",
+            "archived": "2026-11-24",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
+        },
+        {
+            "version": "v0.3.8",
+            "tag": "archive/v0.3.8",
+            "upstream_commit": "b3a4a558addf5d80e6c8f516fd7b8f8122c07b67",
+            "archive_commit": "67d00cbc344a44063819d5ce153c83973805284e",
+            "released": "2026-11-24T07:49:09+00:00",
+            "archived": "2026-11-24",
+            "license": "MIT",
+            "flarum": "^1.2",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "dshovchko-flarum-ext-scout",
