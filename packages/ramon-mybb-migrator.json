@@ -386,6 +386,18 @@
             "flarum": "^2.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "2.2.7",
+            "tag": "archive/v2.2.7",
+            "upstream_commit": "c951150c842a47f6196d978540541e0d585982ce",
+            "archive_commit": "c3774aa3f486c90d3d1ab54e54e5d9d85e15afcc",
+            "released": "2026-11-24T13:27:53+00:00",
+            "archived": "2026-11-24",
+            "license": "MIT",
+            "flarum": "^2.0",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "ram0ng1-mybb-migrator",
