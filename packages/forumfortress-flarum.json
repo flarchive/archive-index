@@ -278,6 +278,18 @@
             "flarum": "^1.8 || ^2.0.0-rc.5",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v1.4.7",
+            "tag": "archive/v1.4.7",
+            "upstream_commit": "0297e9104048b91f8166023051af24f78ddda44e",
+            "archive_commit": "a11689dea961b54a8bd15ab20703f0778d722cb8",
+            "released": "2026-11-24T04:37:33+00:00",
+            "archived": "2026-11-24",
+            "license": "GPL-2.0-or-later",
+            "flarum": "^1.8 || ^2.0.0-rc.5",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "forum-fortress-flarum",
