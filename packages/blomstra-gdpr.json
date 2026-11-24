@@ -518,6 +518,18 @@
             "flarum": "^2.0.0",
             "source": "archived",
             "status": "ok"
+        },
+        {
+            "version": "v2.1.0-beta.1",
+            "tag": "archive/v2.1.0-beta.1",
+            "upstream_commit": "59161d82637a3a4ff90025521e6a47dec36f743d",
+            "archive_commit": "360c861e83ef53a0b62b51a1860dff8505875bd1",
+            "released": "2026-11-23T08:20:33+00:00",
+            "archived": "2026-11-24",
+            "license": "MIT",
+            "flarum": "^2.1",
+            "source": "archived",
+            "status": "ok"
         }
     ],
     "archive_repo": "flarum-gdpr",
